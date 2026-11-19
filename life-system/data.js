@@ -522,57 +522,73 @@ window.PERSONAL_HQ_SEED = {
       "date": "2026-11-19",
       "area": "ValueMela",
       "title": "Payment provider documents submitted for review",
-      "status": "Waiting",
-      "evidence": "Submission was confirmed; merchant approval was not confirmed."
+      "status": "Waiting"
     },
     {
       "date": "2026-11-19",
       "area": "AI World 360",
       "title": "Platform publication checks left open",
-      "status": "Waiting",
-      "evidence": "The available review showed scheduled items but no verified live URLs at that check."
+      "status": "Waiting"
     },
     {
       "date": "2026-11-19",
       "area": "CareerScope",
       "title": "PR #108 exact-head browser CI passed; merge remains pending",
-      "status": "Waiting",
-      "evidence": "GitHub Actions run 44512467883 succeeded for exact PR head 15dac2a1f68333a2427075ff8f29480a516c7159, including browser suite. PR #108 remains open and awaits owner merge authorization. Earlier run 44509297019 failed Firefox notifications-before-read fixture reset because repeated GET /jobs requests did not stop."
+      "status": "Waiting"
     },
     {
       "date": "2026-11-19",
       "area": "ValueMela",
       "title": "Store launch confirmation recorded",
-      "status": "Done",
-      "evidence": "A store launch confirmation was recorded in the task snapshot."
+      "status": "Done"
     },
     {
       "date": "2026-11-19",
       "area": "CareerScope",
       "title": "PR #108 browser failure reviewed; exact-head CI now passes",
-      "status": "Waiting",
-      "evidence": "Run 44512467883 passed all jobs on exact PR head 15dac2a1f68333a2427075ff8f29480a516c7159. Earlier run 44509297019 failed Firefox notifications-before-read because repeated GET /jobs requests continued during fixture reset. PR #108 remains open; owner merge authorization is pending."
+      "status": "Waiting"
     },
     {
       "date": "2026-11-19",
       "area": "FixHub24",
       "title": "Dependency audit updates are open for owner review",
-      "status": "Waiting",
-      "evidence": "Run 44498373031 on main SHA 7ce251f8c253f5729156acf0d88953082140a37a failed Dependency Vulnerability Audit. Lockfile has body-parser 2.3.0 via Express 5.3.0 (GHSA-27r3-jxmh-p828, high) and seroval 1.6.9 via TanStack packages (GHSA-f86p-h4j2-7qgj and GHSA-9wx9-5pv9-3349, moderate). Dependabot PR #23 upgrades body-parser to 2.4.0 and its check passed. PR #24 upgrades seroval to 1.7.7; its tests/build passed but audit still failed because body-parser remained. No FixHub24 files were edited."
+      "status": "Waiting"
     },
     {
       "date": "2026-11-19",
       "area": "ValueMela",
       "title": "Branded support-email setup requested",
-      "status": "Waiting",
-      "evidence": "A request was sent to store-platform support on 19 Nov asking how to configure a branded customer-facing email. Recent inbox search found no reply."
+      "status": "Waiting"
     },
     {
       "date": "2026-11-19",
       "area": "Career move",
       "title": "Resume sources compared; career profile review remains open",
-      "status": "In progress",
-      "evidence": "The current Drive PDF and DOCX have matching extracted content after normalizing PDF headline spacing; both were modified 16 Sep 2026. The resume summary says 4 years while visible Credera chronology starts Mar 2023 (3 years 8 months on 19 Nov 2026); verify whether earlier experience is missing or adjust only after confirmation. A public LinkedIn search result crawled about five months earlier describes an AEM-focused profile and lists TA Digital, unlike the resume full-stack direction and Credera naming. This is stale index evidence, not a live audit. No profile was edited."
+      "status": "In progress"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "Life admin",
+      "title": "Daily Personal HQ task summary emailed",
+      "status": "Done"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "AI World 360",
+      "title": "AI World 360 Nov 19 crosspost completed",
+      "status": "Done"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "AI World 360",
+      "title": "Nov 20 AI World 360 crosspost schedule matched",
+      "status": "Waiting"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "ValueMela",
+      "title": "ValueMela signup notices identified",
+      "status": "Waiting"
     }
   ]
 };
