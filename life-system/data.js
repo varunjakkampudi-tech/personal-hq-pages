@@ -1,9 +1,9 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T22:03:20.964Z",
+  "generatedAt": "2026-11-19T22:22:08.659Z",
   "sourceSnapshotStatus": "current-user-export",
-  "sourceSnapshotUpdatedAt": "2026-11-19T22:03:20.964Z",
-  "dashboardExportUpdatedAt": "2026-11-19T22:03:20.964Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T22:22:08.659Z",
+  "dashboardExportUpdatedAt": "2026-11-19T22:22:08.659Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -21,6 +21,14 @@ window.PERSONAL_HQ_SEED = {
     "ValueMela"
   ],
   "tasks": [
+    {
+      "id": "450b46bf-f3c4-4ef2-b7df-9e451089dd58",
+      "title": "Prepare offer evaluation and resignation handover checklist",
+      "area": "Career move",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "If a suitable offer arrives, compare written terms, contingencies and start date with the approved target and notice constraints; plan handover only after Varun decides. Do not resign or send acceptance/resignation messa"
+    },
     {
       "id": "task-0",
       "title": "Gather the current resume and profile links",
