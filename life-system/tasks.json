@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T21:16:53.3935804Z",
+  "generatedAt": "2026-11-19T21:19:33.6741302Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-19T21:16:53.3935804Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T21:19:33.6741302Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -410,7 +410,7 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Instagram is scheduled for 20 Nov 18:00 IST; the YouTube destination is still a draft. After the scheduled time, verify each destination state and its live URL; keep any unsent or failed destination open."
+      "nextAction": "YouTube Short g-5ojhJY63g and Instagram are each listed as scheduled for 20 Nov 18:00 IST, but the separate vidIQ crosspost record still shows its YouTube destination as draft. Reconcile the records; after release, verify each platform status and live URL."
     },
     {
       "id": "task-50",
@@ -546,7 +546,7 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Inspect each destination video, compare the assets, verify original-animation brief fit and audio/visual provenance, and reconcile captions. Keep open until evidence and owner approval; do not alter the Instagram schedule."
+      "nextAction": "Inspect each destination video, compare the assets, verify original-animation brief fit and audio/visual provenance, and reconcile the YouTube scheduled upload with the separate vidIQ crosspost draft. Keep open until evidence and owner approval; do not alter schedules."
     }
   ],
   "history": [
