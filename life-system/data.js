@@ -1,9 +1,9 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T22:48:09.814Z",
+  "generatedAt": "2026-11-19T23:00:26.561Z",
   "sourceSnapshotStatus": "current-user-export",
-  "sourceSnapshotUpdatedAt": "2026-11-19T22:48:09.814Z",
-  "dashboardExportUpdatedAt": "2026-11-19T22:48:09.814Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T23:00:26.561Z",
+  "dashboardExportUpdatedAt": "2026-11-19T23:00:26.561Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -21,6 +21,14 @@ window.PERSONAL_HQ_SEED = {
     "ValueMela"
   ],
   "tasks": [
+    {
+      "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
+      "title": "Capture past milestones and review future commitments in the life log",
+      "area": "Life admin",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "When ready, add the past milestones and present commitments you want to retain, then verify future dates and recurring commitments in the timeline. Keep sensitive details private."
+    },
     {
       "id": "19c10a01-500c-4647-ade7-98d3bbceccab",
       "title": "Plan veterinarian-led livestock sourcing and intake",
