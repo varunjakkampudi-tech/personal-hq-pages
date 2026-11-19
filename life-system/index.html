@@ -51,6 +51,20 @@
   .routine-block{padding:15px}
 }
 @media(max-width:360px){.topbar{padding-inline:10px}.crumb{font-size:11px}.hero{padding-inline:17px}.hero h1{font-size:29px}.hero-actions button{font-size:10px;padding-inline:9px}.mobile-nav button{min-width:48px;font-size:8px}}
+@media(max-width:650px){
+  #view-home.active{display:grid;grid-template-columns:minmax(0,1fr);align-content:start;gap:12px}
+  #view-home>.hero{grid-row:1}
+  #view-home>.grid{display:contents}
+  #view-home>.grid>.stack{display:contents}
+  #view-home>.grid>.stack:first-child>section:nth-child(1){grid-row:2}
+  #view-home>.grid>.stack:last-child>section:nth-child(1){grid-row:3}
+  #view-home>.stats{grid-row:4;margin:0}
+  #view-home>.sync-panel{grid-row:5;margin:0}
+  #view-home>.grid>.stack:last-child>section:nth-child(2){grid-row:6}
+  #view-home>.grid>.stack:last-child>section:nth-child(3){grid-row:7}
+  #view-home>.grid>.stack:first-child>section:nth-child(2){grid-row:8}
+  #view-home>.grid>.stack:first-child>section:nth-child(3){grid-row:9}
+}
 </style>
 <body><div class="shell"><aside class="side"><div class="brand"><div class="brand-mark">H</div><div><b>Personal HQ</b><small>Life in motion</small></div></div><div class="navlabel">My workspace</div><nav class="nav" id="sideNav"><button class="active" data-view="home"><span class="glyph">⌂</span>Today</button><button data-view="tasks"><span class="glyph">☷</span>All tasks</button><button data-view="projects"><span class="glyph">◫</span>Projects</button><button data-view="timeline"><span class="glyph">⌁</span>Timeline</button><button data-view="routine"><span class="glyph">◷</span>Routine & health</button><a href="life-log.html"><span class="glyph">↺</span>Life log</a></nav><div class="navlabel" style="margin-top:18px">Focus areas</div><nav class="nav" id="focusNav"><button data-area="Career move"><span class="glyph">↗</span>Career move</button><button data-area="Dairy farm"><span class="glyph">♧</span>Dairy farm</button><button data-area="AI World 360"><span class="glyph">▷</span>AI World 360</button><button data-area="ValueMela"><span class="glyph">◈</span>ValueMela</button></nav><div class="side-foot"><strong>One place for the whole picture</strong>Keep plans moving. Store sensitive details in private, secure storage.</div></aside>
 <main class="main"><header class="topbar"><div class="crumb">Personal HQ <span> / </span><b id="crumb">Today</b></div><div class="top-actions"><span class="datechip" id="todayDate"></span><button class="secondary" onclick="backup()">Backup</button><button class="secondary" onclick="document.getElementById('restoreFile').click()">Restore</button><button class="primary" onclick="exportTasks()">Export tasks</button></div></header><div class="content">
