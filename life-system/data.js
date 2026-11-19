@@ -554,7 +554,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-11-30",
       "status": "Not started",
-      "nextAction": "Complete career profile and target-role intake workbook",
+      "nextAction": "Choose the primary role focus, then verify resume claims and complete the private career intake.",
       "owner": "Varun",
       "source": "Personal HQ task snapshot",
       "createdAt": "2026-11-19",
