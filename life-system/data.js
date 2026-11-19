@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T21:14:07.0343403Z",
+  "generatedAt": "2026-11-19T21:16:53.3935804Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-19T21:14:07.0343403Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T21:16:53.3935804Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -546,7 +546,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Before the Instagram 20 Nov 18:00 IST schedule, inspect the exact media against the original-animation brief and verify source/provenance and approval for each destination. The post is labelled an unofficial fan edit and YouTube remains a draft. Record a GO/NO-GO; do not change or cancel schedules without explicit instruction."
+      "nextAction": "Inspect each destination video, compare the assets, verify original-animation brief fit and audio/visual provenance, and reconcile captions. Keep open until evidence and owner approval; do not alter the Instagram schedule."
     }
   ],
   "history": [
