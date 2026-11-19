@@ -613,12 +613,12 @@
       "title": "Review new store registrations",
       "area": "ValueMela",
       "due": null,
-      "status": "Not started",
-      "nextAction": "Review sign-ups in the store console. Keep customer details out of this tracker.",
+      "status": "In progress",
+      "nextAction": "Review two signup notifications in the private store console; keep customer identifiers out of Personal HQ and check whether any follow-up is due.",
       "owner": "Varun",
-      "source": "Personal HQ task snapshot",
+      "source": "Gmail store-signup notification count, 19 Nov 2026; customer records not opened",
       "createdAt": "2026-11-19",
-      "notes": ""
+      "notes": "Two new-customer signup notification emails were found. No customer details were opened or copied here."
     },
     {
       "title": "Refresh LinkedIn profile",

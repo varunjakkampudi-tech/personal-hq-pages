@@ -613,12 +613,12 @@ window.PERSONAL_HQ_SEED = {
       "title": "Review new store registrations",
       "area": "ValueMela",
       "due": null,
-      "status": "Not started",
-      "nextAction": "Review sign-ups in the store console. Keep customer details out of this tracker.",
+      "status": "In progress",
+      "nextAction": "Review two signup notifications in the private store console; keep customer identifiers out of Personal HQ and check whether any follow-up is due.",
       "owner": "Varun",
-      "source": "Personal HQ task snapshot",
+      "source": "Gmail store-signup notification count, 19 Nov 2026; customer records not opened",
       "createdAt": "2026-11-19",
-      "notes": ""
+      "notes": "Two new-customer signup notification emails were found. No customer details were opened or copied here."
     },
     {
       "title": "Refresh LinkedIn profile",
@@ -770,6 +770,13 @@ window.PERSONAL_HQ_SEED = {
       "title": "Nov 20 AI World 360 crosspost schedule matched",
       "status": "Waiting",
       "evidence": "Instagram scheduled for 20 Nov 2026 18:00 IST. Matching YouTube Short ID g-5ojhJY63g is processed, private pending scheduled publish at 20 Nov 2026 18:00 IST. Verify both platforms and public visibility after the schedule; no changes made."
+    },
+    {
+      "date": "2026-11-19",
+      "area": "ValueMela",
+      "title": "ValueMela signup notices identified",
+      "status": "Waiting",
+      "evidence": "Gmail showed two new-customer signup notification messages on 19 Nov. Customer records were not opened and no customer personal details were copied to Personal HQ. Next action: review in the private store console."
     }
   ]
 };
