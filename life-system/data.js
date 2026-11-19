@@ -1,9 +1,9 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T21:55:17.704Z",
+  "generatedAt": "2026-11-19T22:03:20.964Z",
   "sourceSnapshotStatus": "current-user-export",
-  "sourceSnapshotUpdatedAt": "2026-11-19T21:55:17.704Z",
-  "dashboardExportUpdatedAt": "2026-11-19T21:55:17.704Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T22:03:20.964Z",
+  "dashboardExportUpdatedAt": "2026-11-19T22:03:20.964Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -411,7 +411,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "YouTube Short g-5ojhJY63g and Instagram are each listed as scheduled for 20 Nov 18:00 IST, but the separate vidIQ crosspost record still shows its YouTube destination as draft. Reconcile the records; after release, verify each platform status and live URL."
+      "nextAction": "YouTube g-5ojhJY63g is private, processed and scheduled for 20 Nov 18:00 IST. Separate vidIQ record: Instagram scheduled; its YouTube destination remains a draft with no time. Verify both separately after release."
     },
     {
       "id": "task-50",
@@ -547,7 +547,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Inspect each destination video, compare the assets, verify original-animation brief fit and audio/visual provenance, and reconcile the YouTube scheduled upload with the separate vidIQ crosspost draft. Keep open until evidence and owner approval; do not alter schedules."
+      "nextAction": "vidIQ shows YouTube draft: 1 image + 1 video; Instagram: 1 video. No playable preview or source IDs; asset match, provenance and brief fit remain unverified. Keep the 18:00 schedule unchanged."
     }
   ],
   "history": [
