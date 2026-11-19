@@ -695,25 +695,32 @@
   ],
   "history": [
     {
-      "evidence": "A store launch confirmation was recorded in the source task snapshot.",
+      "date": "2026-11-19",
       "area": "ValueMela",
+      "title": "Store launch confirmation recorded",
       "status": "Done",
-      "date": "2026-11-19",
-      "title": "Store launch confirmation recorded"
+      "evidence": "A store launch confirmation was recorded in the task snapshot."
     },
     {
-      "evidence": "Submission was confirmed; merchant approval was not confirmed.",
+      "date": "2026-11-19",
       "area": "ValueMela",
+      "title": "Payment provider documents submitted for review",
       "status": "Waiting",
-      "date": "2026-11-19",
-      "title": "Payment provider documents submitted for review"
+      "evidence": "Submission was confirmed; merchant approval was not confirmed."
     },
     {
-      "evidence": "The available review showed scheduled items but no verified live URLs at that check.",
-      "area": "AI World 360",
-      "status": "Waiting",
       "date": "2026-11-19",
-      "title": "Platform publication checks left open"
+      "area": "AI World 360",
+      "title": "Platform publication checks left open",
+      "status": "Waiting",
+      "evidence": "The available review showed scheduled items but no verified live URLs at that check."
+    },
+    {
+      "date": "2026-11-19",
+      "area": "CareerScope",
+      "title": "PR #108 exact-head browser CI passed; merge remains pending",
+      "status": "Waiting",
+      "evidence": "GitHub Actions run 44512467883 succeeded for exact PR head 15dac2a1f68333a2427075ff8f29480a516c7159, including browser suite. PR #108 remains open and awaits owner merge authorization. Earlier run 44509297019 failed Firefox notifications-before-read fixture reset because repeated GET /jobs requests did not stop."
     }
   ]
 }
