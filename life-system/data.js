@@ -515,6 +515,14 @@ window.PERSONAL_HQ_SEED = {
       "due": "2026-11-20",
       "status": "Waiting",
       "nextAction": "After the next 9 AM IST automation run, verify the date-specific summary arrived with the correct task-data freshness and that earlier matching Personal HQ summaries were archived only after send succeeded; record any delivery or duplicate issue."
+    },
+    {
+      "id": "task-54",
+      "title": "Follow up on ValueMela catalog pricing review",
+      "area": "ValueMela",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "Await Factori reply to the catalog-pricing review request; compare like-for-like products and the stated price basis before considering any listing change."
     }
   ],
   "history": [
