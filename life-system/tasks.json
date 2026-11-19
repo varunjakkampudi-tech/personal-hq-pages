@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T19:41:44.925Z",
+  "generatedAt": "2026-11-19T20:24:44.3901253Z",
   "sourceSnapshotStatus": "current-user-export",
-  "sourceSnapshotUpdatedAt": "2026-11-19T19:41:44.925Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T20:24:44.3901253Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -523,6 +523,14 @@
       "due": "",
       "status": "Waiting",
       "nextAction": "Await Factori reply to the catalog-pricing review request; compare like-for-like products and the stated price basis before considering any listing change."
+    },
+    {
+      "id": "task-55",
+      "title": "Review Razorpay and Factori liability terms",
+      "area": "ValueMela",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "Compare the Razorpay App Policy terms with the applicable Factori agreements and dispute process; list unresolved questions for qualified legal review before a commercial-use decision."
     }
   ],
   "history": [
