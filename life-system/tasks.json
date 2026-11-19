@@ -590,11 +590,11 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "After the 19 Nov 18:00 IST Instagram schedule, verify its final platform status and live URL; check whether a YouTube destination was added. Last vidIQ snapshot showed Instagram scheduled and no YouTube destination.",
+      "nextAction": "Instagram delivery completed at 19 Nov 18:01 IST: https://www.instagram.com/reel/Df7FYR9Cxeh/. Confirm whether the matching YouTube crosspost exists and record its live URL; do not mark the crosspost task Done until both destinations are evidenced.",
       "owner": "Varun",
-      "source": "vidIQ social-post read-only snapshot, 19 Nov 2026 17:51 IST; current delivery still unverified",
+      "source": "vidIQ post status, 19 Nov 2026 18:01 IST; Instagram completed with live URL; YouTube destination remains unverified",
       "createdAt": "2026-11-19",
-      "notes": ""
+      "notes": "Instagram Reel: https://www.instagram.com/reel/Df7FYR9Cxeh/"
     },
     {
       "id": "task-49",
