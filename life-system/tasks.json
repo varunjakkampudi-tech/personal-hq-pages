@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T20:30:25.4331138Z",
+  "generatedAt": "2026-11-19T20:34:49.6670677Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-19T20:30:05.6905864Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T20:34:49.6670677Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -218,7 +218,7 @@
       "area": "ValueMela",
       "due": "2026-12-15",
       "status": "Not started",
-      "nextAction": "Verify GSTIN and configure ValueMela invoices and filing calendar"
+      "nextAction": "After registration, verify GSTIN and invoice configuration; confirm Factori can export usable order-, invoice-, credit-note-, refund- and payment-level records; test reconciliation of invoices, returns/refunds, settlements and accounting evidence; get the CA-confirmed applicable return calendar. Treat operational readiness as incomplete until reports and exception handling work."
     },
     {
       "id": "task-25",
@@ -531,6 +531,14 @@
       "due": "",
       "status": "Waiting",
       "nextAction": "Compare the App Policy with Factori terms effective at consent (19 Nov 2026), including incorporated payment terms; document responsibility for unauthorized or erroneous transactions, refunds/disputes/third-party claims, notice obligations and deadlines, escalation channels, evidence requirements and remedy limits. Send unresolved significant questions for qualified legal review before a commercial-use decision."
+    },
+    {
+      "id": "task-56",
+      "title": "Set up recurring ValueMela GST reconciliation and filing controls",
+      "area": "ValueMela",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "After the CA confirms registration and applicable returns, define the filing-period checklist: reconcile orders, invoices, cancellations, refunds/credit notes, payment settlements, bank receipts, books and applicable GST portal data; track exceptions; obtain owner approval of final figures before filing and retain acknowledgements."
     }
   ],
   "history": [
