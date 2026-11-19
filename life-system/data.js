@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T16:25:20.422Z",
+  "generatedAt": "2026-11-19T16:35:59.713Z",
   "sourceSnapshotStatus": "manual-update-needs-dashboard-reconciliation",
   "sourceSnapshotUpdatedAt": "2026-11-19T15:12:15.776Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included. Latest tracker change is awaiting dashboard reconciliation.",
@@ -410,7 +410,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Before 20 Nov 2026 18:00 IST, inspect the exact scheduled video and verify it matches the approved original-animation brief and has an approval record. If media or approval cannot be verified, raise a release hold for a decision; then verify YouTube and Instagram status, visibility, and live URLs separately after the scheduled time."
+      "nextAction": "Before 20 Nov 2026 18:00 IST, inspect the exact scheduled media in each platform preview and verify both exports match the approved original-animation brief, with a traceable asset source and approval record. NO-GO for any destination that is not fully verified; obtain the account owner's decision on pausing or cancelling before the schedule. Afterward, verify each platform status, visibility, and live URL separately."
     },
     {
       "id": "task-50",
