@@ -329,8 +329,8 @@
       "title": "Review external payment-platform access",
       "area": "ValueMela",
       "due": "",
-      "status": "In progress",
-      "nextAction": "Read-only check current authorized-app status and access/audit history in Razorpay; documented consent scope is reviewed, but current status remains unverified. Do not change or revoke access."
+      "status": "Waiting",
+      "nextAction": "Using authenticated Razorpay dashboard in read-only mode, check whether the app remains authorized, compare displayed permissions with accepted scope, and review available activity. Do not change or revoke access."
     },
     {
       "id": "task-39",
