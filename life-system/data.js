@@ -491,6 +491,14 @@ window.PERSONAL_HQ_SEED = {
       "due": "",
       "status": "Not started",
       "nextAction": "Carry each video through research, script, generation, edit and review; publish to both channels only after exact asset approval."
+    },
+    {
+      "id": "task-51",
+      "title": "Apply independent premium UI review to Personal HQ",
+      "area": "Life admin",
+      "due": "",
+      "status": "Done",
+      "nextAction": "Independent mobile review applied and live-verified: first-screen Add task, separate deadline/status cues and 44px checkbox targets."
     }
   ],
   "history": [
