@@ -4,7 +4,7 @@ This folder brings past notes, current tasks and future plans into one dashboard
 
 ## Open and use
 
-Open `index.html` in Chrome or use the GitHub Pages site. The dashboard supports task search and filters, status changes, add/edit, project progress, timeline, daily routine check-ins, backup, restore and a current task export. Changes are stored in the current browser's local storage; they do not sync automatically. Use **Backup** before changing device. Use **Export tasks** to make a fresh snapshot for the 9 AM review. The desktop watcher publishes a sanitized task feed; Pages users can select **Load latest tasks** to replace their local task list after backing up.
+Open `index.html` in Chrome or use the GitHub Pages site. The dashboard supports task search and filters, status changes, add/edit, project progress, timeline, daily routine check-ins, backup, restore and a current task export. Changes are stored in the current browser's local storage; they do not sync automatically. Use **Backup** before changing device. Use **Export tasks** to make a fresh snapshot for the 9 AM review. The desktop watcher publishes a sanitized task feed; Pages users can select **Load latest tasks** to replace their local task list after backing up. On Pages, **Refresh task evidence** merges desktop-supported sources, next actions and notes for seeded tasks while preserving browser statuses and locally edited fields; the unresolved dashboard reconciliation banner remains until a fresh export is synced.
 
 ## Data quality
 

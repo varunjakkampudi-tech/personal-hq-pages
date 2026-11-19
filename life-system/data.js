@@ -749,6 +749,20 @@ window.PERSONAL_HQ_SEED = {
       "title": "Resume sources compared; career profile review remains open",
       "status": "In progress",
       "evidence": "The current Drive PDF and DOCX have matching extracted content after normalizing PDF headline spacing; both were modified 16 Sep 2026. The resume summary says 4 years while visible Credera chronology starts Mar 2023 (3 years 8 months on 19 Nov 2026); verify whether earlier experience is missing or adjust only after confirmation. A public LinkedIn search result crawled about five months earlier describes an AEM-focused profile and lists TA Digital, unlike the resume full-stack direction and Credera naming. This is stale index evidence, not a live audit. No profile was edited."
+    },
+    {
+      "date": "2026-11-19",
+      "area": "Life admin",
+      "title": "Daily Personal HQ task summary emailed",
+      "status": "Done",
+      "evidence": "Fresh date-specific summary sent to the authenticated Gmail account under subject [Personal HQ Daily Tasks] 2026-11-19. Exact search found no prior matching summary threads, so none required archiving. Dashboard registry remained unreconciled; summary labels seeded task statuses unverified."
+    },
+    {
+      "date": "2026-11-19",
+      "area": "AI World 360",
+      "title": "AI World 360 Instagram delivery confirmed",
+      "status": "Waiting",
+      "evidence": "vidIQ status checked at 18:01 IST: Instagram destination completed after its 18:00 schedule, with live Reel URL https://www.instagram.com/reel/Df7FYR9Cxeh/. No YouTube destination was present in the checked post record; crosspost remains unresolved. No other post was edited, published, or cancelled."
     }
   ]
 };
