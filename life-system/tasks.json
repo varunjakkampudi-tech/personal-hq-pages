@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T14:54:31.592Z",
+  "generatedAt": "2026-11-19T15:12:15.776Z",
   "sourceSnapshotStatus": "current-user-export",
-  "sourceSnapshotUpdatedAt": "2026-11-19T14:54:31.592Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T15:12:15.776Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -26,7 +26,7 @@
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Confirm full employment chronology and role direction; verify the live LinkedIn profile and collect Naukri, Indeed and Cutshort URLs or account status."
+      "nextAction": "Full-stack target confirmed; verify employment chronology, backend ownership and project evidence; then draft a full-stack resume review copy and verify portal links."
     },
     {
       "id": "task-1",
@@ -130,7 +130,7 @@
       "area": "Dairy farm",
       "due": "2026-12-15",
       "status": "In progress",
-      "nextAction": "Shortlist shed constructors and compare references"
+      "nextAction": "Confirm the exact site/village, species and budget; then compare 20-animal and expansion-to-40 layouts, engineer responsibility and completed-farm references."
     },
     {
       "id": "task-14",
@@ -138,7 +138,7 @@
       "area": "Dairy farm",
       "due": "2026-12-20",
       "status": "In progress",
-      "nextAction": "Shortlist solar and CCTV installers; compare proposals"
+      "nextAction": "Confirm site/village, electrical loads, grid/outage pattern and camera/network needs; then compare farm PV, dedicated solar-CCTV and integrated options against references, warranty and service."
     },
     {
       "id": "task-15",
