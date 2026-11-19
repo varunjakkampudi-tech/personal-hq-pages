@@ -13,6 +13,10 @@ Do not choose a GST registration route until the actual legal entity and sales f
 - Will sales be intra-state or inter-state, through ValueMela’s own site, another marketplace, or both? What turnover and launch date are expected?
 - What is the proposed invoicing and seller-onboarding model, including whether any e-commerce tax collection obligations may apply?
 
+### New e-commerce warehouse option to assess (effective 1 November 2026)
+
+Notification 05/2026-Central Tax inserted CGST Rule 14B. A supplier already registered in a home State may, subject to conditions, seek a same-PAN registration in another State without physical presence there by declaring a consenting section 52 e-commerce operator's warehouse as the principal place of business. Conditions include supplying goods through that operator, the combined central, state/UT and integrated output-tax liability on these supplies to registered persons (other than persons on the same PAN) does not exceed ₹2,50,000 per month, operator consent, and biometric Aadhaar authentication / document checks and physical verification at the home-State premises. This could matter if ValueMela sells goods through such an operator and holds inventory in its warehouse; it is not a general exemption or automatic route. Have the CA confirm ValueMela's eligibility, the corrected Gazette wording, portal implementation and practical obligations before choosing this route.
+
 Have an Indian GST practitioner/CA confirm the registration trigger, state-wise registrations, business classification, product tax treatment, e-commerce provisions and scheme eligibility against the actual model and current law. CBIC’s portal FAQs distinguish an electronic-commerce operator from a business selling only its own products and from suppliers selling through an operator; do not infer ValueMela’s classification from its brand name or website alone.
 
 ## Prepare the application only after the route is confirmed
@@ -25,7 +29,7 @@ Potential records the official portal checklist includes, depending on constitut
 - Promoter/partner/director and authorised-signatory information, proof of appointment where applicable, and the required electronic verification method.
 - Proof for the principal place of business; for owned or rented/consented premises, use the portal’s current accepted-document list for that possession type. Add documents for additional places only when applicable.
 - Goods/services descriptions and relevant codes, state/jurisdiction details, and contact details for OTP verification.
-- Business bank-account information if the current application flow or post-registration prompt requires it. The GST Portal user guide notes bank-account details may be entered through a post-grant non-core amendment; confirm the current flow when filing.
+- Bank-account details are optional in the REG-01 application flow, but after registration Rule 10A requires furnishing them within 30 days of grant or before furnishing outward-supply details in GSTR-1 / using IFF, whichever is earlier. Confirm the current portal workflow and deadline with the CA; failure can affect registration status.
 - State-specific or business-model documents requested by the current portal form.
 
 For the principal place of business, CBIC Instruction 03/2025-GST gives document-handling guidance that is useful when assembling the secure file set. For owned premises, one accepted ownership document (such as a recent property-tax receipt, municipal khata or electricity bill) should generally establish ownership. For rented premises, prepare the valid rent/lease agreement and one accepted document establishing the lessor's ownership. The instruction says an unregistered agreement should also be accompanied by lessor identity proof; a registered agreement should not require that identity proof. If the tenant's electricity or water document is in the tenant's name, the instruction says that and the rent agreement should suffice. For consented premises, prepare the owner's consent, identity proof and one ownership document; use the current portal checklist for shared-premises cases. Ask a GST practitioner to resolve unusual property arrangements. Store all actual documents privately.
@@ -56,8 +60,12 @@ CBIC Instruction 03/2025-GST says complete applications that are not flagged as 
 
 ## Official references
 
+**Research checked:** 19 November 2026. The 18 November corrigendum to Notification 05/2026-Central Tax was reviewed alongside the original notice.
+
 - [GST Portal: Apply for Registration as a Normal Taxpayer](https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm) — current portal form flow and section list; it notes the post-grant bank-details step.
 - [GST Portal: Registration document checklist](https://tutorial.gst.gov.in/cbt/registration/gstregistration/course/story_content/external_files/GST_Registration_Document_Checklist.pdf) — portal-published example documents and upload formats.
+- [Gazette of India: Notification 05/2026-Central Tax (G.S.R. 919(E))](https://egazette.gov.in/WriteReadData/2026/277451.pdf) — CGST Amendment Rules 2026, including Rule 14B, generally effective 1 November 2026.
+- [Gazette of India: Corrigendum G.S.R. 1001(E), 18 November 2026](https://egazette.gov.in/WriteReadData/2026/278035.pdf) — English text corrections to Notification 05/2026-Central Tax.
 - [CBIC: GST Registration Rules](https://cbic-gst.gov.in/gst-registration-rules.html) — FORM GST REG-01, application verification and registration-certificate rules.
 - [CBIC: Sectoral FAQs on e-commerce](https://cbic-gst.gov.in/sectoral-faq.html) — distinctions among platform operator, own-account seller and suppliers using an operator. These FAQs are informational; have the practitioner check amendments and notifications applicable at filing time.
 - [CBIC Instruction 03/2025-GST](https://cbic-gst.gov.in/pdf/ins-gst-no-03-2025.pdf) — principal-place evidence, risk-based physical verification, REG-03/REG-04 clarifications and processing windows. Verify live portal requirements and have a GST practitioner review the applicable route before filing.

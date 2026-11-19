@@ -266,11 +266,11 @@
       "area": "ValueMela",
       "due": "2026-11-25",
       "status": "Not started",
-      "nextAction": "Confirm ValueMela legal entity and actual sales/platform model",
+      "nextAction": "Record the legal entity and state, own-site vs marketplace sales, who invoices/collects/supplies, product and shipping states, turnover, and whether a section 52 TCS e-commerce operator warehouse is involved; keep identifiers private and ask the CA to assess Rule 14B eligibility.",
       "owner": "Varun",
-      "source": "Personal HQ task snapshot",
+      "source": "ValueMela model facts pending; official GST rules reviewed 19 Nov 2026",
       "createdAt": "2026-11-19",
-      "notes": ""
+      "notes": "Rule 14B took effect 1 Nov 2026 and may allow qualifying goods suppliers through a section 52 TCS operator to register in another state using an operator warehouse, subject to limits, consent, authentication and verification. Applicability to ValueMela is unknown. See life-system/plans/valuemela-gst.md. No legal entity or tax identifiers recorded."
     },
     {
       "id": "task-21",
