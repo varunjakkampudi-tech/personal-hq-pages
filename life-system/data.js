@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T18:14:25.3287069Z",
+  "generatedAt": "2026-11-19T18:41:34.295Z",
   "sourceSnapshotStatus": "current-user-export",
-  "sourceSnapshotUpdatedAt": "2026-11-19T18:14:25.3287069Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T18:41:34.295Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -321,8 +321,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Follow up on payment provider verification",
       "area": "ValueMela",
       "due": "",
-      "status": "Waiting",
-      "nextAction": "Check for an official status update; respond only to a verified request."
+      "status": "Done",
+      "nextAction": "Provider activation was confirmed by an authenticated email on 19 Nov; separate approval remains under task-42."
     },
     {
       "id": "task-38",
@@ -505,8 +505,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Reconcile Personal HQ registry, dashboard and export",
       "area": "Life admin",
       "due": "",
-      "status": "Done",
-      "nextAction": "Reconciled 19 Nov 2026: fresh dashboard export matched all 62 task IDs and statuses in the private registry and sanitized public feed; duplicate/missing IDs and status differences were zero."
+      "status": "Waiting",
+      "nextAction": "Open the desktop Personal HQ dashboard with the complete local task list, export tasks, let the watcher validate the file, then verify task IDs/statuses match the private registry and sanitized public feed before treating status percentages as authoritative."
     },
     {
       "id": "task-53",
@@ -514,7 +514,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Next scheduled delivery is 20 Nov 2026 at 9:00 AM IST. Verify date-specific Gmail summary, freshness against the 62-task export, and that prior matching summaries were archived only after successful send; then update this task with evidence."
+      "nextAction": "After the next 9 AM IST automation run, verify the date-specific summary arrived with the correct task-data freshness and that earlier matching Personal HQ summaries were archived only after send succeeded; record any delivery or duplicate issue."
     }
   ],
   "history": [
