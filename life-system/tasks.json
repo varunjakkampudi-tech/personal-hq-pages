@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19",
-  "sourceSnapshotStatus": "starter-seed-status-not-reconciled-with-dashboard",
-  "sourceSnapshotUpdatedAt": null,
-  "description": "Public task tracker snapshot. Current status requires reconciliation with dashboard exports and evidence.",
+  "generatedAt": "2026-11-19T13:38:35.644Z",
+  "sourceSnapshotStatus": "current-user-export",
+  "sourceSnapshotUpdatedAt": "2026-11-19T13:38:35.644Z",
+  "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
-    "Career move",
-    "Dairy farm",
-    "CareerScope",
     "AI World 360",
-    "ValueMela",
-    "Personal & health",
-    "Life admin",
-    "OraOne",
-    "Godavari dairy guide",
+    "Career move",
+    "CareerScope",
+    "Dairy farm",
     "Family",
     "FixHub24",
+    "Godavari dairy guide",
     "LensMate",
-    "Training & learning"
+    "Life admin",
+    "OraOne",
+    "Personal & health",
+    "Training & learning",
+    "ValueMela"
   ],
   "tasks": [
     {
@@ -26,11 +26,7 @@
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Confirm full employment chronology and role direction; verify the live LinkedIn profile and collect Naukri, Indeed and Cutshort URLs or account status.",
-      "owner": "Varun",
-      "source": "Private Drive resume comparison and public LinkedIn search, 19 Nov 2026",
-      "createdAt": "2026-11-19",
-      "notes": "The current Drive PDF and DOCX have matching extracted content after normalizing PDF headline spacing; both were modified 16 Sep 2026. The resume summary says 4 years while visible Credera chronology starts Mar 2023 (3 years 8 months on 19 Nov 2026); verify whether earlier experience is missing or adjust only after confirmation. A public LinkedIn search result crawled about five months earlier describes an AEM-focused profile and lists TA Digital, unlike the resume full-stack direction and Credera naming. This is stale index evidence, not a live audit. No profile was edited."
+      "nextAction": "Confirm full employment chronology and role direction; verify the live LinkedIn profile and collect Naukri, Indeed and Cutshort URLs or account status."
     },
     {
       "id": "task-1",
@@ -38,11 +34,7 @@
       "area": "Career move",
       "due": "2026-12-01",
       "status": "Not started",
-      "nextAction": "Choose target roles, locations and salary range",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Choose target roles, locations and salary range"
     },
     {
       "id": "task-2",
@@ -50,11 +42,7 @@
       "area": "Career move",
       "due": "2026-12-08",
       "status": "Not started",
-      "nextAction": "Create a master career profile and achievement bank",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Create a master career profile and achievement bank"
     },
     {
       "id": "task-3",
@@ -62,11 +50,7 @@
       "area": "Career move",
       "due": "2026-12-15",
       "status": "Not started",
-      "nextAction": "Draft a resume for review",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Draft a resume for review"
     },
     {
       "id": "task-4",
@@ -74,11 +58,7 @@
       "area": "Career move",
       "due": "2026-12-22",
       "status": "Not started",
-      "nextAction": "Update LinkedIn and Naukri after resume review",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Update LinkedIn and Naukri after resume review"
     },
     {
       "id": "task-5",
@@ -86,11 +66,7 @@
       "area": "Career move",
       "due": "2027-01-05",
       "status": "Not started",
-      "nextAction": "Review Indeed, Cutshort and relevant job portals",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Review Indeed, Cutshort and relevant job portals"
     },
     {
       "id": "task-6",
@@ -98,11 +74,7 @@
       "area": "Career move",
       "due": "2027-01-12",
       "status": "Not started",
-      "nextAction": "Set weekly networking and interview practice cadence",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Set weekly networking and interview practice cadence"
     },
     {
       "id": "task-7",
@@ -110,11 +82,7 @@
       "area": "Career move",
       "due": "2026-12-04",
       "status": "Not started",
-      "nextAction": "Verify experience dates, client responsibilities and measured resume impact claims",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Verify experience dates, client responsibilities and measured resume impact claims"
     },
     {
       "id": "task-8",
@@ -122,11 +90,7 @@
       "area": "Career move",
       "due": "2026-12-06",
       "status": "Not started",
-      "nextAction": "Choose target role families and identify any skill gaps",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Choose target role families and identify any skill gaps"
     },
     {
       "id": "task-9",
@@ -134,11 +98,7 @@
       "area": "Career move",
       "due": "2026-12-18",
       "status": "Not started",
-      "nextAction": "Prepare a reviewed master resume and role-specific versions",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Prepare a reviewed master resume and role-specific versions"
     },
     {
       "id": "task-10",
@@ -146,11 +106,7 @@
       "area": "Dairy farm",
       "due": "2026-11-30",
       "status": "Not started",
-      "nextAction": "Confirm farm location, water, power and land constraints",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Confirm farm location, water, power and land constraints"
     },
     {
       "id": "task-11",
@@ -158,11 +114,7 @@
       "area": "Dairy farm",
       "due": "2026-11-28",
       "status": "Not started",
-      "nextAction": "Confirm exact farm village, animal species and 20-to-40 herd mix",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Confirm exact farm village, animal species and 20-to-40 herd mix"
     },
     {
       "id": "task-12",
@@ -170,11 +122,7 @@
       "area": "Dairy farm",
       "due": "2026-12-07",
       "status": "Not started",
-      "nextAction": "Write requirements brief for 20 animals, expandable to 40",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Write requirements brief for 20 animals, expandable to 40"
     },
     {
       "id": "task-13",
@@ -182,11 +130,7 @@
       "area": "Dairy farm",
       "due": "2026-12-15",
       "status": "In progress",
-      "nextAction": "Shortlist shed constructors and compare references",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Shortlist shed constructors and compare references"
     },
     {
       "id": "task-14",
@@ -194,11 +138,7 @@
       "area": "Dairy farm",
       "due": "2026-12-20",
       "status": "In progress",
-      "nextAction": "Shortlist solar and CCTV installers; compare proposals",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Shortlist solar and CCTV installers; compare proposals"
     },
     {
       "id": "task-15",
@@ -206,11 +146,7 @@
       "area": "Dairy farm",
       "due": "2026-12-28",
       "status": "Not started",
-      "nextAction": "Review site layout, utility plan and phased budget",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Review site layout, utility plan and phased budget"
     },
     {
       "id": "task-16",
@@ -218,11 +154,7 @@
       "area": "CareerScope",
       "due": "2026-11-28",
       "status": "Not started",
-      "nextAction": "Capture current CareerScope priorities and authorized next steps",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Capture current CareerScope priorities and authorized next steps"
     },
     {
       "id": "task-17",
@@ -230,11 +162,7 @@
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "Not started",
-      "nextAction": "Set up daily video publishing for YouTube and Instagram",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Set up daily video publishing for YouTube and Instagram"
     },
     {
       "id": "task-18",
@@ -242,11 +170,7 @@
       "area": "AI World 360",
       "due": "2026-12-02",
       "status": "Not started",
-      "nextAction": "Create a repeatable idea → script → edit → review workflow",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Create a repeatable idea → script → edit → review workflow"
     },
     {
       "id": "task-19",
@@ -254,11 +178,7 @@
       "area": "ValueMela",
       "due": "2026-11-30",
       "status": "Not started",
-      "nextAction": "Review ValueMela priorities and open decisions",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Review ValueMela priorities and open decisions"
     },
     {
       "id": "task-20",
@@ -266,11 +186,7 @@
       "area": "ValueMela",
       "due": "2026-11-25",
       "status": "Not started",
-      "nextAction": "Record the legal entity and state, own-site vs marketplace sales, who invoices/collects/supplies, product and shipping states, turnover, and whether a section 52 TCS e-commerce operator warehouse is involved; keep identifiers private and ask the CA to assess Rule 14B eligibility.",
-      "owner": "Varun",
-      "source": "ValueMela model facts pending; official GST rules reviewed 19 Nov 2026",
-      "createdAt": "2026-11-19",
-      "notes": "Rule 14B took effect 1 Nov 2026 and may allow qualifying goods suppliers through a section 52 TCS operator to register in another state using an operator warehouse, subject to limits, consent, authentication and verification. Applicability to ValueMela is unknown. See life-system/plans/valuemela-gst.md. No legal entity or tax identifiers recorded."
+      "nextAction": "Record the legal entity and state, own-site vs marketplace sales, who invoices/collects/supplies, product and shipping states, turnover, and whether a section 52 TCS e-commerce operator warehouse is involved; keep identifiers private and ask the CA to assess Rule 14B eligibility."
     },
     {
       "id": "task-21",
@@ -278,11 +194,7 @@
       "area": "ValueMela",
       "due": "2026-11-28",
       "status": "Not started",
-      "nextAction": "Get written GST registration and compliance determination from CA/GST practitioner",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Get written GST registration and compliance determination from CA/GST practitioner"
     },
     {
       "id": "task-22",
@@ -290,11 +202,7 @@
       "area": "ValueMela",
       "due": "2026-12-02",
       "status": "Not started",
-      "nextAction": "Prepare the applicable GST REG-01 document checklist securely",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Prepare the applicable GST REG-01 document checklist securely"
     },
     {
       "id": "task-23",
@@ -302,11 +210,7 @@
       "area": "ValueMela",
       "due": "2026-12-08",
       "status": "Not started",
-      "nextAction": "Review and submit ValueMela GST registration through the official portal",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Review and submit ValueMela GST registration through the official portal"
     },
     {
       "id": "task-24",
@@ -314,11 +218,7 @@
       "area": "ValueMela",
       "due": "2026-12-15",
       "status": "Not started",
-      "nextAction": "Verify GSTIN and configure ValueMela invoices and filing calendar",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Verify GSTIN and configure ValueMela invoices and filing calendar"
     },
     {
       "id": "task-25",
@@ -326,11 +226,7 @@
       "area": "Personal & health",
       "due": "2026-11-28",
       "status": "Not started",
-      "nextAction": "Set a baseline weekly routine around work, sleep and gym",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Set a baseline weekly routine around work, sleep and gym"
     },
     {
       "id": "task-26",
@@ -338,11 +234,7 @@
       "area": "Personal & health",
       "due": "2026-11-28",
       "status": "Not started",
-      "nextAction": "Share training goals, food preferences and constraints",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Share training goals, food preferences and constraints"
     },
     {
       "id": "task-34",
@@ -350,11 +242,7 @@
       "area": "Personal & health",
       "due": "2026-11-29",
       "status": "Not started",
-      "nextAction": "Personalize the gym and food routine after capturing health and schedule details",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Personalize the gym and food routine after capturing health and schedule details"
     },
     {
       "id": "task-27",
@@ -362,11 +250,7 @@
       "area": "OraOne",
       "due": "2026-11-29",
       "status": "Not started",
-      "nextAction": "Review OraOne current status and define next step",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Review OraOne current status and define next step"
     },
     {
       "id": "task-28",
@@ -374,11 +258,7 @@
       "area": "Godavari dairy guide",
       "due": "2026-12-02",
       "status": "Not started",
-      "nextAction": "Review the Godavari dairy guide status and open items",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Review the Godavari dairy guide status and open items"
     },
     {
       "id": "task-29",
@@ -386,11 +266,7 @@
       "area": "Family",
       "due": "2026-11-29",
       "status": "Not started",
-      "nextAction": "Capture current family commitments that belong in the hub",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Capture current family commitments that belong in the hub"
     },
     {
       "id": "task-30",
@@ -398,11 +274,7 @@
       "area": "FixHub24",
       "due": "2026-12-03",
       "status": "Not started",
-      "nextAction": "Review FixHub24 backlog and next milestone",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Review FixHub24 backlog and next milestone"
     },
     {
       "id": "task-31",
@@ -410,11 +282,7 @@
       "area": "LensMate",
       "due": "2026-12-04",
       "status": "Not started",
-      "nextAction": "Review LensMate backlog and next milestone",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Review LensMate backlog and next milestone"
     },
     {
       "id": "task-32",
@@ -422,11 +290,7 @@
       "area": "Training & learning",
       "due": "2026-12-01",
       "status": "Not started",
-      "nextAction": "Set one practical learning goal and a weekly study slot",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Set one practical learning goal and a weekly study slot"
     },
     {
       "id": "task-33",
@@ -434,11 +298,7 @@
       "area": "Life admin",
       "due": "2026-11-30",
       "status": "Not started",
-      "nextAction": "Do a first sweep of other life-admin tasks and dates",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Do a first sweep of other life-admin tasks and dates"
     },
     {
       "id": "task-35",
@@ -446,83 +306,55 @@
       "area": "Career move",
       "due": "2026-12-10",
       "status": "Not started",
-      "nextAction": "Identify and verify additional job portals for target roles",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Identify and verify additional job portals for target roles"
     },
     {
       "id": "task-36",
       "title": "Follow up on ValueMela storefront support requests",
       "area": "ValueMela",
-      "due": null,
+      "due": "",
       "status": "Waiting",
-      "nextAction": "Check for a reply about the branded customer-facing support email setting; preserve account sign-in and order-notification routing.",
-      "owner": "Varun",
-      "source": "Gmail sent support request, 19 Nov 2026",
-      "createdAt": "2026-11-19",
-      "notes": "A branded-email configuration request was sent to the platform support addresses on 19 Nov. No support reply was found in the recent inbox search."
+      "nextAction": "Check for a reply about the branded customer-facing support email setting; preserve account sign-in and order-notification routing."
     },
     {
       "id": "task-37",
       "title": "Follow up on payment provider verification",
       "area": "ValueMela",
-      "due": null,
+      "due": "",
       "status": "Waiting",
-      "nextAction": "Check for an official status update; respond only to a verified request.",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Check for an official status update; respond only to a verified request."
     },
     {
       "id": "task-38",
       "title": "Review external payment-platform access",
       "area": "ValueMela",
-      "due": null,
+      "due": "",
       "status": "Waiting",
-      "nextAction": "Review Factori access grant to ValueMela's Razorpay account",
-      "owner": "Varun",
-      "source": "Business account permission notification, 19 Nov 2026",
-      "createdAt": "2026-11-19",
-      "notes": "A payment provider notified that third-party platform access was granted. Confirm the intended scope in the provider dashboard; do not revoke automatically."
+      "nextAction": "Review Factori access grant to ValueMela's Razorpay account"
     },
     {
       "id": "task-39",
       "title": "Factori confirmed ValueMela store launch",
       "area": "ValueMela",
-      "due": null,
+      "due": "",
       "status": "Done",
-      "nextAction": "Factori confirmed ValueMela store launch",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Factori confirmed ValueMela store launch"
     },
     {
       "id": "task-40",
       "title": "Review recent CareerScope quality check failures",
       "area": "CareerScope",
-      "due": null,
+      "due": "",
       "status": "Not started",
-      "nextAction": "Review current check evidence and confirm active project authorization before code changes.",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Review current check evidence and confirm active project authorization before code changes."
     },
     {
       "id": "task-41",
       "title": "Review FixHub24 dependency audit findings",
       "area": "FixHub24",
-      "due": null,
+      "due": "",
       "status": "In progress",
-      "nextAction": "Have the owner review PR #23 first; its exact-head CI and audit pass. Do not merge without owner authorization. PR #24 needs the body-parser security fix before its dependency audit can pass; recheck its base and CI after PR #23 is resolved.",
-      "owner": "Varun",
-      "source": "GitHub PR heads and exact-head Actions runs/jobs/logs checked 19 Nov 2026",
-      "createdAt": "2026-11-19",
-      "notes": "Read-only check on 19 Nov 2026: PR #23 is open and mergeable at head d9a1780c1dde723de54086457fd4b5c630d362eb; workflow run 41199274783 passed, including Dependency Vulnerability Audit. PR #24 is open and mergeable at head c4f0bdd5dc25804c212f29cbe8bcb3de7c6b4193; workflow run 41761900612 failed at Dependency Vulnerability Audit. Its log reports body-parser 2.0.0-2.3.0 as high severity (GHSA-27r3-jxmh-p828). Lint, typecheck, test suites and production build completed successfully before the audit. The PR #24 change only upgrades seroval, so it does not resolve the body-parser finding. No PRs were merged and no dependencies were changed."
+      "nextAction": "Have the owner review PR #23 first; its exact-head CI and audit pass. Do not merge without owner authorization. PR #24 needs the body-parser security fix before its dependency audit can pass; recheck its base and CI after PR #23 is resolved."
     },
     {
       "id": "task-42",
@@ -530,23 +362,15 @@
       "area": "ValueMela",
       "due": "2026-11-24",
       "status": "Waiting",
-      "nextAction": "Check for an official verification update; approval remains unconfirmed.",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Check for an official verification update; approval remains unconfirmed."
     },
     {
       "id": "task-43",
       "title": "Review latest CareerScope browser check failure",
       "area": "CareerScope",
-      "due": null,
+      "due": "",
       "status": "Done",
-      "nextAction": "Failure review is complete; PR #108 remains open pending owner-authorized merge.",
-      "owner": "Varun",
-      "source": "CareerScope GitHub Actions run 44512467883 and PR #108",
-      "createdAt": "2026-11-19",
-      "notes": "Run 44512467883 passed all jobs on exact PR head 15dac2a1f68333a2427075ff8f29480a516c7159. Earlier run 44509297019 failed Firefox notifications-before-read because repeated GET /jobs requests continued during fixture reset. PR #108 remains open; owner merge authorization is pending."
+      "nextAction": "Failure review is complete; PR #108 remains open pending owner-authorized merge."
     },
     {
       "id": "task-44",
@@ -554,11 +378,7 @@
       "area": "Career move",
       "due": "2026-11-30",
       "status": "Not started",
-      "nextAction": "Choose the primary role focus, then verify resume claims and complete the private career intake.",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Choose the primary role focus, then verify resume claims and complete the private career intake."
     },
     {
       "id": "task-45",
@@ -566,11 +386,7 @@
       "area": "Dairy farm",
       "due": "2026-12-02",
       "status": "Not started",
-      "nextAction": "Complete dairy farm readiness gate checklist",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Complete dairy farm readiness gate checklist"
     },
     {
       "id": "task-46",
@@ -578,11 +394,7 @@
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "Not started",
-      "nextAction": "Set up AI World 360 daily publishing log and workflow",
-      "owner": "Varun",
-      "source": "Personal HQ task snapshot",
-      "createdAt": "2026-11-19",
-      "notes": ""
+      "nextAction": "Set up AI World 360 daily publishing log and workflow"
     },
     {
       "id": "task-48",
@@ -590,11 +402,7 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Done",
-      "nextAction": "Crosspost verified on both destinations: Instagram Reel completed with live URL; matching YouTube Short is public and processed (video ID mhTCwnHwdW4).",
-      "owner": "Varun",
-      "source": "vidIQ Instagram post status and authorized YouTube uploads, 19 Nov 2026 18:10 IST",
-      "createdAt": "2026-11-19",
-      "notes": "Instagram completed; live URL https://www.instagram.com/reel/Df7FYR9Cxeh/. Matching YouTube Short ID mhTCwnHwdW4 is public, processed, published 19 Nov 2026 12:30:31 UTC."
+      "nextAction": "Crosspost verified on both destinations: Instagram Reel completed with live URL; matching YouTube Short is public and processed (video ID mhTCwnHwdW4)."
     },
     {
       "id": "task-49",
@@ -602,95 +410,87 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "After the matched 20 Nov 18:00 IST Instagram and YouTube schedules, verify both destination statuses, public visibility, and live URLs; carry forward any failure.",
-      "owner": "Varun",
-      "source": "vidIQ social-post list and authorized YouTube uploads, 19 Nov 2026 18:10 IST",
-      "createdAt": "2026-11-19",
-      "notes": "Instagram post is scheduled for 20 Nov 2026 18:00 IST. Matching YouTube Short ID g-5ojhJY63g is processed and scheduled for 20 Nov 2026 12:30 UTC (18:00 IST), currently private pending publish. Verify both destinations after the schedule; no changes made."
+      "nextAction": "After the matched 20 Nov 18:00 IST Instagram and YouTube schedules, verify both destination statuses, public visibility, and live URLs; carry forward any failure."
     },
     {
       "id": "task-50",
       "title": "Review new store registrations",
       "area": "ValueMela",
-      "due": null,
+      "due": "",
       "status": "In progress",
-      "nextAction": "Review two signup notifications in the private store console; keep customer identifiers out of Personal HQ and check whether any follow-up is due.",
-      "owner": "Varun",
-      "source": "Gmail store-signup notification count, 19 Nov 2026; customer records not opened",
-      "createdAt": "2026-11-19",
-      "notes": "Two new-customer signup notification emails were found. No customer details were opened or copied here."
+      "nextAction": "Review two signup notifications in the private store console; keep customer identifiers out of Personal HQ and check whether any follow-up is due."
     },
     {
-      "title": "Refresh LinkedIn profile",
       "id": "career-linkedin",
-      "status": "Not started",
+      "title": "Refresh LinkedIn profile",
       "area": "Career move",
-      "nextAction": "Update headline, about, experience, skills and featured work after resume facts are verified.",
-      "due": "2027-01-05"
+      "due": "2027-01-05",
+      "status": "Not started",
+      "nextAction": "Update headline, about, experience, skills and featured work after resume facts are verified."
     },
     {
-      "title": "Refresh Naukri profile and resume",
       "id": "career-naukri",
-      "status": "Not started",
+      "title": "Refresh Naukri profile and resume",
       "area": "Career move",
-      "nextAction": "Update profile completeness, role preferences, skills, notice period and resume after source resume review.",
-      "due": "2027-01-05"
+      "due": "2027-01-05",
+      "status": "Not started",
+      "nextAction": "Update profile completeness, role preferences, skills, notice period and resume after source resume review."
     },
     {
-      "title": "Create or refresh Indeed profile",
       "id": "career-indeed",
-      "status": "Not started",
+      "title": "Create or refresh Indeed profile",
       "area": "Career move",
-      "nextAction": "Confirm current profile and CV settings; review privacy and visibility before uploading.",
-      "due": "2027-01-10"
+      "due": "2027-01-10",
+      "status": "Not started",
+      "nextAction": "Confirm current profile and CV settings; review privacy and visibility before uploading."
     },
     {
-      "title": "Create or refresh Cutshort profile",
       "id": "career-cutshort",
-      "status": "Not started",
+      "title": "Create or refresh Cutshort profile",
       "area": "Career move",
-      "nextAction": "Confirm role fit and profile flow; review information shared through connected accounts.",
-      "due": "2027-01-10"
+      "due": "2027-01-10",
+      "status": "Not started",
+      "nextAction": "Confirm role fit and profile flow; review information shared through connected accounts."
     },
     {
-      "title": "Compare additional role-relevant job portals",
       "id": "career-portals",
-      "status": "Not started",
+      "title": "Compare additional role-relevant job portals",
       "area": "Career move",
-      "nextAction": "Shortlist current platforms by target role, location, employer quality and privacy settings before creating accounts.",
-      "due": "2027-01-12"
+      "due": "2027-01-12",
+      "status": "Not started",
+      "nextAction": "Shortlist current platforms by target role, location, employer quality and privacy settings before creating accounts."
     },
     {
-      "title": "Prepare one comparable shed, solar and CCTV RFQ pack",
       "id": "farm-rfq",
-      "status": "Not started",
+      "title": "Prepare one comparable shed, solar and CCTV RFQ pack",
       "area": "Dairy farm",
-      "nextAction": "Use one site brief, phase-one 20-animal capacity, 40-animal expansion, utility loads and required warranties for like-for-like quotes.",
-      "due": "2026-12-10"
+      "due": "2026-12-10",
+      "status": "Not started",
+      "nextAction": "Use one site brief, phase-one 20-animal capacity, 40-animal expansion, utility loads and required warranties for like-for-like quotes."
     },
     {
-      "title": "Collect and verify comparable farm supplier bids",
       "id": "farm-quotes",
-      "status": "Not started",
+      "title": "Collect and verify comparable farm supplier bids",
       "area": "Dairy farm",
-      "nextAction": "Request site visits and itemized proposals after location, herd species and scope are confirmed; validate references, licenses and service.",
-      "due": "2026-12-22"
+      "due": "2026-12-22",
+      "status": "Not started",
+      "nextAction": "Request site visits and itemized proposals after location, herd species and scope are confirmed; validate references, licenses and service."
     },
     {
-      "title": "Set a weekly work, gym and recovery rhythm",
       "id": "routine-week",
-      "status": "Not started",
+      "title": "Set a weekly work, gym and recovery rhythm",
       "area": "Personal & health",
-      "nextAction": "Choose realistic work blocks, gym slots, meals and sleep window after schedule and health constraints are known.",
-      "due": "2026-11-30"
+      "due": "2026-11-30",
+      "status": "Not started",
+      "nextAction": "Choose realistic work blocks, gym slots, meals and sleep window after schedule and health constraints are known."
     },
     {
-      "title": "Run the daily AI World 360 publishing workflow",
       "id": "media-daily",
-      "status": "Not started",
+      "title": "Run the daily AI World 360 publishing workflow",
       "area": "AI World 360",
-      "nextAction": "Carry each video through research, script, generation, edit and review; publish to both channels only after exact asset approval.",
-      "due": ""
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Carry each video through research, script, generation, edit and review; publish to both channels only after exact asset approval."
     }
   ],
   "history": [
