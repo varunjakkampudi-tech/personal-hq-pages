@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T20:28:16.8168205Z",
-  "sourceSnapshotStatus": "current-user-export",
-  "sourceSnapshotUpdatedAt": "2026-11-19T20:28:16.8168205Z",
+  "generatedAt": "2026-11-19T20:30:25.4331138Z",
+  "sourceSnapshotStatus": "merged-desktop-task-update",
+  "sourceSnapshotUpdatedAt": "2026-11-19T20:30:05.6905864Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
