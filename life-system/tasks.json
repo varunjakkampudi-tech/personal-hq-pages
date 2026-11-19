@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T03:09:10.0396851+05:30",
+  "generatedAt": "2026-11-19T21:55:17.704Z",
   "sourceSnapshotStatus": "current-user-export",
-  "sourceSnapshotUpdatedAt": "2026-11-20T03:09:10.0396851+05:30",
-  "dashboardExportUpdatedAt": "2026-11-20T03:09:10.0396851+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-19T21:55:17.704Z",
+  "dashboardExportUpdatedAt": "2026-11-19T21:55:17.704Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -498,8 +498,8 @@
       "title": "Apply independent premium UI review to Personal HQ",
       "area": "Life admin",
       "due": "",
-      "status": "Done",
-      "nextAction": "Live-checked at 1440x1000, 390x844 and 320x720: no horizontal overflow at 390 or 320; mobile task cards and navigation fit; refresh confirmation now has its own line."
+      "status": "In progress",
+      "nextAction": "Mobile sync notice and task cards refined; deployed to Pages and verified at 393px iPhone and desktop. Apply the independent ChatGPT UI critique if it arrives, then recheck."
     },
     {
       "id": "task-52",
