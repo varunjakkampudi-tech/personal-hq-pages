@@ -67,9 +67,16 @@
     {
       "date": "2026-11-19",
       "area": "AI World 360",
-      "title": "AI World 360 Instagram delivery confirmed",
+      "title": "AI World 360 Nov 19 crosspost completed",
+      "status": "Done",
+      "evidence": "vidIQ Instagram post status showed completed with live URL https://www.instagram.com/reel/Df7FYR9Cxeh/. Authorized YouTube uploads showed matching Short ID mhTCwnHwdW4 as public and processed, published 19 Nov 2026 12:30:31 UTC. Both destinations are evidenced."
+    },
+    {
+      "date": "2026-11-19",
+      "area": "AI World 360",
+      "title": "Nov 20 AI World 360 crosspost schedule matched",
       "status": "Waiting",
-      "evidence": "vidIQ status checked at 18:01 IST: Instagram destination completed after its 18:00 schedule, with live Reel URL https://www.instagram.com/reel/Df7FYR9Cxeh/. No YouTube destination was present in the checked post record; crosspost remains unresolved. No other post was edited, published, or cancelled."
+      "evidence": "Instagram scheduled for 20 Nov 2026 18:00 IST. Matching YouTube Short ID g-5ojhJY63g is processed, private pending scheduled publish at 20 Nov 2026 18:00 IST. Verify both platforms and public visibility after the schedule; no changes made."
     }
   ]
 }

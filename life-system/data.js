@@ -589,12 +589,12 @@ window.PERSONAL_HQ_SEED = {
       "title": "Verify Nov 19 AI World 360 crosspost delivery",
       "area": "AI World 360",
       "due": "2026-11-20",
-      "status": "Waiting",
-      "nextAction": "Instagram delivery completed at 19 Nov 18:01 IST: https://www.instagram.com/reel/Df7FYR9Cxeh/. Confirm whether the matching YouTube crosspost exists and record its live URL; do not mark the crosspost task Done until both destinations are evidenced.",
+      "status": "Done",
+      "nextAction": "Crosspost verified on both destinations: Instagram Reel completed with live URL; matching YouTube Short is public and processed (video ID mhTCwnHwdW4).",
       "owner": "Varun",
-      "source": "vidIQ post status, 19 Nov 2026 18:01 IST; Instagram completed with live URL; YouTube destination remains unverified",
+      "source": "vidIQ Instagram post status and authorized YouTube uploads, 19 Nov 2026 18:10 IST",
       "createdAt": "2026-11-19",
-      "notes": "Instagram Reel: https://www.instagram.com/reel/Df7FYR9Cxeh/"
+      "notes": "Instagram completed; live URL https://www.instagram.com/reel/Df7FYR9Cxeh/. Matching YouTube Short ID mhTCwnHwdW4 is public, processed, published 19 Nov 2026 12:30:31 UTC."
     },
     {
       "id": "task-49",
@@ -602,11 +602,11 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Before the 20 Nov 18:00 IST Instagram schedule, decide/confirm the matching YouTube upload or crosspost; then verify each platform separately. Last vidIQ snapshot showed Instagram scheduled and no YouTube destination.",
+      "nextAction": "After the matched 20 Nov 18:00 IST Instagram and YouTube schedules, verify both destination statuses, public visibility, and live URLs; carry forward any failure.",
       "owner": "Varun",
-      "source": "vidIQ social-post read-only snapshot, 19 Nov 2026 17:51 IST; current delivery still unverified",
+      "source": "vidIQ social-post list and authorized YouTube uploads, 19 Nov 2026 18:10 IST",
       "createdAt": "2026-11-19",
-      "notes": ""
+      "notes": "Instagram post is scheduled for 20 Nov 2026 18:00 IST. Matching YouTube Short ID g-5ojhJY63g is processed and scheduled for 20 Nov 2026 12:30 UTC (18:00 IST), currently private pending publish. Verify both destinations after the schedule; no changes made."
     },
     {
       "id": "task-50",
@@ -760,9 +760,16 @@ window.PERSONAL_HQ_SEED = {
     {
       "date": "2026-11-19",
       "area": "AI World 360",
-      "title": "AI World 360 Instagram delivery confirmed",
+      "title": "AI World 360 Nov 19 crosspost completed",
+      "status": "Done",
+      "evidence": "vidIQ Instagram post status showed completed with live URL https://www.instagram.com/reel/Df7FYR9Cxeh/. Authorized YouTube uploads showed matching Short ID mhTCwnHwdW4 as public and processed, published 19 Nov 2026 12:30:31 UTC. Both destinations are evidenced."
+    },
+    {
+      "date": "2026-11-19",
+      "area": "AI World 360",
+      "title": "Nov 20 AI World 360 crosspost schedule matched",
       "status": "Waiting",
-      "evidence": "vidIQ status checked at 18:01 IST: Instagram destination completed after its 18:00 schedule, with live Reel URL https://www.instagram.com/reel/Df7FYR9Cxeh/. No YouTube destination was present in the checked post record; crosspost remains unresolved. No other post was edited, published, or cancelled."
+      "evidence": "Instagram scheduled for 20 Nov 2026 18:00 IST. Matching YouTube Short ID g-5ojhJY63g is processed, private pending scheduled publish at 20 Nov 2026 18:00 IST. Verify both platforms and public visibility after the schedule; no changes made."
     }
   ]
 };
