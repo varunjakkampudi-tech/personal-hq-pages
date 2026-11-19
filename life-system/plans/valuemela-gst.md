@@ -28,6 +28,8 @@ Potential records the official portal checklist includes, depending on constitut
 - Business bank-account information if the current application flow or post-registration prompt requires it. The GST Portal user guide notes bank-account details may be entered through a post-grant non-core amendment; confirm the current flow when filing.
 - State-specific or business-model documents requested by the current portal form.
 
+For the principal place of business, CBIC Instruction 03/2025-GST gives document-handling guidance that is useful when assembling the secure file set. For owned premises, one accepted ownership document (such as a recent property-tax receipt, municipal khata or electricity bill) should generally establish ownership. For rented premises, prepare the valid rent/lease agreement and one accepted document establishing the lessor's ownership. The instruction says an unregistered agreement should also be accompanied by lessor identity proof; a registered agreement should not require that identity proof. If the tenant's electricity or water document is in the tenant's name, the instruction says that and the rent agreement should suffice. For consented premises, prepare the owner's consent, identity proof and one ownership document; use the current portal checklist for shared-premises cases. Ask a GST practitioner to resolve unusual property arrangements. Store all actual documents privately.
+
 Use the GST Portal itself or a CA’s secure document channel for actual identifiers and files. Never put PAN, Aadhaar, OTPs, bank records, signed documents or tax credentials in this dashboard, a public GitHub repository, or a public Pages site. The dashboard should store only milestones and whether a checklist item is complete.
 
 ## Filing and post-registration sequence
@@ -39,6 +41,10 @@ Use the GST Portal itself or a CA’s secure document channel for actual identif
 5. If approved, download and verify the registration certificate/GSTIN and store it in a private business records location.
 6. Ask the CA to confirm effective date, invoice configuration, tax codes/rates, place-of-supply treatment, e-commerce/TCS flows, return types and due dates, input-credit records, e-invoice/e-way-bill applicability, and any display requirements that apply to ValueMela.
 7. Add only verified recurring filings to the HQ with due dates and an owner; do not guess due dates or mark compliance complete without a filed-return acknowledgment.
+
+## Registration review and clarification watch
+
+CBIC Instruction 03/2025-GST says complete applications that are not flagged as risky should be processed within seven working days. For specified risk/Aadhaar-authentication cases, it directs grant within 30 days after physical verification. These are processing directions, not a promise of approval or a deadline for ValueMela's case. The same instruction describes when an officer may issue a FORM GST REG-03 clarification notice; where one arrives, track its actual portal due date and prepare the FORM GST REG-04 reply with the CA. The instruction says the applicant's reply is due within seven working days of receipt. Never put an ARN, OTP, PAN, Aadhaar, private address proof or signed application in Personal HQ.
 
 ## Task sequence to track
 
@@ -54,4 +60,4 @@ Use the GST Portal itself or a CA’s secure document channel for actual identif
 - [GST Portal: Registration document checklist](https://tutorial.gst.gov.in/cbt/registration/gstregistration/course/story_content/external_files/GST_Registration_Document_Checklist.pdf) — portal-published example documents and upload formats.
 - [CBIC: GST Registration Rules](https://cbic-gst.gov.in/gst-registration-rules.html) — FORM GST REG-01, application verification and registration-certificate rules.
 - [CBIC: Sectoral FAQs on e-commerce](https://cbic-gst.gov.in/sectoral-faq.html) — distinctions among platform operator, own-account seller and suppliers using an operator. These FAQs are informational; have the practitioner check amendments and notifications applicable at filing time.
-- [CBIC Instruction 03/2025-GST](https://cbic-gst.gov.in/pdf/ins-gst-no-03-2025.pdf) — guidance on evidence for principal-place-of-business documents.
+- [CBIC Instruction 03/2025-GST](https://cbic-gst.gov.in/pdf/ins-gst-no-03-2025.pdf) — principal-place evidence, risk-based physical verification, REG-03/REG-04 clarifications and processing windows. Verify live portal requirements and have a GST practitioner review the applicable route before filing.
