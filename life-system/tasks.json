@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T22:22:08.659Z",
+  "generatedAt": "2026-11-19T22:23:42.259Z",
   "sourceSnapshotStatus": "current-user-export",
-  "sourceSnapshotUpdatedAt": "2026-11-19T22:22:08.659Z",
-  "dashboardExportUpdatedAt": "2026-11-19T22:22:08.659Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T22:23:42.259Z",
+  "dashboardExportUpdatedAt": "2026-11-19T22:23:42.259Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -27,7 +27,7 @@
       "area": "Career move",
       "due": "",
       "status": "Not started",
-      "nextAction": "If a suitable offer arrives, compare written terms, contingencies and start date with the approved target and notice constraints; plan handover only after Varun decides. Do not resign or send acceptance/resignation messa"
+      "nextAction": "If an offer arrives, verify written terms, conditions and start date against goals and notice period. Plan handover only after Varun decides; do not send acceptance or resignation automatically."
     },
     {
       "id": "task-0",
