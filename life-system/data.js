@@ -1,9 +1,9 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T23:00:26.561Z",
+  "generatedAt": "2026-11-19T23:09:44.373Z",
   "sourceSnapshotStatus": "current-user-export",
-  "sourceSnapshotUpdatedAt": "2026-11-19T23:00:26.561Z",
-  "dashboardExportUpdatedAt": "2026-11-19T23:00:26.561Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T23:09:44.373Z",
+  "dashboardExportUpdatedAt": "2026-11-19T23:09:44.373Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -435,7 +435,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "YouTube g-5ojhJY63g is private, processed and scheduled for 20 Nov 18:00 IST. Separate vidIQ record: Instagram scheduled; its YouTube destination remains a draft with no time. Verify both separately after release."
+      "nextAction": "YouTube Short g-5ojhJY63g is private/processed and both entries show 20 Nov 18:00 IST. Confirm they use the same final media; matching schedules alone do not prove a crosspost."
     },
     {
       "id": "task-50",
@@ -571,7 +571,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "vidIQ shows YouTube draft: 1 image + 1 video; Instagram: 1 video. No playable preview or source IDs; asset match, provenance and brief fit remain unverified. Keep the 18:00 schedule unchanged."
+      "nextAction": "Both entries show 18:00 IST; YouTube g-5ojhJY63g is private/processed. Final media preview, source rights/provenance and approval remain unverified; leave the schedule unchanged."
     }
   ],
   "history": [
