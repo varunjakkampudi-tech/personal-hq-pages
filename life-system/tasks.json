@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T20:39:04.9568406Z",
+  "generatedAt": "2026-11-19T21:04:17.5458309Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-19T20:39:04.9568406Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T21:04:17.5458309Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -530,7 +530,7 @@
       "area": "ValueMela",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Compare the App Policy with Factori terms effective at consent (19 Nov 2026), including incorporated payment terms; document responsibility for unauthorized or erroneous transactions, refunds/disputes/third-party claims, notice obligations and deadlines, escalation channels, evidence requirements and remedy limits. Send unresolved significant questions for qualified legal review before a commercial-use decision."
+      "nextAction": "Compare the App Policy with Factori terms effective at consent, including incorporated partner/payment terms; capture agreement versions/dates, unauthorized or erroneous transaction responsibility, refunds/disputes/third-party claims, notice duties/deadlines, escalation channels, evidence requirements and remedy limits. Route unresolved significant questions for qualified legal review before any commercial-use decision."
     },
     {
       "id": "task-56",
@@ -538,7 +538,7 @@
       "area": "ValueMela",
       "due": "",
       "status": "Not started",
-      "nextAction": "After the CA confirms registration and applicable returns, define the filing-period checklist: reconcile orders, invoices, cancellations, refunds/credit notes, payment settlements, bank receipts, books and applicable GST portal data; track exceptions; obtain owner approval of final figures before filing and retain acknowledgements."
+      "nextAction": "After a CA confirms applicability, verify Factori invoice-level order, credit-note, refund and payment exports; reconcile platform reports, bank receipts, accounting and GST portal data, track exceptions and notices, and obtain owner approval of final figures before filing."
     },
     {
       "id": "task-57",
