@@ -74,7 +74,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2027-01-12",
       "status": "Not started",
-      "nextAction": "Set a weekly practice/networking slot; prepare two evidence-backed project explanations and a short introduction, plus a private application tracker and follow-up review."
+      "nextAction": "Set weekly practice; baseline technical gaps, track mock interviews, prepare two project walkthroughs, a short introduction and a private application tracker."
     },
     {
       "id": "task-7",

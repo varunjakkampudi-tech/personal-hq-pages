@@ -22,7 +22,9 @@ Before approving a resume or changing any profile, use the private career workbo
 - Results and skills: keep measurable claims only when baseline, method, period, attribution and disclosure are defensible; separate hands-on proficiency from technologies merely present in a project.
 - Resume review: classify each statement as verified, needs clarification or unsupported. Unsupported claims are removed or rewritten as accurate scope before approval.
 
-After the evidence baseline, prepare two interview-ready project explanations covering architecture, a design trade-off, a failure/edge case, validation and personal contribution. Build interview practice around the confirmed target and actual skill gaps; do not assume a particular seniority or stack beyond verified experience. The exact resume, profile text, applications and outreach remain review items before any external submission.
+Interview preparation can start in parallel with chronology and evidence verification: assess current skills, practice fundamentals and record mock-interview gaps without waiting for a final resume. Prepare two project explanations only as personal contributions are confirmed; cover architecture, a design trade-off, a failure/edge case, validation and ownership. Build practice around the confirmed target and actual skill gaps; do not assume a particular seniority or stack beyond verified experience.
+
+Keep two separate approval gates: (1) Varun accepts the exact private master-resume copy; (2) Varun separately approves the exact profile text, resume version, visibility and action before any upload, public profile change, application or outreach. Approval of one does not imply approval of the other.
 
 
 ## Additional portal privacy gates
