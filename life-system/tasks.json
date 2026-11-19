@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T20:34:49.6670677Z",
+  "generatedAt": "2026-11-19T20:39:04.9568406Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-19T20:34:49.6670677Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T20:39:04.9568406Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -539,6 +539,14 @@
       "due": "",
       "status": "Not started",
       "nextAction": "After the CA confirms registration and applicable returns, define the filing-period checklist: reconcile orders, invoices, cancellations, refunds/credit notes, payment settlements, bank receipts, books and applicable GST portal data; track exceptions; obtain owner approval of final figures before filing and retain acknowledgements."
+    },
+    {
+      "id": "task-57",
+      "title": "Verify AI World 360 scheduled media before release",
+      "area": "AI World 360",
+      "due": "2026-11-20",
+      "status": "Waiting",
+      "nextAction": "Before the 20 Nov 18:00 IST schedule, inspect the exact YouTube and Instagram media against the original animation brief; verify source/provenance and approval tied to each asset. Record a GO/NO-GO. If exact assets cannot be verified, do not treat the schedule as approved; seek the account-owner decision. Do not change or cancel a schedule without explicit instruction."
     }
   ],
   "history": [
