@@ -1,0 +1,26 @@
+{
+  "description": "Evidence-backed milestones noted in Personal HQ records. This is not a complete life history; add past moments through Life log.",
+  "events": [
+    {
+      "date": "2026-11-19",
+      "area": "ValueMela",
+      "title": "Store launch confirmation recorded",
+      "status": "Done",
+      "evidence": "A store launch confirmation was recorded in the task snapshot."
+    },
+    {
+      "date": "2026-11-19",
+      "area": "ValueMela",
+      "title": "Payment provider documents submitted for review",
+      "status": "Waiting",
+      "evidence": "Submission was confirmed; merchant approval was not confirmed."
+    },
+    {
+      "date": "2026-11-19",
+      "area": "AI World 360",
+      "title": "Platform publication checks left open",
+      "status": "Waiting",
+      "evidence": "The available review showed scheduled items but no verified live URLs at that check."
+    }
+  ]
+}

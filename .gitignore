@@ -1,5 +1,8 @@
 *.json
+!life-system/tasks.json
+!life-system/history.json
 *.zip
 *.backup
 private/
 sanitize-pages.ps1
+.playwright-cli/

@@ -1,18 +1,11 @@
-# Personal HQ · GitHub Pages edition
+# Personal HQ
 
-A public, static Personal HQ template for GitHub Pages. It contains generic categories and no personal tasks or profile information.
+The Pages site redirects to [`life-system/`](life-system/), a responsive life dashboard with task tracking, dated history, project plans, routine check-ins, and backup/restore.
 
-## Privacy and storage
+## Public data and sync
 
-GitHub Pages sites are public. The template contains only generic categories and no personal tasks. Tasks and check-ins entered after loading are stored in that visitor’s browser local storage; the site itself does not upload or synchronize them. Do not enter secrets, credentials, sensitive identifiers, or records that should not be stored in the browser.
+This repository and website are public. The task list and planning notes are readable by anyone. Keep resumes, private profile details, customer records, contact information, credentials, identity documents, health records, and banking/tax identifiers out of public files.
 
-This is a client-only dashboard. It has no account system, server-side database, or authentication. **Backup** downloads a full local copy. Before syncing from this Pages dashboard, use **Restore** with a complete backup from your desktop dashboard. **Sync tasks** downloads an export; it does not send data to the Pages host. The configured desktop watcher can transfer that export into the public Personal HQ GitHub repository, where task details and repository history are visible to anyone. Keep personal details, customer data, contact information, credentials and government identifiers out of tasks and exports. The watcher refuses incomplete exports that omit existing task IDs. The watcher is not part of this public website, and the site does not confirm whether it processed the file. Browser storage remains specific to that browser and device; use the export/restore controls to move data.
+Dashboard changes are saved in the current browser. **Backup** downloads a restorable copy. **Export tasks** creates a fresh task snapshot; the desktop watcher can publish a sanitized task-only feed to the public Personal HQ repository for the 9 AM review. On Pages, **Load latest tasks** fetches that feed after a fresh sync; confirm before replacing browser-local task changes and back them up first. The starter snapshot is unreconciled until a fresh dashboard export is reviewed and synced.
 
-## Publish
-
-Create a public GitHub repository containing only `index.html`, `life-log.html`, this `README.md`, and `.nojekyll`. Then set **Settings → Pages → Deploy from a branch**, select `main` and `/(root)`. The public website URL will appear in the Pages settings after deployment completes. Do not push the private desktop Personal HQ folder into this repository.
-
-## Local use
-
-Open `index.html` directly in a browser. Browser storage is local to that browser and device.
-
+The desktop source and full operating notes are in the [`varunjakkampudi-tech/personal-hq` repository](https://github.com/varunjakkampudi-tech/personal-hq).
