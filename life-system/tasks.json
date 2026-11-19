@@ -26,7 +26,7 @@
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Full-stack target confirmed; verify employment chronology, backend ownership and project evidence; then draft a full-stack resume review copy and verify portal links."
+      "nextAction": "Review the private draft as an unapproved copy; verify chronology, personal backend/project ownership, claims, disclosure and credentials before external use."
     },
     {
       "id": "task-1",
@@ -34,7 +34,7 @@
       "area": "Career move",
       "due": "2026-12-01",
       "status": "Not started",
-      "nextAction": "Choose target roles, locations and salary range"
+      "nextAction": "After evidence review, privately confirm target roles, location/work mode, seniority, compensation, notice period and constraints."
     },
     {
       "id": "task-2",
@@ -42,7 +42,7 @@
       "area": "Career move",
       "due": "2026-12-08",
       "status": "Not started",
-      "nextAction": "Create a master career profile and achievement bank"
+      "nextAction": "Build a private achievement bank; tie each result to personal contribution, evidence, period, baseline and disclosure permission."
     },
     {
       "id": "task-3",
@@ -50,7 +50,7 @@
       "area": "Career move",
       "due": "2026-12-15",
       "status": "Not started",
-      "nextAction": "Draft a resume for review"
+      "nextAction": "Draft a private resume from verified facts; label each claim verified, needs clarification or unsupported, and remove unsupported claims."
     },
     {
       "id": "task-4",
@@ -58,7 +58,7 @@
       "area": "Career move",
       "due": "2026-12-22",
       "status": "Not started",
-      "nextAction": "Update LinkedIn and Naukri after resume review"
+      "nextAction": "Only after Varun approves the final resume and exact profile text, update LinkedIn/Naukri; review visibility and imported fields first."
     },
     {
       "id": "task-5",
@@ -66,7 +66,7 @@
       "area": "Career move",
       "due": "2027-01-05",
       "status": "Not started",
-      "nextAction": "Review Indeed, Cutshort and relevant job portals"
+      "nextAction": "Review Indeed, Cutshort and other relevant portals; verify role fit, account/consent flow, imported fields and visibility before any profile change."
     },
     {
       "id": "task-6",
@@ -74,7 +74,7 @@
       "area": "Career move",
       "due": "2027-01-12",
       "status": "Not started",
-      "nextAction": "Set weekly networking and interview practice cadence"
+      "nextAction": "Set a weekly practice/networking slot; prepare two evidence-backed project explanations and a short introduction, plus a private application tracker and follow-up review."
     },
     {
       "id": "task-7",
@@ -82,7 +82,7 @@
       "area": "Career move",
       "due": "2026-12-04",
       "status": "Not started",
-      "nextAction": "Verify experience dates, client responsibilities and measured resume impact claims"
+      "nextAction": "Verify chronology, client/project responsibilities and each metric against non-confidential evidence; soften or remove claims that cannot be supported or disclosed."
     },
     {
       "id": "task-8",
@@ -90,7 +90,7 @@
       "area": "Career move",
       "due": "2026-12-06",
       "status": "Not started",
-      "nextAction": "Choose target role families and identify any skill gaps"
+      "nextAction": "Map representative full-stack job requirements to verified evidence; record skill gaps and practice steps, then choose adjacent role families only if useful."
     },
     {
       "id": "task-9",
@@ -98,7 +98,7 @@
       "area": "Career move",
       "due": "2026-12-18",
       "status": "Not started",
-      "nextAction": "Prepare a reviewed master resume and role-specific versions"
+      "nextAction": "Approve every resume statement, then prepare an ATS-readable master and justified role versions; keep files private and get review before use."
     },
     {
       "id": "task-10",
@@ -378,7 +378,7 @@
       "area": "Career move",
       "due": "2026-11-30",
       "status": "Not started",
-      "nextAction": "Choose the primary role focus, then verify resume claims and complete the private career intake."
+      "nextAction": "When ready, complete the private career intake for role constraints, chronology, interview availability and profile URLs; never record passwords or OTPs."
     },
     {
       "id": "task-45",

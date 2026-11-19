@@ -10,7 +10,19 @@
 4. **LinkedIn and Naukri (by 5 Jan):** update headline, summary, chronology, skills, projects and preferences from the approved source. Check visibility and current account settings.
 5. **Indeed and Cutshort (by 10 Jan):** refresh or create only after checking onboarding, imported data, visibility and account-link permissions. Inspect each field before saving.
 6. **Additional channels (by 12 Jan):** compare platforms such as Instahyre, Wellfound, Foundit, Hirist or company career pages. Treat these as candidates: verify role fit, location, current operation, privacy and cost before registering.
-7. **Readiness (by 31 Jan):** finish interview stories, portfolio evidence, networking cadence and an application tracker. Review each profile and outreach message before submission.
+7. **Readiness (by 31 Jan):** finish interview stories, portfolio evidence, networking cadence and an application tracker. Review each profile and outreach message before submission. Readiness means: explain two verified projects and personal contributions; complete a role-to-evidence/skill-gap matrix from representative job descriptions; prepare a 30–60 second introduction consistent with the approved resume; confirm interview availability and joining constraints; and review the application pipeline weekly. Keep employer names and application details in a private tracker.
+
+## Resume and interview acceptance gates
+
+Before approving a resume or changing any profile, use the private career workbook and verify:
+
+- Chronology: employer, role/title changes, start/end dates, employment type and any overlapping periods, using non-confidential records.
+- Ownership: for each frontend, backend, database, test and infrastructure claim, record whether Varun designed, implemented, debugged, reviewed or only observed the work. Do not turn project code or an account-authored PR into a sole-authorship claim without confirming the actual contribution.
+- Projects: map every proposed project bullet to a repository/PR, exact feature slice, personally owned contribution, validation evidence and allowed disclosure. Keep local, CI, branch-merged and production evidence distinct.
+- Results and skills: keep measurable claims only when baseline, method, period, attribution and disclosure are defensible; separate hands-on proficiency from technologies merely present in a project.
+- Resume review: classify each statement as verified, needs clarification or unsupported. Unsupported claims are removed or rewritten as accurate scope before approval.
+
+After the evidence baseline, prepare two interview-ready project explanations covering architecture, a design trade-off, a failure/edge case, validation and personal contribution. Build interview practice around the confirmed target and actual skill gaps; do not assume a particular seniority or stack beyond verified experience. The exact resume, profile text, applications and outreach remain review items before any external submission.
 
 
 ## Additional portal privacy gates
