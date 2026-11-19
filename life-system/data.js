@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T19:32:24.173Z",
+  "generatedAt": "2026-11-19T19:41:44.925Z",
   "sourceSnapshotStatus": "current-user-export",
-  "sourceSnapshotUpdatedAt": "2026-11-19T19:32:24.173Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T19:41:44.925Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -498,7 +498,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "Done",
-      "nextAction": "Independent mobile review applied and live-verified: first-screen Add task, separate deadline/status cues and 44px checkbox targets."
+      "nextAction": "Live-checked at 1440x1000, 390x844 and 320x720: no horizontal overflow at 390 or 320; mobile task cards and navigation fit; refresh confirmation now has its own line."
     },
     {
       "id": "task-52",
