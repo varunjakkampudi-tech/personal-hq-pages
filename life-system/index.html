@@ -89,7 +89,21 @@
   .task-pagination .secondary{width:100%}
   .task-table td:first-child>.textbtn{display:flex;align-items:center;width:100%;min-height:44px;font-size:12px;font-weight:700}
   .task-table select{min-height:44px}
-  #nextTasks .task-meta{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
+#nextTasks .task-meta{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
+}
+/* Type hierarchy for readable status and controls at desktop and mobile sizes. */
+.banner{font-size:12px}
+.secondary,.primary,.iconbtn{font-size:12px}
+.nav button,.nav a{font-size:13px}
+@media(max-width:650px){
+  .mobile-nav button{font-size:10px;min-height:44px}
+  .top-actions button{font-size:11px}
+  .task-table td:nth-child(2),.task-table td:nth-child(3){font-size:11px}
+  .task-table select{font-size:12px}
+  .task-row .pill{font-size:10px}
+  .priority-actions .textbtn{font-size:10px}
+  .priority-actions .primary{font-size:11px}
+  .task-pagination{font-size:12px}
 }
 </style>
 <body><div class="shell"><aside class="side"><div class="brand"><div class="brand-mark">H</div><div><b>Personal HQ</b><small>Life in motion</small></div></div><div class="navlabel">My workspace</div><nav class="nav" id="sideNav"><button class="active" data-view="home"><span class="glyph">⌂</span>Today</button><button data-view="tasks"><span class="glyph">☷</span>All tasks</button><button data-view="projects"><span class="glyph">◫</span>Projects</button><button data-view="timeline"><span class="glyph">⌁</span>Timeline</button><button data-view="routine"><span class="glyph">◷</span>Routine & health</button><a href="life-log.html"><span class="glyph">↺</span>Life log</a></nav><div class="navlabel" style="margin-top:18px">Focus areas</div><nav class="nav" id="focusNav"><button data-area="Career move"><span class="glyph">↗</span>Career move</button><button data-area="Dairy farm"><span class="glyph">♧</span>Dairy farm</button><button data-area="AI World 360"><span class="glyph">▷</span>AI World 360</button><button data-area="ValueMela"><span class="glyph">◈</span>ValueMela</button></nav><div class="side-foot"><strong>One place for the whole picture</strong>Keep plans moving. Store sensitive details in private, secure storage.</div></aside>
