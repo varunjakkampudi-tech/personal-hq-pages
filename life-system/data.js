@@ -458,11 +458,11 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": null,
       "status": "Waiting",
-      "nextAction": "Follow up on ValueMela storefront support requests",
+      "nextAction": "Check for a reply about the branded customer-facing support email setting; preserve account sign-in and order-notification routing.",
       "owner": "Varun",
-      "source": "Personal HQ task snapshot",
+      "source": "Gmail sent support request, 19 Nov 2026",
       "createdAt": "2026-11-19",
-      "notes": ""
+      "notes": "A branded-email configuration request was sent to the platform support addresses on 19 Nov. No support reply was found in the recent inbox search."
     },
     {
       "id": "task-37",
@@ -478,15 +478,15 @@ window.PERSONAL_HQ_SEED = {
     },
     {
       "id": "task-38",
-      "title": "Review Factori access grant to ValueMela's Razorpay account",
+      "title": "Review external payment-platform access",
       "area": "ValueMela",
       "due": null,
       "status": "Waiting",
       "nextAction": "Review Factori access grant to ValueMela's Razorpay account",
       "owner": "Varun",
-      "source": "Personal HQ task snapshot",
+      "source": "Business account permission notification, 19 Nov 2026",
       "createdAt": "2026-11-19",
-      "notes": ""
+      "notes": "A payment provider notified that third-party platform access was granted. Confirm the intended scope in the provider dashboard; do not revoke automatically."
     },
     {
       "id": "task-39",
@@ -517,12 +517,12 @@ window.PERSONAL_HQ_SEED = {
       "title": "Review FixHub24 dependency audit findings",
       "area": "FixHub24",
       "due": null,
-      "status": "Not started",
-      "nextAction": "Review current advisories and compatibility, then confirm project authorization before changing dependencies.",
+      "status": "In progress",
+      "nextAction": "Review Dependabot PR #23 and #24 validation and decide merge order; do not merge or change dependencies without owner authorization.",
       "owner": "Varun",
-      "source": "Personal HQ task snapshot",
+      "source": "GitHub Actions and FixHub24 lockfile, 19 Nov 2026",
       "createdAt": "2026-11-19",
-      "notes": ""
+      "notes": "Run 44498373031 on main SHA 7ce251f8c253f5729156acf0d88953082140a37a failed Dependency Vulnerability Audit. Lockfile has body-parser 2.3.0 via Express 5.3.0 (GHSA-27r3-jxmh-p828, high) and seroval 1.6.9 via TanStack packages (GHSA-f86p-h4j2-7qgj and GHSA-9wx9-5pv9-3349, moderate). Dependabot PR #23 upgrades body-parser to 2.4.0 and its check passed. PR #24 upgrades seroval to 1.7.7; its tests/build passed but audit still failed because body-parser remained. The local FixHub24 checkout has an unrelated dirty .env.example; it was preserved and not edited."
     },
     {
       "id": "task-42",
@@ -541,12 +541,12 @@ window.PERSONAL_HQ_SEED = {
       "title": "Review latest CareerScope browser check failure",
       "area": "CareerScope",
       "due": null,
-      "status": "Not started",
-      "nextAction": "Inspect current run evidence and honor active stage authorization before any code change.",
+      "status": "Done",
+      "nextAction": "Failure review is complete; PR #108 remains open pending owner-authorized merge.",
       "owner": "Varun",
-      "source": "Personal HQ task snapshot",
+      "source": "CareerScope GitHub Actions run 44512467883 and PR #108",
       "createdAt": "2026-11-19",
-      "notes": ""
+      "notes": "Run 44512467883 passed all jobs on exact PR head 15dac2a1f68333a2427075ff8f29480a516c7159. Earlier run 44509297019 failed Firefox notifications-before-read because repeated GET /jobs requests continued during fixture reset. PR #108 remains open; owner merge authorization is pending."
     },
     {
       "id": "task-44",
@@ -697,13 +697,6 @@ window.PERSONAL_HQ_SEED = {
     {
       "date": "2026-11-19",
       "area": "ValueMela",
-      "title": "Store launch confirmation recorded",
-      "status": "Done",
-      "evidence": "A store launch confirmation was recorded in the task snapshot."
-    },
-    {
-      "date": "2026-11-19",
-      "area": "ValueMela",
       "title": "Payment provider documents submitted for review",
       "status": "Waiting",
       "evidence": "Submission was confirmed; merchant approval was not confirmed."
@@ -721,6 +714,34 @@ window.PERSONAL_HQ_SEED = {
       "title": "PR #108 exact-head browser CI passed; merge remains pending",
       "status": "Waiting",
       "evidence": "GitHub Actions run 44512467883 succeeded for exact PR head 15dac2a1f68333a2427075ff8f29480a516c7159, including browser suite. PR #108 remains open and awaits owner merge authorization. Earlier run 44509297019 failed Firefox notifications-before-read fixture reset because repeated GET /jobs requests did not stop."
+    },
+    {
+      "date": "2026-11-19",
+      "area": "ValueMela",
+      "title": "Store launch confirmation recorded",
+      "status": "Done",
+      "evidence": "A store launch confirmation was recorded in the task snapshot."
+    },
+    {
+      "date": "2026-11-19",
+      "area": "CareerScope",
+      "title": "PR #108 browser failure reviewed; exact-head CI now passes",
+      "status": "Waiting",
+      "evidence": "Run 44512467883 passed all jobs on exact PR head 15dac2a1f68333a2427075ff8f29480a516c7159. Earlier run 44509297019 failed Firefox notifications-before-read because repeated GET /jobs requests continued during fixture reset. PR #108 remains open; owner merge authorization is pending."
+    },
+    {
+      "date": "2026-11-19",
+      "area": "FixHub24",
+      "title": "Dependency audit updates are open for owner review",
+      "status": "Waiting",
+      "evidence": "Run 44498373031 on main SHA 7ce251f8c253f5729156acf0d88953082140a37a failed Dependency Vulnerability Audit. Lockfile has body-parser 2.3.0 via Express 5.3.0 (GHSA-27r3-jxmh-p828, high) and seroval 1.6.9 via TanStack packages (GHSA-f86p-h4j2-7qgj and GHSA-9wx9-5pv9-3349, moderate). Dependabot PR #23 upgrades body-parser to 2.4.0 and its check passed. PR #24 upgrades seroval to 1.7.7; its tests/build passed but audit still failed because body-parser remained. No FixHub24 files were edited."
+    },
+    {
+      "date": "2026-11-19",
+      "area": "ValueMela",
+      "title": "Branded support-email setup requested",
+      "status": "Waiting",
+      "evidence": "A request was sent to store-platform support on 19 Nov asking how to configure a branded customer-facing email. Recent inbox search found no reply."
     }
   ]
 };
