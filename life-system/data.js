@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T14:23:56.224Z",
+  "generatedAt": "2026-11-19T14:32:04.813Z",
   "sourceSnapshotStatus": "current-user-export",
-  "sourceSnapshotUpdatedAt": "2026-11-19T14:23:56.224Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T14:32:04.813Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -393,8 +393,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Set up AI World 360 daily publishing log and workflow",
       "area": "AI World 360",
       "due": "2026-11-25",
-      "status": "Not started",
-      "nextAction": "Set up AI World 360 daily publishing log and workflow"
+      "status": "In progress",
+      "nextAction": "Capture channel format, language and timing preferences; record evidence for final-asset and schedule review; verify both destinations and add live URLs after the 20 Nov schedule."
     },
     {
       "id": "task-48",
