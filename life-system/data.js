@@ -26,11 +26,11 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Review the latest resume from private Drive; confirm chronology and collect the remaining profile links and role constraints.",
+      "nextAction": "Confirm full employment chronology and role direction; verify the live LinkedIn profile and collect Naukri, Indeed and Cutshort URLs or account status.",
       "owner": "Varun",
-      "source": "Personal HQ task snapshot",
+      "source": "Private Drive resume comparison and public LinkedIn search, 19 Nov 2026",
       "createdAt": "2026-11-19",
-      "notes": ""
+      "notes": "The current Drive PDF and DOCX have matching extracted content after normalizing PDF headline spacing; both were modified 16 Sep 2026. The resume summary says 4 years while visible Credera chronology starts Mar 2023 (3 years 8 months on 19 Nov 2026); verify whether earlier experience is missing or adjust only after confirmation. A public LinkedIn search result crawled about five months earlier describes an AEM-focused profile and lists TA Digital, unlike the resume full-stack direction and Credera naming. This is stale index evidence, not a live audit. No profile was edited."
     },
     {
       "id": "task-1",
@@ -742,6 +742,13 @@ window.PERSONAL_HQ_SEED = {
       "title": "Branded support-email setup requested",
       "status": "Waiting",
       "evidence": "A request was sent to store-platform support on 19 Nov asking how to configure a branded customer-facing email. Recent inbox search found no reply."
+    },
+    {
+      "date": "2026-11-19",
+      "area": "Career move",
+      "title": "Resume sources compared; career profile review remains open",
+      "status": "In progress",
+      "evidence": "The current Drive PDF and DOCX have matching extracted content after normalizing PDF headline spacing; both were modified 16 Sep 2026. The resume summary says 4 years while visible Credera chronology starts Mar 2023 (3 years 8 months on 19 Nov 2026); verify whether earlier experience is missing or adjust only after confirmation. A public LinkedIn search result crawled about five months earlier describes an AEM-focused profile and lists TA Digital, unlike the resume full-stack direction and Credera naming. This is stale index evidence, not a live audit. No profile was edited."
     }
   ]
 };
