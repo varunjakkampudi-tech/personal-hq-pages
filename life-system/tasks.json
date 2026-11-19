@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T22:23:42.259Z",
+  "generatedAt": "2026-11-19T22:48:09.814Z",
   "sourceSnapshotStatus": "current-user-export",
-  "sourceSnapshotUpdatedAt": "2026-11-19T22:23:42.259Z",
-  "dashboardExportUpdatedAt": "2026-11-19T22:23:42.259Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T22:48:09.814Z",
+  "dashboardExportUpdatedAt": "2026-11-19T22:48:09.814Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -21,6 +21,14 @@
     "ValueMela"
   ],
   "tasks": [
+    {
+      "id": "19c10a01-500c-4647-ade7-98d3bbceccab",
+      "title": "Plan veterinarian-led livestock sourcing and intake",
+      "area": "Dairy farm",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "With the local vet, define sourcing criteria, health checks and records, isolation, acclimation, transport, and phased purchase timing for the confirmed species and 20-head launch. Keep animal and vendor details private."
+    },
     {
       "id": "450b46bf-f3c4-4ef2-b7df-9e451089dd58",
       "title": "Prepare offer evaluation and resignation handover checklist",
