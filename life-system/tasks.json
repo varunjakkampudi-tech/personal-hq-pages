@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T21:04:17.5458309Z",
+  "generatedAt": "2026-11-19T21:14:07.0343403Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-19T21:04:17.5458309Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T21:14:07.0343403Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -410,7 +410,7 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "After the matched 20 Nov 18:00 IST Instagram and YouTube schedules, verify both destination statuses, public visibility, and live URLs; carry forward any failure."
+      "nextAction": "Instagram is scheduled for 20 Nov 18:00 IST; the YouTube destination is still a draft. After the scheduled time, verify each destination state and its live URL; keep any unsent or failed destination open."
     },
     {
       "id": "task-50",
@@ -546,7 +546,7 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Before the 20 Nov 18:00 IST schedule, inspect the exact YouTube and Instagram media against the original animation brief; verify source/provenance and approval tied to each asset. Record a GO/NO-GO. If exact assets cannot be verified, do not treat the schedule as approved; seek the account-owner decision. Do not change or cancel a schedule without explicit instruction."
+      "nextAction": "Before the Instagram 20 Nov 18:00 IST schedule, inspect the exact media against the original-animation brief and verify source/provenance and approval for each destination. The post is labelled an unofficial fan edit and YouTube remains a draft. Record a GO/NO-GO; do not change or cancel schedules without explicit instruction."
     }
   ],
   "history": [
