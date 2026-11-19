@@ -499,6 +499,22 @@ window.PERSONAL_HQ_SEED = {
       "due": "",
       "status": "Done",
       "nextAction": "Independent mobile review applied and live-verified: first-screen Add task, separate deadline/status cues and 44px checkbox targets."
+    },
+    {
+      "id": "task-52",
+      "title": "Reconcile Personal HQ registry, dashboard and export",
+      "area": "Life admin",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "Open the desktop Personal HQ dashboard with the complete local task list, export tasks, let the watcher validate the file, then verify task IDs/statuses match the private registry and sanitized public feed before treating status percentages as authoritative."
+    },
+    {
+      "id": "task-53",
+      "title": "Verify daily 9 AM IST task email delivery",
+      "area": "Life admin",
+      "due": "2026-11-20",
+      "status": "Waiting",
+      "nextAction": "After the next 9 AM IST automation run, verify the date-specific summary arrived with the correct task-data freshness and that earlier matching Personal HQ summaries were archived only after send succeeded; record any delivery or duplicate issue."
     }
   ],
   "history": [
