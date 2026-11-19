@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T23:26:27.522Z",
+  "generatedAt": "2026-11-19T23:45:04.367Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-19T23:26:27.522Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T23:45:04.367Z",
   "dashboardExportUpdatedAt": "2026-11-19T23:09:44.373Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -106,8 +106,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Verify experience dates, client responsibilities and measured resume impact claims",
       "area": "Career move",
       "due": "2026-12-04",
-      "status": "Not started",
-      "nextAction": "Verify chronology, client/project responsibilities and each metric against non-confidential evidence; soften or remove claims that cannot be supported or disclosed."
+      "status": "In progress",
+      "nextAction": "The available resume pair says “4 years,” while its visible employment dates start in March 2023. Confirm whether earlier experience is missing; then verify each measured claim, personal contribution, and disclosure permission against non-confidential evidence before reuse. Keep resume details private."
     },
     {
       "id": "task-8",
