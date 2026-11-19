@@ -12,6 +12,12 @@
 6. **Additional channels (by 12 Jan):** compare platforms such as Instahyre, Wellfound, Foundit, Hirist or company career pages. Treat these as candidates: verify role fit, location, current operation, privacy and cost before registering.
 7. **Readiness (by 31 Jan):** finish interview stories, portfolio evidence, networking cadence and an application tracker. Review each profile and outreach message before submission.
 
+
+## Additional portal privacy gates
+
+**Foundit:** Its current privacy notice says it may collect publicly available personal information from unregistered users and third-party sources, including LinkedIn and Facebook, to make profiles accessible to potential employers. Registration may not be the first point at which public profile data is processed. Before using Foundit, check whether a profile already exists, clarify current opt-out, correction and deletion routes with Foundit, and proceed only if this exposure is acceptable. Recheck the live notice and controls at setup.
+
+**Wellfound:** It says its Public Profile remains viewable even when the Jobs Profile is closed. Jobs Profile recruiter visibility depends on job-search settings or applications; current-employer exclusion depends on marking the current role accurately. The help page was last updated 23 February 2023, so recheck live settings at setup. [Foundit privacy notice](https://www.foundit.in/info/privacy); [Wellfound profile visibility](https://help.wellfound.com/article/829-how-do-profiles-work-what-is-the-difference-between-a-job-profile-and-public-profile).
 ## Profile checklist
 
 | Channel | Review | Gate |
