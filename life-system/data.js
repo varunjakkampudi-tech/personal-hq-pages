@@ -590,9 +590,9 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Verify Nov 19 AI World 360 crosspost delivery",
+      "nextAction": "After the 19 Nov 18:00 IST Instagram schedule, verify its final platform status and live URL; check whether a YouTube destination was added. Last vidIQ snapshot showed Instagram scheduled and no YouTube destination.",
       "owner": "Varun",
-      "source": "Personal HQ task snapshot",
+      "source": "vidIQ social-post read-only snapshot, 19 Nov 2026 17:51 IST; current delivery still unverified",
       "createdAt": "2026-11-19",
       "notes": ""
     },
@@ -602,9 +602,9 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Resolve YouTube crosspost for Nov 20 scheduled Instagram video",
+      "nextAction": "Before the 20 Nov 18:00 IST Instagram schedule, decide/confirm the matching YouTube upload or crosspost; then verify each platform separately. Last vidIQ snapshot showed Instagram scheduled and no YouTube destination.",
       "owner": "Varun",
-      "source": "Personal HQ task snapshot",
+      "source": "vidIQ social-post read-only snapshot, 19 Nov 2026 17:51 IST; current delivery still unverified",
       "createdAt": "2026-11-19",
       "notes": ""
     },

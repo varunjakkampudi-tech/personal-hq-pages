@@ -63,6 +63,13 @@
       "title": "Daily Personal HQ task summary emailed",
       "status": "Done",
       "evidence": "Fresh date-specific summary sent to the authenticated Gmail account under subject [Personal HQ Daily Tasks] 2026-11-19. Exact search found no prior matching summary threads, so none required archiving. Dashboard registry remained unreconciled; summary labels seeded task statuses unverified."
+    },
+    {
+      "date": "2026-11-19",
+      "area": "AI World 360",
+      "title": "AI World 360 upcoming Instagram posts checked",
+      "status": "Waiting",
+      "evidence": "vidIQ read-only list checked at 17:51 IST for 17–21 Nov. Instagram-only scheduled destinations: calf video 19 Nov 18:00 IST and Dhoni edit 20 Nov 18:00 IST. No YouTube destination appeared in that window. Scheduled is not published; verify each platform and live URL after delivery. No post was edited, published, or cancelled."
     }
   ]
 }
