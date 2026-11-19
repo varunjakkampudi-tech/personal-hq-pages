@@ -6,6 +6,7 @@
 
 - Confirm site/village, land rights, access, flood/drainage constraints, setbacks, soil and local requirements.
 - Confirm cow, buffalo or mixed herd; production model, veterinary plan, feed/fodder, water, manure handling and milk buyer route.
+- Before buying animals, have the local veterinarian define sourcing criteria, health checks and records, isolation/acclimation, transport, and a phased purchase plan for the confirmed species and 20-head launch.
 - Have a qualified local veterinarian and engineer review housing, ventilation, flooring, drainage, waste handling and expansion.
 - Survey electrical loads before solar sizing: pumps, milking/chilling equipment, lighting, CCTV, communications and backup. Do not guess capacity before the load survey.
 - Prepare phased capital and operating budgets, contingency, working capital and a downside cash-flow case.
