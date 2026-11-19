@@ -6,7 +6,7 @@ A public, static Personal HQ template for GitHub Pages. It contains generic cate
 
 GitHub Pages sites are public. The template contains only generic categories and no personal tasks. Tasks and check-ins entered after loading are stored in that visitor’s browser local storage; the site itself does not upload or synchronize them. Do not enter secrets, credentials, sensitive identifiers, or records that should not be stored in the browser.
 
-This is a client-only dashboard. It has no account system, server-side database, or authentication. **Backup** downloads a full local copy. Before syncing this Pages dashboard to an existing private registry, use **Restore** with a complete backup from that private dashboard. **Sync tasks** downloads a task-registry export; it does not send data to the Pages host. The downloaded export contains the personal task details you entered, so keep it private. On the configured desktop, a separate local watcher can transfer a recent export from Downloads into a private registry. It refuses incomplete exports that omit existing private task IDs. The watcher is not part of this public website, and the site does not confirm whether it processed the file. Browser storage remains specific to that browser and device; use the export/restore controls to move data.
+This is a client-only dashboard. It has no account system, server-side database, or authentication. **Backup** downloads a full local copy. Before syncing from this Pages dashboard, use **Restore** with a complete backup from your desktop dashboard. **Sync tasks** downloads an export; it does not send data to the Pages host. The configured desktop watcher can transfer that export into the public Personal HQ GitHub repository, where task details and repository history are visible to anyone. Keep personal details, customer data, contact information, credentials and government identifiers out of tasks and exports. The watcher refuses incomplete exports that omit existing task IDs. The watcher is not part of this public website, and the site does not confirm whether it processed the file. Browser storage remains specific to that browser and device; use the export/restore controls to move data.
 
 ## Publish
 
@@ -15,3 +15,4 @@ Create a public GitHub repository containing only `index.html`, `life-log.html`,
 ## Local use
 
 Open `index.html` directly in a browser. Browser storage is local to that browser and device.
+
