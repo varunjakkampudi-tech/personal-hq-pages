@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:12:15.776Z",
-  "sourceSnapshotStatus": "current-user-export",
+  "generatedAt": "2026-11-19T16:25:20.422Z",
+  "sourceSnapshotStatus": "manual-update-needs-dashboard-reconciliation",
   "sourceSnapshotUpdatedAt": "2026-11-19T15:12:15.776Z",
-  "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
+  "description": "Public task snapshot. Personal notes and dashboard habit logs are not included. Latest tracker change is awaiting dashboard reconciliation.",
   "areas": [
     "AI World 360",
     "Career move",
@@ -410,7 +410,7 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "After the matched 20 Nov 18:00 IST Instagram and YouTube schedules, verify both destination statuses, public visibility, and live URLs; carry forward any failure."
+      "nextAction": "Before 20 Nov 2026 18:00 IST, inspect the exact scheduled video and verify it matches the approved original-animation brief and has an approval record. If media or approval cannot be verified, raise a release hold for a decision; then verify YouTube and Instagram status, visibility, and live URLs separately after the scheduled time."
     },
     {
       "id": "task-50",
