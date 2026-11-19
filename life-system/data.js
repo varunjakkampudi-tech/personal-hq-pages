@@ -266,11 +266,11 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "2026-11-25",
       "status": "Not started",
-      "nextAction": "Confirm ValueMela legal entity and actual sales/platform model",
+      "nextAction": "Record the legal entity and state, own-site vs marketplace sales, who invoices/collects/supplies, product and shipping states, turnover, and whether a section 52 TCS e-commerce operator warehouse is involved; keep identifiers private and ask the CA to assess Rule 14B eligibility.",
       "owner": "Varun",
-      "source": "Personal HQ task snapshot",
+      "source": "ValueMela model facts pending; official GST rules reviewed 19 Nov 2026",
       "createdAt": "2026-11-19",
-      "notes": ""
+      "notes": "Rule 14B took effect 1 Nov 2026 and may allow qualifying goods suppliers through a section 52 TCS operator to register in another state using an operator warehouse, subject to limits, consent, authentication and verification. Applicability to ValueMela is unknown. See life-system/plans/valuemela-gst.md. No legal entity or tax identifiers recorded."
     },
     {
       "id": "task-21",
@@ -518,11 +518,11 @@ window.PERSONAL_HQ_SEED = {
       "area": "FixHub24",
       "due": null,
       "status": "In progress",
-      "nextAction": "Review Dependabot PR #23 and #24 validation and decide merge order; do not merge or change dependencies without owner authorization.",
+      "nextAction": "Have the owner review PR #23 first; its exact-head CI and audit pass. Do not merge without owner authorization. PR #24 needs the body-parser security fix before its dependency audit can pass; recheck its base and CI after PR #23 is resolved.",
       "owner": "Varun",
-      "source": "GitHub Actions and FixHub24 lockfile, 19 Nov 2026",
+      "source": "GitHub PR heads and exact-head Actions runs/jobs/logs checked 19 Nov 2026",
       "createdAt": "2026-11-19",
-      "notes": "Run 44498373031 on main SHA 7ce251f8c253f5729156acf0d88953082140a37a failed Dependency Vulnerability Audit. Lockfile has body-parser 2.3.0 via Express 5.3.0 (GHSA-27r3-jxmh-p828, high) and seroval 1.6.9 via TanStack packages (GHSA-f86p-h4j2-7qgj and GHSA-9wx9-5pv9-3349, moderate). Dependabot PR #23 upgrades body-parser to 2.4.0 and its check passed. PR #24 upgrades seroval to 1.7.7; its tests/build passed but audit still failed because body-parser remained. The local FixHub24 checkout has an unrelated dirty .env.example; it was preserved and not edited."
+      "notes": "Read-only check on 19 Nov 2026: PR #23 is open and mergeable at head d9a1780c1dde723de54086457fd4b5c630d362eb; workflow run 41199274783 passed, including Dependency Vulnerability Audit. PR #24 is open and mergeable at head c4f0bdd5dc25804c212f29cbe8bcb3de7c6b4193; workflow run 41761900612 failed at Dependency Vulnerability Audit. Its log reports body-parser 2.0.0-2.3.0 as high severity (GHSA-27r3-jxmh-p828). Lint, typecheck, test suites and production build completed successfully before the audit. The PR #24 change only upgrades seroval, so it does not resolve the body-parser finding. No PRs were merged and no dependencies were changed."
     },
     {
       "id": "task-42",
@@ -749,34 +749,6 @@ window.PERSONAL_HQ_SEED = {
       "title": "Resume sources compared; career profile review remains open",
       "status": "In progress",
       "evidence": "The current Drive PDF and DOCX have matching extracted content after normalizing PDF headline spacing; both were modified 16 Sep 2026. The resume summary says 4 years while visible Credera chronology starts Mar 2023 (3 years 8 months on 19 Nov 2026); verify whether earlier experience is missing or adjust only after confirmation. A public LinkedIn search result crawled about five months earlier describes an AEM-focused profile and lists TA Digital, unlike the resume full-stack direction and Credera naming. This is stale index evidence, not a live audit. No profile was edited."
-    },
-    {
-      "date": "2026-11-19",
-      "area": "Life admin",
-      "title": "Daily Personal HQ task summary emailed",
-      "status": "Done",
-      "evidence": "Fresh date-specific summary sent to the authenticated Gmail account under subject [Personal HQ Daily Tasks] 2026-11-19. Exact search found no prior matching summary threads, so none required archiving. Dashboard registry remained unreconciled; summary labels seeded task statuses unverified."
-    },
-    {
-      "date": "2026-11-19",
-      "area": "AI World 360",
-      "title": "AI World 360 Nov 19 crosspost completed",
-      "status": "Done",
-      "evidence": "vidIQ Instagram post status showed completed with live URL https://www.instagram.com/reel/Df7FYR9Cxeh/. Authorized YouTube uploads showed matching Short ID mhTCwnHwdW4 as public and processed, published 19 Nov 2026 12:30:31 UTC. Both destinations are evidenced."
-    },
-    {
-      "date": "2026-11-19",
-      "area": "AI World 360",
-      "title": "Nov 20 AI World 360 crosspost schedule matched",
-      "status": "Waiting",
-      "evidence": "Instagram scheduled for 20 Nov 2026 18:00 IST. Matching YouTube Short ID g-5ojhJY63g is processed, private pending scheduled publish at 20 Nov 2026 18:00 IST. Verify both platforms and public visibility after the schedule; no changes made."
-    },
-    {
-      "date": "2026-11-19",
-      "area": "ValueMela",
-      "title": "ValueMela signup notices identified",
-      "status": "Waiting",
-      "evidence": "Gmail showed two new-customer signup notification messages on 19 Nov. Customer records were not opened and no customer personal details were copied to Personal HQ. Next action: review in the private store console."
     }
   ]
 };
