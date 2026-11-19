@@ -329,8 +329,8 @@
       "title": "Review external payment-platform access",
       "area": "ValueMela",
       "due": "",
-      "status": "Waiting",
-      "nextAction": "Review Factori access grant to ValueMela's Razorpay account"
+      "status": "In progress",
+      "nextAction": "Read-only check current authorized-app status and access/audit history in Razorpay; documented consent scope is reviewed, but current status remains unverified. Do not change or revoke access."
     },
     {
       "id": "task-39",
