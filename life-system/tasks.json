@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T23:09:44.373Z",
-  "sourceSnapshotStatus": "current-user-export",
-  "sourceSnapshotUpdatedAt": "2026-11-19T23:09:44.373Z",
+  "generatedAt": "2026-11-19T23:26:27.522Z",
+  "sourceSnapshotStatus": "merged-desktop-task-update",
+  "sourceSnapshotUpdatedAt": "2026-11-19T23:26:27.522Z",
   "dashboardExportUpdatedAt": "2026-11-19T23:09:44.373Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
-    "AI World 360",
+    "Life admin",
+    "Dairy farm",
     "Career move",
     "CareerScope",
-    "Dairy farm",
+    "AI World 360",
+    "ValueMela",
+    "Personal & health",
+    "OraOne",
+    "Godavari dairy guide",
     "Family",
     "FixHub24",
-    "Godavari dairy guide",
     "LensMate",
-    "Life admin",
-    "OraOne",
-    "Personal & health",
-    "Training & learning",
-    "ValueMela"
+    "Training & learning"
   ],
   "tasks": [
     {
@@ -572,6 +572,22 @@
       "due": "2026-11-20",
       "status": "Waiting",
       "nextAction": "Both entries show 18:00 IST; YouTube g-5ojhJY63g is private/processed. Final media preview, source rights/provenance and approval remain unverified; leave the schedule unchanged."
+    },
+    {
+      "id": "task-58",
+      "title": "Run the weekly cross-project priorities and capacity review",
+      "area": "Life admin",
+      "due": "2026-11-22",
+      "status": "Not started",
+      "nextAction": "Once each week, review pending tasks across all focus areas, blockers, dependencies, due dates and realistic time capacity; choose what to advance or defer and record private next actions. Keep sensitive details out of the public task feed."
+    },
+    {
+      "id": "task-59",
+      "title": "Verify Personal HQ backup and restore recovery",
+      "area": "Life admin",
+      "due": "2026-11-27",
+      "status": "Not started",
+      "nextAction": "At least quarterly and after major task-system changes, restore the latest private backup to an isolated browser profile or temporary data store; verify task and habit totals plus sample status/note values, then record the date and outcome privately without overwriting live data."
     }
   ],
   "history": [
