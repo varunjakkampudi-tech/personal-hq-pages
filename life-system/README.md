@@ -14,6 +14,7 @@ Open `index.html` in Chrome or use the GitHub Pages site. The dashboard supports
 
 - [Career transition · February 2027](plans/career-transition.md)
 - [Dairy farm launch decision · January 2027](plans/dairy-farm.md)
+- [Dairy supplier shortlist and verification plan](plans/supplier-shortlist.md)
 - [AI World 360 daily publishing](plans/ai-world-360.md)
 - [Weekly routine, gym and food](plans/routine-and-health.md)
 - [ValueMela GST readiness](../research/valuemela-gst-registration.md)

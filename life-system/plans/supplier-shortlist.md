@@ -64,6 +64,12 @@ Ask for a camera coverage drawing covering gates, animal areas, feed/store rooms
 
 Prefer a dairy planner/structural engineer-led layout over a generic shed quote. Request two drawings: a phase-one 20-animal plan and an expansion-ready 40-animal site plan. Price the site preparation, drainage, floors, stalls/loose housing, water troughs, feed alley, calving/calves, sick/quarantine isolation, manure handling, stores, milking/utility rooms and worker movement separately. Specify species and herd mix, local rainfall/flood level, prevailing winds, soil and access before fixing dimensions. Have a qualified local professional verify the structural design, wind actions, foundations, permissions and estimate before signing.
 
+### District-program check before budgeting
+
+West Godavari's public Animal Husbandry page identifies the district office at the Veterinary Hospital Campus, Gunupudi, Bhimavaram, and lists veterinary institutions. The district DWMA page describes MGNREGS and its published permitted-work categories. A district page also lists poultry/goat/dairy shelters under Rural Development works, but the available public material is not evidence of a current 2026-27 benefit, private-farm eligibility, an application window, subsidy amount, or approval. Before including any grant or public-work contribution in the budget, ask the relevant district Animal Husbandry office and DWMA/Gram Panchayat to confirm the current scheme, eligibility and written process for this specific site and applicant. No office has been contacted.
+
+SSS Sheds' page specifically claims dairy/cattle shed construction, design-to-erection, drainage and planning for future expansion, and lists materials and work scope. These are vendor statements, not verified project evidence. Require the named structural designer/engineer, signed site-specific calculations and drawings, comparable completed dairy references with permission to inspect/contact, and written confirmation of West Godavari site service before scoring the bid.
+
 ## Evidence-based design checks
 
 - Tamil Nadu Agricultural University’s cattle and buffalo housing guidance says to account for water, electricity, drainage, local climate, a flexible layout, animal class, roof ventilation and herd-size changes. It describes 20–50-animal double-row arrangements as an example; it is planning guidance, not a site-specific design or a substitute for Andhra Pradesh approvals.
@@ -90,3 +96,5 @@ For every bidder, capture: legal business name and GSTIN; named technical lead; 
 - [Sri Karthikeya shed-fabricator listing](https://www.justdial.com/Bhimavaram/Sri-Karthikeya-Steel-Iron-Designing-Fabrication-Works-Bhimavaram-Bazar/9999P8816-8816-230210164815-L4P9_BZDET) — local directory listing and ratings.
 - [TNAU Housing Management of Cattle and Buffalo](https://agritech.tnau.ac.in/expert_system/cattlebuffalo/Housing%20Management%20of%20Cattle%20and%20Buffalo.html) — general housing-planning guidance.
 - [West Godavari District Administration](https://westgodavari.ap.gov.in/industries/) — official district context; it is not a vendor endorsement.
+- [West Godavari Rural Development (DWMA)](https://westgodavari.ap.gov.in/rural-development-dwma/) — district-published MGNREGS description and work categories; not confirmation of current dairy-shelter support or eligibility.
+- [West Godavari Animal Husbandry Department](https://westgodavari.ap.gov.in/departments/ah/) — district office and veterinary-institution details; not a current scheme notice.
