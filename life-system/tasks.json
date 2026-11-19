@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T20:26:31.8588496Z",
-  "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T01:54:44.3901253+05:30",
+  "generatedAt": "2026-11-19T20:28:16.8168205Z",
+  "sourceSnapshotStatus": "current-user-export",
+  "sourceSnapshotUpdatedAt": "2026-11-19T20:28:16.8168205Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -530,7 +530,7 @@
       "area": "ValueMela",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Compare the Razorpay App Policy terms with the applicable Factori agreements and dispute process; list unresolved questions for qualified legal review before a commercial-use decision."
+      "nextAction": "Compare the App Policy with Factori terms effective at consent (19 Nov 2026), including incorporated payment terms; document responsibility for unauthorized or erroneous transactions, refunds/disputes/third-party claims, notice obligations and deadlines, escalation channels, evidence requirements and remedy limits. Send unresolved significant questions for qualified legal review before a commercial-use decision."
     }
   ],
   "history": [
