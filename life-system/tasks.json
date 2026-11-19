@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T21:19:33.6741302Z",
+  "generatedAt": "2026-11-19T21:25:04.6641552Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-19T21:19:33.6741302Z",
+  "sourceSnapshotUpdatedAt": "2026-11-19T21:25:04.6641552Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -305,8 +305,8 @@
       "title": "Identify and verify additional job portals for target roles",
       "area": "Career move",
       "due": "2026-12-10",
-      "status": "Not started",
-      "nextAction": "Identify and verify additional job portals for target roles"
+      "status": "In progress",
+      "nextAction": "Initial privacy-aware shortlist is ready; after location, work mode and level intake, verify fit and current import, visibility and consent flows before any profile change."
     },
     {
       "id": "task-36",
