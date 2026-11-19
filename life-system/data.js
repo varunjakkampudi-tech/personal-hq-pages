@@ -1,8 +1,9 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T21:25:04.6641552Z",
-  "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-19T21:25:04.6641552Z",
+  "generatedAt": "2026-11-20T02:59:13.0685672+05:30",
+  "sourceSnapshotStatus": "current-user-export",
+  "sourceSnapshotUpdatedAt": "2026-11-20T02:59:13.0685672+05:30",
+  "dashboardExportUpdatedAt": "2026-11-20T02:59:13.0685672+05:30",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -306,7 +307,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-12-10",
       "status": "In progress",
-      "nextAction": "Initial privacy-aware shortlist is ready; after location, work mode and level intake, verify fit and current import, visibility and consent flows before any profile change."
+      "nextAction": "Initial privacy-aware shortlist is ready; after location, work mode, level and role intake, verify fit and each portal import, visibility and consent flow before any account/profile change."
     },
     {
       "id": "task-36",
@@ -465,8 +466,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Prepare one comparable shed, solar and CCTV RFQ pack",
       "area": "Dairy farm",
       "due": "2026-12-10",
-      "status": "Not started",
-      "nextAction": "Use one site brief, phase-one 20-animal capacity, 40-animal expansion, utility loads and required warranties for like-for-like quotes."
+      "status": "In progress",
+      "nextAction": "Complete the private site/herd/utility/budget/authority intake and veterinary housing brief; then send the same versioned scope to qualified bidders and compare evidence, exclusions, warranties and references. RFQ pack template is ready, but no site data or bids are recorded."
     },
     {
       "id": "farm-quotes",
@@ -538,7 +539,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "",
       "status": "Not started",
-      "nextAction": "After a CA confirms applicability, verify Factori invoice-level order, credit-note, refund and payment exports; reconcile platform reports, bank receipts, accounting and GST portal data, track exceptions and notices, and obtain owner approval of final figures before filing."
+      "nextAction": "After the CA confirms registration and applicable returns, define the filing-period checklist: reconcile orders, invoices, cancellations, refunds/credit notes, payment settlements, bank receipts, books and applicable GST portal data; track exceptions; obtain owner approval of final figures before filing and retain acknowledgements."
     },
     {
       "id": "task-57",
@@ -622,6 +623,5 @@ window.PERSONAL_HQ_SEED = {
       "title": "ValueMela signup notices identified",
       "status": "Waiting"
     }
-  ],
-  "dashboardExportUpdatedAt": "2026-11-19T20:28:16.8168205Z"
+  ]
 };
