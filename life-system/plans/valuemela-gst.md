@@ -2,6 +2,8 @@
 
 **Status:** Planning checklist only. No GST registration application has been prepared or submitted. This document contains no PAN, Aadhaar, OTP, bank account number, private address, passwords or account credentials.
 
+The due dates on Personal HQ GST tasks are **internal planning targets only**, not statutory deadlines. Determine any actual legal/portal deadline from ValueMela's verified facts and current authority; the practitioner should record it separately.
+
 ## First decide what ValueMela does
 
 Do not choose a GST registration route until the actual legal entity and sales flow are clear. Record answers in a secure place, not in this public-capable task tracker:
@@ -51,7 +53,7 @@ Use the GST Portal itself or a CA’s secure document channel for actual identif
 
 1. Confirm the legal entity, state, supply model, products, tax treatment and registration basis with a GST practitioner/CA.
 2. Check current official GST Portal document requirements and prepare files securely.
-3. Apply at [gst.gov.in](https://www.gst.gov.in/) using the appropriate current registration form and authorised signatory. Verify all entered details before submission.
+3. Review the written practitioner determination and decide whether any application is required. If registration is required, apply at [gst.gov.in](https://www.gst.gov.in/) using the appropriate current form and authorised signatory only after the owner reviews the exact values and separately authorises submission. If the determination says registration is not currently required, record the conclusion, assumptions, review trigger and any remaining obligations instead of filing.
 4. Monitor the application status and any portal clarification request; respond through the official workflow within the stated time.
 5. If approved, download and verify the registration certificate/GSTIN and store it in a private business records location.
 6. Ask the CA to confirm the effective date and treatment of any pre-registration/historical orders, invoice configuration, tax codes/rates, place-of-supply treatment, e-commerce/TCS flows, return types and due dates, input-credit records, e-invoice/e-way-bill applicability, and any display requirements that apply to ValueMela.
