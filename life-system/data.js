@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T11:51:12.2564884+00:00",
+  "generatedAt": "2026-11-20T11:53:17.0178321+00:00",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -161,8 +161,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Review ValueMela priorities and open decisions",
       "area": "ValueMela",
       "due": "2026-11-30",
-      "status": "Not started",
-      "nextAction": "Review ValueMela priorities and open decisions"
+      "status": "In progress",
+      "nextAction": "ValueMela review updated from Factori support replies: frontend customization is currently unavailable; a separate address form issue needs vendor guidance. Assess storefront options and verify the address flow; do not change settings or choose a migration without reviewing operational/legal/tax dependencies."
     },
     {
       "id": "task-20",
