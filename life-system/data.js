@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T10:50:45.615Z",
+  "generatedAt": "2026-11-20T11:02:09.294Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T10:50:45.615Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T11:02:09.294Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -139,7 +139,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Dairy farm",
       "due": "2026-12-20",
       "status": "In progress",
-      "nextAction": "Confirm site/village, electrical loads, grid/outage pattern and camera/network needs; then compare farm PV, dedicated solar-CCTV and integrated options against references, warranty and service."
+      "nextAction": "Confirm site/village, electrical loads, grid/outage pattern and camera/network needs; then compare farm PV, dedicated solar-CCTV and integrated options against references, warranty and service. Treat APEPDCL local names as historical screening leads only: its linked PM Surya Ghar list is dated 13 Jun 2024, not proof of current 2026 listing or eligibility."
     },
     {
       "id": "task-15",
