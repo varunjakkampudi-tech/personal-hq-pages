@@ -3,6 +3,8 @@
   const cfg = window.PERSONAL_HQ_SYNC_CONFIG || {};
   const sdkPath = 'vendor/supabase-js-2.119.1.js';
   const baseKey = 'personal-hq-private-sync-v1';
+  const activeUserKey = `${baseKey}:active-user`;
+  const accountTasksKey = userId => `${baseKey}:tasks:${userId}`;
   const table = 'personal_hq_tasks';
   const selectFields = 'task_id,title,area,due,status,next_action,notes,owner_label,source,created_at,updated_at,revision,deleted_at';
   let client = null;
@@ -72,7 +74,23 @@
   const applyTasks = tasks => {
     applyingRemote = true;
     try { window.replacePersonalHQTasks?.(tasks); }
-    finally { applyingRemote = false; }
+    finally {
+      applyingRemote = false;
+      if (user) localStorage.setItem(accountTasksKey(user.id), JSON.stringify(getTasks()));
+    }
+  };
+  const seedTasks = () => window.getPersonalHQSeedTasks?.() || [];
+  const cacheAccountTasks = userId => {
+    if (userId) localStorage.setItem(accountTasksKey(userId), JSON.stringify(getTasks()));
+  };
+  const activateAccountTasks = userId => {
+    const previousUserId = localStorage.getItem(activeUserKey);
+    if (previousUserId === userId) return;
+    if (previousUserId && previousUserId !== userId) cacheAccountTasks(previousUserId);
+    const savedTasks = readJson(accountTasksKey(userId));
+    if (Array.isArray(savedTasks)) applyTasks(savedTasks);
+    else if (previousUserId && previousUserId !== userId) applyTasks(seedTasks());
+    localStorage.setItem(activeUserKey, userId);
   };
   const renderConflicts = () => {
     const list = byId('privateSyncConflicts');
@@ -113,6 +131,29 @@
       title.textContent = item.local?.title || item.row?.title || id;
       const detail = document.createElement('p');
       detail.textContent = `Cloud revision ${item.row ? item.row.revision : 'missing'}; this browser has a different copy. Choose which version to keep.`;
+      const compare = document.createElement('details');
+      compare.className = 'sync-conflict-compare';
+      const compareHeading = document.createElement('summary');
+      compareHeading.textContent = 'Compare browser and cloud copies';
+      const values = document.createElement('dl');
+      const fields = [
+        ['Title', item.local?.title, item.row?.title],
+        ['Area', item.local?.area, item.row?.area],
+        ['Due date', item.local?.due, item.row?.due],
+        ['Status', item.local?.status, item.row?.status],
+        ['Next action', item.local?.nextAction, item.row?.next_action],
+        ['Private notes', item.local?.notes, item.row?.notes]
+      ];
+      for (const [label, localValue, cloudValue] of fields) {
+        const term = document.createElement('dt');
+        term.textContent = label;
+        const local = document.createElement('dd');
+        local.textContent = `This browser: ${localValue || '(empty)'}`;
+        const cloud = document.createElement('dd');
+        cloud.textContent = item.row?.deleted_at ? 'Cloud: deleted' : `Cloud: ${cloudValue || (item.row ? '(empty)' : 'task missing')}`;
+        values.append(term, local, cloud);
+      }
+      compare.append(compareHeading, values);
       const actions = document.createElement('div');
       actions.className = 'form-actions';
       if (item.row) {
@@ -129,7 +170,7 @@
       useLocal.textContent = 'Keep this browser version';
       useLocal.addEventListener('click', () => resolveConflict(id, 'local'));
       actions.append(useLocal);
-      card.append(title, detail, actions);
+      card.append(title, detail, compare, actions);
       list.append(card);
     }
   };
@@ -169,7 +210,9 @@
     });
     const { data, error } = await client.auth.getSession();
     if (error) throw error;
-    user = data.session?.user || null;
+    const sessionUser = data.session?.user || null;
+    if (sessionUser) activateAccountTasks(sessionUser.id);
+    user = sessionUser;
     if (user) {
       metaKey = `${baseKey}:${user.id}`;
       const meta = readJson(metaKey) || {};
@@ -177,13 +220,22 @@
       pendingImports = new Set(Array.isArray(meta.pendingImports) ? meta.pendingImports : []);
     }
     client.auth.onAuthStateChange((_event, session) => {
-      user = session?.user || null;
-      if (!user) {
+      const nextUser = session?.user || null;
+      if (!nextUser) {
+        const previousUserId = user?.id || localStorage.getItem(activeUserKey);
+        if (user?.id) cacheAccountTasks(user.id);
+        user = null;
         shadow = {};
         pendingImports = new Set();
         conflicts.clear();
         metaKey = '';
+        if (previousUserId) {
+          localStorage.removeItem(activeUserKey);
+          applyTasks(seedTasks());
+        }
       } else {
+        user = nextUser;
+        activateAccountTasks(user.id);
         metaKey = `${baseKey}:${user.id}`;
         const meta = readJson(metaKey) || {};
         shadow = meta.shadow || {};
@@ -229,25 +281,6 @@
       statusText(`Cloud has no tasks yet. Import ${pendingImports.size} tasks from this browser to start private sync.`);
       return;
     }
-    if (!window.hasPersonalHQTaskEdits?.()) {
-      for (const row of remote) {
-        shadow[row.task_id] = shadowOf(row);
-        const at = next.findIndex(task => task.id === row.task_id);
-        if (row.deleted_at) {
-          if (at >= 0) next.splice(at, 1);
-        } else {
-          const task = fromRemote(row, at >= 0 ? next[at] : {});
-          if (at >= 0) next[at] = task;
-          else next.push(task);
-        }
-      }
-      pendingImports = new Set(local.filter(task => !remoteIds.has(task.id)).map(task => task.id));
-      saveMeta();
-      if (next.length !== local.length || next.some((task, index) => task !== local[index])) applyTasks(next);
-      renderConflicts();
-      statusText(`Loaded ${remote.filter(row => !row.deleted_at).length} cloud tasks. ${pendingImports.size} browser-only task${pendingImports.size === 1 ? '' : 's'} await your import.`);
-      return;
-    }
     for (const row of remote) {
       const existing = byTask.get(row.task_id);
       shadow[row.task_id] = shadowOf(row);
@@ -259,11 +292,15 @@
         }
       } else if (row.deleted_at || !sameFields(localFields(existing), remoteFields(row))) {
         setConflict(row.task_id, existing, row);
+      } else {
+        const task = fromRemote(row, existing);
+        next[next.findIndex(item => item.id === row.task_id)] = task;
+        byTask.set(row.task_id, task);
       }
     }
     pendingImports = new Set(local.filter(task => !remoteIds.has(task.id)).map(task => task.id));
     saveMeta();
-    if (next.length !== local.length) applyTasks(next);
+    if (next.length !== local.length || next.some((task, index) => task !== local[index])) applyTasks(next);
     renderConflicts();
     statusText(`Compared ${remote.length} cloud tasks. ${conflicts.size} conflict${conflicts.size === 1 ? '' : 's'} need a choice; browser-only tasks await your import.`);
   }
@@ -340,6 +377,7 @@
         statusText(`${conflicts.size} task conflict${conflicts.size === 1 ? '' : 's'} found. No cloud writes were made; choose a version in Cloud sync.`);
         return;
       }
+      let revisionChanged = false;
       for (const write of writes) {
         const saved = await writeCloud(write.task, write.revision);
         if (!saved) {
@@ -347,8 +385,13 @@
           setConflict(write.task.id, write.task, latest);
           continue;
         }
+        if (String(write.task.revision || '') !== String(saved.revision)) {
+          write.task.revision = String(saved.revision);
+          revisionChanged = true;
+        }
         shadow[write.task.id] = { revision: String(saved.revision), deletedAt: null, fields: localFields(write.task) };
       }
+      if (revisionChanged) applyTasks(getTasks());
       saveMeta();
       renderConflicts();
       if (conflicts.size) statusText(`${conflicts.size} task conflict${conflicts.size === 1 ? '' : 's'} need a choice.`);
@@ -381,10 +424,12 @@
           if (latest) setConflict(task.id, task, latest);
           else throw new Error(`Could not import task ${task.id}.`);
         } else {
+          task.revision = String(saved.revision);
           shadow[task.id] = { revision: String(saved.revision), deletedAt: null, fields: localFields(task) };
           pendingImports.delete(task.id);
         }
       }
+      applyTasks(getTasks());
       saveMeta();
       renderConflicts();
       statusText(conflicts.size ? 'Import paused where a task ID already exists in cloud; review the conflict.' : `Imported ${candidates.length} tasks. Private sync is active for task edits.`);
@@ -410,9 +455,17 @@
         const local = at >= 0 ? tasks[at] : conflict.local;
         if (!local) throw new Error('The browser copy is no longer available.');
         const action = conflict.row?.deleted_at ? 'restore' : 'save';
-        const saved = await writeCloud(local, conflict.row?.revision || '0', action);
+        let saved = await writeCloud(local, conflict.row?.revision || '0', action);
+        if (action === 'restore' && saved) saved = await writeCloud(local, saved.revision, 'save');
         if (!saved) throw new Error('The cloud task changed again. Sync and review the new conflict.');
-        shadow[id] = { revision: String(saved.revision), deletedAt: null, fields: localFields(local) };
+        const verified = (await readCloud()).find(row => row.task_id === id);
+        if (!verified || verified.deleted_at || !sameFields(localFields(local), remoteFields(verified))) {
+          throw new Error('The cloud did not confirm this browser version. Sync again and review the conflict.');
+        }
+        const syncedLocal = { ...local, revision: String(verified.revision), preservePrivateNotes: false };
+        if (at >= 0) tasks[at] = syncedLocal;
+        else tasks.push(syncedLocal);
+        shadow[id] = shadowOf(verified);
         pendingImports.delete(id);
       }
       conflicts.delete(id);
@@ -468,7 +521,9 @@
   window.PersonalHQPrivateSync = {
     init,
     onLocalChange() {
-      if (!user || applyingRemote || !Object.keys(shadow).length || pendingImports.size || conflicts.size) return;
+      if (!user || applyingRemote) return;
+      cacheAccountTasks(user.id);
+      if (!Object.keys(shadow).length || pendingImports.size || conflicts.size) return;
       const tasks = getTasks();
       const localById = new Set(tasks.map(task => task.id));
       const dirty = tasks.some(task => !pendingImports.has(task.id) && (!shadow[task.id] || !sameFields(localFields(task), shadow[task.id].fields))) || Object.keys(shadow).some(id => !localById.has(id) && !shadow[id].deletedAt);
