@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 04:22:00 +05:30",
+  "generatedAt": "2026-11-21 04:31:21 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 04:22:00 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 04:31:21 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Latest live dashboard check (21 Nov): merge action visible; no overflow at 320px and 390px. The 44px metric-info button opens a separate explanation panel without stretching statistic cards; keyboard and touch work and panel clears fixed nav. Browser-local task state remains unreconciled; preserve both states until fresh export and per-field review."
+      "nextAction": "Latest browser export in Downloads is dated 20 Nov 2026 20:21 IST and predates the private registry updated 21 Nov 2026 04:22 IST. It contains the same 80 task IDs but differs in 4 titles, 16 statuses and 25 next actions. Do not bulk-import this older browser state; preserve both and reconcile field by field after a fresh desktop export."
     },
     {
       "id": "task-53",
