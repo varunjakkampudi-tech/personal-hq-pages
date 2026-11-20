@@ -587,7 +587,7 @@
       "area": "Life admin",
       "due": "2026-11-27",
       "status": "In progress",
-      "nextAction": "A fresh private registry JSON backup was restored into an isolated temporary directory on 20 Nov 2026 18:30 IST: 80 unique task IDs, status totals 7 Done/11 In progress/8 Waiting/54 Not started, four habit definitions, zero logged days and moments, and sample notes/statuses intact. Next verify the dashboard encrypted browser-backup flow in an isolated browser profile; never overwrite live data. This JSON check alone is not full UI/browser recovery verification."
+      "nextAction": "Encrypted browser backup/restore round-trip verified on 21 Nov 2026 in an isolated Playwright session: 80 tasks and all status totals preserved; four habit definitions retained; empty logs/moments remained empty; browser recorded a backup timestamp. Next verify wrong-passphrase and malformed-file rejection without replacing restored data, then add non-sensitive sample browser-only activity in a separate isolated profile and verify its recovery. Do not use live user data or update task status to Done before the remaining cases are evidenced."
     },
     {
       "id": "task-60",
