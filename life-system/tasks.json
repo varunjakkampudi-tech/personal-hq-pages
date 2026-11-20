@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T09:35:34.269Z",
+  "generatedAt": "2026-11-20T09:45:17.306Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T09:35:34.269Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T09:45:17.306Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@
       "area": "Life admin",
       "due": "",
       "status": "Waiting",
-      "nextAction": "The private registry and public feed now contain 78 task IDs. The last full owner-browser export remains the 20 Nov 06:48 IST snapshot with 71 tasks; this merged update is not a fresh export. Keep reconciliation open until a complete current-browser export allows ID, status, field and deletion comparison."
+      "nextAction": "Private registry and live feed: 79 tasks. Latest complete owner-browser export: 71 tasks, 20 Nov 06:48 IST. Keep reconciliation open until a fresh complete export enables ID, status, field and deletion comparison."
     },
     {
       "id": "task-53",
