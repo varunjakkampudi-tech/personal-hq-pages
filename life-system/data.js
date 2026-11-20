@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T06:55:31.787Z",
+  "generatedAt": "2026-11-20T07:03:42.521Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T06:55:31.787Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T07:03:42.521Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -603,7 +603,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Responsive UI checks are complete at 1440px, 390px, 320px and a 195px CSS viewport; 195px is not actual 200% browser zoom. Keyboard focus, accessible navigation names, mobile touch sizing and local save retry were checked. Actual browser zoom and screen-reader output remain unverified. The existing user request explicitly authorizes publishing the public GitHub repo and Pages site. Next: release this reviewed UI and the current sanitized 73-task feed, then verify the live Pages deployment."
+      "nextAction": "Live GitHub Pages deployment verified on 2026-11-20: title, status panel and 73 tasks load; no horizontal overflow at 390px, 320px or 195px CSS viewports. Mobile navigation measures 48x50px at 320px and 36x47px at 195px with accessible names intact. True 200% browser zoom and real screen-reader output remain unverified. Next: complete those two checks, record evidence and close this task."
     }
   ],
   "history": [
