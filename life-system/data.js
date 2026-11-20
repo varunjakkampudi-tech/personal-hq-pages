@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T09:17:03.103Z",
+  "generatedAt": "2026-11-20T09:52:00.000Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T09:17:03.103Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T09:52:00.000Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -411,7 +411,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Read-only vidIQ check on 2026-11-20: Instagram is scheduled for 18:00 IST and YouTube remains a draft, so a completed crosspost is not established. Review the exact same approved media on both destinations and reconcile YouTube status; record live URLs or failure. Do not change either destination without approval for the specific action."
+      "nextAction": "Reconcile delivery after the 20 Nov 18:00 IST slot: YouTube still lists g-5ojhJY63g as private/processed with its scheduled time in the past; Instagram still lists the Reel as scheduled with no live URL. Confirm actual platform outcomes and record URLs or failure; do not retry, edit, cancel or publish without exact-action approval."
     },
     {
       "id": "task-50",
@@ -571,7 +571,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Read-only vidIQ check on 2026-11-20: Instagram destination remains scheduled for 18:00 IST; YouTube destination remains a draft. Each destination has one video; YouTube also has one image. The connector does not expose the actual media or provenance here. Keep the schedule and draft unchanged; retain NO-GO until exact assets and provenance are reviewed and owner choice is recorded."
+      "nextAction": "Verify the exact Instagram and YouTube media, compare asset identity, check fit to the approved original-animation brief, source and rights for video/audio/likeness/logos, caption accuracy, and exact asset/text/time owner approval. Record platform states independently; no connected preview currently exposes the assets. Do not modify, cancel, retry or publish without approval for that exact action."
     },
     {
       "id": "task-58",
