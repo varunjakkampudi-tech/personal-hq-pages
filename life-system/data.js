@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T17:29:26.0853887Z",
+  "generatedAt": "2026-11-20T23:19:10.688993+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T17:29:26.0853887Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T23:19:10.688993+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -595,7 +595,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Implement conflict-safe authenticated private sync with an append-only task-change log for status, title and action history. Preserve open tasks, completed tasks and browser-only records; the daily review refreshes only the Gmail summary and never resets the task registry. Do not connect live storage until owner setup, privacy review and cross-browser recovery checks are complete."
+      "nextAction": "Private browser-local task activity now records new task creations, edits and status transitions; private exports/backups carry it and older restore merges event IDs. Next implement a private cloud event store and cross-device history merge, then verify migration, account isolation and recovery. Owner storage setup is not complete; preserve all open and completed task records and refresh only the daily Gmail summary."
     },
     {
       "id": "task-61",
