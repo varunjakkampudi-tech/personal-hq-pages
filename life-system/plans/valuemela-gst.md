@@ -31,6 +31,12 @@ Ask the practitioner to document, for each relevant State/UT and the actual liab
 
 The decision must separately address mandatory registration versus an optional voluntary registration under section 25(3), including business, pricing, invoicing, compliance and cancellation consequences. Voluntary registration is not automatically beneficial. If the facts do not establish the route, keep it unresolved and request more evidence rather than filing.
 
+### Simplified registration option to compare: CGST Rule 14A
+
+The current GST Portal REG-01 guide also asks applicants to choose whether they opt for Rule 14A. The GST Council's official November 2025 portal-update notice describes this as an optional route for applicants who self-assess that total output tax on supplies to registered persons (including CGST, SGST/UTGST, IGST and compensation cess) will not exceed ₹2,50,000 per month. Aadhaar authentication is required for the primary authorised signatory and at least one promoter/partner; the portal says the Rule 14A and Rule 14B options cannot be selected together. The portal's GSTR-1 guidance currently prevents summary generation when reported B2B tax exceeds the monthly cap and says the taxpayer must withdraw from Rule 14A to report without that restriction. A Rule 14A registration also has withdrawal conditions, including filing due returns and a minimum one tax period of returns when withdrawal is requested on or after 1 April 2026; check the current portal form and practitioner advice before relying on this summary.
+
+Ask the practitioner to compare Rule 14A with ordinary registration and, only if the actual seller/warehouse facts qualify, Rule 14B. Record B2B mix and projected tax liability, Aadhaar readiness, number of same-PAN registrations per State/UT, filing/withdrawal constraints, likely growth beyond the cap and consequences for ValueMela's invoicing and customer mix. The ₹2.5 lakh figure is a tax-liability cap on relevant B2B supplies, not a turnover cap. Do not opt into a simplified route merely because the portal offers it; confirm the current rule text and ongoing obligations for the actual model.
+
 ## Prepare the application only after the route is confirmed
 
 GST Portal guidance describes a normal taxpayer application in FORM GST REG-01 with sections for business details, promoters/partners, authorised signatory, principal place of business, additional places, goods and services, state-specific details, Aadhaar authentication and verification. Prepare a checklist for the relevant entity type; not every document applies in every case.
@@ -79,11 +85,14 @@ Track every portal outcome privately: acknowledgment/ARN, grant and certificate 
 
 ## Official references
 
-**Research checked:** 20 November 2026. The 18 November corrigendum to Notification 05/2026-Central Tax was checked alongside the original notice.
+**Research checked:** 21 November 2026. The GST Portal's current REG-01, bank-account, Rule 14A/14B and GSTR-1 guidance was rechecked, along with the GST Council's official Rule 14A notice and 57th GST Council FAQ. The 18 November corrigendum to Notification 05/2026-Central Tax remains a required practitioner check; the Gazette PDF endpoint was unavailable to the browser during this update, so no new independent Gazette-text verification is claimed.
 
 **Control additions checked:** 20 November 2026. Liability timing, bank-account verification, GSTR-2B reconciliation, e-way bill responsibility and e-invoice applicability were rechecked against the linked CBIC/GST Portal/GSTN materials. These are prompts for a fact-specific CA determination, not conclusions about ValueMela.
 
 - [GST Portal: Apply for Registration as a Normal Taxpayer](https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm) — current portal form flow and section list; it notes the post-grant bank-details step.
+- [GST Council: November 2025 newsletter, Rule 14A simplified registration notice](https://gstcouncil.gov.in/sites/default/files/2025-12/newsletter_november_2025_0.pdf) — output-tax cap, Aadhaar authentication, same-PAN/same-State restriction, grant and withdrawal conditions; recheck current portal requirements.
+- [GST Council: FAQs on recommendations made in the 57th GST Council meeting](https://www.gstcouncil.gov.in/sites/default/files/2026-10/faqs_on_recommendations_made_in_57th_gst_council_meeting_0.pdf) — official operational FAQs for Rule 14B, including e-commerce-only supply, consent, home-State verification, records and withdrawal.
+- [GST Portal: Create outward supplies return in GSTR-1](https://tutorial.gst.gov.in/userguide/returns/Creation_of_Outward_Supplies_Return_in_GSTR-1.htm) — current Rule 14A/14B B2B cap checks when generating the return summary.
 - [GST Portal: Registration document checklist](https://tutorial.gst.gov.in/cbt/registration/gstregistration/course/story_content/external_files/GST_Registration_Document_Checklist.pdf) — portal-published example documents and upload formats.
 - [Gazette of India: Notification 05/2026-Central Tax (G.S.R. 919(E))](https://egazette.gov.in/WriteReadData/2026/277451.pdf) — CGST Amendment Rules 2026, including Rule 14B, generally effective 1 November 2026.
 - [Gazette of India: Corrigendum G.S.R. 1001(E), 18 November 2026](https://egazette.gov.in/WriteReadData/2026/278035.pdf) — English text corrections to Notification 05/2026-Central Tax.
