@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T00:57:58+05:30",
+  "generatedAt": "2026-11-21T01:03:29+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T00:57:58+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T01:03:29+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -611,7 +611,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "CareerScope",
       "due": "",
       "status": "In progress",
-      "nextAction": "Resolve direct roadmap scope decisions for PRs #61–#65 (dependency updates) and #109–#111 (cross-cutting/docs), then reconcile the 30 mapped PRs to current acceptance evidence and dependencies. Triage the 8 failed-check PRs plus #89 with no checks, and obtain independent exact-SHA reviews; preserve merge and deployment as separate owner decisions."
+      "nextAction": "Make owner scope decisions for unmapped PRs #61–#65 and #109–#111; then reconcile all 38 mapped or unmapped PRs against acceptance evidence/dependencies and request independent exact-SHA reviews. CI triage: #61/#62/#63/#65 stale Stage 01 manifest records; #67 missing manifest entry; #64 TypeScript peer-dependency conflict; #105 six-match browser locator; #81 runner DNS failure then cancellation. Apply fixes only under an explicitly authorized checklist scope; keep merge/deployment separate."
     },
     {
       "id": "task-63",
