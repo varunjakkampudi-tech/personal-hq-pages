@@ -57,7 +57,6 @@ function renderSourceStatus(){
   const refresh=document.getElementById('refreshTasks');
   const controls=document.getElementById('sourceControls');
   if(refresh)refresh.textContent=status==='merged-desktop-task-update'?'Merge latest task updates':'Load latest tasks';
-  if(controls&&!current)controls.open=true;
   if(current){
     heading.textContent='Dashboard export is current';
     hint.textContent='Browser changes stay local until exported.';
