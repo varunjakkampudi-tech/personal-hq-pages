@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T07:57:50.740Z",
+  "generatedAt": "2026-11-20T08:09:07.853Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T07:57:50.740Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T08:09:07.853Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -186,8 +186,8 @@
       "title": "Confirm ValueMela legal entity and actual sales/platform model",
       "area": "ValueMela",
       "due": "2026-11-25",
-      "status": "Not started",
-      "nextAction": "Record entity/state, first potentially liable event/date, FY turnover, sales/invoice/payment/dispatch roles, stock locations/owners, pending pre-GSTIN orders and section 52 operator status; keep evidence private for CA."
+      "status": "In progress",
+      "nextAction": "Complete the private local GST fact-intake worksheet at private/valuemela-gst-intake.md: entity/state, seller and platform roles, goods, turnover/liability history, orders, stock states and premises evidence availability. Store no identifiers or scans here. Then obtain a written, current GST-practitioner determination before choosing a registration route."
     },
     {
       "id": "task-21",
