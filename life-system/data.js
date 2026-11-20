@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 05:14:07 +05:30",
+  "generatedAt": "2026-11-21 05:21:19 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 05:14:07 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 05:21:19 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Latest browser export in Downloads is dated 20 Nov 2026 20:21 IST and predates the merged private registry updated 21 Nov 2026 04:31 IST. It has the same 80 task IDs but differs in 4 titles, 16 statuses and 25 next actions. The 04:29 watcher run succeeded and skipped the older export. Obtain a fresh desktop export, then reconcile field by field; do not bulk-import the older browser state."
+      "nextAction": "Latest owner-browser export in Downloads remains dated 20 Nov 2026 20:21 IST and predates the merged private registry; the sync helper safely rejects it. The local watcher now logs explicit skip reasons and exceptions; manual run at 21 Nov 05:18 IST recorded that the export predates the merged registry without importing or publishing. Obtain a fresh full export from the actual dashboard browser session, then compare all fields before any sync. No isolated-browser or stale-export substitute."
     },
     {
       "id": "task-53",
