@@ -5,9 +5,11 @@
   const baseKey = 'personal-hq-private-sync-v1';
   const activeUserKey = `${baseKey}:active-user`;
   const accountTasksKey = userId => `${baseKey}:tasks:${userId}`;
+  const accountActivityKey = userId => `${baseKey}:activity:${userId}`;
   const forgetTokenKey = userId => `${baseKey}:forget-token:${userId}`;
   const table = 'personal_hq_tasks';
   const selectFields = 'task_id,title,area,due,status,next_action,notes,owner_label,source,created_at,updated_at,revision,deleted_at';
+  const activityFields = 'event_id,task_id,task_title,area,occurred_at,action,changed_fields,previous_status,status,task_revision';
   let client = null;
   let user = null;
   let applyingRemote = false;
@@ -95,10 +97,16 @@
   const activateAccountTasks = userId => {
     const previousUserId = localStorage.getItem(activeUserKey);
     if (previousUserId === userId) return;
-    if (previousUserId && previousUserId !== userId) cacheAccountTasks(previousUserId);
+    if (previousUserId && previousUserId !== userId) {
+      cacheAccountTasks(previousUserId);
+      localStorage.setItem(accountActivityKey(previousUserId), JSON.stringify(window.getPersonalHQTaskActivity?.() || []));
+    }
     const savedTasks = readJson(accountTasksKey(userId));
     if (Array.isArray(savedTasks)) applyTasks(savedTasks);
     else if (previousUserId && previousUserId !== userId) applyTasks(seedTasks());
+    const savedActivity = readJson(accountActivityKey(userId));
+    window.setPersonalHQActivityScope?.(Array.isArray(savedActivity) ? savedActivity : []);
+    window.setPersonalHQActivityStatus?.('Account activity is private to this signed-in account; cloud refresh is pending.');
     localStorage.setItem(activeUserKey, userId);
   };
   const renderConflicts = () => {
@@ -241,7 +249,10 @@
       if (!nextUser) {
         const previousUserId = user?.id || localStorage.getItem(activeUserKey);
         const forgetLocalData = previousUserId && (forgettingUserId === previousUserId || removalRequested(previousUserId));
-        if (user?.id && !forgetLocalData) cacheAccountTasks(user.id);
+        if (user?.id && !forgetLocalData) {
+          cacheAccountTasks(user.id);
+          localStorage.setItem(accountActivityKey(user.id), JSON.stringify(window.getPersonalHQTaskActivity?.() || []));
+        }
         user = null;
         forgetTokenAtSignIn = '';
         shadow = {};
@@ -253,12 +264,15 @@
           localStorage.removeItem(activeUserKey);
           if (forgetLocalData) {
             localStorage.removeItem(accountTasksKey(previousUserId));
+            localStorage.removeItem(accountActivityKey(previousUserId));
             localStorage.removeItem(`${baseKey}:${previousUserId}`);
             localStorage.removeItem(`${baseKey}:initialized:${previousUserId}`);
             localStorage.removeItem('varun-hq-v1');
             forgettingUserId = null;
           }
           applyTasks(seedTasks());
+          window.setPersonalHQActivityScope?.(null);
+          window.setPersonalHQActivityStatus?.('Browser-only activity.');
         }
       } else {
         if (user?.id && user.id !== nextUser.id) {
@@ -286,6 +300,38 @@
     const { data, error } = await client.from(table).select(selectFields).order('task_id');
     if (error) throw error;
     return data || [];
+  };
+  const syncCloudActivity = async () => {
+    if (!user) return;
+    const rows = [];
+    for (let offset = 0; ; offset += 500) {
+      const { data, error } = await client.from('personal_hq_task_events')
+        .select(activityFields).order('occurred_at', { ascending: false }).order('event_id', { ascending: false })
+        .range(offset, offset + 499);
+      if (error) {
+        window.setPersonalHQActivityStatus?.('Cloud activity could not be read. The saved activity for this account was kept on this device.');
+        return;
+      }
+      const batch = data || [];
+      rows.push(...batch);
+      if (batch.length < 500) break;
+    }
+    const events = rows.map(row => ({
+      id: `cloud:${row.event_id}`,
+      at: row.occurred_at,
+      taskId: row.task_id,
+      taskTitle: row.task_title,
+      area: row.area,
+      action: row.action,
+      changedFields: (row.changed_fields || []).map(field => ({ next_action: 'nextAction', private_context: 'notes' }[field] || field)),
+      previousStatus: row.previous_status || '',
+      status: row.status || '',
+      revision: String(row.task_revision),
+      source: 'cloud'
+    }));
+    window.mergePersonalHQTaskActivity?.(events);
+    localStorage.setItem(accountActivityKey(user.id), JSON.stringify(window.getPersonalHQTaskActivity?.() || []));
+    window.setPersonalHQActivityStatus?.('Private cloud activity refreshed for this account.');
   };
   const writeCloud = async (task, expectedRevision, action = 'save') => {
     const f = localFields(task);
@@ -347,6 +393,7 @@
     busy = true;
     statusText('Syncing tasks…');
     try {
+      await syncCloudActivity();
       const [remote, local] = await Promise.all([readCloud(), Promise.resolve(getTasks())]);
       const remoteById = new Map(remote.map(row => [row.task_id, row]));
       const localById = new Map(local.map(task => [task.id, task]));
@@ -580,6 +627,7 @@
         metaKey = '';
         localStorage.removeItem(activeUserKey);
         localStorage.removeItem(accountTasksKey(userId));
+        localStorage.removeItem(accountActivityKey(userId));
         localStorage.removeItem(`${baseKey}:${userId}`);
         localStorage.removeItem(`${baseKey}:initialized:${userId}`);
         localStorage.removeItem('varun-hq-v1');
@@ -640,6 +688,9 @@
 
   window.PersonalHQPrivateSync = {
     init,
+    onActivityChange(events) {
+      if (user && Array.isArray(events)) localStorage.setItem(accountActivityKey(user.id), JSON.stringify(events));
+    },
     onLocalChange() {
       if (!user || applyingRemote || removalRequested(user.id)) return;
       cacheAccountTasks(user.id);
