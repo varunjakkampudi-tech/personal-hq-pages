@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T11:29:19.639Z",
+  "generatedAt": "2026-11-20T11:32:04.138Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -490,7 +490,7 @@
       "area": "Life admin",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Keep reconciliation Waiting: latest owner-browser export has 71 tasks (20 Nov 06:48 IST), omits task-60 through task-68, and contains stale statuses for task-20 and task-53. Obtain a fresh complete dashboard export before changing browser or registry statuses."
+      "nextAction": "Keep reconciliation Waiting. At 20 Nov 2026 17:00 IST, the owner Chrome dashboard showed 80 local tasks, 5 Done, 9 Waiting and 13 conflicting next-action fields; the private registry has 80 tasks and 6 Done. This UI observation is not an export. Download a fresh complete dashboard export, then compare IDs, statuses, nextAction, notes and revisions before making any merge; preserve both versions and resolve conflicts explicitly."
     },
     {
       "id": "task-53",
