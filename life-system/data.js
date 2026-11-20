@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T05:16:50Z",
+  "generatedAt": "2026-11-20T05:31:41Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T04:53:54Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
@@ -507,7 +507,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "Waiting",
-      "nextAction": "The private registry and sanitized feed have 72 matching task IDs, titles, areas, dates and statuses. Chrome also shows 72 tasks, but no fresh dashboard export has confirmed its locally saved statuses; export and reconcile before marking this check done."
+      "nextAction": "Registry and live feed now have 73 task IDs; Chrome/email snapshot was 72. Export a fresh 73-task snapshot from the current browser, compare statuses before syncing, and preserve unverified local values."
     },
     {
       "id": "task-53",
@@ -604,7 +604,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Review the desktop and 390px mobile preview plus the two-file diff; approve the Pages release or request corrections. Candidate app code remains local-only."
+      "nextAction": "Capture final desktop, 390px and 200%-text preview and review the two-file diff; owner approval is needed before the Pages release. Candidate remains local-only."
     }
   ],
   "history": [
