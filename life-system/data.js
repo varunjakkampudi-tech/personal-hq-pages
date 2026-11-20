@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T17:07:41.2443747+05:30",
+  "generatedAt": "2026-11-20T11:42:46.1947261+00:00",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -10,7 +10,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Full-stack target confirmed; verify employment chronology, backend ownership and project evidence; then draft a full-stack resume review copy and verify portal links."
+      "nextAction": "Full-stack engineer target is set. Review copy is prepared privately with chronology and project-claim verification gates; next validate experience, project contribution, skills, metrics and credentials against evidence before finalizing resume or profiles."
     },
     {
       "id": "task-1",
