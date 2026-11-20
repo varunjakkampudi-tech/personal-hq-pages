@@ -5,6 +5,7 @@
   const baseKey = 'personal-hq-private-sync-v1';
   const activeUserKey = `${baseKey}:active-user`;
   const accountTasksKey = userId => `${baseKey}:tasks:${userId}`;
+  const forgetTokenKey = userId => `${baseKey}:forget-token:${userId}`;
   const table = 'personal_hq_tasks';
   const selectFields = 'task_id,title,area,due,status,next_action,notes,owner_label,source,created_at,updated_at,revision,deleted_at';
   let client = null;
@@ -17,6 +18,10 @@
   let pendingImports = new Set();
   let conflicts = new Map();
   let metaKey = '';
+  let forgettingUserId = null;
+  let forgetTokenAtSignIn = '';
+
+  const removalRequested = userId => !!userId && (localStorage.getItem(forgetTokenKey(userId)) || '') !== forgetTokenAtSignIn;
 
   const configReady = () => /^https:\/\//.test(cfg.url || '') && typeof cfg.publishableKey === 'string' && cfg.publishableKey.length > 10;
   const byId = id => document.getElementById(id);
@@ -123,7 +128,7 @@
       preview.append(heading, titles);
       migration.replaceChildren(summary, preview);
     } else migration.replaceChildren();
-    if (backupButton) backupButton.hidden = pendingImports.size === 0;
+    if (backupButton) backupButton.hidden = false;
     for (const [id, item] of conflicts) {
       const card = document.createElement('article');
       card.className = 'sync-conflict';
@@ -213,6 +218,7 @@
     const sessionUser = data.session?.user || null;
     if (sessionUser) activateAccountTasks(sessionUser.id);
     user = sessionUser;
+    forgetTokenAtSignIn = user ? (localStorage.getItem(forgetTokenKey(user.id)) || '') : '';
     if (user) {
       metaKey = `${baseKey}:${user.id}`;
       const meta = readJson(metaKey) || {};
@@ -223,19 +229,29 @@
       const nextUser = session?.user || null;
       if (!nextUser) {
         const previousUserId = user?.id || localStorage.getItem(activeUserKey);
-        if (user?.id) cacheAccountTasks(user.id);
+        const forgetLocalData = previousUserId && (forgettingUserId === previousUserId || removalRequested(previousUserId));
+        if (user?.id && !forgetLocalData) cacheAccountTasks(user.id);
         user = null;
+        forgetTokenAtSignIn = '';
         shadow = {};
         pendingImports = new Set();
         conflicts.clear();
         metaKey = '';
         if (previousUserId) {
           localStorage.removeItem(activeUserKey);
+          if (forgetLocalData) {
+            localStorage.removeItem(accountTasksKey(previousUserId));
+            localStorage.removeItem(`${baseKey}:${previousUserId}`);
+            localStorage.removeItem(`${baseKey}:initialized:${previousUserId}`);
+            localStorage.removeItem('varun-hq-v1');
+            forgettingUserId = null;
+          }
           applyTasks(seedTasks());
         }
       } else {
         user = nextUser;
         activateAccountTasks(user.id);
+        forgetTokenAtSignIn = localStorage.getItem(forgetTokenKey(user.id)) || '';
         metaKey = `${baseKey}:${user.id}`;
         const meta = readJson(metaKey) || {};
         shadow = meta.shadow || {};
@@ -291,7 +307,9 @@
           byTask.set(task.id, task);
         }
       } else if (row.deleted_at || !sameFields(localFields(existing), remoteFields(row))) {
-        setConflict(row.task_id, existing, row);
+        const conflictLocal = { ...existing, revision: String(row.revision) };
+        next[next.findIndex(item => item.id === row.task_id)] = conflictLocal;
+        setConflict(row.task_id, conflictLocal, row);
       } else {
         const task = fromRemote(row, existing);
         next[next.findIndex(item => item.id === row.task_id)] = task;
@@ -306,7 +324,7 @@
   }
 
   async function synchronize() {
-    if (!user || busy) return;
+    if (!user || busy || removalRequested(user.id)) return;
     busy = true;
     statusText('Syncing tasks…');
     try {
@@ -324,13 +342,23 @@
       const next = [...local];
       const indexById = new Map(next.map((task, index) => [task.id, index]));
       const writes = [];
+      let revisionChanged = false;
       for (const row of remote) {
         const id = row.task_id;
         seen.add(id);
         const localTask = localById.get(id);
         const base = shadow[id];
         if (!base) {
-          if (localTask) setConflict(id, localTask, row);
+          if (localTask && pendingImports.has(id) && !row.deleted_at && sameFields(localFields(localTask), remoteFields(row))) {
+            shadow[id] = shadowOf(row);
+            pendingImports.delete(id);
+            localTask.revision = String(row.revision);
+            revisionChanged = true;
+          } else if (localTask) {
+            localTask.revision = String(row.revision);
+            revisionChanged = true;
+            setConflict(id, localTask, row);
+          }
           else if (!row.deleted_at) {
             const remoteTask = fromRemote(row);
             indexById.set(id, next.length);
@@ -339,6 +367,10 @@
             shadow[id] = shadowOf(row);
           } else shadow[id] = shadowOf(row);
           continue;
+        }
+        if (localTask && String(localTask.revision || '') !== String(row.revision)) {
+          localTask.revision = String(row.revision);
+          revisionChanged = true;
         }
         if (hasConflict(id)) continue;
         if (!localTask) {
@@ -370,14 +402,14 @@
         if (shadow[task.id]) setConflict(task.id, task, null);
         else writes.push({ task, revision: '0' });
       }
-      if (next.length !== local.length || next.some((task, index) => task !== local[index])) applyTasks(next);
+      if (next.length !== local.length || next.some((task, index) => task !== local[index]) || revisionChanged) applyTasks(next);
       if (conflicts.size) {
         saveMeta();
         renderConflicts();
         statusText(`${conflicts.size} task conflict${conflicts.size === 1 ? '' : 's'} found. No cloud writes were made; choose a version in Cloud sync.`);
         return;
       }
-      let revisionChanged = false;
+      revisionChanged = false;
       for (const write of writes) {
         const saved = await writeCloud(write.task, write.revision);
         if (!saved) {
@@ -427,6 +459,10 @@
           task.revision = String(saved.revision);
           shadow[task.id] = { revision: String(saved.revision), deletedAt: null, fields: localFields(task) };
           pendingImports.delete(task.id);
+          cacheAccountTasks(user.id);
+          window.persistPersonalHQTasks?.();
+          saveMeta();
+          statusText(`Imported ${candidates.length - pendingImports.size} of ${candidates.length} tasks. Keep this browser open until the import finishes.`);
         }
       }
       applyTasks(getTasks());
@@ -479,6 +515,62 @@
     finally { busy = false; }
   }
 
+  async function forgetLocalAccountData() {
+    if (!user || !client) return;
+    if (busy) {
+      statusText('Wait for the current sync or import to finish before removing local account data.');
+      return;
+    }
+    const userId = user.id;
+    const localTasks = getTasks();
+    const localTaskCount = localTasks.length;
+    const localIds = new Set(localTasks.map(task => task.id));
+    const pendingTaskIds = new Set([...pendingImports, ...conflicts.keys()]);
+    for (const task of localTasks) {
+      if (!shadow[task.id] || !sameFields(localFields(task), shadow[task.id].fields)) pendingTaskIds.add(task.id);
+    }
+    for (const id of Object.keys(shadow)) {
+      if (!localIds.has(id) && !shadow[id].deletedAt) pendingTaskIds.add(id);
+    }
+    const pendingCount = pendingTaskIds.size;
+    const confirmed = window.confirm(
+      `Remove this account's data from this device? This deletes ${localTaskCount} locally stored task records (${pendingCount} pending or conflicting), sync metadata, and any pending edits, then signs out. It does not delete cloud tasks or encrypted backup files. If you need pending edits, cancel and create an encrypted backup first. Continue?`
+    );
+    if (!confirmed) return;
+    busy = true;
+    forgettingUserId = userId;
+    const previousForgetToken = localStorage.getItem(forgetTokenKey(userId)) || '';
+    localStorage.setItem(forgetTokenKey(userId), `${Date.now()}-${Math.random().toString(36).slice(2)}`);
+    try {
+      const { error } = await client.auth.signOut();
+      if (error) throw error;
+      if (user?.id === userId) {
+        user = null;
+        forgetTokenAtSignIn = '';
+        shadow = {};
+        pendingImports = new Set();
+        conflicts.clear();
+        metaKey = '';
+        localStorage.removeItem(activeUserKey);
+        localStorage.removeItem(accountTasksKey(userId));
+        localStorage.removeItem(`${baseKey}:${userId}`);
+        localStorage.removeItem(`${baseKey}:initialized:${userId}`);
+        localStorage.removeItem('varun-hq-v1');
+        applyTasks(seedTasks());
+        forgettingUserId = null;
+        renderSession();
+      }
+      statusText(`Removed ${localTaskCount} local task records for this account, including ${pendingCount} pending or conflicting task${pendingCount === 1 ? '' : 's'}. Cloud tasks were not deleted.`);
+    } catch (error) {
+      forgettingUserId = null;
+      if (user?.id === userId) {
+        localStorage.setItem(forgetTokenKey(userId), previousForgetToken);
+        forgetTokenAtSignIn = previousForgetToken;
+      }
+      showError(error);
+    } finally { busy = false; }
+  }
+
   function showError(error) { statusText(error?.message || 'Private sync could not complete.', true); }
   function openDialog() {
     const dialog = byId('privateSyncDialog');
@@ -505,6 +597,7 @@
     byId('privateSyncNow')?.addEventListener('click', () => synchronize().catch(showError));
     byId('privateSyncImportButton')?.addEventListener('click', () => importLocalTasks().catch(showError));
     byId('privateSyncBackup')?.addEventListener('click', () => window.backupEncrypted?.());
+    byId('privateSyncForget')?.addEventListener('click', forgetLocalAccountData);
     byId('privateSyncSignOut')?.addEventListener('click', async () => {
       try { if (client) { const { error } = await client.auth.signOut(); if (error) throw error; } }
       catch (error) { showError(error); }
@@ -521,7 +614,7 @@
   window.PersonalHQPrivateSync = {
     init,
     onLocalChange() {
-      if (!user || applyingRemote) return;
+      if (!user || applyingRemote || removalRequested(user.id)) return;
       cacheAccountTasks(user.id);
       if (!Object.keys(shadow).length || pendingImports.size || conflicts.size) return;
       const tasks = getTasks();
@@ -532,6 +625,7 @@
       clearTimeout(debounceTimer);
       debounceTimer = setTimeout(() => synchronize().catch(showError), 650);
     },
-    open: openDialog
+    open: openDialog,
+    isAuthenticated: () => !!user
   };
 })();
