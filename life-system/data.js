@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T12:37:12.8969506Z",
+  "generatedAt": "2026-11-20T12:42:28.9746901Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -209,8 +209,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Set a baseline weekly routine around work, sleep and gym",
       "area": "Personal & health",
       "due": "2026-11-28",
-      "status": "Not started",
-      "nextAction": "Set a baseline weekly routine around work, sleep and gym"
+      "status": "In progress",
+      "nextAction": "A general low-intensity weekly template is drafted in life-system/plans/routine-and-health.md. Next collect actual work/sleep windows, gym access and preferred days privately; only then make the schedule personal."
     },
     {
       "id": "task-26",
@@ -218,7 +218,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Personal & health",
       "due": "2026-11-28",
       "status": "Not started",
-      "nextAction": "Share training goals, food preferences and constraints"
+      "nextAction": "Share fitness goal, current activity/training experience, food pattern and preferences, allergies, relevant health or injury constraints, cooking time/budget and any clinician guidance privately. Unknown or prefer not to share are acceptable; do not put health details in public tasks."
     },
     {
       "id": "task-34",
@@ -226,7 +226,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Personal & health",
       "due": "2026-11-29",
       "status": "Not started",
-      "nextAction": "Personalize the gym and food routine after capturing health and schedule details"
+      "nextAction": "After tasks 25 and 26 capture the schedule and relevant constraints, adapt the general routine-and-health.md starter to the owner's actual goals, ability, food pattern and medical guidance. Keep calories, weight targets and supplements unset unless specifically assessed."
     },
     {
       "id": "task-27",
@@ -466,7 +466,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Personal & health",
       "due": "2026-11-30",
       "status": "Not started",
-      "nextAction": "Choose realistic work blocks, gym slots, meals and sleep window after schedule and health constraints are known."
+      "nextAction": "After task-25 captures work/sleep windows and task-26 captures gym/food constraints, turn the general starter into a realistic weekly calendar with recovery time. Do not assume a work schedule or gym access."
     },
     {
       "id": "media-daily",
