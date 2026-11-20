@@ -586,8 +586,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Verify Personal HQ backup and restore recovery",
       "area": "Life admin",
       "due": "2026-11-27",
-      "status": "In progress",
-      "nextAction": "Encrypted browser backup/restore round-trip verified on 21 Nov 2026 in an isolated Playwright session: 80 tasks and all status totals preserved; four habit definitions retained; empty logs/moments remained empty; browser recorded a backup timestamp. Next verify wrong-passphrase and malformed-file rejection without replacing restored data, then add non-sensitive sample browser-only activity in a separate isolated profile and verify its recovery. Do not use live user data or update task status to Done before the remaining cases are evidenced."
+      "status": "Done",
+      "nextAction": "Initial encrypted browser backup recovery is verified in an isolated session, including task/status preservation, habit logs, life-log moments and task activity; wrong passphrases and tampered ciphertext were rejected without data loss. Repeat recovery checks periodically and before major sync changes; no recurring reminder or cloud sync has been configured."
     },
     {
       "id": "task-60",
