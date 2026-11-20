@@ -571,7 +571,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "The Instagram Reel and YouTube Short are already public. vidIQ visual analyses describe a short MS Dhoni tribute montage with IPL broadcast branding, sponsor marks and a creator watermark; overlay wording appears inconsistent with the mentor-announcement caption. These are analyzer observations, not proof of source ownership or infringement. Inspect the original exported asset and production/source records; verify permission for footage, music, likeness and logos; compare the actual edit and caption to the approved original-animation brief; and locate exact-asset approval. Keep Waiting until evidence is recorded. Do not delete, edit, hide, repost or contact anyone based on the analysis alone."
+      "nextAction": "Both YouTube and Instagram report the 20 Nov 18:00 IST post completed. Still verify original footage/music/likeness/logo permissions and exact-asset approval; keep Waiting and do not alter the post."
     },
     {
       "id": "task-58",
