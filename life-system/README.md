@@ -8,7 +8,7 @@ Open `index.html` in Chrome or use the GitHub Pages site. The dashboard supports
 
 ## Data quality
 
-`tasks.json` records both the latest task-feed update time and the last full dashboard-export time. A `current-user-export` means the full task list came from a fresh dashboard export. A `merged-desktop-task-update` means desktop task edits were merged after that export; the banner reports that browser statuses may need reconciliation. Statuses are recorded values and still require evidence review before completion claims. Completed work remains in the list; unfinished items carry forward.
+`tasks.json` records both the latest task-feed update time and the last full dashboard-export time. A `current-user-export` means the full task list came from a fresh dashboard export. A `merged-desktop-task-update` means desktop task edits were merged after that export; the banner reports that browser statuses may need reconciliation. Statuses are recorded values and still require evidence review before completion claims. Completed work remains in the list; unfinished items carry forward. The Timeline records new task creations, edits and status transitions in a private browser-local activity history; older changes are not reconstructed. It records task title/area, changed field names and status transitions, never private-context or next-action values. The history is included in private task exports and backups; restore merges event IDs so an older backup cannot erase events already in this browser. Public feed generation omits the activity history. Activity history does not yet sync between browsers or through the optional cloud path.
 
 ## Plans
 
