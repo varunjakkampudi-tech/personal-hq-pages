@@ -1,7 +1,7 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T01:18:27.066Z",
-  "sourceSnapshotStatus": "current-user-export",
+  "generatedAt": "2026-11-20T02:45:00Z",
+  "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
@@ -588,6 +588,15 @@ window.PERSONAL_HQ_SEED = {
       "due": "2026-11-27",
       "status": "Not started",
       "nextAction": "At least quarterly and after major task-system changes, restore the latest private backup to an isolated browser profile or temporary data store; verify task and habit totals plus sample status/note values, then record the date and outcome privately without overwriting live data."
+    },
+    {
+      "id": "task-60",
+      "title": "Enable private Personal HQ sync across devices",
+      "area": "Life admin",
+      "due": null,
+      "status": "In progress",
+      "nextAction": "Review the private Postgres/RLS migration, choose the Supabase account and region, then configure owner authentication without placing secrets in public GitHub or Pages.",
+      "createdAt": "2026-11-20T02:45:00Z"
     }
   ],
   "history": [
