@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:06:43.5767947Z",
+  "generatedAt": "2026-11-20T15:09:00.3273588Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T15:06:43.5767947Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T15:09:00.3273588Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "After the dashboard refresh, 80 task IDs match across the private registry and browser export. The current reconciliation records 17 next-action differences (13 app-eligible plus four Personal HQ-local), 15 status differences, three title differences and seven due fields differing only as null versus blank. The older 62-task match is historical only. Selectively apply the eight reviewed combined actions, retain five private actions, handle task-46 locally, and preserve original strings in the private ledger. Then reconcile remaining status/title differences against evidence, export a fresh dashboard snapshot, and verify the task IDs and public feed without overwriting private notes or browser-local data."
+      "nextAction": "The eight reviewed action combinations are now recorded in the private registry and published in the sanitized 80-task feed (20 Nov, 20:36 IST); the live Pages URL returned HTTP 200 with 80 unique IDs. The browser dashboard still needs its local merge, with task statuses and private notes preserved; task-46 remains local-only. Then reconcile the remaining status and title differences against evidence, export a fresh full dashboard snapshot, update the registry and verify the IDs/feed. The earlier 62-task count is historical; current reconciliation is 80 tasks."
     },
     {
       "id": "task-53",
