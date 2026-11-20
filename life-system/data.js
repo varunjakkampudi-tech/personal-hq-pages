@@ -163,7 +163,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Read-only vidIQ check for 21 Nov IST found no scheduled post for YouTube or Instagram. Keep daily publishing In progress; continue channel release gates in media-daily/task-46. Recheck at the 09:00 IST review; publish or schedule only an owner-approved exact asset and time."
+      "nextAction": "Read-only vidIQ check for 21 Nov IST returned no YouTube or Instagram destinations in scheduled, draft, submitted, in-progress, completed, or failed states. No post was recorded for that window. Keep daily publishing In progress; prepare the next owner-approved asset and exact publish time before scheduling or publishing."
     },
     {
       "id": "task-18",
