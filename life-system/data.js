@@ -595,7 +595,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Private browser-local task activity now records new task creations, edits and status transitions; private exports/backups carry it and older restore merges event IDs. Next implement a private cloud event store and cross-device history merge, then verify migration, account isolation and recovery. Owner storage setup is not complete; preserve all open and completed task records and refresh only the daily Gmail summary."
+      "nextAction": "Schema and account-scoped event reader are published; no Supabase project is configured. Owner: create project, test migrations privately, configure publishable URL/key, verify account isolation, conflicts and recovery."
     },
     {
       "id": "task-61",
