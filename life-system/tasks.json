@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T09:45:17.306Z",
+  "generatedAt": "2026-11-20T09:48:07.426Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T09:45:17.306Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T09:48:07.426Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@
       "area": "Life admin",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Private registry and live feed: 79 tasks. Latest complete owner-browser export: 71 tasks, 20 Nov 06:48 IST. Keep reconciliation open until a fresh complete export enables ID, status, field and deletion comparison."
+      "nextAction": "Private registry and live feed: 80 tasks. Latest complete owner-browser export: 71 tasks, 20 Nov 06:48 IST. Keep reconciliation open until a fresh complete export enables ID, status, field and deletion comparison."
     },
     {
       "id": "task-53",
@@ -603,7 +603,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Responsive mobile navigation and short-screen layouts now clear task panels and hero actions at 320–393px; browser checks also covered 768/1280px. Latest renders load all 78 tasks without overflow or JavaScript/resource errors. Complete true 200% browser-zoom and screen-reader checks before release; both remain unverified."
+      "nextAction": "Complete true 200% browser-zoom and real screen-reader checks; both remain unverified. Latest responsive captures from 20 Nov loaded 78 tasks; current 80-task feed still needs a fresh mobile render before Done."
     },
     {
       "id": "task-62",
@@ -652,6 +652,14 @@
       "due": "",
       "status": "Not started",
       "nextAction": "Confirm consumer category, sanctioned load, allowed grid-solar/net-metering setup, upgrades and approvals with APEPDCL/electrician. Verify subsidy separately. If solar CCTV only, document its distinct electrical scope."
+    },
+    {
+      "id": "task-68",
+      "title": "Review cross-project funding, commitments and cash reserves",
+      "area": "Life admin",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Privately track committed spend, estimates, recurring costs and available reserves across active projects. Review liquidity monthly with task-58; require owner approval before major commitments. Keep figures private."
     }
   ],
   "history": [
