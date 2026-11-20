@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T10:35:34.145Z",
+  "generatedAt": "2026-11-20T10:45:21.765Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T10:35:34.145Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T10:45:21.765Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@
       "area": "Life admin",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Private registry and live feed: 80 tasks. Latest complete owner-browser export: 71 tasks, 20 Nov 06:48 IST. Keep reconciliation open until a fresh complete export enables ID, status, field and deletion comparison."
+      "nextAction": "Keep reconciliation Waiting: latest owner-browser export has 71 tasks (20 Nov 06:48 IST), omits task-60 through task-68, and contains stale statuses for task-20 and task-53. Obtain a fresh complete dashboard export before changing browser or registry statuses."
     },
     {
       "id": "task-53",
@@ -662,5 +662,78 @@
       "nextAction": "Privately track committed spend, estimates, recurring costs and available reserves across active projects. Review liquidity monthly with task-58; require owner approval before major commitments. Keep figures private."
     }
   ],
-  "history": []
+  "history": [
+    {
+      "date": "2026-11-19",
+      "area": "ValueMela",
+      "title": "Payment provider documents submitted for review",
+      "status": "Waiting"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "AI World 360",
+      "title": "Platform publication checks left open",
+      "status": "Waiting"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "CareerScope",
+      "title": "PR #108 exact-head browser CI passed; merge remains pending",
+      "status": "Waiting"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "ValueMela",
+      "title": "Store launch confirmation recorded",
+      "status": "Done"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "CareerScope",
+      "title": "PR #108 browser failure reviewed; exact-head CI now passes",
+      "status": "Waiting"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "FixHub24",
+      "title": "Dependency audit updates are open for owner review",
+      "status": "Waiting"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "ValueMela",
+      "title": "Branded support-email setup requested",
+      "status": "Waiting"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "Career move",
+      "title": "Resume sources compared; career profile review remains open",
+      "status": "In progress"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "Life admin",
+      "title": "Daily Personal HQ task summary emailed",
+      "status": "Done"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "AI World 360",
+      "title": "AI World 360 Nov 19 crosspost completed",
+      "status": "Done"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "AI World 360",
+      "title": "Nov 20 AI World 360 crosspost schedule matched",
+      "status": "Waiting"
+    },
+    {
+      "date": "2026-11-19",
+      "area": "ValueMela",
+      "title": "ValueMela signup notices identified",
+      "status": "Waiting"
+    }
+  ]
 }
