@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T02:01:00+05:30",
+  "generatedAt": "2026-11-21T02:06:41+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T02:01:00+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T02:06:41+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -579,7 +579,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-22",
       "status": "In progress",
-      "nextAction": "Weekly review on 20 November 2026 recorded evidence-backed dependencies and open gates across career (tasks 0/7), ValueMela GST (20/21/23/56), dairy (10/11/13/14/64/67), AI World 360 (49/57), CareerScope (16/62), and Personal HQ reconciliation (52). Capacity, cash availability and cross-project owner priorities remain unknown. Next review: 27 November 2026. Review blockers, dependencies, deadlines and realistic time capacity across all focus areas. Record which tasks to advance, pause or defer, with reasons, next actions and review dates. Obtain owner choices where necessary; do not infer financial commitments. Keep sensitive details out of the public task feed."
+      "nextAction": "Prioritize evidence gates through 27 Nov: complete profile-link intake, verify ValueMela operating facts, and prepare the next exact owner-approved AI World 360 asset; then obtain written GST advice. Keep dairy quotes behind site/herd/utilities/budget inputs and CareerScope changes behind explicit scope authorization. Preserve browser-local state until a fresh export resolves 13 action, 15 status and 3 title conflicts. Capacity, cash and owner sequencing preferences remain unknown; do not infer commitments. Next review 27 Nov 2026."
     },
     {
       "id": "task-59",
