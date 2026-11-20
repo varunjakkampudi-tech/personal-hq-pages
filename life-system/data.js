@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T11:14:28.362Z",
+  "generatedAt": "2026-11-20T11:23:35.494Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -482,7 +482,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "Done",
-      "nextAction": "Mobile sync notice and task cards refined; deployed to Pages and verified at 393px iPhone and desktop. Apply the independent ChatGPT UI critique if it arrives, then recheck."
+      "nextAction": "Live 320×568 Pages render verified: no horizontal overflow, priority title wraps fully, task-details dialog opens, Escape closes it and restores focus. Screenshot is local only. Optional 200% zoom and real screen-reader behavior remain unverified."
     },
     {
       "id": "task-52",
