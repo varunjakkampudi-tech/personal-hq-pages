@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T10:47:55.093Z",
+  "generatedAt": "2026-11-20T10:50:45.615Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T10:47:55.093Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T10:50:45.615Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -411,7 +411,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "The 20 Nov 18:00 IST slot has passed. Instagram still reports scheduled with no URL or attempts, and YouTube upload g-5ojhJY63g remains private with the scheduled time in the past; vidIQ’s YouTube destination remains draft. Check each platform’s actual outcome, record any live URL or failure, and keep status Waiting until verified."
+      "nextAction": "The 20 Nov 18:00 IST slot is upcoming. vidIQ shows Instagram scheduled for 12:30Z with no URL or attempts; direct YouTube listing shows g-5ojhJY63g private, processed and scheduled for 12:30Z, with no actual start. Exact media/provenance/rights and owner approval remain unresolved. Do not change either schedule; verify actual destination outcomes after 18:00 IST."
     },
     {
       "id": "task-50",
@@ -571,7 +571,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "P0 carry-forward: the 20 Nov 18:00 IST slot passed without a schedule decision. Exact media/rights/brief fit remain unverified; Instagram still reports scheduled with no URL or attempts, and YouTube upload remains private with the time in the past. Verify each destination outcome independently and record evidence; do not change platform state without authorization."
+      "nextAction": "P0 release gate before 20 Nov 18:00 IST: Instagram is scheduled and the matching YouTube Short remains private/processed with the same scheduled time. Exact media, provenance/rights, fit to the approved brief and asset-specific owner approval remain unverified. Do not edit or cancel the schedules; check both destinations after 18:00 IST and record a live URL, failure or unresolved state."
     },
     {
       "id": "task-58",
