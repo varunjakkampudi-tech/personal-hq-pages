@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T03:58:44+05:30",
+  "generatedAt": "2026-11-21 04:22:00 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T03:58:44+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 04:22:00 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -499,7 +499,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "At 320px, retain a single-line merge action and 44px touch target without hiding the task-status warning; publish and capture the updated live Pages view. Then complete 200% text zoom and screen-reader checks."
+      "nextAction": "Complete verified 200% browser-zoom and screen-reader checks; record browser accessibility names, focus/order and any remaining defects. Keep In progress until those checks and independent review are complete."
     },
     {
       "id": "task-52",
