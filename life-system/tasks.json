@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T03:15:25+05:30",
+  "generatedAt": "2026-11-21T03:19:09+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T03:15:25+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T03:19:09+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -603,7 +603,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Complete a real 200% browser-zoom review and a real screen-reader check, then record release evidence. Mobile scroll and nav switching now pass the manual viewport checks; keep In progress until accessibility gates are verified."
+      "nextAction": "Manual Playwright review at a 640×900 CSS viewport (effective-width proxy for 200% zoom on a 1280px-wide desktop) found no horizontal overflow (scrollWidth=clientWidth=640); the merge action and bottom navigation remained visible in the captured page. This does not prove actual browser zoom behavior. Complete a real 200% browser-zoom review and real screen-reader check before closing."
     },
     {
       "id": "task-62",
