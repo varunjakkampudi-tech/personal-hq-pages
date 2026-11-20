@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T01:03:29+05:30",
+  "generatedAt": "2026-11-21T01:57:09+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T01:03:29+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T01:57:09+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -83,7 +83,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-12-04",
       "status": "In progress",
-      "nextAction": "Confirm whether qualifying work before Mar 2023 supports the “4 years” claim. Build claim-level evidence for responsibilities, metrics, skills and client disclosure; separate portfolio projects from employment and distinguish merged code from tests, deployment and user adoption. Varun must confirm personal contribution, AI/collaboration and disclosure permission."
+      "nextAction": "Review private/career-resume-claim-review-2026-11-21.md: confirm claim dates, personal contributions, AI/collaboration, metric bases and client disclosure permissions with owner evidence. Matching PDF remains unparsed; no claims verified and no resume/profile edits."
     },
     {
       "id": "task-8",
