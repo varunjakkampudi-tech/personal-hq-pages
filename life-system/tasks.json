@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T12:42:28.9746901Z",
+  "generatedAt": "2026-11-20T12:48:59.9622308Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -550,11 +550,11 @@
     },
     {
       "id": "task-57",
-      "title": "Verify AI World 360 scheduled media before release",
+      "title": "Review published AI World 360 media provenance, rights and brief fit",
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Delivery is verified: Instagram Reel is live and YouTube Short g-5ojhJY63g is public. Still review exact media, provenance, rights and approved-brief fit; keep this gate open until evidenced."
+      "nextAction": "Post is live on both platforms. Read-only media review raised unresolved source/rights and approved-brief questions. Inspect the original asset and evidence; keep this review gate open. No platform changes made."
     },
     {
       "id": "task-58",
