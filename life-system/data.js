@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T04:53:54Z",
+  "generatedAt": "2026-11-20T05:05:09Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T04:53:54Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
@@ -187,7 +187,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "2026-11-25",
       "status": "Not started",
-      "nextAction": "Record the legal entity and state, own-site vs marketplace sales, who invoices/collects/supplies, product and shipping states, turnover, and whether a section 52 TCS e-commerce operator warehouse is involved; keep identifiers private and ask the CA to assess Rule 14B eligibility."
+      "nextAction": "Record the legal entity/state, first potentially liable event and date, historical turnover by FY, own-site vs marketplace roles, who invoices/collects/owns/supplies/dispatches, product and shipping states, each stock location and operator warehouse, pending orders before GSTIN, turnover, and section 52 TCS status; keep evidence/identifiers private and ask the CA to assess Rule 14B and historical exposure."
     },
     {
       "id": "task-21",
@@ -195,7 +195,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "2026-11-28",
       "status": "Not started",
-      "nextAction": "Send the completed business-model summary and open questions from the private GST intake to a qualified GST practitioner; obtain a dated written registration and compliance route with current official sources before preparing or filing."
+      "nextAction": "Send the completed secure business-model summary and private GST intake to a qualified GST practitioner; obtain a dated written determination of liability trigger/application deadline/effective date and any historical review; pre-GSTIN orders/invoice policy; registrations by stock location; invoice seller; TCS; bank verification; product tax; e-way bill responsibility; GSTR-2B/ITC, e-invoice and returns before preparing or filing."
     },
     {
       "id": "task-22",
@@ -203,7 +203,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "2026-12-02",
       "status": "Not started",
-      "nextAction": "After written practitioner determination, verify the live GST Portal application requirements and securely tick only the applicable entity, signatory, premises, goods/services and state-specific documents in the private intake."
+      "nextAction": "After written practitioner determination, verify the live GST Portal requirements and securely tick only applicable entity, signatory, premises, goods/services and state-specific documents; include every stock/warehouse location and a post-grant bank-entry plus successful portal-verification deadline gate."
     },
     {
       "id": "task-23",
@@ -211,7 +211,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "2026-12-08",
       "status": "Not started",
-      "nextAction": "After the CA confirms the route and the secure checklist is reviewed, the owner verifies final application details and submits through the official GST Portal; keep proof of submission privately."
+      "nextAction": "After the CA confirms the route, historical exposure/pre-GSTIN transaction policy and secure checklist, the owner reviews exact final application details and explicitly authorizes any submission through the official GST Portal; keep proof privately and track actual portal notices/deadlines."
     },
     {
       "id": "task-24",
@@ -219,7 +219,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "2026-12-15",
       "status": "Not started",
-      "nextAction": "After any registration is granted, verify the certificate privately, then validate ValueMela invoice settings, order/refund/payment exports and CA-confirmed return calendar before treating operations as ready."
+      "nextAction": "After any registration is granted, verify the certificate privately; add the bank account and confirm portal-verified status by the CA-confirmed Rule 10A deadline; validate seller/invoice setup, order/refund/payment exports, e-way bill responsibility, supplier invoice/GSTR-2B/ITC controls, conditional e-invoice applicability and CA-confirmed filing calendar before treating operations as ready."
     },
     {
       "id": "task-25",
@@ -563,7 +563,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "",
       "status": "Not started",
-      "nextAction": "After the CA confirms registration and applicable returns, define the filing-period checklist: reconcile orders, invoices, cancellations, refunds/credit notes, payment settlements, bank receipts, books and applicable GST portal data; track exceptions; obtain owner approval of final figures before filing and retain acknowledgements."
+      "nextAction": "After the CA confirms liability/effective date, registrations and applicable returns, define the filing-period checklist: reconcile orders, invoices, dispatches, cancellations, returns, credit/debit notes, refunds/chargebacks, settlements, bank receipts, books, supplier invoices and GSTR-2B; check ITC eligibility/reversals, e-way bill and conditional e-invoice controls; track exceptions, obtain owner approval of final figures before filing and retain acknowledgements."
     },
     {
       "id": "task-57",
