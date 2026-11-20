@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T12:01:18.9068273+00:00",
+  "generatedAt": "2026-11-20T12:03:58.8935308+00:00",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -590,11 +590,11 @@ window.PERSONAL_HQ_SEED = {
     },
     {
       "id": "task-62",
-      "title": "Track CareerScope roadmap delivery and release gates",
+      "title": "Track CareerScope roadmap delivery, PR review backlog and release gates",
       "area": "CareerScope",
       "due": null,
       "status": "In progress",
-      "nextAction": "Review the authorized CareerScope roadmap and prioritize its open PR queue. Current GitHub evidence: 34 PRs are open overall. PRs #107, #112 and #114–#122 are open, clean/mergeable to dev, with all three required checks passing on their current exact heads; none has a submitted review. These remain unmerged and are not completed roadmap items. Review scope and acceptance evidence under the existing stage gates; do not merge, deploy, or advance checklist status without authorization."
+      "nextAction": "At the weekly review, reconcile all 34 open CareerScope PRs against the authorized roadmap and current GitHub evidence. Current read-only subset: #107, #112 and #114–#122 are open and clean/mergeable to dev; all three required CI jobs pass on exact current heads, and none has a submitted review. For each PR, record exact head SHA/base, CI run, independent review, roadmap item, dependencies and merge authorization. Green CI or mergeability does not establish acceptance, readiness, or permission to merge. Treat earlier failure emails as historical to their SHAs; retain stage, merge, deployment and checklist-acceptance gates."
     },
     {
       "id": "task-63",
