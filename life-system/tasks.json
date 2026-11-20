@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T07:28:47.536Z",
+  "generatedAt": "2026-11-20T07:39:18.047Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T07:28:47.536Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T07:39:18.047Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@
       "area": "Life admin",
       "due": "",
       "status": "Waiting",
-      "nextAction": "The 20 Nov 2026 06:48 IST owner-browser export contains 71 tasks and omits task-60 and task-61; the current registry and public source/Pages feeds contain 73 and remain labeled merged-desktop-task-update. Obtain a fresh current-user export when available, compare every ID, status, field and deletion against the 73-task registry, and do not replace newer merged values with the older snapshot. The app preserves existing statuses and browser-only tasks, but its merge can add missing IDs and refresh nextAction on unversioned tasks."
+      "nextAction": "The 20 Nov 2026 06:48 IST owner-browser export contains 71 tasks and omits task-60 and task-61; the current registry and public feeds contain 73 and remain labeled merged-desktop-task-update. Keep reconciliation open until a fresh current-user export is available, then compare every ID, status, field and deletion. The merge safeguard now preserves differing local next-action text unless a manual refresh is explicitly confirmed; statuses and browser-only tasks remain preserved."
     },
     {
       "id": "task-53",
@@ -603,7 +603,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Latest live UI update (Pages commit bf37e35) applies the readability review: at widths up to 700px, secondary text is at least 12px, explanatory copy 14px and form controls 16px; timeline labels wrap at 260px and below. Live checks at 390px, 320px and 195px show no horizontal overflow and no visible non-icon text below 12px at 390/320. Navigation targets measure 54x50px, 48x47px and 36x47px respectively; at 320x568 the last interactive item remains above the fixed nav after focus. Actual 200% browser zoom and real screen-reader output remain unverified. Next: complete those checks and review final ChatGPT feedback."
+      "nextAction": "Latest live UI update (Pages commit bf37e35) applies the mobile readability review: secondary text 12px, explanatory copy 14px, controls 16px; no overflow at 390px, 320px or 195px and the last item remains above fixed navigation at 320x568. Follow-up merge safeguard now preserves differing local nextAction text unless manually confirmed. True 200% browser zoom and real screen-reader output remain unverified. Complete those checks and review final ChatGPT feedback."
     }
   ],
   "history": [
