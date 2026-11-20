@@ -191,10 +191,16 @@
     if (configNotice) configNotice.hidden = configReady();
     if (login) login.hidden = !configReady() || !!user;
     if (signedIn) signedIn.hidden = !user;
-    if (connect) connect.textContent = user ? 'Cloud sync' : 'Private sync';
+    if (connect) connect.textContent = user ? 'Cloud sync' : (configReady() ? 'Sign in to sync' : 'Sync setup');
+    const panelState = byId('privateSyncPanelState');
     if (user) statusText(`Connected as ${user.email || 'owner'} · checking tasks. Routines stay local.`);
-    else if (configReady()) statusText('Local only · not signed in. Changes stay in this browser.');
-    else statusText('Local only · not connected. Changes stay in this browser.');
+    else if (configReady()) {
+      statusText('Local only · sign in to use configured cloud sync.');
+      if (panelState) panelState.textContent = 'Configured · sign in to sync.';
+    } else {
+      statusText('Local only · owner setup required; no cloud sync is connected.');
+      if (panelState) panelState.textContent = 'Owner setup required · local only.';
+    }
     renderConflicts();
   };
 
