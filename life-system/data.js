@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 05:25:50 +05:30",
+  "generatedAt": "2026-11-21 05:27:23 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 05:25:50 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 05:27:23 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -131,7 +131,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Dairy farm",
       "due": "2026-12-15",
       "status": "In progress",
-      "nextAction": "Vendor research and a weighted comparison checklist are prepared in research/supplier-shortlist-west-godavari.md. To unlock like-for-like quotes, privately record the exact site/village or service radius, species and 20-to-40 herd mix, land/utility constraints, target start date and budget ceiling. Then request site-specific 20-animal and expansion-to-40 drawings, itemized civil/structure scopes, named structural engineer and signed calculations, two comparable farm references with permission to contact, GST/legal-entity check, written warranty/service terms and milestone payments. Keep In progress until current references, site fit and comparable written proposals are evidenced; no vendor has been contacted or verified."
+      "nextAction": "Before requesting final like-for-like quotes, privately complete the site and 20-to-40 herd brief. Dairy plan now adds source-checked pre-purchase gates from the AP IVC course and NDDB: verified milk buyer/offtake, land and water, accessible veterinary/breeding services, species-specific sourcing/health/vaccination/quarantine plan, feed/fodder, labor and transport; complete facilities before animal arrival. No vendor contact or site assumptions."
     },
     {
       "id": "task-14",
