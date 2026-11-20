@@ -33,7 +33,7 @@ Potential records the official portal checklist includes, depending on constitut
 - Promoter/partner/director and authorised-signatory information, proof of appointment where applicable, and the required electronic verification method.
 - Proof for the principal place of business; for owned or rented/consented premises, use the portal’s current accepted-document list for that possession type. Add documents for additional places only when applicable.
 - Goods/services descriptions and relevant codes, state/jurisdiction details, and contact details for OTP verification.
-- Bank-account details are optional in the REG-01 application flow, but after registration Rule 10A requires furnishing them within 30 days of grant or before furnishing outward-supply details in GSTR-1 / using IFF, whichever is earlier. Confirm the current portal workflow and deadline with the CA; failure can affect registration status.
+- The GST Portal normal-taxpayer REG-01 guide now documents a Bank Accounts tab introduced in November 2026: furnishing account details during the application is optional, and up to 10 business accounts linked with the applicant PAN may be added. This does not remove the post-grant Rule 10A requirement: furnish bank-account details within 30 days of grant or before furnishing outward-supply details in GSTR-1 / using IFF, whichever is earlier. Confirm the exact applicant-specific portal workflow and deadline with the practitioner; verify successful account validation, not merely entry. The live GST Portal guide can change.
 - Track both furnishing and successful portal verification of the business bank account within the practitioner-confirmed Rule 10A deadline. Keep account numbers and bank documents out of Personal HQ.
 - State-specific or business-model documents requested by the current portal form.
 
@@ -69,11 +69,11 @@ CBIC Instruction 03/2025-GST says complete applications that are not flagged as 
 
 ## Official references
 
-**Research checked:** 20 November 2026. The 18 November corrigendum to Notification 05/2026-Central Tax was reviewed alongside the original notice.
+**Research checked:** 20 November 2026. The 18 November corrigendum to Notification 05/2026-Central Tax was reviewed alongside the original notice. The live GST Portal REG-01 guide was also checked for its November 2026 Bank Accounts tab.
 
 **Control additions checked:** 20 November 2026. Liability timing, bank-account verification, GSTR-2B reconciliation, e-way bill responsibility and e-invoice applicability were rechecked against linked CBIC/GST Portal/GSTN materials. These are prompts for fact-specific practitioner advice, not conclusions about ValueMela.
 
-- [GST Portal: Apply for Registration as a Normal Taxpayer](https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm) — current portal form flow and section list; it notes the post-grant bank-details step.
+- [GST Portal: Apply for Registration as a Normal Taxpayer](https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm) — current portal form flow and section list, including the optional Bank Accounts tab (introduced November 2026), the applicant-PAN linkage and the Rule 14B address limitation. The separately cited Rule 10A deadline still applies after grant.
 - [GST Portal: Registration document checklist](https://tutorial.gst.gov.in/cbt/registration/gstregistration/course/story_content/external_files/GST_Registration_Document_Checklist.pdf) — portal-published example documents and upload formats.
 - [Gazette of India: Notification 05/2026-Central Tax (G.S.R. 919(E))](https://egazette.gov.in/WriteReadData/2026/277451.pdf) — CGST Amendment Rules 2026, including Rule 14B, generally effective 1 November 2026.
 - [Gazette of India: Corrigendum G.S.R. 1001(E), 18 November 2026](https://egazette.gov.in/WriteReadData/2026/278035.pdf) — English text corrections to Notification 05/2026-Central Tax.
