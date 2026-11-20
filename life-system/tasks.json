@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T12:48:59.9622308Z",
+  "generatedAt": "2026-11-20T12:51:59.1032427Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -378,7 +378,7 @@
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Capture channel format, language and timing preferences; record evidence for final-asset and schedule review; verify both destinations and add live URLs after the 20 Nov schedule."
+      "nextAction": "Nov 20 crosspost delivery is verified: Instagram https://www.instagram.com/reel/Df9qK4iB6bt/; YouTube https://www.youtube.com/watch?v=g-5ojhJY63g. Capture channel format/language/cadence and log each future asset and destination separately. Media provenance/rights/brief review remains open in task-57."
     },
     {
       "id": "task-48",
