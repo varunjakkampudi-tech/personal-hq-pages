@@ -21,3 +21,9 @@ Open `index.html` in Chrome or use the GitHub Pages site. The dashboard supports
 - [Life log](../life-log.html)
 
 Resume/profile source files, real farm/site records, customer information and health details belong in a private, access-controlled location, not this public repository.
+
+On GitHub Pages, the dashboard silently merges the latest public task feed when it opens. It adds newly published tasks and refreshes supported task guidance while preserving browser statuses, notes and browser-only tasks. This is a sanitized one-way metadata update; private browser edits still do not synchronize across devices.
+
+### Private task sync setup
+
+The dashboard includes an optional Supabase email/password sign-in and revision-checked task sync. It does not provide sign-up. Until the owner creates a Supabase project, applies both migrations, disables public sign-ups and fills supabase-config.js with the project URL and browser publishable key, it continues saving locally and uses encrypted file backup. On first sync, cloud tasks are compared with local tasks; the app asks before importing browser-only tasks and surfaces conflicting copies for a per-task choice. Routine check-ins and life-log data are not synced yet. Supabase Auth persists its session in that browser's local storage. The client SDK is vendored at a pinned version under vendor/ with its MIT license and package integrity recorded in vendor/THIRD-PARTY-NOTICES.md.

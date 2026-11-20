@@ -6,3 +6,7 @@
 private/
 sanitize-pages.ps1
 .playwright-cli/
+
+supabase/.temp/
+supabase/.branches/
+supabase/.env*
