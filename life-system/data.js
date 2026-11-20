@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T05:11:13Z",
+  "generatedAt": "2026-11-20T05:16:50Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T04:53:54Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
@@ -514,8 +514,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Verify daily 9 AM IST task email delivery",
       "area": "Life admin",
       "due": "2026-11-20",
-      "status": "Waiting",
-      "nextAction": "Gmail confirms the 20 Nov summary was sent at 09:05 IST and only today's matching summary remains in Inbox. The dashboard still records Waiting; update that status after safe UI access. Do not resend today's email."
+      "status": "Done",
+      "nextAction": "Verified one 20 Nov summary in Inbox at 09:05 IST; no older matching summaries remain there. Do not resend; reconcile the browser snapshot separately."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
