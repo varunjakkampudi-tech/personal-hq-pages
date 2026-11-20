@@ -1,8 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T13:00:34.8087545Z",
+  "generatedAt": "2026-11-20T13:45:02.380247Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T13:45:02.380247Z",
+  "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
+  "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
+  "areas": [
+    "AI World 360",
+    "Career move",
+    "CareerScope",
+    "Dairy farm",
+    "Family",
+    "FixHub24",
+    "Godavari dairy guide",
+    "LensMate",
+    "Life admin",
+    "OraOne",
+    "Personal & health",
+    "Training & learning",
+    "ValueMela"
+  ],
   "tasks": [
     {
       "id": "task-0",
@@ -122,7 +139,7 @@
       "area": "Dairy farm",
       "due": "2026-12-20",
       "status": "In progress",
-      "nextAction": "Confirm site/village, electrical loads, grid/outage pattern and camera/network needs; then compare farm PV, dedicated solar-CCTV and integrated options against references, warranty and service. Treat APEPDCL local names as historical screening leads only: its linked PM Surya Ghar list is dated 13 Jun 2024, not proof of current 2026 listing or eligibility."
+      "nextAction": "Confirm site/village, electrical loads, grid/outage pattern and camera/network needs; then compare farm PV, dedicated solar-CCTV and integrated options against references, warranty and service. Keep APEPDCL’s 13 Jun 2024 PM Surya Ghar list separate from its 29 Apr 2026 registered-vendor directory; both are dated screening evidence, not proof of current status or dairy subsidy."
     },
     {
       "id": "task-15",
@@ -170,7 +187,7 @@
       "area": "ValueMela",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Complete the private local GST fact intake: entity/state, goods, turnover/liability history, orders, stock states and premises. Explicitly verify or mark unknown the actual Factori flow: seller of record, inventory ownership, invoicing, payment collection, returns, shipping and fulfilment; use existing vendor records/docs and do not infer. Store no identifiers or scans here. Then obtain a written current practitioner determination before choosing a registration route. Due date is an internal planning target only."
+      "nextAction": "Compare the signed Factori agreement with the current dashboard return-policy settings and raw canonical policy/version; the public policy page rewrites displayed 7-day wording to 24 hours and the policy text states no gateway was enabled as of 18 Nov. Treat those as public copy observations, not account configuration or transaction evidence. Verify current settings read-only, reconcile the policy/App Policy versions, then inspect seller/order acceptance, invoice, payment/settlement, dispatch/warehouse and return/refund evidence if transactions exist. Complete entity/state, turnover and historical facts privately and obtain a written CA determination; no GST-route conclusion from policy wording alone."
     },
     {
       "id": "task-21",
@@ -178,7 +195,7 @@
       "area": "ValueMela",
       "due": "2026-11-28",
       "status": "Not started",
-      "nextAction": "Complete the private fact intake, then obtain a dated written CA decision matrix for Sections 22/23/24/25 (including mandatory vs voluntary route), Rule 14B eligibility and ongoing/withdrawal conditions, pre-GSTIN transactions, portal outcomes/remedies, state registrations, platform/TCS, invoices, bank verification, e-way bills, GSTR-2B/ITC, e-invoice and returns. No filing until the facts and route are reviewed. Internal planning target only; determine any statutory or portal deadline from verified facts and current authority."
+      "nextAction": "After private actual-vs-proposed flow facts are verified, obtain a written, dated CA matrix. Ask it to cover live November 2026 REG-01 Bank Accounts tab vs post-grant Rule 10A deadlines, corrected Rule 14B/corrigendum and all route-specific obligations. No route conclusion or filing before facts and owner review."
     },
     {
       "id": "task-22",
@@ -296,7 +313,7 @@
       "id": "task-36",
       "title": "Follow up on ValueMela storefront support requests",
       "area": "ValueMela",
-      "due": null,
+      "due": "",
       "status": "Waiting",
       "nextAction": "Factori support reports an attempted call about disabled State/City-District selectors in saved customer addresses and requests a convenient callback time. Owner has not selected a time or replied. Await owner scheduling. After support guidance or a confirmed fix, independently verify the affected address-selection workflow without modifying customer records. Retain the separate branded support-email issue."
     },
@@ -312,7 +329,7 @@
       "id": "task-38",
       "title": "Review external payment-platform access",
       "area": "ValueMela",
-      "due": null,
+      "due": "",
       "status": "Waiting",
       "nextAction": "Using authenticated Razorpay dashboard in read-only mode, check whether the app remains authorized, compare displayed permissions with accepted scope, and review available activity. Do not change or revoke access."
     },
@@ -320,7 +337,7 @@
       "id": "task-39",
       "title": "Factori confirmed ValueMela store launch",
       "area": "ValueMela",
-      "due": null,
+      "due": "",
       "status": "Done",
       "nextAction": "Factori confirmed ValueMela store launch"
     },
@@ -328,7 +345,7 @@
       "id": "task-40",
       "title": "Review recent CareerScope quality check failures",
       "area": "CareerScope",
-      "due": null,
+      "due": "",
       "status": "Not started",
       "nextAction": "Review current check evidence and confirm active project authorization before code changes."
     },
@@ -336,7 +353,7 @@
       "id": "task-41",
       "title": "Review FixHub24 dependency audit findings",
       "area": "FixHub24",
-      "due": null,
+      "due": "",
       "status": "In progress",
       "nextAction": "Owner review remains needed for PR #23 (body-parser security upgrade); it is open and exact-head CI plus dependency audit passed. PR #24 is also open; exact-head run 41761900612 fails the dependency audit for the same unresolved body-parser high-severity advisory plus seroval moderate advisories. The fresh main-branch run 44710368830 independently confirms the audit still fails; lint, typecheck, tests, browser suite and production build passed. Review and resolve through PRs; do not merge without owner authorization."
     },
@@ -352,7 +369,7 @@
       "id": "task-43",
       "title": "Review latest CareerScope browser check failure",
       "area": "CareerScope",
-      "due": null,
+      "due": "",
       "status": "Done",
       "nextAction": "Failure review is complete; PR #108 remains open pending owner-authorized merge."
     },
@@ -378,7 +395,7 @@
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Nov 20 crosspost delivery is verified: Instagram https://www.instagram.com/reel/Df9qK4iB6bt/; YouTube https://www.youtube.com/watch?v=g-5ojhJY63g. Capture channel format/language/cadence and log each future asset and destination separately. Media provenance/rights/brief review remains open in task-57."
+      "nextAction": "Record the verified 20 Nov crosspost in the dated publishing log: Instagram https://www.instagram.com/reel/Df9qK4iB6bt/ and YouTube https://www.youtube.com/watch?v=g-5ojhJY63g. Still confirm channel format, language and cadence preferences; record each future video source, final-asset review and separate platform status. Link unresolved provenance/rights/brief review to task-57; a scheduled or published status alone is not asset approval."
     },
     {
       "id": "task-48",
@@ -394,13 +411,13 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Done",
-      "nextAction": "Delivery verified 20 Nov 2026: Instagram completed (https://www.instagram.com/reel/Df9qK4iB6bt/) and YouTube Short g-5ojhJY63g is public. Separate media provenance, rights and approved-brief review remains open in task-57."
+      "nextAction": "Crosspost delivery verified 20 Nov 2026: Instagram reports completed with live URL https://www.instagram.com/reel/Df9qK4iB6bt/; YouTube Short g-5ojhJY63g is public/processed with publishedAt 2026-11-20T12:30:29Z. This confirms destination delivery only; see task-57 for separate media provenance, rights, and brief-fit review."
     },
     {
       "id": "task-50",
       "title": "Review new store registrations",
       "area": "ValueMela",
-      "due": null,
+      "due": "",
       "status": "Waiting",
       "nextAction": "Two Factori signup notices from 19 Nov only direct the owner to customer details in the store console. No customer records were opened. Keep this task Waiting until an authenticated console review establishes whether any follow-up is needed; keep customer identifiers out of Personal HQ."
     },
@@ -473,8 +490,8 @@
       "title": "Run the daily AI World 360 publishing workflow",
       "area": "AI World 360",
       "due": "",
-      "status": "Not started",
-      "nextAction": "Carry each video through research, script, generation, edit and review; publish to both channels only after exact asset approval."
+      "status": "In progress",
+      "nextAction": "The private A shared umbrella script now incorporates both ChatGPT reviews: first umbrella is explicitly for anyone needing it; the rescue uses natural Telugu and ends at a dry safe spot; the second umbrella is visibly added with a note; the established bench/framing returns for the loop. Timings remain provisional and unmeasured. Next: owner confirms Telugu/channel voice and reviews exact words/storyboard; then time a spoken read before any Google Flow generation. No upload/schedule/publication without exact final-asset approval."
     },
     {
       "id": "task-51",
@@ -490,7 +507,7 @@
       "area": "Life admin",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Local registry and public feed match at 80 tasks: 7 Done, 10 In progress, 8 Waiting, 55 Not started. Embedded dashboard export remains from 06:48 IST; last browser observation at 17:00 differed and reported 13 next-action conflicts. Reconcile only after preserving a fresh full browser export and comparing records by task ID."
+      "nextAction": "The private registry and public feed agree on 80 tasks (7 Done, 10 In progress, 8 Waiting, 55 Not started), but the embedded dashboard export is still from 20 Nov 2026 06:48 IST. The last owner-browser observation at 17:00 showed 80 tasks with different status counts and 13 next-action conflicts. No fresh complete browser export is available in this session. Obtain the full export, preserve it separately, compare all task IDs/statuses/next actions/revisions, then resolve conflicts explicitly before merging."
     },
     {
       "id": "task-53",
@@ -530,15 +547,15 @@
       "area": "ValueMela",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Await Factori reply to the catalog-pricing review request; compare like-for-like products and the stated price basis before considering any listing change."
+      "nextAction": "Factori replied 20 Nov: prices may currently be higher in some categories as volumes grow and says it is optimizing catalog pricing, but gave no SKU comparison, price corrections or timeline. Compare the same SKU/variant, shipping, taxes, settlement and price basis using a specific sample; ask Factori for itemized examples/timeline only if the owner wants a follow-up. No listing price changed."
     },
     {
       "id": "task-55",
       "title": "Review Razorpay and Factori liability terms",
       "area": "ValueMela",
       "due": "",
-      "status": "Waiting",
-      "nextAction": "Compare the App Policy with Factori terms effective at consent, including incorporated partner/payment terms; capture agreement versions/dates, unauthorized or erroneous transaction responsibility, refunds/disputes/third-party claims, notice duties/deadlines, escalation channels, evidence requirements and remedy limits. Route unresolved significant questions for qualified legal review before any commercial-use decision."
+      "status": "In progress",
+      "nextAction": "Compare Factori contract and App Policy versions effective at setup with current raw and rendered public policies, documented here with source URLs and SHA-256 fingerprints. Resolve document hierarchy, amendment/version dates, scope of the 7-day-to-24-hour and refund-to-defect-only frontend rewrite, configuration source, customer notice and remedy workflow. Keep this as a potential consumer-disclosure concern, not a legal conclusion; route exact text and hierarchy to qualified counsel. Separately check Razorpay partner/payment terms effective at OAuth consent, consent/activity/scope, notice deadlines and remedies. No settings, integrations or public copy changes."
     },
     {
       "id": "task-56",
@@ -554,7 +571,7 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Post is live on both platforms. Read-only media review raised unresolved source/rights and approved-brief questions. Inspect the original asset and evidence; keep this review gate open. No platform changes made."
+      "nextAction": "The Instagram Reel and YouTube Short are already public. vidIQ visual analyses describe a short MS Dhoni tribute montage with IPL broadcast branding, sponsor marks and a creator watermark; overlay wording appears inconsistent with the mentor-announcement caption. These are analyzer observations, not proof of source ownership or infringement. Inspect the original exported asset and production/source records; verify permission for footage, music, likeness and logos; compare the actual edit and caption to the approved original-animation brief; and locate exact-asset approval. Keep Waiting until evidence is recorded. Do not delete, edit, hide, repost or contact anyone based on the analysis alone."
     },
     {
       "id": "task-58",
@@ -562,7 +579,7 @@
       "area": "Life admin",
       "due": "2026-11-22",
       "status": "In progress",
-      "nextAction": "Weekly review recorded evidence-backed dependencies across career, ValueMela GST, dairy planning, AI World 360, CareerScope, and Personal HQ reconciliation. Owner capacity, available funding and relative priorities remain unknown; confirm them before making cross-project commitments. Next review target: 27 Nov 2026."
+      "nextAction": "Weekly review 20 Nov 2026 recorded evidence-backed dependencies and open gates across career (tasks 0/7), ValueMela GST (20/21/23/56), dairy (10/11/13/14/64/67), AI World 360 (49/57), CareerScope (16/62), and Personal HQ reconciliation (52). Capacity, cash, and cross-project owner priorities remain unknown. Next review 27 Nov 2026; obtain owner choices, do not infer financial commitments."
     },
     {
       "id": "task-59",
@@ -570,13 +587,13 @@
       "area": "Life admin",
       "due": "2026-11-27",
       "status": "In progress",
-      "nextAction": "An isolated private registry JSON restore check passed on 20 Nov: 80 unique task IDs, status counts, four habit definitions and sample notes verified. The dashboard encrypted browser-backup restore still needs a separate isolated browser check; live data was not overwritten."
+      "nextAction": "A fresh private registry JSON backup was restored into an isolated temporary directory on 20 Nov 2026 18:30 IST: 80 unique task IDs, status totals 7 Done/11 In progress/8 Waiting/54 Not started, four habit definitions, zero logged days and moments, and sample notes/statuses intact. Next verify the dashboard encrypted browser-backup flow in an isolated browser profile; never overwrite live data. This JSON check alone is not full UI/browser recovery verification."
     },
     {
       "id": "task-60",
       "title": "Enable private Personal HQ sync across devices",
       "area": "Life admin",
-      "due": null,
+      "due": "",
       "status": "In progress",
       "nextAction": "Build the app sign-in and revisioned task RPC path; keep routines local until their writes are conflict-safe. Then set up the owner project, disable public sign-ups and configure its publishable key."
     },
@@ -592,23 +609,23 @@
       "id": "task-62",
       "title": "Track CareerScope roadmap delivery, PR review backlog and release gates",
       "area": "CareerScope",
-      "due": null,
+      "due": "",
       "status": "In progress",
-      "nextAction": "34 open PRs were checked: 25 have all three required current-head checks passing; 7 have failed jobs, 1 has a cancelled job, and 1 has no checks. No independent submitted reviews. Next: map PRs to roadmap acceptance and dependencies, then obtain exact-head reviews and owner decisions. CI and mergeability do not mean accepted or authorized to merge."
+      "nextAction": "Reconcile all 34 open CareerScope PRs using the private 20 Nov 2026 snapshot: 25 have all three exact-head CI jobs passing; #105 has a browser-selector failure, #81 a cancelled browser suite, #67/#65/#63/#62/#61 quality-gate failures, #64 all jobs failed, and #89 no checks. None has an independent submitted review. Map each PR to roadmap acceptance/dependencies, then obtain exact-SHA independent reviews and owner decisions. CI and mergeability do not establish checklist completion or merge authorization."
     },
     {
       "id": "task-63",
       "title": "Verify ValueMela storefront operational readiness",
       "area": "ValueMela",
-      "due": null,
-      "status": "Not started",
-      "nextAction": "Before paid promotion, verify product availability, seller responsibilities, payment acceptance and settlement, supported delivery areas, shipping charges, cancellations/returns/refunds, customer support, applicable disclosures and a complete test order/refund. Record private evidence and resolve applicable legal/tax gates first."
+      "due": "",
+      "status": "In progress",
+      "nextAction": "Resolve storefront policy consistency before treating operational readiness as met: compare current dashboard return/payment settings, raw canonical policy documents and versions, App Policy/agreement hierarchy, and rendered page/JavaScript behavior; verify seller identity/order confirmation, support and remedies, delivery/cancellation/refund flow, customer disclosures and payment availability by read-only checks. Inspect checkout without submitting only if safe; review transaction evidence securely only if any exists. Route potentially restrictive 24-hour/defect-only wording for qualified legal review. Do not edit policies or change settings until source and legal review support the exact correction. Keep promotion/readiness gate open."
     },
     {
       "id": "task-64",
       "title": "Decide dairy economics and 20-to-40 animal operating model",
       "area": "Dairy farm",
-      "due": null,
+      "due": "",
       "status": "Not started",
       "nextAction": "Before the Jan 2027 go/no-go, model phase one at 20 animals and expansion to 40 using verified species, buyer/offtake, production and lactation assumptions; phased sourcing; feed, labor and veterinary costs; facility/energy investment; working capital; downtime, contingency and downside cash flow. Get qualified local review and record the evidence-based decision."
     },
@@ -616,7 +633,7 @@
       "id": "task-65",
       "title": "Review the full-stack job-search pipeline weekly",
       "area": "Career move",
-      "due": null,
+      "due": "",
       "status": "Not started",
       "nextAction": "Once target constraints and profile materials are ready, review the private tracker weekly: suitable roles, owner-approved applications, portal status, replies, interview stages, follow-up dates and blockers. Keep employer/contact details private and review each submission before it is sent."
     },
@@ -624,7 +641,7 @@
       "id": "task-66",
       "title": "Verify Personal HQ data-integrity and sync acceptance",
       "area": "Life admin",
-      "due": null,
+      "due": "",
       "status": "Not started",
       "nextAction": "After private sync is configured, verify browser-to-browser updates, wrong-account isolation, stale-revision conflicts, offline recovery, explicit conflict resolution, non-destructive public-feed merges and isolated encrypted-backup restore. Document the authoritative source for each data type and the recovery steps; keep private fields out of public builds."
     },
@@ -632,7 +649,7 @@
       "id": "task-67",
       "title": "Verify dairy-site electrical connection and solar permissions",
       "area": "Dairy farm",
-      "due": null,
+      "due": "",
       "status": "Not started",
       "nextAction": "Confirm consumer category, sanctioned load, allowed grid-solar/net-metering setup, upgrades and approvals with APEPDCL/electrician. Verify subsidy separately. If solar CCTV only, document its distinct electrical scope."
     },
@@ -640,7 +657,7 @@
       "id": "task-68",
       "title": "Review cross-project funding, commitments and cash reserves",
       "area": "Life admin",
-      "due": null,
+      "due": "",
       "status": "Not started",
       "nextAction": "Privately track committed spend, estimates, recurring costs and available reserves across active projects. Review liquidity monthly with task-58; require owner approval before major commitments. Keep figures private."
     }
@@ -717,12 +734,6 @@
       "area": "ValueMela",
       "title": "ValueMela signup notices identified",
       "status": "Waiting"
-    },
-    {
-      "date": "2026-11-20",
-      "area": "AI World 360",
-      "title": "Nov 20 AI World 360 crosspost completed",
-      "status": "Done"
     }
   ]
 }
