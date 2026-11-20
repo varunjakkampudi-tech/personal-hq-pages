@@ -195,7 +195,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "2026-11-28",
       "status": "Not started",
-      "nextAction": "After privately verifying actual and proposed sales/platform flows, prepare the completed business-model summary and open questions from the GST intake and send them to a qualified GST practitioner. Obtain a dated written CA matrix using current official sources, covering the live November 2026 REG-01 Bank Accounts tab versus post-grant Rule 10A deadlines, corrected Rule 14B/corrigendum, and all route-specific obligations. No route conclusion or preparation/filing before facts and owner review."
+      "nextAction": "After privately verifying actual and proposed sales/platform flows, prepare the business-model summary and open questions for a qualified GST practitioner. Obtain a dated written CA matrix comparing ordinary REG-01 registration, the Rule 14A simplified route (B2B output-tax cap, Aadhaar, same-PAN/State restriction, reporting and withdrawal conditions), and Rule 14B only if its ECO warehouse facts qualify. Include the live REG-01 Bank Accounts tab versus post-grant Rule 10A deadline and the corrected Rule 14B/corrigendum. Confirm all route-specific current obligations against actual ValueMela facts; do not conclude eligibility or prepare/file an application before the facts and owner review."
     },
     {
       "id": "task-22",
