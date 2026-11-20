@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T04:27:16Z",
+  "generatedAt": "2026-11-20T04:53:54Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T04:27:16Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T04:53:54Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -597,6 +597,14 @@ window.PERSONAL_HQ_SEED = {
       "status": "In progress",
       "nextAction": "Build the app sign-in and revisioned task RPC path; keep routines local until their writes are conflict-safe. Then set up the owner project, disable public sign-ups and configure its publishable key.",
       "createdAt": "2026-11-20T02:45:00Z"
+    },
+    {
+      "id": "task-61",
+      "title": "Review and release Personal HQ sync-status panel",
+      "area": "Life admin",
+      "due": "",
+      "status": "In progress",
+      "nextAction": "Review the desktop and 390px mobile preview plus the two-file diff; approve the Pages release or request corrections. Candidate app code remains local-only."
     }
   ],
   "history": [
