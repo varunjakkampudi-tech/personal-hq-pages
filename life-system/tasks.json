@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T05:31:41Z",
+  "generatedAt": "2026-11-20T06:55:31.787Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T04:53:54Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T06:55:31.787Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -411,7 +411,7 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Compare the exact approved media on both destinations; reconcile YouTube status with vidIQ; record live URLs or failure. Matching times do not prove a crosspost."
+      "nextAction": "Read-only vidIQ check on 2026-11-20: Instagram is scheduled for 18:00 IST and YouTube remains a draft, so a completed crosspost is not established. Review the exact same approved media on both destinations and reconcile YouTube status; record live URLs or failure. Do not change either destination without approval for the specific action."
     },
     {
       "id": "task-50",
@@ -571,7 +571,7 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "NO-GO for content approval until the exact scheduled Instagram media, provenance and brief fit are verified. Keep both destinations unchanged pending the owner decision."
+      "nextAction": "Read-only vidIQ check on 2026-11-20: Instagram destination remains scheduled for 18:00 IST; YouTube destination remains a draft. Each destination has one video; YouTube also has one image. The connector does not expose the actual media or provenance here. Keep the schedule and draft unchanged; retain NO-GO until exact assets and provenance are reviewed and owner choice is recorded."
     },
     {
       "id": "task-58",
@@ -593,10 +593,9 @@
       "id": "task-60",
       "title": "Enable private Personal HQ sync across devices",
       "area": "Life admin",
-      "due": null,
+      "due": "",
       "status": "In progress",
-      "nextAction": "Build the app sign-in and revisioned task RPC path; keep routines local until their writes are conflict-safe. Then set up the owner project, disable public sign-ups and configure its publishable key.",
-      "createdAt": "2026-11-20T02:45:00Z"
+      "nextAction": "Build the app sign-in and revisioned task RPC path; keep routines local until their writes are conflict-safe. Then set up the owner project, disable public sign-ups and configure its publishable key."
     },
     {
       "id": "task-61",
@@ -604,7 +603,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Capture final desktop, 390px and 200%-text preview and review the two-file diff; owner approval is needed before the Pages release. Candidate remains local-only."
+      "nextAction": "Responsive UI checks are complete at 1440px, 390px, 320px and a 195px CSS viewport; 195px is not actual 200% browser zoom. Keyboard focus, accessible navigation names, mobile touch sizing and local save retry were checked. Actual browser zoom and screen-reader output remain unverified. The existing user request explicitly authorizes publishing the public GitHub repo and Pages site. Next: release this reviewed UI and the current sanitized 73-task feed, then verify the live Pages deployment."
     }
   ],
   "history": [

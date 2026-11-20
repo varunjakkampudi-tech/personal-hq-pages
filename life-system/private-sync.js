@@ -32,6 +32,9 @@
       el.textContent = message;
       el.dataset.state = isError ? 'error' : 'normal';
     }
+    const dialog = byId('privateSyncDialog');
+    const isRoutine = /^syncing tasks(?:…|\.\.\.)?$/i.test(message.trim()) || /checking tasks\.$/i.test(message.trim());
+    if (!dialog?.open && !isRoutine) window.announcePersonalHQSyncStatus?.('Private cloud sync', message);
   };
   const getTasks = () => Array.isArray(window.getPersonalHQTasks?.()) ? window.getPersonalHQTasks() : [];
   const localFields = task => ({
