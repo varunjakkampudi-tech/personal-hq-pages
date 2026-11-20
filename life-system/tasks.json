@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T01:58:21+05:30",
+  "generatedAt": "2026-11-21T02:01:00+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T01:58:21+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T02:01:00+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -195,7 +195,7 @@
       "area": "ValueMela",
       "due": "2026-11-28",
       "status": "Not started",
-      "nextAction": "After privately verifying actual and proposed sales/platform flows, prepare the business-model summary and open questions for a qualified GST practitioner. Obtain a dated written CA matrix comparing ordinary REG-01 registration, the Rule 14A simplified route (B2B output-tax cap, Aadhaar, same-PAN/State restriction, reporting and withdrawal conditions), and Rule 14B only if its ECO warehouse facts qualify. Include the live REG-01 Bank Accounts tab versus post-grant Rule 10A deadline and the corrected Rule 14B/corrigendum. Confirm all route-specific current obligations against actual ValueMela facts; do not conclude eligibility or prepare/file an application before the facts and owner review."
+      "nextAction": "Complete verified entity, sales/platform, state, turnover, registration and warehouse facts through a secure channel, then obtain a dated practitioner determination citing current primary law. Apply the corrected Rule 10A timing and distinguish optional REG-01 bank details from mandatory post-grant furnishing. No eligibility conclusion or REG-01 until the facts, written determination and owner review."
     },
     {
       "id": "task-22",
