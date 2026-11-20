@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T09:48:07.426Z",
+  "generatedAt": "2026-11-20T09:51:16.868Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T09:48:07.426Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T09:51:16.868Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -579,7 +579,7 @@
       "area": "Life admin",
       "due": "2026-11-22",
       "status": "Not started",
-      "nextAction": "Once each week, review pending tasks across all focus areas, blockers, dependencies, due dates and realistic time capacity; choose what to advance or defer and record private next actions. Keep sensitive details out of the public task feed."
+      "nextAction": "Weekly, review priorities, blockers, dependencies, deadlines and capacity; record decisions, task IDs, owner, next action/review date and advance/pause/defer choices privately."
     },
     {
       "id": "task-59",
