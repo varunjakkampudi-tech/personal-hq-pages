@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T03:27:05+05:30",
+  "generatedAt": "2026-11-21T03:31:02+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T03:27:05+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T03:31:02+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -27,7 +27,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Read-only review on 21 Nov 2026: the resume GitHub link opens to a public profile whose displayed name matches the resume; the LinkedIn URL returned HTTP 429, so its current profile state is unverified. Candidate account ownership is not confirmed. Resume-PDF text extraction remains unresolved; no Naukri, Indeed or Cutshort links were identified in the supplied resume. Privately confirm active URLs/accounts and retain the existing no-profile-edit gate."
+      "nextAction": "The supplied one-page PDF was rendered and visually reviewed on 21 Nov 2026; a machine-readable text extraction is still unavailable. The resume shows candidate GitHub and LinkedIn links; the public GitHub display name matches, while LinkedIn returned HTTP 429. Verify account ownership/current profile state and confirm active Naukri, Indeed and Cutshort links privately. No resume or profile edits."
     },
     {
       "id": "task-1",
@@ -83,7 +83,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-12-04",
       "status": "In progress",
-      "nextAction": "Confirm claim dates, personal contributions, AI/collaboration, metric bases and client disclosure permissions against owner evidence. The matching PDF remains unparsed; no claims are verified and no resume/profile edits have been made."
+      "nextAction": "The PDF visibly lists a March 2023 role start and a 4-years-of-experience headline. Reconcile this against any earlier experience, exact start date and the February 2027 application timing before changing wording. Validate project ownership, client disclosure, all outcome metrics and credentials against owner/employer evidence; source resume remains unchanged."
     },
     {
       "id": "task-8",
