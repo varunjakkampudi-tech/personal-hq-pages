@@ -361,9 +361,9 @@
       "id": "task-42",
       "title": "Verify Razorpay payment activation and operational handoff",
       "area": "ValueMela",
-      "due": "2026-11-24",
+      "due": "",
       "status": "Waiting",
-      "nextAction": "Razorpay emails report account activation and Netbanking is active. When dashboard access is available, verify payment acceptance, settlement readiness, and integration handoff. Keep this task open until the operational checks are evidenced."
+      "nextAction": "When ValueMela dashboard access is available, verify current Razorpay payment acceptance using a controlled non-customer transaction or provider status check; confirm settlement configuration and Factori integration handoff. Do not use live customer orders or treat activation emails as operational proof. Keep Waiting until each check is evidenced."
     },
     {
       "id": "task-43",
