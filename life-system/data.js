@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 05:06:30 +05:30",
+  "generatedAt": "2026-11-21 05:07:41 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 05:06:30 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 05:07:41 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -499,7 +499,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Complete interactive checks on deployed Pages: checkbox unchecked/checked/focus states, real touch-target separation, keyboard order and activation, 200% zoom, and screen-reader names/states. Record evidence and keep In progress until the checks and final independent review are complete."
+      "nextAction": "Complete interactive checks on deployed Pages: checkbox unchecked/checked/focus states, real touch-target separation, keyboard order and activation, 200% zoom, and screen-reader names/states. Record evidence; keep In progress until all required checks pass."
     },
     {
       "id": "task-52",
