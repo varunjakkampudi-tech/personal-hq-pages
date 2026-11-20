@@ -60,7 +60,7 @@ function renderSourceStatus(){
   const hint=document.getElementById('sourceHint');
   const refresh=document.getElementById('refreshTasks');
   const controls=document.getElementById('sourceControls');
-  if(refresh)refresh.textContent=status==='merged-desktop-task-update'?'Merge latest task updates':'Load latest tasks';
+  if(refresh){const merged=status==='merged-desktop-task-update',full=refresh.querySelector('.merge-label-full'),compact=refresh.querySelector('.merge-label-compact');if(full)full.textContent=merged?'Merge latest task updates':'Load latest tasks';else refresh.textContent=merged?'Merge latest task updates':'Load latest tasks';if(compact)compact.textContent=merged?'Merge updates':'Load tasks';}
   if(current){
     heading.textContent='Dashboard export is current';
     hint.textContent='Browser changes stay local until exported.';
