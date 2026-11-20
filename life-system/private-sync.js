@@ -17,6 +17,7 @@
   let shadow = {};
   let pendingImports = new Set();
   let conflicts = new Map();
+  let pendingConflictIds = new Set();
   let metaKey = '';
   let forgettingUserId = null;
   let forgetTokenAtSignIn = '';
@@ -74,7 +75,7 @@
   };
   const saveMeta = () => {
     if (!metaKey) return;
-    localStorage.setItem(metaKey, JSON.stringify({ shadow, pendingImports: [...pendingImports] }));
+    localStorage.setItem(metaKey, JSON.stringify({ shadow, pendingImports: [...pendingImports], conflictIds: [...new Set([...pendingConflictIds, ...conflicts.keys()])] }));
   };
   const applyTasks = tasks => {
     applyingRemote = true;
@@ -224,6 +225,7 @@
       const meta = readJson(metaKey) || {};
       shadow = meta.shadow || {};
       pendingImports = new Set(Array.isArray(meta.pendingImports) ? meta.pendingImports : []);
+      pendingConflictIds = new Set(Array.isArray(meta.conflictIds) ? meta.conflictIds : []);
     }
     client.auth.onAuthStateChange((_event, session) => {
       const nextUser = session?.user || null;
@@ -236,6 +238,7 @@
         shadow = {};
         pendingImports = new Set();
         conflicts.clear();
+        pendingConflictIds = new Set();
         metaKey = '';
         if (previousUserId) {
           localStorage.removeItem(activeUserKey);
@@ -249,6 +252,12 @@
           applyTasks(seedTasks());
         }
       } else {
+        if (user?.id && user.id !== nextUser.id) {
+          shadow = {};
+          pendingImports = new Set();
+          conflicts.clear();
+          pendingConflictIds = new Set();
+        }
         user = nextUser;
         activateAccountTasks(user.id);
         forgetTokenAtSignIn = localStorage.getItem(forgetTokenKey(user.id)) || '';
@@ -256,6 +265,7 @@
         const meta = readJson(metaKey) || {};
         shadow = meta.shadow || {};
         pendingImports = new Set(Array.isArray(meta.pendingImports) ? meta.pendingImports : []);
+        pendingConflictIds = new Set(Array.isArray(meta.conflictIds) ? meta.conflictIds : []);
       }
       renderSession();
       if (user) setTimeout(() => synchronize().catch(showError), 0);
@@ -329,15 +339,21 @@
     statusText('Syncing tasks…');
     try {
       const [remote, local] = await Promise.all([readCloud(), Promise.resolve(getTasks())]);
-      const baselineReady = Object.keys(shadow).length > 0 || localStorage.getItem(`${baseKey}:initialized:${user.id}`) === 'true';
+      const remoteById = new Map(remote.map(row => [row.task_id, row]));
+      const localById = new Map(local.map(task => [task.id, task]));
+      for (const id of pendingConflictIds) {
+        const localTask = localById.get(id) || null;
+        const row = remoteById.get(id) || null;
+        if (localTask || row) setConflict(id, localTask, row);
+        else pendingConflictIds.delete(id);
+      }
+      const baselineReady = conflicts.size > 0 || Object.keys(shadow).length > 0 || localStorage.getItem(`${baseKey}:initialized:${user.id}`) === 'true';
       if (!baselineReady) {
         await syncInitial(remote, local);
         if (remote.length) localStorage.setItem(`${baseKey}:initialized:${user.id}`, 'true');
         return;
       }
 
-      const remoteById = new Map(remote.map(row => [row.task_id, row]));
-      const localById = new Map(local.map(task => [task.id, task]));
       const seen = new Set();
       const next = [...local];
       const indexById = new Map(next.map((task, index) => [task.id, index]));
@@ -505,6 +521,7 @@
         pendingImports.delete(id);
       }
       conflicts.delete(id);
+      pendingConflictIds.delete(id);
       saveMeta();
       applyTasks(tasks);
       renderConflicts();
@@ -550,6 +567,7 @@
         shadow = {};
         pendingImports = new Set();
         conflicts.clear();
+        pendingConflictIds = new Set();
         metaKey = '';
         localStorage.removeItem(activeUserKey);
         localStorage.removeItem(accountTasksKey(userId));
