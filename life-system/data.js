@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T12:22:36.4421122Z",
+  "generatedAt": "2026-11-20T12:31:48.8893942Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -393,8 +393,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Resolve YouTube crosspost for Nov 20 scheduled Instagram video",
       "area": "AI World 360",
       "due": "2026-11-20",
-      "status": "Waiting",
-      "nextAction": "Both Instagram and YouTube are scheduled for 20 Nov 2026 18:00 IST. The 17:49 check was before the slot: no Instagram URL/completion; YouTube is private/processed without actualStartTime. Verify each destination once after the slot; do not change schedule or visibility."
+      "status": "Done",
+      "nextAction": "Delivery verified 20 Nov 2026: Instagram completed (https://www.instagram.com/reel/Df9qK4iB6bt/) and YouTube Short g-5ojhJY63g is public. Separate media provenance, rights and approved-brief review remains open in task-57."
     },
     {
       "id": "task-50",
@@ -554,7 +554,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Pre-slot check at 17:49 IST: both destinations are scheduled for 18:00 IST. Verify delivery after the slot and keep media identity, provenance, rights and owner approval as separate release gates."
+      "nextAction": "Delivery is verified: Instagram Reel is live and YouTube Short g-5ojhJY63g is public. Still review exact media, provenance, rights and approved-brief fit; keep this gate open until evidenced."
     },
     {
       "id": "task-58",
@@ -717,6 +717,12 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "title": "ValueMela signup notices identified",
       "status": "Waiting"
+    },
+    {
+      "date": "2026-11-20",
+      "area": "AI World 360",
+      "title": "Nov 20 AI World 360 crosspost completed",
+      "status": "Done"
     }
   ]
 };
