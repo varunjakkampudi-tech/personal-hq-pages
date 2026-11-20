@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T12:34:22.0436939Z",
+  "generatedAt": "2026-11-20T12:37:12.8969506Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -10,7 +10,7 @@
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Full-stack engineer target is set. Review copy is prepared privately with chronology and project-claim verification gates; next validate experience, project contribution, skills, metrics and credentials against evidence before finalizing resume or profiles."
+      "nextAction": "Resume file/path is identified and the private evidence-based review copy is underway. Next collect the current LinkedIn, Naukri, Indeed and Cutshort profile URLs/account states as an inventory; task-44 separately captures role constraints, chronology and availability. No source resume or external profile has changed."
     },
     {
       "id": "task-1",
@@ -42,7 +42,7 @@
       "area": "Career move",
       "due": "2026-12-22",
       "status": "Not started",
-      "nextAction": "Only after Varun approves the final resume and exact profile text, update LinkedIn/Naukri; review visibility and imported fields first."
+      "nextAction": "Parent milestone only: after tasks career-linkedin and career-naukri have reviewed, owner-approved exact text, verify both updates and close this item. Do not edit public profiles until the final resume, visibility and imported fields are reviewed and Varun approves the exact changes."
     },
     {
       "id": "task-5",
@@ -50,7 +50,7 @@
       "area": "Career move",
       "due": "2027-01-05",
       "status": "Not started",
-      "nextAction": "Review Indeed, Cutshort and other relevant portals; verify role fit, account/consent flow, imported fields and visibility before any profile change."
+      "nextAction": "Parent milestone only: use task-35 to shortlist additional portals, then complete career-indeed, career-cutshort and career-portals for platform-specific privacy/import checks. Profile creation or updates require review of exact fields and Varun approval; do not create accounts or change profiles beforehand."
     },
     {
       "id": "task-6",
@@ -290,7 +290,7 @@
       "area": "Career move",
       "due": "2026-12-10",
       "status": "Not started",
-      "nextAction": "Initial privacy-aware shortlist is ready; after location, work mode, level and role intake, verify fit and each portal import, visibility and consent flow before any account/profile change."
+      "nextAction": "After target role/location/work-mode constraints are captured in task-44 and career-portals produces a shortlist, verify each selected additional portal's current role fit, account/import flow, data visibility and consent controls. Keep research separate from account creation or profile changes."
     },
     {
       "id": "task-36",
@@ -362,7 +362,7 @@
       "area": "Career move",
       "due": "2026-11-30",
       "status": "Not started",
-      "nextAction": "When ready, complete the private career intake for role constraints, chronology, interview availability and profile URLs; never record passwords or OTPs."
+      "nextAction": "Complete private role constraints, chronology, seniority, location/work mode, compensation, notice period, interview availability and constraints. Use task-0 for the separate inventory of current resume file and profile URLs; never record passwords or OTPs."
     },
     {
       "id": "task-45",
@@ -410,7 +410,7 @@
       "area": "Career move",
       "due": "2027-01-05",
       "status": "Not started",
-      "nextAction": "Update headline, about, experience, skills and featured work after resume facts are verified."
+      "nextAction": "Prepare a private field-by-field LinkedIn change draft from owner-verified resume facts; check visibility and imported fields, then obtain approval for exact text before any profile edit."
     },
     {
       "id": "career-naukri",
@@ -418,7 +418,7 @@
       "area": "Career move",
       "due": "2027-01-05",
       "status": "Not started",
-      "nextAction": "Update profile completeness, role preferences, skills, notice period and resume after source resume review."
+      "nextAction": "Prepare a private field-by-field Naukri/profile and resume change draft from verified source facts; check visibility/imported fields and obtain approval for exact changes before any profile edit."
     },
     {
       "id": "career-indeed",
@@ -426,7 +426,7 @@
       "area": "Career move",
       "due": "2027-01-10",
       "status": "Not started",
-      "nextAction": "Confirm current profile and CV settings; review privacy and visibility before uploading."
+      "nextAction": "Inspect current Indeed profile/CV settings and prepare a private change draft; review privacy, visibility and imported data, then obtain approval for exact fields before uploading or editing."
     },
     {
       "id": "career-cutshort",
@@ -434,7 +434,7 @@
       "area": "Career move",
       "due": "2027-01-10",
       "status": "Not started",
-      "nextAction": "Confirm role fit and profile flow; review information shared through connected accounts."
+      "nextAction": "Inspect Cutshort role fit and profile flow; prepare a private change draft and review information shared through connected accounts. Obtain approval for exact fields before account/profile changes."
     },
     {
       "id": "career-portals",
@@ -442,7 +442,7 @@
       "area": "Career move",
       "due": "2027-01-12",
       "status": "Not started",
-      "nextAction": "Shortlist current platforms by target role, location, employer quality and privacy settings before creating accounts."
+      "nextAction": "Once task-44 captures role constraints, research and shortlist additional platforms by role fit, location/work mode, employer quality and privacy controls. Send selected platforms to task-35 for account/import/consent verification; do not create accounts."
     },
     {
       "id": "farm-rfq",
