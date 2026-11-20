@@ -1,57 +1,33 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T00:05:59.0840205Z",
-  "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-19T23:45:04.367Z",
-  "dashboardExportUpdatedAt": "2026-11-19T23:09:44.373Z",
+  "generatedAt": "2026-11-20T01:18:27.066Z",
+  "sourceSnapshotStatus": "current-user-export",
+  "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
+  "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
-    "Life admin",
-    "Dairy farm",
+    "AI World 360",
     "Career move",
     "CareerScope",
-    "AI World 360",
-    "ValueMela",
-    "Personal & health",
-    "OraOne",
-    "Godavari dairy guide",
+    "Dairy farm",
     "Family",
     "FixHub24",
+    "Godavari dairy guide",
     "LensMate",
-    "Training & learning"
+    "Life admin",
+    "OraOne",
+    "Personal & health",
+    "Training & learning",
+    "ValueMela"
   ],
   "tasks": [
-    {
-      "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
-      "title": "Capture past milestones and review future commitments in the life log",
-      "area": "Life admin",
-      "due": "",
-      "status": "Not started",
-      "nextAction": "When ready, add the past milestones and present commitments you want to retain, then verify future dates and recurring commitments in the timeline. Keep sensitive details private."
-    },
-    {
-      "id": "19c10a01-500c-4647-ade7-98d3bbceccab",
-      "title": "Plan veterinarian-led livestock sourcing and intake",
-      "area": "Dairy farm",
-      "due": "",
-      "status": "Not started",
-      "nextAction": "With the local vet, define sourcing criteria, health checks and records, isolation, acclimation, transport, and phased purchase timing for the confirmed species and 20-head launch. Keep animal and vendor details private."
-    },
-    {
-      "id": "450b46bf-f3c4-4ef2-b7df-9e451089dd58",
-      "title": "Prepare offer evaluation and resignation handover checklist",
-      "area": "Career move",
-      "due": "",
-      "status": "Not started",
-      "nextAction": "If an offer arrives, verify written terms, conditions and start date against goals and notice period. Plan handover only after Varun decides; do not send acceptance or resignation automatically."
-    },
     {
       "id": "task-0",
       "title": "Gather the current resume and profile links",
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Review the private draft as an unapproved copy; verify chronology, personal backend/project ownership, claims, disclosure and credentials before external use."
+      "nextAction": "Full-stack target confirmed; verify employment chronology, backend ownership and project evidence; then draft a full-stack resume review copy and verify portal links."
     },
     {
       "id": "task-1",
@@ -106,7 +82,7 @@ window.PERSONAL_HQ_SEED = {
       "title": "Verify experience dates, client responsibilities and measured resume impact claims",
       "area": "Career move",
       "due": "2026-12-04",
-      "status": "In progress",
+      "status": "Not started",
       "nextAction": "The available resume pair says “4 years,” while its visible employment dates start in March 2023. Confirm whether earlier experience is missing; then verify each measured claim, personal contribution, and disclosure permission against non-confidential evidence before reuse. Keep resume details private."
     },
     {
@@ -210,8 +186,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Confirm ValueMela legal entity and actual sales/platform model",
       "area": "ValueMela",
       "due": "2026-11-25",
-      "status": "In progress",
-      "nextAction": "Complete sections A-C of the private GST intake from the actual store setup, record dated private evidence references, and mark unknowns; do not guess entity, sales flow, warehouse or turnover."
+      "status": "Not started",
+      "nextAction": "Record the legal entity and state, own-site vs marketplace sales, who invoices/collects/supplies, product and shipping states, turnover, and whether a section 52 TCS e-commerce operator warehouse is involved; keep identifiers private and ask the CA to assess Rule 14B eligibility."
     },
     {
       "id": "task-21",
@@ -330,7 +306,7 @@ window.PERSONAL_HQ_SEED = {
       "title": "Identify and verify additional job portals for target roles",
       "area": "Career move",
       "due": "2026-12-10",
-      "status": "In progress",
+      "status": "Not started",
       "nextAction": "Initial privacy-aware shortlist is ready; after location, work mode, level and role intake, verify fit and each portal import, visibility and consent flow before any account/profile change."
     },
     {
@@ -490,7 +466,7 @@ window.PERSONAL_HQ_SEED = {
       "title": "Prepare one comparable shed, solar and CCTV RFQ pack",
       "area": "Dairy farm",
       "due": "2026-12-10",
-      "status": "In progress",
+      "status": "Not started",
       "nextAction": "Complete the private site/herd/utility/budget/authority intake and veterinary housing brief; then send the same versioned scope to qualified bidders and compare evidence, exclusions, warranties and references. RFQ pack template is ready, but no site data or bids are recorded."
     },
     {
@@ -522,7 +498,7 @@ window.PERSONAL_HQ_SEED = {
       "title": "Apply independent premium UI review to Personal HQ",
       "area": "Life admin",
       "due": "",
-      "status": "In progress",
+      "status": "Done",
       "nextAction": "Mobile sync notice and task cards refined; deployed to Pages and verified at 393px iPhone and desktop. Apply the independent ChatGPT UI critique if it arrives, then recheck."
     },
     {
@@ -530,7 +506,7 @@ window.PERSONAL_HQ_SEED = {
       "title": "Reconcile Personal HQ registry, dashboard and export",
       "area": "Life admin",
       "due": "",
-      "status": "Done",
+      "status": "Waiting",
       "nextAction": "Done: 62 task IDs match the private registry and sanitized feed; no missing, extra, or duplicate IDs, and titles, dates, areas, and statuses match."
     },
     {
@@ -540,6 +516,30 @@ window.PERSONAL_HQ_SEED = {
       "due": "2026-11-20",
       "status": "Waiting",
       "nextAction": "After the next 9 AM IST automation run, verify the date-specific summary arrived with the correct task-data freshness and that earlier matching Personal HQ summaries were archived only after send succeeded; record any delivery or duplicate issue."
+    },
+    {
+      "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
+      "title": "Capture past milestones and review future commitments in the life log",
+      "area": "Life admin",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "When ready, add the past milestones and present commitments you want to retain, then verify future dates and recurring commitments in the timeline. Keep sensitive details private."
+    },
+    {
+      "id": "19c10a01-500c-4647-ade7-98d3bbceccab",
+      "title": "Plan veterinarian-led livestock sourcing and intake",
+      "area": "Dairy farm",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "With the local vet, define sourcing criteria, health checks and records, isolation, acclimation, transport, and phased purchase timing for the confirmed species and 20-head launch. Keep animal and vendor details private."
+    },
+    {
+      "id": "450b46bf-f3c4-4ef2-b7df-9e451089dd58",
+      "title": "Prepare offer evaluation and resignation handover checklist",
+      "area": "Career move",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "If an offer arrives, verify written terms, conditions and start date against goals and notice period. Plan handover only after Varun decides; do not send acceptance or resignation automatically."
     },
     {
       "id": "task-54",
