@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T23:19:10.688993+05:30",
+  "generatedAt": "2026-11-21T00:22:17+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T23:19:10.688993+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T00:22:17+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -163,7 +163,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Daily publishing is not yet operational. Continue setup and channel-specific release gates in media-daily; reusable process foundation is in task-46. Do not treat one published video or the checklist foundation as daily publishing completion."
+      "nextAction": "Read-only vidIQ check for 21 Nov IST found no scheduled post for YouTube or Instagram. Keep daily publishing In progress; continue channel release gates in media-daily/task-46. Recheck at the 09:00 IST review; publish or schedule only an owner-approved exact asset and time."
     },
     {
       "id": "task-18",
