@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T02:45:00Z",
+  "generatedAt": "2026-11-20T02:58:40Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
@@ -595,7 +595,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": null,
       "status": "In progress",
-      "nextAction": "Review the private Postgres/RLS migration, choose the Supabase account and region, then configure owner authentication without placing secrets in public GitHub or Pages.",
+      "nextAction": "Build the app sign-in and revisioned task RPC path; keep routines local until their writes are conflict-safe. Then set up the owner project, disable public sign-ups and configure its publishable key.",
       "createdAt": "2026-11-20T02:45:00Z"
     }
   ],
