@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T12:51:59.1032427Z",
+  "generatedAt": "2026-11-20T13:00:34.8087545Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -569,8 +569,8 @@
       "title": "Verify Personal HQ backup and restore recovery",
       "area": "Life admin",
       "due": "2026-11-27",
-      "status": "Not started",
-      "nextAction": "At least quarterly and after major task-system changes, restore the latest private backup to an isolated browser profile or temporary data store; verify task and habit totals plus sample status/note values, then record the date and outcome privately without overwriting live data."
+      "status": "In progress",
+      "nextAction": "An isolated private registry JSON restore check passed on 20 Nov: 80 unique task IDs, status counts, four habit definitions and sample notes verified. The dashboard encrypted browser-backup restore still needs a separate isolated browser check; live data was not overwritten."
     },
     {
       "id": "task-60",
