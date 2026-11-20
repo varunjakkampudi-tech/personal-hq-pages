@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T11:53:17.0178321+00:00",
+  "generatedAt": "2026-11-20T11:55:39.5105463+00:00",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -161,8 +161,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Review ValueMela priorities and open decisions",
       "area": "ValueMela",
       "due": "2026-11-30",
-      "status": "In progress",
-      "nextAction": "ValueMela review updated from Factori support replies: frontend customization is currently unavailable; a separate address form issue needs vendor guidance. Assess storefront options and verify the address flow; do not change settings or choose a migration without reviewing operational/legal/tax dependencies."
+      "status": "Not started",
+      "nextAction": "Record Factori's current frontend customization limitation and identify which existing theme settings are available without changing them. Keep the requested premium, mobile-friendly dark-blue design as a future requirement, not a supported current feature. Defer any storefront/platform decision until Varun reviews verified capabilities and consequences."
     },
     {
       "id": "task-20",
@@ -170,7 +170,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Complete the private local GST fact-intake worksheet at private/valuemela-gst-intake.md: entity/state, seller and platform roles, goods, turnover/liability history, orders, stock states and premises evidence availability. Store no identifiers or scans here. Then obtain a written, current GST-practitioner determination before choosing a registration route. Internal planning target only; determine any statutory or portal deadline from verified facts and current authority."
+      "nextAction": "Complete the private local GST fact intake: entity/state, goods, turnover/liability history, orders, stock states and premises. Explicitly verify or mark unknown the actual Factori flow: seller of record, inventory ownership, invoicing, payment collection, returns, shipping and fulfilment; use existing vendor records/docs and do not infer. Store no identifiers or scans here. Then obtain a written current practitioner determination before choosing a registration route. Due date is an internal planning target only."
     },
     {
       "id": "task-21",
@@ -298,7 +298,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": null,
       "status": "Waiting",
-      "nextAction": "Factori support requested a convenient time to discuss disabled state and district selectors in saved customer addresses. Owner to choose an available call time before replying. Also retain the branded support-email follow-up and preserve account sign-in and order-notification routing. After the call, verify whether the address selectors work and record the outcome."
+      "nextAction": "Factori support reports an attempted call about disabled State/City-District selectors in saved customer addresses and requests a convenient callback time. Owner has not selected a time or replied. Await owner scheduling. After support guidance or a confirmed fix, independently verify the affected address-selection workflow without modifying customer records. Retain the separate branded support-email issue."
     },
     {
       "id": "task-37",
@@ -643,22 +643,6 @@ window.PERSONAL_HQ_SEED = {
       "due": null,
       "status": "Not started",
       "nextAction": "Privately track committed spend, estimates, recurring costs and available reserves across active projects. Review liquidity monthly with task-58; require owner approval before major commitments. Keep figures private."
-    },
-    {
-      "id": "task-69",
-      "title": "Decide ValueMela storefront UI path after Factori customization limitation",
-      "area": "ValueMela",
-      "due": "",
-      "status": "Waiting",
-      "nextAction": "Factori support says storefront frontend changes are currently unavailable. Decide whether to continue with the current template, revisit if the feature becomes available, or assess an alternative storefront. Before migration, compare catalog/order continuity, payment and settlement, customer support, domain, privacy, tax/GST and implementation costs; do not change platform/settings until owner decision."
-    },
-    {
-      "id": "task-70",
-      "title": "Resolve ValueMela customer address form State and District selectors",
-      "area": "ValueMela",
-      "due": "",
-      "status": "Waiting",
-      "nextAction": "Factori support says they attempted to call and asks for a convenient time about disabled State and City/District selectors in the customer address form. Provide an available contact window or request written setup guidance; do not guess that PINCODE-first is the intended flow. Verify the corrected form without saving any customer address."
     }
   ],
   "history": [
