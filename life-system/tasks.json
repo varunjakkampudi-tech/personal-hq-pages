@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T09:52:00.000Z",
+  "generatedAt": "2026-11-20T09:54:00.000Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T09:52:00.000Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T09:54:00.000Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -411,7 +411,7 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Reconcile delivery after the 20 Nov 18:00 IST slot: YouTube still lists g-5ojhJY63g as private/processed with its scheduled time in the past; Instagram still lists the Reel as scheduled with no live URL. Confirm actual platform outcomes and record URLs or failure; do not retry, edit, cancel or publish without exact-action approval."
+      "nextAction": "Confirm outcomes after 20 Nov 18:00 IST: YouTube is still private past its scheduled time; Instagram remains queued with no URL. Record URLs/failure. No retry, edit, cancel or publish without exact-action approval."
     },
     {
       "id": "task-50",
@@ -571,7 +571,7 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Verify the exact Instagram and YouTube media, compare asset identity, check fit to the approved original-animation brief, source and rights for video/audio/likeness/logos, caption accuracy, and exact asset/text/time owner approval. Record platform states independently; no connected preview currently exposes the assets. Do not modify, cancel, retry or publish without approval for that exact action."
+      "nextAction": "Inspect both media; compare assets and brief fit; verify footage/audio/likeness/logo rights and captions; record exact asset/text/time approval. Preview unavailable. Keep release unapproved; no changes without approval."
     },
     {
       "id": "task-58",
