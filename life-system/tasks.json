@@ -27,7 +27,7 @@
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Candidate LinkedIn and GitHub URLs from the resume are inventoried privately, not confirmed as current profiles. Next confirm active profile URLs/account state for LinkedIn, Naukri, Indeed and Cutshort; keep credentials out."
+      "nextAction": "Resume folder inventory (21 Nov 2026): DOCX, matching PDF and LinkedIn banner image are present. DOCX text and external hyperlink targets contain no recognized LinkedIn/GitHub/Naukri/Indeed/Cutshort URLs; LinkedIn.png is a banner, not a profile capture. PDF text was not parsed because no local parser is installed. Next confirm active profile URLs and account state directly for LinkedIn, Naukri, Indeed, Cutshort and GitHub; keep credentials out."
     },
     {
       "id": "task-1",
