@@ -131,7 +131,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Dairy farm",
       "due": "2026-12-15",
       "status": "In progress",
-      "nextAction": "Confirm the exact site/village, species and budget; then compare 20-animal and expansion-to-40 layouts, engineer responsibility and completed-farm references."
+      "nextAction": "Vendor research and a weighted comparison checklist are prepared in research/supplier-shortlist-west-godavari.md. To unlock like-for-like quotes, privately record the exact site/village or service radius, species and 20-to-40 herd mix, land/utility constraints, target start date and budget ceiling. Then request site-specific 20-animal and expansion-to-40 drawings, itemized civil/structure scopes, named structural engineer and signed calculations, two comparable farm references with permission to contact, GST/legal-entity check, written warranty/service terms and milestone payments. Keep In progress until current references, site fit and comparable written proposals are evidenced; no vendor has been contacted or verified."
     },
     {
       "id": "task-14",
@@ -139,7 +139,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Dairy farm",
       "due": "2026-12-20",
       "status": "In progress",
-      "nextAction": "Confirm site/village, electrical loads, grid/outage pattern and camera/network needs; then compare farm PV, dedicated solar-CCTV and integrated options against references, warranty and service. Keep APEPDCL’s 13 Jun 2024 PM Surya Ghar list separate from its 29 Apr 2026 registered-vendor directory; both are dated screening evidence, not proof of current status or dairy subsidy."
+      "nextAction": "A dated, preliminary vendor shortlist and weighted comparison checklist are prepared in research/supplier-shortlist-west-godavari.md. To unlock like-for-like proposals, privately record the site/village, sanctioned load/consumer category, recent bills, electrical loads and duty cycles, outage duration, water-pump/milking requirements, camera coverage, retention, network availability, target start date and budget ceiling. Then request separate farm-PV, dedicated solar-CCTV and integrated designs, itemized equipment/civil/tax scopes, load and battery calculations, protection/earthing, permits, comparable farm references, warranty and written service response. Confirm current utility/vendor status directly; keep APEPDCL’s 13 Jun 2024 PM Surya Ghar list separate from its 29 Apr 2026 registered-vendor directory. Neither is proof of current status or dairy subsidy. No vendor has been contacted or verified."
     },
     {
       "id": "task-15",
