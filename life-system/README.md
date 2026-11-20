@@ -18,6 +18,7 @@ Open `index.html` in Chrome or use the GitHub Pages site. The dashboard supports
 - [AI World 360 daily publishing](plans/ai-world-360.md)
 - [Weekly routine, gym and food](plans/routine-and-health.md)
 - [ValueMela GST readiness](../research/valuemela-gst-registration.md)
+- [ValueMela storefront operational readiness](plans/valuemela-operations-readiness.md)
 - [Life log](../life-log.html)
 
 Resume/profile source files, real farm/site records, customer information and health details belong in a private, access-controlled location, not this public repository.

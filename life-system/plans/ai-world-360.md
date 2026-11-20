@@ -3,7 +3,7 @@
 ## Daily pipeline
 
 1. Choose one original topic and validate interest with vidIQ. Record sources for factual claims.
-2. Draft hook, script, storyboard and title/description/tags with ChatGPT and vidIQ; fact-check claims and originality.
+2. Draft the hook, script and storyboard with ChatGPT; use vidIQ for topic/keyword research and metadata analysis. Compare title, description and tag suggestions with channel fit, sources and the approved brief; fact-check claims and originality.
 3. Generate visuals with Google Flow. Keep source media in approved private storage and verify third-party asset rights.
 4. Edit captions, audio and pacing; review each platform export and thumbnail/cover.
 5. Prepare YouTube and Instagram metadata and check current platform requirements.

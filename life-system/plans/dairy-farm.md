@@ -9,7 +9,7 @@
 - Before buying animals, have the local veterinarian define sourcing criteria, health checks and records, isolation/acclimation, transport, and a phased purchase plan for the confirmed species and 20-head launch.
 - Have a qualified local veterinarian and engineer review housing, ventilation, flooring, drainage, waste handling and expansion.
 - Survey electrical loads before solar sizing: pumps, milking/chilling equipment, lighting, CCTV, communications and backup. Do not guess capacity before the load survey.
-- Prepare phased capital and operating budgets, contingency, working capital and a downside cash-flow case.
+- Prepare phased capital and operating budgets, contingency, working capital and a downside cash-flow case. Include unit economics and production continuity: verified milk buyer/offtake terms, feed and labor costs, species-specific yield assumptions, lactation/dry-period coverage, veterinary reserves, staggered sourcing, downtime and the cash required before stable production. Model 20 animals first and the path to 40 separately; do not treat the 40-animal expansion as committed capacity.
 
 ## Comparable supplier scopes
 

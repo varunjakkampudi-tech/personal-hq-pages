@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T08:09:07.853Z",
+  "generatedAt": "2026-11-20T09:10:24.254Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T08:09:07.853Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T09:10:24.254Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@
       "area": "Life admin",
       "due": "",
       "status": "Waiting",
-      "nextAction": "The 20 Nov 2026 06:48 IST owner-browser export contains 71 tasks and omits task-60 and task-61; the current registry and public feeds contain 73 and remain labeled merged-desktop-task-update. Keep reconciliation open until a fresh current-user export is available, then compare every ID, status, field and deletion. The merge safeguard now preserves differing local next-action text unless a manual refresh is explicitly confirmed; statuses and browser-only tasks remain preserved."
+      "nextAction": "The private registry and public feed now contain 78 task IDs. The last full owner-browser export remains the 20 Nov 06:48 IST snapshot with 71 tasks; this merged update is not a fresh export. Keep reconciliation open until a complete current-browser export allows ID, status, field and deletion comparison."
     },
     {
       "id": "task-53",
@@ -603,7 +603,47 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Updated live screenshots are shared in the private review page. Business Empire review found no confirmed high-impact markup defect but could not access screenshot pixels. Direct live checks: no overflow at 390px/320px; at 320x568 the focused “Show next 12” control ends at y=456, above fixed navigation at y=506. Review suggestions: check notice prominence and long-card spacing. True 200% zoom and real screen-reader behavior remain unverified; complete those checks."
+      "nextAction": "Latest 20 Nov browser renders at 320x568, 390x844, 768x844 and 1280x844 loaded all 78 tasks with viewport-matched document width and no JavaScript or resource errors. At 320x568 the first task panel ends at y=498, 8px before navigation at y=506; the hero is hidden at widths up to 360px and the next content starts after the bar. At 390x844 the compact hero CTA ends at y=782, exactly where the fixed navigation begins. The page keeps 112px bottom content clearance. Next: check keyboard/focus navigation, true 200% browser zoom and real screen-reader output before release."
+    },
+    {
+      "id": "task-62",
+      "title": "Track CareerScope roadmap delivery and release gates",
+      "area": "CareerScope",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "At the weekly review, compare the authorized active roadmap with verified, partial, blocked and ready evidence; record critical path, exact-head PR/CI state and owner gates. Do not start, advance or mark an item done without its required authorization and acceptance evidence."
+    },
+    {
+      "id": "task-63",
+      "title": "Verify ValueMela storefront operational readiness",
+      "area": "ValueMela",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Before paid promotion, verify product availability, seller responsibilities, payment acceptance and settlement, supported delivery areas, shipping charges, cancellations/returns/refunds, customer support, applicable disclosures and a complete test order/refund. Record private evidence and resolve applicable legal/tax gates first."
+    },
+    {
+      "id": "task-64",
+      "title": "Decide dairy economics and 20-to-40 animal operating model",
+      "area": "Dairy farm",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Before the Jan 2027 go/no-go, model phase one at 20 animals and expansion to 40 using verified species, buyer/offtake, production and lactation assumptions; phased sourcing; feed, labor and veterinary costs; facility/energy investment; working capital; downtime, contingency and downside cash flow. Get qualified local review and record the evidence-based decision."
+    },
+    {
+      "id": "task-65",
+      "title": "Review the full-stack job-search pipeline weekly",
+      "area": "Career move",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Once target constraints and profile materials are ready, review the private tracker weekly: suitable roles, owner-approved applications, portal status, replies, interview stages, follow-up dates and blockers. Keep employer/contact details private and review each submission before it is sent."
+    },
+    {
+      "id": "task-66",
+      "title": "Verify Personal HQ data-integrity and sync acceptance",
+      "area": "Life admin",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "After private sync is configured, verify browser-to-browser updates, wrong-account isolation, stale-revision conflicts, offline recovery, explicit conflict resolution, non-destructive public-feed merges and isolated encrypted-backup restore. Document the authoritative source for each data type and the recovery steps; keep private fields out of public builds."
     }
   ],
   "history": [
