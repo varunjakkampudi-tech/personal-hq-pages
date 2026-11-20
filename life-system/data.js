@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T09:51:16.868Z",
+  "generatedAt": "2026-11-20T09:56:16.844Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T09:51:16.868Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T09:56:16.844Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -411,7 +411,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Confirm outcomes after 20 Nov 18:00 IST: YouTube is still private past its scheduled time; Instagram remains queued with no URL. Record URLs/failure. No retry, edit, cancel or publish without exact-action approval."
+      "nextAction": "Instagram and YouTube still show 18:00 IST schedules; no live URLs. YouTube remains private. Await the owner's exact schedule decision; after the slot, verify each destination and record a live link or failure."
     },
     {
       "id": "task-50",
@@ -571,7 +571,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Inspect both media; compare assets and brief fit; verify footage/audio/likeness/logo rights and captions; record exact asset/text/time approval. Preview unavailable. Keep release unapproved; no changes without approval."
+      "nextAction": "Before 20 Nov 18:00 IST, obtain the owner's decision on the queued Instagram and YouTube schedules. Exact media, rights and brief fit remain unverified; change no platform state without explicit approval."
     },
     {
       "id": "task-58",
