@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T11:46:49.9509512+00:00",
+  "generatedAt": "2026-11-20T11:51:12.2564884+00:00",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -643,6 +643,22 @@ window.PERSONAL_HQ_SEED = {
       "due": null,
       "status": "Not started",
       "nextAction": "Privately track committed spend, estimates, recurring costs and available reserves across active projects. Review liquidity monthly with task-58; require owner approval before major commitments. Keep figures private."
+    },
+    {
+      "id": "task-69",
+      "title": "Decide ValueMela storefront UI path after Factori customization limitation",
+      "area": "ValueMela",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "Factori support says storefront frontend changes are currently unavailable. Decide whether to continue with the current template, revisit if the feature becomes available, or assess an alternative storefront. Before migration, compare catalog/order continuity, payment and settlement, customer support, domain, privacy, tax/GST and implementation costs; do not change platform/settings until owner decision."
+    },
+    {
+      "id": "task-70",
+      "title": "Resolve ValueMela customer address form State and District selectors",
+      "area": "ValueMela",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "Factori support says they attempted to call and asks for a convenient time about disabled State and City/District selectors in the customer address form. Provide an available contact window or request written setup guidance; do not guess that PINCODE-first is the intended flow. Verify the corrected form without saving any customer address."
     }
   ],
   "history": [
