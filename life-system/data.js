@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T02:58:40Z",
+  "generatedAt": "2026-11-20T04:27:16Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T04:27:16Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Done: 62 task IDs match the private registry and sanitized feed; no missing, extra, or duplicate IDs, and titles, dates, areas, and statuses match."
+      "nextAction": "The private registry and sanitized feed have 72 matching task IDs, titles, areas, dates and statuses. Chrome also shows 72 tasks, but no fresh dashboard export has confirmed its locally saved statuses; export and reconcile before marking this check done."
     },
     {
       "id": "task-53",
@@ -515,7 +515,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "After the next 9 AM IST automation run, verify the date-specific summary arrived with the correct task-data freshness and that earlier matching Personal HQ summaries were archived only after send succeeded; record any delivery or duplicate issue."
+      "nextAction": "Gmail confirms the 20 Nov summary was sent at 09:05 IST and only today's matching summary remains in Inbox. The dashboard still records Waiting; update that status after safe UI access. Do not resend today's email."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
@@ -571,7 +571,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Inspect both exact assets; verify brief fit, visual/audio sources, permissions and captions. Record gaps and obtain approval for the specific media, text and time; leave schedules unchanged until then."
+      "nextAction": "NO-GO for content approval until the exact scheduled Instagram media, provenance and brief fit are verified. Keep both destinations unchanged pending the owner decision."
     },
     {
       "id": "task-58",
