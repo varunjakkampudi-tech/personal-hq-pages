@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T11:55:39.5105463+00:00",
+  "generatedAt": "2026-11-20T12:01:18.9068273+00:00",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -593,8 +593,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Track CareerScope roadmap delivery and release gates",
       "area": "CareerScope",
       "due": null,
-      "status": "Not started",
-      "nextAction": "At the weekly review, compare the authorized active roadmap with verified, partial, blocked and ready evidence. Current read-only check: PRs #114, #115, #116 and #121 are open, unmerged and mergeable; #114/#115/#116/#121 exact-head CI has passed. PR #108 also remains open with exact-head CI passed. PR #121 has no review submission and its body has stale run status. Record critical path and owner gates; do not start, advance or mark roadmap items done without required authorization and acceptance evidence."
+      "status": "In progress",
+      "nextAction": "Review the authorized CareerScope roadmap and prioritize its open PR queue. Current GitHub evidence: 34 PRs are open overall. PRs #107, #112 and #114–#122 are open, clean/mergeable to dev, with all three required checks passing on their current exact heads; none has a submitted review. These remain unmerged and are not completed roadmap items. Review scope and acceptance evidence under the existing stage gates; do not merge, deploy, or advance checklist status without authorization."
     },
     {
       "id": "task-63",
