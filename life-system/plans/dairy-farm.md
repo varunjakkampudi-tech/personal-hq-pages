@@ -8,7 +8,7 @@
 - Confirm cow, buffalo or mixed herd; production model, veterinary plan, feed/fodder, water, manure handling and milk buyer route.
 - Before buying animals, have the local veterinarian define sourcing criteria, health checks and records, isolation/acclimation, transport, and a phased purchase plan for the confirmed species and 20-head launch.
 - Have a qualified local veterinarian and engineer review housing, ventilation, flooring, drainage, waste handling and expansion.
-- Survey electrical loads before solar sizing: pumps, milking/chilling equipment, lighting, CCTV, communications and backup. Do not guess capacity before the load survey.
+- Survey electrical loads before solar sizing: pumps, milking/chilling equipment, lighting, CCTV, communications and backup. Before comparing a grid-connected design, confirm the premises' consumer category and sanctioned load, permitted grid-solar/net-metering setup, required upgrades and utility approvals with APEPDCL or a qualified electrical professional. Check subsidy eligibility separately. If solar CCTV only is considered, document that distinct electrical and safety scope.
 - Prepare phased capital and operating budgets, contingency, working capital and a downside cash-flow case. Include unit economics and production continuity: verified milk buyer/offtake terms, feed and labor costs, species-specific yield assumptions, lactation/dry-period coverage, veterinary reserves, staggered sourcing, downtime and the cash required before stable production. Model 20 animals first and the path to 40 separately; do not treat the 40-animal expansion as committed capacity.
 
 ## Comparable supplier scopes
