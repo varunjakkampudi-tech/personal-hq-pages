@@ -139,7 +139,7 @@
 .source-controls summary{display:inline-flex;align-items:center;min-height:32px;padding:0 3px;color:var(--forest2);font-size:11px;font-weight:700;cursor:pointer}
 .source-controls summary:focus-visible{outline:2px solid var(--forest2);outline-offset:2px;border-radius:4px}
 .source-controls[open] summary{margin-bottom:4px}
-.source-details{display:flex;flex-direction:column;gap:8px}
+.source-details{display:flex;flex-direction:column;gap:8px}.source-controls:not([open])>.source-details{display:none}
 .source-details #sourceStatus{display:block;font-size:11px;line-height:1.45}
 .source-actions{display:flex;flex-wrap:wrap;gap:6px}
 .banner .source-actions .textbtn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:7px 10px;margin:0;border:1px solid #e8d9b7;border-radius:9px;background:#fffaf0;font-size:11px;line-height:1.25}
