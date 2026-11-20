@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T07:03:42.521Z",
+  "generatedAt": "2026-11-20T07:28:47.536Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T07:03:42.521Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T07:28:47.536Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@
       "area": "Life admin",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Registry and live feed now have 73 task IDs; Chrome/email snapshot was 72. Export a fresh 73-task snapshot from the current browser, compare statuses before syncing, and preserve unverified local values."
+      "nextAction": "The 20 Nov 2026 06:48 IST owner-browser export contains 71 tasks and omits task-60 and task-61; the current registry and public source/Pages feeds contain 73 and remain labeled merged-desktop-task-update. Obtain a fresh current-user export when available, compare every ID, status, field and deletion against the 73-task registry, and do not replace newer merged values with the older snapshot. The app preserves existing statuses and browser-only tasks, but its merge can add missing IDs and refresh nextAction on unversioned tasks."
     },
     {
       "id": "task-53",
@@ -603,7 +603,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Live GitHub Pages deployment verified on 2026-11-20: title, status panel and 73 tasks load; no horizontal overflow at 390px, 320px or 195px CSS viewports. Mobile navigation measures 48x50px at 320px and 36x47px at 195px with accessible names intact. True 200% browser zoom and real screen-reader output remain unverified. Next: complete those two checks, record evidence and close this task."
+      "nextAction": "Latest live UI update (Pages commit bf37e35) applies the readability review: at widths up to 700px, secondary text is at least 12px, explanatory copy 14px and form controls 16px; timeline labels wrap at 260px and below. Live checks at 390px, 320px and 195px show no horizontal overflow and no visible non-icon text below 12px at 390/320. Navigation targets measure 54x50px, 48x47px and 36x47px respectively; at 320x568 the last interactive item remains above the fixed nav after focus. Actual 200% browser zoom and real screen-reader output remain unverified. Next: complete those checks and review final ChatGPT feedback."
     }
   ],
   "history": [
