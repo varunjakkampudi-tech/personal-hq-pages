@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T13:45:02.380247Z",
+  "generatedAt": "2026-11-20T14:21:06.8948972Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T13:45:02.380247Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T14:21:06.8948972Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -27,7 +27,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Resume file/path is identified and the private evidence-based review copy is underway. Next collect the current LinkedIn, Naukri, Indeed and Cutshort profile URLs/account states as an inventory; task-44 separately captures role constraints, chronology and availability. No source resume or external profile has changed."
+      "nextAction": "Candidate LinkedIn and GitHub URLs from the resume are inventoried privately, not confirmed as current profiles. Next confirm active profile URLs/account state for LinkedIn, Naukri, Indeed and Cutshort; keep credentials out."
     },
     {
       "id": "task-1",
