@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T14:35:18.3111705Z",
+  "generatedAt": "2026-11-20T14:43:43.3173848Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T14:35:18.3111705Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T14:43:43.3173848Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -162,8 +162,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Set up daily video publishing for YouTube and Instagram",
       "area": "AI World 360",
       "due": "2026-11-25",
-      "status": "Done",
-      "nextAction": "Parent milestone tracking was consolidated into media-daily, which owns the detailed daily workflow and owner-input gates. Daily publishing is not declared operational; see media-daily and task-57."
+      "status": "In progress",
+      "nextAction": "Daily publishing is not yet operational. Continue setup and channel-specific release gates in media-daily; reusable process foundation is in task-46. Do not treat one published video or the checklist foundation as daily publishing completion."
     },
     {
       "id": "task-18",
@@ -506,8 +506,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Reconcile Personal HQ registry, dashboard and export",
       "area": "Life admin",
       "due": "",
-      "status": "Waiting",
-      "nextAction": "The private registry and public feed agree on 80 tasks (7 Done, 10 In progress, 8 Waiting, 55 Not started), but the embedded dashboard export is still from 20 Nov 2026 06:48 IST. The last owner-browser observation at 17:00 showed 80 tasks with different status counts and 13 next-action conflicts. No fresh complete browser export is available in this session. Obtain the full export, preserve it separately, compare all task IDs/statuses/next actions/revisions, then resolve conflicts explicitly before merging."
+      "status": "In progress",
+      "nextAction": "Fresh full browser export captured 20 Nov 2026 20:08 IST and preserved privately (SHA-256 recorded in the reconciliation note). All 80 task IDs match; 42 next-action values and 14 statuses differ between browser and desktop snapshots. No merge performed. Next reconcile each status with dated evidence, keep private notes and richer actions, then synchronize with a reviewed backup."
     },
     {
       "id": "task-53",
