@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T23:45:04.367Z",
+  "generatedAt": "2026-11-20T00:05:59.0840205Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-19T23:45:04.367Z",
   "dashboardExportUpdatedAt": "2026-11-19T23:09:44.373Z",
@@ -435,7 +435,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "YouTube Short g-5ojhJY63g is private/processed and both entries show 20 Nov 18:00 IST. Confirm they use the same final media; matching schedules alone do not prove a crosspost."
+      "nextAction": "Compare the exact approved media on both destinations; reconcile YouTube status with vidIQ; record live URLs or failure. Matching times do not prove a crosspost."
     },
     {
       "id": "task-50",
@@ -571,7 +571,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Both entries show 18:00 IST; YouTube g-5ojhJY63g is private/processed. Final media preview, source rights/provenance and approval remain unverified; leave the schedule unchanged."
+      "nextAction": "Inspect both exact assets; verify brief fit, visual/audio sources, permissions and captions. Record gaps and obtain approval for the specific media, text and time; leave schedules unchanged until then."
     },
     {
       "id": "task-58",
