@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T11:42:46.1947261+00:00",
+  "generatedAt": "2026-11-20T11:45:26.8014694+00:00",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -394,7 +394,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "The 20 Nov 18:00 IST slot has passed, but publication is unresolved: vidIQ still reports Instagram scheduled (0 attempts, no URL), and authorized YouTube listing reports g-5ojhJY63g private/processed with no actual start. Verify each platform directly; do not mark posted or failed from scheduler state alone. Exact asset, provenance, rights and owner approval remain open. Do not change either schedule or visibility."
+      "nextAction": "As of 20 Nov 2026 after 18:00 IST, Instagram publication 3855ab5a-3651-4623-a16f-3e07b88c5dc8 remains scheduled in vidIQ with 0 attempts and no URL/completion. Authorized YouTube listing still shows g-5ojhJY63g private/processed, scheduled for 12:30Z, no actual start and 0 views. Neither publication nor platform failure is established. Verify directly in each platform console; do not change content, schedule or visibility without asset-specific rights/approval review."
     },
     {
       "id": "task-50",
@@ -554,7 +554,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "P0 release gate before 20 Nov 18:00 IST: Instagram is scheduled and the matching YouTube Short remains private/processed with the same scheduled time. Exact media, provenance/rights, fit to the approved brief and asset-specific owner approval remain unverified. Do not edit or cancel the schedules; check both destinations after 18:00 IST and record a live URL, failure or unresolved state."
+      "nextAction": "Post-slot release check remains unresolved. At 20 Nov 2026 after 18:00 IST, Instagram is still reported scheduled with 0 attempts/no URL; YouTube Short g-5ojhJY63g remains private/processed with no actual start and 0 views. Scheduler/API state does not prove publication or failure. Verify directly in platform consoles and review exact media, provenance, rights, approved brief fit, and owner approval before any new publication action; do not edit, cancel or change visibility."
     },
     {
       "id": "task-58",
