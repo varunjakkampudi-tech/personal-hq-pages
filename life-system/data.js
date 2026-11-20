@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T09:10:24.254Z",
+  "generatedAt": "2026-11-20T09:17:03.103Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T09:10:24.254Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T09:17:03.103Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -603,7 +603,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Latest 20 Nov browser renders at 320x568, 390x844, 768x844 and 1280x844 loaded all 78 tasks with viewport-matched document width and no JavaScript or resource errors. At 320x568 the first task panel ends at y=498, 8px before navigation at y=506; the hero is hidden at widths up to 360px and the next content starts after the bar. At 390x844 the compact hero CTA ends at y=782, exactly where the fixed navigation begins. The page keeps 112px bottom content clearance. Next: check keyboard/focus navigation, true 200% browser zoom and real screen-reader output before release."
+      "nextAction": "Responsive mobile navigation and short-screen layouts now clear task panels and hero actions at 320–393px; browser checks also covered 768/1280px. Latest renders load all 78 tasks without overflow or JavaScript/resource errors. Complete true 200% browser-zoom and screen-reader checks before release; both remain unverified."
     },
     {
       "id": "task-62",
