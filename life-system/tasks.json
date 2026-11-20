@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T14:23:09.375Z",
+  "generatedAt": "2026-11-20T14:28:23.993Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T14:23:09.375Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T14:28:23.993Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -395,7 +395,7 @@
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Record the verified 20 Nov crosspost in the dated publishing log: Instagram https://www.instagram.com/reel/Df9qK4iB6bt/ and YouTube https://www.youtube.com/watch?v=g-5ojhJY63g. Still confirm channel format, language and cadence preferences; record each future video source, final-asset review and separate platform status. Link unresolved provenance/rights/brief review to task-57; a scheduled or published status alone is not asset approval."
+      "nextAction": "20 Nov Instagram and YouTube delivery is verified and recorded in the private log. Next confirm channel format/language/cadence and record each future source, exact asset approval and per-platform status. The live 20 Nov asset/provenance/brief-fit review remains open under task-57; do not schedule reuse without exact-asset approval."
     },
     {
       "id": "task-48",
@@ -411,7 +411,7 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Done",
-      "nextAction": "Crosspost delivery verified 20 Nov 2026: Instagram reports completed with live URL https://www.instagram.com/reel/Df9qK4iB6bt/; YouTube Short g-5ojhJY63g is public/processed with publishedAt 2026-11-20T12:30:29Z. This confirms destination delivery only; see task-57 for separate media provenance, rights, and brief-fit review."
+      "nextAction": "Delivery only: Instagram Reel completed at 18:00:36 IST and the matching YouTube Short is public/processed from 18:00:29 IST. Exact asset approval and provenance remain open in task-57."
     },
     {
       "id": "task-50",
