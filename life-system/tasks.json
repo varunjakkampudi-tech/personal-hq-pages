@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T14:43:43.3173848Z",
+  "generatedAt": "2026-11-20T15:06:43.5767947Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T14:43:43.3173848Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T15:06:43.5767947Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -195,7 +195,7 @@
       "area": "ValueMela",
       "due": "2026-11-28",
       "status": "Not started",
-      "nextAction": "After private actual-vs-proposed flow facts are verified, obtain a written, dated CA matrix. Ask it to cover live November 2026 REG-01 Bank Accounts tab vs post-grant Rule 10A deadlines, corrected Rule 14B/corrigendum and all route-specific obligations. No route conclusion or filing before facts and owner review."
+      "nextAction": "After privately verifying actual and proposed sales/platform flows, prepare the completed business-model summary and open questions from the GST intake and send them to a qualified GST practitioner. Obtain a dated written CA matrix using current official sources, covering the live November 2026 REG-01 Bank Accounts tab versus post-grant Rule 10A deadlines, corrected Rule 14B/corrigendum, and all route-specific obligations. No route conclusion or preparation/filing before facts and owner review."
     },
     {
       "id": "task-22",
@@ -219,7 +219,7 @@
       "area": "ValueMela",
       "due": "2026-12-15",
       "status": "Not started",
-      "nextAction": "After grant, verify certificate and bank portal status by CA deadline; validate invoices, exports, e-way bill owner, GSTR-2B/ITC, conditional e-invoice and filing calendar. Internal planning target only; determine any statutory or portal deadline from verified facts and current authority."
+      "nextAction": "After grant, privately verify the certificate and bank portal status by the CA-confirmed deadline. Validate ValueMela invoice settings and order, refund and payment exports; assign e-way bill ownership; verify GSTR-2B/ITC and conditional e-invoice controls; and confirm the CA-approved return calendar before treating operations as ready. Any internal target is not a statutory deadline; determine deadlines from verified facts and current authority."
     },
     {
       "id": "task-25",
@@ -315,7 +315,7 @@
       "area": "ValueMela",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Factori support reports an attempted call about disabled State/City-District selectors in saved customer addresses and requests a convenient callback time. Owner has not selected a time or replied. Await owner scheduling. After support guidance or a confirmed fix, independently verify the affected address-selection workflow without modifying customer records. Retain the separate branded support-email issue."
+      "nextAction": "Factori support reports an attempted call about disabled State/City-District selectors in saved customer addresses and requests a convenient callback time. Owner has not selected a time or replied; await owner scheduling. After support guidance or a confirmed fix, independently verify the affected address-selection workflow without modifying customer records. Separately follow up on the branded customer-facing support email setting and preserve account sign-in and order-notification routing."
     },
     {
       "id": "task-37",
@@ -355,7 +355,7 @@
       "area": "FixHub24",
       "due": "",
       "status": "In progress",
-      "nextAction": "Owner review remains needed for PR #23 (body-parser security upgrade); it is open and exact-head CI plus dependency audit passed. PR #24 is also open; exact-head run 41761900612 fails the dependency audit for the same unresolved body-parser high-severity advisory plus seroval moderate advisories. The fresh main-branch run 44710368830 independently confirms the audit still fails; lint, typecheck, tests, browser suite and production build passed. Review and resolve through PRs; do not merge without owner authorization."
+      "nextAction": "Owner review remains needed for PR #23 (body-parser security upgrade); it is open and exact-head CI plus dependency audit passed. PR #24 is also open; recorded runs show the dependency audit failing for the unresolved body-parser advisory and seroval advisories. After PR #23 is resolved, recheck PR #24 base and exact-head CI/audit, using current evidence rather than older browser notes. Resolve through PRs; do not merge without owner authorization."
     },
     {
       "id": "task-42",
@@ -507,7 +507,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Fresh full browser export captured 20 Nov 2026 20:08 IST and preserved privately (SHA-256 recorded in the reconciliation note). All 80 task IDs match; 42 next-action values and 14 statuses differ between browser and desktop snapshots. No merge performed. Next reconcile each status with dated evidence, keep private notes and richer actions, then synchronize with a reviewed backup."
+      "nextAction": "After the dashboard refresh, 80 task IDs match across the private registry and browser export. The current reconciliation records 17 next-action differences (13 app-eligible plus four Personal HQ-local), 15 status differences, three title differences and seven due fields differing only as null versus blank. The older 62-task match is historical only. Selectively apply the eight reviewed combined actions, retain five private actions, handle task-46 locally, and preserve original strings in the private ledger. Then reconcile remaining status/title differences against evidence, export a fresh dashboard snapshot, and verify the task IDs and public feed without overwriting private notes or browser-local data."
     },
     {
       "id": "task-53",
@@ -515,7 +515,7 @@
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "Done",
-      "nextAction": "Today's 20 Nov summary was sent at 09:05 IST; do not resend. It reflects 72 tasks, while the current merged registry/feed has 80. Task-52 tracks status reconciliation; verify the next scheduled 09:00 IST run tomorrow."
+      "nextAction": "The 20 Nov 2026 09:05 IST summary was sent and must not be resent; it reflected 72 tasks, while the current merged registry/feed has 80. At the next scheduled 09:00 IST run on 21 Nov, verify the date-specific email reflects current task freshness and contains no duplicate tasks. Archive prior matching Personal HQ summaries only after the new send succeeds; record any delivery or duplicate issue."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
@@ -563,7 +563,7 @@
       "area": "ValueMela",
       "due": "",
       "status": "Not started",
-      "nextAction": "After CA confirms liability, registrations and returns, reconcile sales/invoices, dispatches, refunds/notes, settlements, bank/books, supplier records and GSTR-2B; review ITC/EWB/e-invoice controls before filing."
+      "nextAction": "After the CA confirms liability, registrations and returns, define each filing-period reconciliation across orders, invoices, dispatches, cancellations, refunds/credit notes, settlements, bank receipts/books, supplier records and applicable GST portal data including GSTR-2B. Track exceptions, review ITC/e-way bill/conditional e-invoice controls, obtain owner approval of final figures before filing, and retain filing acknowledgements."
     },
     {
       "id": "task-57",
@@ -579,7 +579,7 @@
       "area": "Life admin",
       "due": "2026-11-22",
       "status": "In progress",
-      "nextAction": "Weekly review 20 Nov 2026 recorded evidence-backed dependencies and open gates across career (tasks 0/7), ValueMela GST (20/21/23/56), dairy (10/11/13/14/64/67), AI World 360 (49/57), CareerScope (16/62), and Personal HQ reconciliation (52). Capacity, cash, and cross-project owner priorities remain unknown. Next review 27 Nov 2026; obtain owner choices, do not infer financial commitments."
+      "nextAction": "Weekly review on 20 November 2026 recorded evidence-backed dependencies and open gates across career (tasks 0/7), ValueMela GST (20/21/23/56), dairy (10/11/13/14/64/67), AI World 360 (49/57), CareerScope (16/62), and Personal HQ reconciliation (52). Capacity, cash availability and cross-project owner priorities remain unknown. Next review: 27 November 2026. Review blockers, dependencies, deadlines and realistic time capacity across all focus areas. Record which tasks to advance, pause or defer, with reasons, next actions and review dates. Obtain owner choices where necessary; do not infer financial commitments. Keep sensitive details out of the public task feed."
     },
     {
       "id": "task-59",
