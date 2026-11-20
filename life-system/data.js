@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T12:15:45.6516998Z",
+  "generatedAt": "2026-11-20T12:18:24.4273367Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-20T01:18:27.066Z",
   "tasks": [
@@ -594,7 +594,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "CareerScope",
       "due": null,
       "status": "In progress",
-      "nextAction": "34 open PRs were checked: 25 have all required current-head checks passing; 7 have failed jobs, 1 has a cancelled job, and 1 has no checks. None has an independent submitted review. Next: diagnose remaining CI/check gaps and map PRs to roadmap acceptance, dependencies and review gates. Green CI or mergeability does not mean accepted or authorized to merge."
+      "nextAction": "34 open PRs were checked: 25 have all three required current-head checks passing; 7 have failed jobs, 1 has a cancelled job, and 1 has no checks. No independent submitted reviews. Next: map PRs to roadmap acceptance and dependencies, then obtain exact-head reviews and owner decisions. CI and mergeability do not mean accepted or authorized to merge."
     },
     {
       "id": "task-63",
