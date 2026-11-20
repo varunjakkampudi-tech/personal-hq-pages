@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T00:29:32+05:30",
+  "generatedAt": "2026-11-21T00:37:04+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T00:29:32+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T00:37:04+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -603,7 +603,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Complete a real 200% browser-zoom review and a real screen-reader check; both remain unverified. Fresh GitHub Pages captures at 320px and 390px loaded all 80 tasks with no horizontal overflow; keep In progress until the remaining accessibility checks and release evidence are complete."
+      "nextAction": "Resolve the 320×740 initial-viewport fixed-nav overlap with the lower row of task totals, then verify mobile hierarchy/reachability at 320, 390 and short-height widths. Complete a real 200% browser-zoom review and a real screen-reader check before closing; keep In progress until these gates have evidence."
     },
     {
       "id": "task-62",
