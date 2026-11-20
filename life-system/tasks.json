@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:09:00.3273588Z",
+  "generatedAt": "2026-11-20T17:05:04Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-20T15:09:00.3273588Z",
+  "sourceSnapshotUpdatedAt": "2026-11-20T17:05:04Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "The eight reviewed action combinations are now recorded in the private registry and published in the sanitized 80-task feed (20 Nov, 20:36 IST); the live Pages URL returned HTTP 200 with 80 unique IDs. The browser dashboard still needs its local merge, with task statuses and private notes preserved; task-46 remains local-only. Then reconcile the remaining status and title differences against evidence, export a fresh full dashboard snapshot, update the registry and verify the IDs/feed. The earlier 62-task count is historical; current reconciliation is 80 tasks."
+      "nextAction": "Mobile task-update controls are live and visually checked at 393px and 320px; 80 unique task IDs remain present in the private registry and public feed. Browser-local task statuses, titles, notes, habits and logs remain unreconciled. Next use supported current Chrome access to export/review local data, compare it with the preserved 20:21 IST export, selectively apply the private decision ledger while preserving newer local edits, then export and verify the full snapshot and sanitized feed."
     },
     {
       "id": "task-53",
