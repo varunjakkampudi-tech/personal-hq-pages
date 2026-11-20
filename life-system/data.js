@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T00:37:04+05:30",
+  "generatedAt": "2026-11-21T00:48:34+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T00:37:04+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T00:48:34+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -603,7 +603,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Resolve the 320×740 initial-viewport fixed-nav overlap with the lower row of task totals, then verify mobile hierarchy/reachability at 320, 390 and short-height widths. Complete a real 200% browser-zoom review and a real screen-reader check before closing; keep In progress until these gates have evidence."
+      "nextAction": "Complete a real 200% browser-zoom review and a real screen-reader check, then record release evidence. Mobile scroll and nav switching now pass the manual viewport checks; keep In progress until accessibility gates are verified."
     },
     {
       "id": "task-62",
