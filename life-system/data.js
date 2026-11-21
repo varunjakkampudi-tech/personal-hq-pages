@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:12:34.3495608+05:30",
+  "generatedAt": "2026-11-21T11:14:27.3321893+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T11:12:34.3495608+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:14:27.3321893+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -291,7 +291,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "2026-12-01",
       "status": "In progress",
-      "nextAction": "Next study action: start the baseline in life-system/plans/learning-roadmap.md (JavaScript, TypeScript, Git/GitHub, command line, practical DSA) and privately log gaps/artifact; reconcile historical course states under learning-course-status. After baseline, proceed through the ordered full-stack frontend/backend, SEO/accessibility, data/system design, AWS and GCP, DevOps, monitoring, Python/GenAI/agentic AI, and portfolio sequence. No study cadence is active until a sustainable slot is chosen."
+      "nextAction": "Complete private/learning-baseline-2026-11-21.md as a short practical diagnostic; record only refresh gaps and a small artifact. Keep the weekly slot self-paced until calendar capacity is known, then follow the ordered roadmap."
     },
     {
       "id": "task-33",
@@ -675,7 +675,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Begin at the first step in life-system/plans/learning-roadmap.md: complete a short practical baseline across JavaScript, TypeScript, Git/GitHub, command line and DSA; record current gaps and one artifact. Carry forward earlier owner-reported checkpoints. Then follow the ordered full-stack → SEO/accessibility → backend/data/system design → AWS/GCP/DevOps → monitoring → Python/GenAI/agentic AI → portfolio sequence. Course and stopped/paused statuses remain unresolved until history or owner evidence confirms them."
+      "nextAction": "Complete private/learning-baseline-2026-11-21.md, preserve prior owner-reported checkpoints, and continue with the ordered full-stack → SEO/accessibility → backend/data/system design → AWS/GCP/DevOps → monitoring → Python/GenAI/agentic AI → portfolio sequence. Resolve old course dispositions only with dated evidence."
     },
     {
       "id": "learning-copilot-cert",
@@ -699,7 +699,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "JavaScript and TypeScript have owner-reported completion checkpoints. Use a short diagnostic for JavaScript/TypeScript, Git/GitHub and practical DSA; record current gaps and one small artifact before selecting refresh work."
+      "nextAction": "Use private/learning-baseline-2026-11-21.md to check JavaScript, TypeScript, Git/GitHub, command line and practical DSA; record current gaps and one small artifact before selecting refresh work. Historical completions remain owner-reported."
     },
     {
       "id": "learning-frontend",
