@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T10:44:19Z",
+  "generatedAt": "2026-11-21T10:52:42Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-21T16:05:21.4975619+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
@@ -507,7 +507,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Latest verified owner-browser export (21 Nov 12:04 IST) has 110 tasks; the registry and live feed have 114, including video-studio-recovery, aiw360-story-video-provenance, router-backup-status and payroll-variance-review absent from that older export. Browser UI later showed 114 tasks, 10 recorded Done and 16 Waiting, but no exact row confirmation or fresh export was obtained. Preserve statuses. Next use a supported browser readback to confirm the four rows, export a fresh full snapshot, compare private notes/habits/logs/activity, then review the 22 existing status conflicts individually."
+      "nextAction": "The verified 21 Nov 12:04 IST export contains 110 tasks; the private registry and live feed contain 114. Current browser search confirmed all four later task rows—video-studio-recovery, aiw360-story-video-provenance, router-backup-status and payroll-variance-review—and each shows Waiting. The dashboard Export tasks control displayed its success message, but Chrome showed only an opaque UUID download entry and no matching file is available in the configured C:\\Users\\Admin\\Downloads folder. Therefore no fresh export payload was inspected. Preserve all browser statuses. Obtain the actual private export file, compare IDs, statuses, notes, habits, logs and activity, then resolve the 22 pre-existing status conflicts individually."
     },
     {
       "id": "task-53",
