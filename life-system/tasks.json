@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 07:11:10 +05:30",
+  "generatedAt": "2026-11-21 07:29:09 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 07:11:10 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 07:29:09 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -290,8 +290,8 @@
       "title": "Set one practical learning goal and a weekly study slot",
       "area": "Training & learning",
       "due": "2026-12-01",
-      "status": "Not started",
-      "nextAction": "Set one practical learning goal and a weekly study slot"
+      "status": "In progress",
+      "nextAction": "Use the learning roadmap to confirm the starting point, reconcile older courses, and choose a sustainable weekly slot. See life-system/plans/learning-roadmap.md; private history notes record what is and is not verified."
     },
     {
       "id": "task-33",
@@ -668,6 +668,150 @@
       "due": "",
       "status": "Waiting",
       "nextAction": "A privacy-safe Factori report draft is ready. Await owner confirmation before sending. Then request provider verification of the public contact-data handling and confirm payment/invoice claims against current settings without placing an order. Do not include personal contact values or change storefront settings."
+    },
+    {
+      "id": "learning-history",
+      "title": "Reconcile prior learning and course checkpoints",
+      "area": "Training & learning",
+      "due": "",
+      "status": "In progress",
+      "nextAction": "Review the private history ledger and confirm whether older active courses were completed, stopped, or resumed."
+    },
+    {
+      "id": "learning-copilot-cert",
+      "title": "Record owner-reported GitHub Copilot certification completion",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Done",
+      "nextAction": "Owner reported completion in ChatGPT history; exact credential details remain unverified privately."
+    },
+    {
+      "id": "learning-aws-guide",
+      "title": "Publish AWS services interview study guide",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Done",
+      "nextAction": "Published study guide is available at varunjakkampudi-tech.github.io/training/aws.html; guide completion is not course or certification completion."
+    },
+    {
+      "id": "learning-foundations",
+      "title": "Refresh JavaScript, TypeScript, Git and DSA foundations",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Run a short skills diagnostic, then fill gaps with small exercises."
+    },
+    {
+      "id": "learning-frontend",
+      "title": "Build React and Next.js frontend skills",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Work through components, hooks, state, routing, APIs, forms, testing, performance and a responsive capstone."
+    },
+    {
+      "id": "learning-seo-a11y",
+      "title": "Apply SEO, accessibility and web performance",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Practice semantic HTML, metadata, indexing, structured data, WCAG, keyboard access and Core Web Vitals."
+    },
+    {
+      "id": "learning-backend",
+      "title": "Build backend and API skills",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Study Node.js, Express, REST, secure auth, validation, testing, and Python/FastAPI; GraphQL later."
+    },
+    {
+      "id": "learning-data",
+      "title": "Practice SQL, PostgreSQL, MongoDB and data modeling",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Build relational and NoSQL schemas; learn migrations, indexes, transactions and access safety."
+    },
+    {
+      "id": "learning-system-design",
+      "title": "Practice system design fundamentals",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Document requirements, APIs, data, caching, queues, resilience, security and cost tradeoffs."
+    },
+    {
+      "id": "learning-microfrontend-aem",
+      "title": "Explore microfrontends and AEM",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Start after React fundamentals; cover integration patterns, HTL, client libraries and Sling Models."
+    },
+    {
+      "id": "learning-aws",
+      "title": "Build and monitor an AWS application",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Study IAM, networking, compute, storage, data, serverless, events, security, cost and deployment."
+    },
+    {
+      "id": "learning-gcp",
+      "title": "Build and monitor a GCP application",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Start from GCP foundations; this path was newly requested and has no historical progress evidence."
+    },
+    {
+      "id": "learning-devops",
+      "title": "Reconcile and strengthen Linux and DevOps skills",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "First confirm current status of historical AWS/DevOps training; then cover Linux, networking, Docker, Kubernetes, CI/CD and IaC."
+    },
+    {
+      "id": "learning-monitoring",
+      "title": "Learn monitoring and observability",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Practice metrics, logs, traces, dashboards, useful alerts, service objectives and incident response; verify Datadog course interest before enrollment."
+    },
+    {
+      "id": "learning-data-ai",
+      "title": "Study Python, data science, ML and GenAI foundations",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Cover Python, NumPy, pandas and ML/GenAI concepts as supporting skills for concrete projects."
+    },
+    {
+      "id": "learning-agentic-ai",
+      "title": "Follow the agentic AI learning path",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Progress through Hugging Face, DeepLearning.AI and LangChain; include OpenAI Academy and build an evaluated safe agent."
+    },
+    {
+      "id": "learning-credentials",
+      "title": "Research relevant certifications before enrollment",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Verify current requirements, fees and role value for AWS, GCP, data science, AI, DevOps, Linux and monitoring credentials."
+    },
+    {
+      "id": "learning-portfolio",
+      "title": "Build portfolio and interview readiness",
+      "area": "Training & learning",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Create a full-stack capstone with cloud deployment, accessibility/SEO and observability; practice DSA and system design."
     }
   ],
   "history": [
