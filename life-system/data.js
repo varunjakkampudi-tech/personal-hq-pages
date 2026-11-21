@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T16:50:18.7654472Z",
+  "generatedAt": "2026-11-21T16:57:02.5312419Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T16:50:18.7654472Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T16:57:02.5312419Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -677,7 +677,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue bounded body-level reviews of ChatGPT history and reconcile explicit completed, active, paused, stopped or unfinished course/project checkpoints into the private learning ledger. Existing 20 learning records persist; do not duplicate or reset them. Newly reviewed DSA exercise submissions are recorded as practice, while the AWS Developer and OpenAI Agentic AI course chats are recommendations only, not enrollment evidence. Next: review another high-value source thread and complete the short baseline diagnostic. Daily email alone refreshes."
+      "nextAction": "Continue bounded body-level reviews of ChatGPT history and reconcile explicit completed, active, paused, stopped or unfinished course/project checkpoints into the private learning ledger. Existing 20 learning records persist; do not duplicate or reset them. Latest source batch reviewed DSA practice, Swift course recommendations, Pulse architecture, historical CareerScope spec and gym recovery, with evidence caveats recorded privately. Next: continue unresolved/rate-limited bodies and complete the baseline diagnostic. Daily email alone refreshes."
     },
     {
       "id": "learning-copilot-cert",
