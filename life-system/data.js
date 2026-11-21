@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T10:55:31.7728764+05:30",
+  "generatedAt": "2026-11-21T10:57:44.6939486+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T10:55:31.7728764+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T10:57:44.6939486+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -843,7 +843,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Reconcile the personal-assistant project identity and current codebase. Connected GitHub confirms one private assistant repository with latest listed commit dated 21 Jun 2026; separately, history says the owner downloaded OpenClaw main for a custom Jarvis-style assistant, but no matching checkout was found in Desktop/Downloads and no owner OpenClaw repository was found in GitHub search. Confirm whether these are the same project or alternate foundations, locate the intended source, and record continue/pause/stop. Do not modify code or expose credentials."
+      "nextAction": "Privately confirm whether nova-ai-assistant is the intended personal assistant, Shivaan AI and/or OpenClaw/Jarvis source. Its README describes a FastAPI/MongoDB backend and Expo frontend with external model, voice and Google integrations; only main at 7b83a0b (21 Jun 2026) is listed, with no GitHub Actions runs. If continuing, verify current local runtime and secret handling read-only before proposing any implementation work; if paused/stopped, retain the owner-selected state and checkpoint. Do not expose secrets or connect accounts."
     },
     {
       "id": "task-74",
