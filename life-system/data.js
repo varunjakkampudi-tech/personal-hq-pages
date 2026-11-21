@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 08:25:49 +05:30",
+  "generatedAt": "2026-11-21 08:34:26 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 08:25:49 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 08:34:26 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -579,7 +579,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-22",
       "status": "In progress",
-      "nextAction": "Weekly review refreshed 21 Nov 2026. Local registry now has 102 persistent tasks: 10 Done, 30 In progress, 8 Waiting, 54 Not started. The latest verified browser export has only 80 tasks and omits 21 newer registry IDs, so it was not imported; dashboard/export reconciliation remains open in task-52. Preserve existing deadlines and all unfinished items; email summary is the only daily-refresh artifact."
+      "nextAction": "Weekly review refreshed 21 Nov 2026. Local registry now has 104 persistent tasks: 10 Done, 31 In progress, 9 Waiting, 54 Not started. The latest verified browser export had only 80 tasks and omitted 21 newer registry IDs, so it was not imported; dashboard/export reconciliation remains open in task-52. Preserve existing deadlines and all unfinished items; email summary is the only daily-refresh artifact."
     },
     {
       "id": "task-59",
@@ -819,7 +819,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "The first 800 active ChatGPT history entries are indexed; more pages remain. This batch reviewed selected threads and identified CreatorIQX as needing repository reconciliation (task-72), plus title-level historical leads recorded privately. Continue one group at a time, separate active work from brainstorms, and keep uncertain ideas unpromoted until thread/repository evidence is checked."
+      "nextAction": "All 1,288 active ChatGPT history entries have been indexed; archived history returned no threads. Selected project threads have been reviewed, with CreatorIQX (task-72), a personal-assistant project (task-73) and Property Lens deployment/automation status (task-74) now tracked. Continue reading relevant project threads and checking current repositories, separating active work from brainstorms; keep remaining uncertain leads private until verified."
     },
     {
       "id": "task-71",
@@ -836,6 +836,22 @@ window.PERSONAL_HQ_SEED = {
       "due": "",
       "status": "Waiting",
       "nextAction": "History includes a user request for a repository and progress review. A historical report cited main at 6b235fb with failing CI, but that snapshot is not current and the connected GitHub lookup returned 404. Confirm the canonical repository URL/access, then inspect its current branch, CI and backlog before choosing a milestone."
+    },
+    {
+      "id": "task-73",
+      "title": "Reconcile personal assistant project status and next step",
+      "area": "Life admin",
+      "due": "",
+      "status": "In progress",
+      "nextAction": "Review the project history and current private repository to confirm the latest working checkpoint, open blockers, and whether to continue or pause. Keep credentials, account setup and other private details out of the public task feed."
+    },
+    {
+      "id": "task-74",
+      "title": "Reconcile Property Lens deployment and automation status",
+      "area": "Property Lens",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "A historical review found a deployed app and an unresolved production/automation follow-up, but current connected GitHub lookup does not expose the repository. Restore verified read access, then inspect current main, deployment and scheduler state before choosing a next step. Do not restart automation or change production."
     }
   ],
   "history": [
