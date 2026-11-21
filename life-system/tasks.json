@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T13:27:07.630512Z",
+  "generatedAt": "2026-11-21T13:31:28.3640464Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T13:27:07.630512Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T13:31:28.3640464Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -885,7 +885,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue bounded review of historical course conversations and sources. Record each dated last checkpoint, artifact and course disposition (planned, active, paused, stopped, completed or unresolved) separately from evidence strength. Then complete the existing baseline diagnostic and proceed through frontend/backend, SEO/accessibility, AWS/GCP/DevOps, monitoring and agentic AI checkpoints. Keep prior work visible; no task resets or duplicate tracks. See private/learning-history-reconciliation-2026-11-21.md and private/learning-progress-monitor-2026-11-21.md."
+      "nextAction": "Start with private/learning-baseline-2026-11-21.md. After each actual checkpoint, update private/learning-progress-monitor-2026-11-21.md with date, evidence, current course disposition, blocker and next action. Continue bounded ChatGPT history review for completed, paused, stopped and unfinished work; never infer disposition from silence. Existing task statuses persist; daily Gmail summary alone refreshes."
     },
     {
       "id": "aiw360-channel-metadata",
