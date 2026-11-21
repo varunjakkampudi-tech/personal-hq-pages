@@ -515,7 +515,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "Done",
-      "nextAction": "The 20 Nov 2026 09:05 IST summary was sent and must not be resent; it reflected 72 tasks, while the current merged registry/feed has 80. At the next scheduled 09:00 IST run on 21 Nov, verify the date-specific email reflects current task freshness and contains no duplicate tasks. Archive prior matching Personal HQ summaries only after the new send succeeds; record any delivery or duplicate issue."
+      "nextAction": "21 Nov 2026 delivery verified: the pre-09:00 summary was refreshed by reply at 09:25 IST in the same date-specific thread; task counts match the 104-task registry. Seven prior-date Personal HQ summary threads were archived only after the reply was verified. Tasks remain persistent."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
