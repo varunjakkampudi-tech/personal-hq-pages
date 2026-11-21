@@ -613,7 +613,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "CareerScope",
       "due": "",
       "status": "In progress",
-      "nextAction": "Current exact-head check, 21 Nov 2026: PR #127 remains open/draft at c748a1641c7e4d728e117b8ed4c5abe0fc5f5795, base dev fad57ea3253024983f29183acefaee59328d0d01. Run 44884850332 failed Services/integration/browser: the scored education fixture now has full-description confidence but the test still expects its low-confidence warning. Independent review is CHANGES REQUIRED: keep the full-description education fixture, assert high confidence and no warning there, and retain a separate short-description test for the low-confidence cap/message; update Stage 01 audit hash. Quality gates and image build passed. Keep item 7.04 partial; no CareerScope files or PR state changed. After authorized correction, rerun exact-head CI and review. Do not merge/deploy/promote without authorization."
+      "nextAction": "Refresh the live CareerScope PR queue before further changes. Latest spot-check: Stage 08 item 8.02 PR #130 is still open/draft; its previously reviewed head is no longer current, exact-head CI is running, and a fresh independent review was requested. The last recorded item 7.04 blocker also needs live revalidation. Keep checklist evidence, exact-head review, owner acceptance and CI gates separate; do not merge or deploy without authorization."
     },
     {
       "id": "task-63",
