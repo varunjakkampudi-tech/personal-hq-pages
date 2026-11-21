@@ -79,11 +79,11 @@ For every course or topic, keep its record and classify it privately as **active
 Microfrontends/AEM and optional certificates stay later/research-only until the full-stack foundation and role value justify them. This order keeps requested subjects visible without treating every one as a simultaneous course.
 
 
-## AI tooling literacy checkpoint · 22 November 2026
+## AI tooling literacy checkpoint · 21 November 2026
 
 Selected ChatGPT research threads compared multi-agent orchestration tools and a premium UI skill stack for existing software projects. These were recommendations, not implementation or course completion evidence. If this topic is still useful, evaluate available tools, permission boundaries, cost and project isolation in a sandbox; do not connect new services or authorize repository/account access from old recommendations. Keep software-project work under its existing project gates. Current specific course states remain unresolved unless dated evidence is added to the private monitor.
 
-## Learning-history continuation · 22 November 2026
+## Learning-history continuation · 21 November 2026
 
 Additional bounded history reviews recorded in the private learning ledger covered the original multi-track learning-dashboard request, employer-training exposure, a reported four-month AWS/DevOps cohort, a MongoDB exam interruption, Datadog interest, agentic-AI safety, older Linux/IAM/Docker study conversations, and a prior “skip remaining” microfrontend request. These are retained as context only: the cohort outcome and last checkpoint, MongoDB case/retake outcome, Datadog enrollment, and any formal pause or stop decisions remain unresolved where the reviewed messages did not establish them. Employer discussion is not a personal credential or public learning claim. The earlier three-hours-per-day and seven-month plans are historical; no current hours or deadline are assumed.
 
