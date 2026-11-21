@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:18:08.0168511+05:30",
+  "generatedAt": "2026-11-21T11:21:07.9074266+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T11:18:08.0168511+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:21:07.9074266+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -259,7 +259,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Godavari dairy guide",
       "due": "2026-12-02",
       "status": "In progress",
-      "nextAction": "Read-only review completed 21 Nov 2026: Godavari-Dairy-Farm-Guide is on main at 15b09e2 (10 Nov) with pre-existing changes in assets/records.js and tests/e2e/guide.spec.js related to recovering in-memory records after browser-storage write failure. Preserve both edits; do not reset, stage or commit them. Next reconcile this exact HEAD with origin/main, inspect the two changes and MASTER_CHECKLIST, then decide whether to continue and map any valid fix to the authorized checklist item. External buyer/site/veterinary/editorial field gates remain open."
+      "nextAction": "Current review check 21 Nov: Godavari Dairy Farm Guide PR #2 is open, draft, mergeable but unmerged at c2a00df; it has no submitted reviews, issue comments or check runs. Next inspect the plan branch against the owner intake and readiness gates, obtain a substantive review and required checks, and keep the PR draft until reviewed. Do not merge/deploy based on the historical request alone. Preserve the existing dirty source edits in assets/records.js and tests/e2e/guide.spec.js."
     },
     {
       "id": "task-29",
