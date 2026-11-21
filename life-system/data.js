@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:08:51.5671271Z",
+  "generatedAt": "2026-11-21T14:10:37.4802467Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T14:08:51.5671271Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T14:10:37.4802467Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -869,7 +869,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-12-05",
       "status": "In progress",
-      "nextAction": "Continue with one bounded body-level review of an unreconciled ChatGPT history thread, then check any named artifact/repository/platform evidence where applicable. Record source title/date, exact owner intent, deliverable, artifact/revision, completion or pause/stop disposition with evidence strength, blocker, next authorized action, and acceptance gate in the private history ledger. Map to an existing task first; do not infer from silence. Recent reviewed categories include the personal assistant, payroll/home purchase, router backup, family-learning and video-studio leads, which remain status-unconfirmed or exploratory. Keep this task In progress until relevant history bodies and current source evidence are reconciled."
+      "nextAction": "Continue bounded body-level review from the indexed active ChatGPT history, including the rate-limited titles logged in private/chatgpt-history-project-reconciliation-2026-11-21.md. Read one high-value thread at a time when the connector allows; map evidence to existing tasks first. Never infer completion, pause, employment-project status, or current health/routine from titles alone."
     },
     {
       "id": "smart-building-energy-status",
