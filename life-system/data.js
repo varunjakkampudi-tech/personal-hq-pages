@@ -27,7 +27,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "The supplied one-page PDF was rendered and visually reviewed on 21 Nov 2026; a machine-readable text extraction is still unavailable. The resume shows candidate GitHub and LinkedIn links; the public GitHub display name matches, while LinkedIn returned HTTP 429. Verify account ownership/current profile state and confirm active Naukri, Indeed and Cutshort links privately. No resume or profile edits."
+      "nextAction": "Source check 21 Nov: the owner folder still contains one DOCX, one one-page PDF and LinkedIn screenshot; no new profile URLs. PDF metadata is recorded privately but does not verify content. Confirm active account links and ownership for GitHub/LinkedIn/Naukri/Indeed/Cutshort privately; reconcile PDF/DOCX versions and owner evidence before editing any resume/profile. No source or profile changes."
     },
     {
       "id": "task-1",
