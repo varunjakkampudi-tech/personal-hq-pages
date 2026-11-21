@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T12:07:37.027485+05:30",
+  "generatedAt": "2026-11-21T12:25:48.762839+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T12:07:37.027485+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T12:25:48.762839+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -499,7 +499,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Independent review passed on the post-change 320×568 and 390×844 captures: All tasks is clearer, nav labels stay on one line, and spacing remains comfortable. Keep these changes. Still verify actual 200% browser zoom, real screen-reader behavior and task persistence in the owner browser."
+      "nextAction": "Phone-width review verified on live Pages at 390×844: compact bottom navigation is visible, the desktop rail is hidden, and document/body scroll widths both equal the viewport. 200% browser zoom still needs a fresh connected browser check; accessibility behavior and persistence also remain open."
     },
     {
       "id": "task-52",
