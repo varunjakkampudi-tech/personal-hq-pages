@@ -611,7 +611,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "CareerScope",
       "due": "",
       "status": "In progress",
-      "nextAction": "Make owner scope decisions for unmapped PRs #61–#65 and #109–#111; then reconcile all 38 mapped or unmapped PRs against acceptance evidence/dependencies and request independent exact-SHA reviews. CI triage: #61/#62/#63/#65 stale Stage 01 manifest records; #67 missing manifest entry; #64 TypeScript peer-dependency conflict; #105 six-match browser locator; #81 runner DNS failure then cancellation. Apply fixes only under an explicitly authorized checklist scope; keep merge/deployment separate."
+      "nextAction": "GitHub search refresh 21 Nov: 33 open PRs returned (previous recorded count 38 is stale). Rebuild the PR-by-PR status, current-head CI/check, submitted/independent review and roadmap mapping snapshot for all 33 before drawing release conclusions. Preserve owner scope decisions for unmapped #61–#65 and #109–#111; do not edit, merge or deploy. Fixes require explicit authorized checklist scope."
     },
     {
       "id": "task-63",
