@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T13:20:05.2738148Z",
+  "generatedAt": "2026-11-21T13:27:07.630512Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T13:20:05.2738148Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T13:27:07.630512Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -509,7 +509,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "The verified 21 Nov 12:04 IST export contains 110 tasks; the private registry and live feed contain 114. Current browser search confirmed all four later task rows—video-studio-recovery, aiw360-story-video-provenance, router-backup-status and payroll-variance-review—and each shows Waiting. The dashboard Export tasks control displayed its success message, but Chrome showed only an opaque UUID download entry and no matching file is available in the configured C:\\Users\\Admin\\Downloads folder. Therefore no fresh export payload was inspected. Preserve all browser statuses. Obtain the actual private export file, compare IDs, statuses, notes, habits, logs and activity, then resolve the 22 pre-existing status conflicts individually."
+      "nextAction": "Export reconciliation refreshed 21 Nov 2026: current private registry and live Pages feed contain 117 tasks (11 Done, 39 In progress, 17 Waiting, 50 Not started). The two available dashboard export files dated 20 Nov each contain 80 tasks; exact comparison finds 80 common IDs, 37 registry tasks absent from the export, and 23 status conflicts. A separate 21 Nov browser check reported 110 tasks, but its export payload is unavailable and that count cannot be independently reconciled. Keep browser statuses unimported. Obtain a fresh owner-browser export payload, compare IDs/status/notes/habits/activity, and resolve conflicts row by row."
     },
     {
       "id": "task-53",
@@ -579,9 +579,9 @@
       "id": "task-58",
       "title": "Run the weekly cross-project priorities and capacity review",
       "area": "Life admin",
-      "due": "2026-11-22",
+      "due": "2026-11-21",
       "status": "In progress",
-      "nextAction": "Weekly cross-project review refreshed 21 Nov 2026. Current private registry and live Pages feed contain 113 persistent tasks: 11 Done, 35 In progress, 15 Waiting and 52 Not started. The most recent verified owner-browser export (12:04 IST) contains 110 tasks and predates three later task additions. Its 22 conflicts on 80 common tasks remain unresolved; it contains zero activity events, so activity-history preservation remains unverified. No browser statuses were imported. Complete the current-feed merge and full export comparison in task-52; review conflicts one by one, then continue weekly priorities. Preserve all tasks; only the daily email summary refreshes."
+      "nextAction": "Weekly review refreshed 21 Nov 2026 from current registry and live Pages feed: 117 persistent tasks — 11 Done, 39 In progress, 17 Waiting, 50 Not started. The available 20 Nov dashboard exports each have 80 tasks and differ from the current registry on 23 common-task statuses while omitting 37 current IDs. A separate 110-task browser export was reported on 21 Nov but its payload is unavailable. Reconcile from a fresh inspectable export under task-52; preserve all current statuses until row-level evidence resolves conflicts. Daily email refresh does not reset tasks."
     },
     {
       "id": "task-59",
@@ -821,7 +821,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "History review refreshed 22 Nov 2026: continue body-level review of the 1,289-title active index; the current batch covered Resend/auth and AI-agent/tool comparisons. Mapped findings to existing CareerScope, OraOne, LensMate, assistant and media-software tasks; no completion, pause or stop was inferred from titles or assistant drafts. Next continue through older unreconciled bodies, checking concrete artifacts and current repo/platform evidence, and map to existing tasks first. Keep this open until relevant history and decisions are reconciled."
+      "nextAction": "History review refreshed 21 Nov 2026: continue body-level review of the 1,289-title active index; the current batch covered Resend/auth and AI-agent/tool comparisons. Mapped findings to existing CareerScope, OraOne, LensMate, assistant and media-software tasks; no completion, pause or stop was inferred from titles or assistant drafts. Next continue through older unreconciled bodies, checking concrete artifacts and current repo/platform evidence, and map to existing tasks first. Keep this open until relevant history and decisions are reconciled."
     },
     {
       "id": "task-71",
