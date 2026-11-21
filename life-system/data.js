@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:08:33.27126+05:30",
+  "generatedAt": "2026-11-21T14:14:14.811759+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T14:08:33.27126+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T14:14:14.811759+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -867,7 +867,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-12-05",
       "status": "In progress",
-      "nextAction": "Continue the private history ledger in bounded batches. For each concrete project record canonical identity, last verified repository/artifact revision and date, demonstrated behavior, blockers, evidence-supported disposition, next authorized action and completion/owner-acceptance gate. Map to an existing task first; do not infer status from titles or silence. See private/chatgpt-history-project-reconciliation-2026-11-21.md."
+      "nextAction": "Continue bounded body-by-body review of relevant ChatGPT history, with project/course repositories and artifacts checked where applicable. Capture dated evidence, completed/paused/stopped/unresolved disposition, reason, blocker, next authorized action and acceptance gate. Map to existing persistent task first. Keep this open until relevant work and decisions are reconciled; daily email refresh does not reset tasks."
     },
     {
       "id": "smart-building-energy-status",
@@ -883,7 +883,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Reconcile each historical course title/provider, last checkpoint and artifact; record course disposition (planned, active, paused, stopped, completed or unresolved) separately from evidence strength (owner-reported, assistant summary, verified artifact or verified credential). Resolve past cloud/DevOps training and whether monitoring or agentic-AI courses were started before resuming or paying. Keep personal credential details private."
+      "nextAction": "Continue bounded review of historical course conversations and sources. Record each dated last checkpoint, artifact and course disposition (planned, active, paused, stopped, completed or unresolved) separately from evidence strength. Then complete the existing baseline diagnostic and proceed through frontend/backend, SEO/accessibility, AWS/GCP/DevOps, monitoring and agentic AI checkpoints. Keep prior work visible; no task resets or duplicate tracks. See private/learning-history-reconciliation-2026-11-21.md and private/learning-progress-monitor-2026-11-21.md."
     },
     {
       "id": "aiw360-channel-metadata",
