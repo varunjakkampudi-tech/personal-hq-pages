@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 09:54:51 +05:30",
+  "generatedAt": "2026-11-21 09:57:02 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 09:54:51 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 09:57:02 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -499,7 +499,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Applied the independent review suggestions: made All tasks more prominent, raised mobile navigation labels where width permits, and tightened the 320px header-to-task gap by 8px. Updated 320×568 and 390×844 screenshots are public; asked the reviewer to reassess. Still verify actual 200% browser zoom, real screen-reader behavior and task persistence in the owner browser."
+      "nextAction": "Independent review passed on the post-change 320×568 and 390×844 captures: All tasks is clearer, nav labels stay on one line, and spacing remains comfortable. Keep these changes. Still verify actual 200% browser zoom, real screen-reader behavior and task persistence in the owner browser."
     },
     {
       "id": "task-52",
