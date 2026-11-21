@@ -677,7 +677,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue bounded body-level reviews of ChatGPT history and reconcile explicit completed, active, paused, stopped or unfinished course/project checkpoints into the private learning ledger. Existing 20 learning records persist; do not duplicate or reset them. Latest source batch reviewed DSA practice, Swift course recommendations, Pulse architecture, historical CareerScope spec and gym recovery, with evidence caveats recorded privately. Next: continue unresolved/rate-limited bodies and complete the baseline diagnostic. Daily email alone refreshes."
+      "nextAction": "Continue bounded body-level reviews of ChatGPT history and reconcile explicit completed, active, paused, stopped, unfinished or uncertain course/project checkpoints into the private learning ledger. The 20 existing learning records already cover foundations, frontend, backend, SEO, AWS/GCP, DevOps, monitoring and agentic AI; preserve every status and do not duplicate/reset. Next: continue unresolved/rate-limited source bodies and complete the baseline diagnostic. Daily Gmail summary alone refreshes; all tasks persist."
     },
     {
       "id": "learning-copilot-cert",
@@ -869,7 +869,7 @@
       "area": "Life admin",
       "due": "2026-12-05",
       "status": "In progress",
-      "nextAction": "Continue bounded body-level review of the 1,290 indexed active ChatGPT conversations; the index count is a discovery boundary, not evidence that all conversation bodies were read. Use the dated private history ledger to resume rate-limited threads. For each relevant learning course, project, business or life commitment, record source/date, last evidenced checkpoint, exact artifact or repo/revision when available, classification (completed, active, paused, stopped, unfinished or uncertain), evidence strength, reason, blocker, next authorized action and acceptance gate. Map to existing tasks first and retain prior checkpoints. Do not infer disposition from titles or silence, or repeat/pay for training before reconciling it. Daily email refreshes only; every task persists."
+      "nextAction": "Continue bounded body-level review of the 1,290 indexed active ChatGPT conversations; this is discovery coverage, not proof every body was read. Use the dated private ledger to resume rate-limited threads. For every relevant learning course, project, business or life commitment, record source/date, last checkpoint, artifact/revision where available, disposition (completed, active, paused, stopped, unfinished or uncertain), evidence strength, reason/blocker, next authorized action and acceptance gate. Map to existing tasks first and preserve prior checkpoints. Do not infer disposition from titles or silence, or repeat/pay for training before reconciling it. Only the 9 AM IST Gmail summary refreshes; every task persists."
     },
     {
       "id": "smart-building-energy-status",
