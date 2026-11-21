@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T10:07:29.1367962Z",
+  "generatedAt": "2026-11-21T10:16:44.943443Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T10:07:29.1367962Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T10:16:44.943443Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -179,7 +179,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "2026-11-30",
       "status": "Not started",
-      "nextAction": "Reconcile the historical permanent-brand request: confirm whether it applied to ValueMela or a separate business before any name/domain work; proposed names were not selected or cleared. Also record Factori's current frontend customization limitation and available theme settings without changing them. No rename, domain purchase or setup submission is verified. Defer store/platform decisions until current intent and verified capabilities are reviewed."
+      "nextAction": "Reconcile prior Factori/brand history with ValueMela before name/domain work: no final name, clearance, submission or store relationship is verified. Record Factori frontend limits without changing settings."
     },
     {
       "id": "task-20",
