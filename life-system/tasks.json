@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T13:10:41.6763313Z",
+  "generatedAt": "2026-11-21T13:20:05.2738148Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T13:10:41.6763313Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T13:20:05.2738148Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -821,7 +821,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "The active ChatGPT history index now contains 1,289 titles; the current archived index is empty. Only selected conversation bodies have been reviewed. Continue bounded source-thread review of concrete work; capture last verified state, blockers, evidence-supported disposition, next authorized action and acceptance gate. Map to existing tasks first; never infer completion or stopped status from titles or silence."
+      "nextAction": "History review refreshed 22 Nov 2026: continue body-level review of the 1,289-title active index; the current batch covered Resend/auth and AI-agent/tool comparisons. Mapped findings to existing CareerScope, OraOne, LensMate, assistant and media-software tasks; no completion, pause or stop was inferred from titles or assistant drafts. Next continue through older unreconciled bodies, checking concrete artifacts and current repo/platform evidence, and map to existing tasks first. Keep this open until relevant history and decisions are reconciled."
     },
     {
       "id": "task-71",
