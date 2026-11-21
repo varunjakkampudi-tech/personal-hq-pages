@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T13:47:38.082392Z",
+  "generatedAt": "2026-11-21T13:51:01.4043513Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T13:47:38.082392Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T13:51:01.4043513Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -677,7 +677,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue bounded body-level reviews of learning and project history. Record only dated, source-backed completed, active, paused, stopped or unfinished checkpoints with evidence in the private learning history ledger; map to existing records first. Current review covers selected threads, not every conversation body. Start with the existing short baseline diagnostic. Daily email summarizes and never resets the task list."
+      "nextAction": "Continue bounded body-level reviews of ChatGPT history and reconcile explicit completed, active, paused, stopped or unfinished course/project checkpoints into the private learning ledger. Existing 20 learning records persist; do not duplicate or reset them. Next: review the next high-value learning thread, then complete the short baseline diagnostic. Daily email alone refreshes."
     },
     {
       "id": "learning-copilot-cert",
