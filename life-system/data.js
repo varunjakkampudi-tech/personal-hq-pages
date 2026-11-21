@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T13:43:00.0969731Z",
+  "generatedAt": "2026-11-21T13:45:36.8174328Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T13:43:00.0969731Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T13:45:36.8174328Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -821,7 +821,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue bounded review of unreconciled ChatGPT conversation bodies and verify named artifacts/repositories. The 21 Nov review added task-77 for owner confirmation of a historical community-event design follow-up; source images are unavailable and the relationship between two design threads is unconfirmed. Record dated evidence, intent, disposition, blocker, next authorized action and acceptance gate privately. Map findings to existing tasks first; no status inference from silence. Keep the history audit In progress until relevant sources are reconciled."
+      "nextAction": "Continue bounded review of unreconciled ChatGPT conversation bodies and verify named artifacts/repositories. The 21 Nov review found no new active task in recent interview, channel-logo, family-learning or gym-plan history; relevant existing tasks already cover the logo, family course and health routine. Record dated evidence, intent, disposition, blocker, next authorized action and acceptance gate privately. Keep historical outcomes unresolved when source evidence is unavailable, and map findings to existing tasks before creating duplicates."
     },
     {
       "id": "task-71",
