@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 07:29:09 +05:30",
+  "generatedAt": "2026-11-21 07:58:34 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 07:29:09 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 07:58:34 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -691,7 +691,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "Done",
-      "nextAction": "Published study guide is available at varunjakkampudi-tech.github.io/training/aws.html; guide completion is not course or certification completion."
+      "nextAction": "The AWS services interview study guide is published on the public training site; guide completion is not course or certification completion."
     },
     {
       "id": "learning-foundations",
@@ -812,6 +812,14 @@ window.PERSONAL_HQ_SEED = {
       "due": "",
       "status": "Not started",
       "nextAction": "Create a full-stack capstone with cloud deployment, accessibility/SEO and observability; practice DSA and system design."
+    },
+    {
+      "id": "task-70",
+      "title": "Reconcile unfinished projects and paused work from ChatGPT history",
+      "area": "Life admin",
+      "due": "",
+      "status": "In progress",
+      "nextAction": "History index review started 21 Nov 2026. Continue one project/thread group at a time: CareerScope roadmap/PR backlog and owner gates; AI World 360 content workflow, post rights review and cadence; ValueMela launch, clothing/banner, Factori, payments, ads and GST; dairy business/farm; full-stack learning courses and credential evidence; OraOne, Godavari dairy guide, FixHub24, LensMate, Property Lens and other product ideas; job search; routine/family/admin. For every actionable item record whether to continue, pause, complete with evidence, or drop by owner decision. Link to the private ledger; do not repeat or overwrite existing task statuses."
     }
   ],
   "history": [
