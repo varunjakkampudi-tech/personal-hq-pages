@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T12:18:59.2210014Z",
+  "generatedAt": "2026-11-21T12:24:51.0135497Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T12:18:59.2210014Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T12:24:51.0135497Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -950,6 +950,14 @@ window.PERSONAL_HQ_SEED = {
       "due": "",
       "status": "In progress",
       "nextAction": "Recover the latest product specification, phase checklist and concept walkthrough from their original ChatGPT/file sources. Reconcile the recorded premium ordinary-looking spectacles, Android companion, opt-in capture/privacy, English/Telugu-first experience, virtual simulator-first approach and historical ₹25,000 prototype ceiling against current evidence. Identify what is concept-only versus engineered and obtain a current owner decision before any vendor contact, component purchase or spend."
+    },
+    {
+      "id": "task-76",
+      "title": "Recover the ride-hailing app MVP spec and decide whether to continue",
+      "area": "Product idea",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "Locate the original design/PDF and any source repository, then confirm whether this remains a current product idea before implementation."
     }
   ],
   "history": [
