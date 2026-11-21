@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:27:33Z",
+  "generatedAt": "2026-11-21T11:33:24.6600575Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T11:27:33Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:33:24.6600575Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -757,7 +757,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Prior cloud learning and any credential details are tracked privately; keep this practical lab separate. Deploy or operate a small app and record IAM, networking, data, security, cost, monitoring and cleanup evidence."
+      "nextAction": "After core app/deployment basics, deploy or operate a small app using appropriate IAM, network, data, compute and delivery choices; document security, cost, monitoring and teardown/safe retention. First verify any AWS Developer Associate pass in AWS Certification/Credly; the available Pearson VUE receipt proves only exam appointment/payment."
     },
     {
       "id": "learning-gcp",
