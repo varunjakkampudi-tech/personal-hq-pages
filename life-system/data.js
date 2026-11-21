@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 08:51:58 +05:30",
+  "generatedAt": "2026-11-21 09:30:10 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 08:51:58 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 09:30:10 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -819,7 +819,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue history reconciliation: check remaining ambiguous project identities against existing tasks; record active, paused or completed only with evidence, prevent duplicates, and keep confidential or exploratory ideas private until commitments are confirmed."
+      "nextAction": "Continue the bounded ChatGPT-history audit: reconcile remaining project leads against source records and current tasks, preserve evidence-backed active/paused/completed/stopped dispositions, and add only concrete missing deliverables. The 1,288-title index was reviewed, but not every conversation body; keep uncertain or sensitive details private and do not reset existing tasks."
     },
     {
       "id": "task-71",
