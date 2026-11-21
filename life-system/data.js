@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:11:58Z",
+  "generatedAt": "2026-11-21T11:15:28Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T11:11:58Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:15:28Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -18,7 +18,8 @@ window.PERSONAL_HQ_SEED = {
     "OraOne",
     "Personal & health",
     "Training & learning",
-    "ValueMela"
+    "ValueMela",
+    "Viswatra"
   ],
   "tasks": [
     {
@@ -932,6 +933,14 @@ window.PERSONAL_HQ_SEED = {
       "due": "",
       "status": "Waiting",
       "nextAction": "Match the 16 Nov 41-second YouTube upload to its source; record asset rights and exact approval evidence. Instagram delivery is unverified. Make no edit, removal, or reuse decision without owner direction."
+    },
+    {
+      "id": "viswatra-command-center",
+      "title": "Define and build the Viswatra AI Command Center",
+      "area": "Viswatra",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "Locate the intended command-center repository and reconcile CareerScope 20-stage requirements with the approved 22-stage roadmap before implementation. Define stable requirement IDs and evidence gates, then establish a read-only local dashboard milestone. Verify which Codex/Claude/agent telemetry and controls are actually supported; do not claim live Copilot percentages."
     }
   ],
   "history": [
