@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T07:22:50.832Z",
+  "generatedAt": "2026-11-21T07:31:24.293Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T07:22:50.832Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T07:31:24.293Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -267,7 +267,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Family",
       "due": "2026-11-29",
       "status": "Not started",
-      "nextAction": "Capture current family commitments that belong in the hub"
+      "nextAction": "Review the private family learning note and confirm current intent before any course or supplier follow-up. The historical request was exploratory; no enrollment, payment or course completion is recorded."
     },
     {
       "id": "task-30",
