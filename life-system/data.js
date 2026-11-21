@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 08:44:11 +05:30",
+  "generatedAt": "2026-11-21 08:51:58 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 08:44:11 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 08:51:58 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -819,7 +819,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "All 1,288 active ChatGPT history entries have been indexed; archived history returned no threads. Selected project threads have been reviewed, with CreatorIQX (task-72), a personal-assistant project (task-73) and Property Lens deployment/automation status (task-74) now tracked. Continue reading relevant project threads and checking current repositories, separating active work from brainstorms; keep remaining uncertain leads private until verified."
+      "nextAction": "All 1,288 active ChatGPT history entries are indexed; archived history is empty. Current reconciliations are task-72 (CreatorIQX access), task-73 (personal assistant status) and task-74 (Property Lens access). A separate media-production repository is documented privately; its current activity and relationship to AI World 360 are unconfirmed, so keep it under task-70 until the owner confirms scope. Continue the remaining project-history triage without exposing private repo details or enabling OAuth, uploads or automation."
     },
     {
       "id": "task-71",
