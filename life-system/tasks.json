@@ -819,7 +819,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "All 1,288 active ChatGPT history entries are indexed; archived history is empty. Current reconciliations are task-72 (CreatorIQX access), task-73 (personal assistant status) and task-74 (Property Lens access). A separate media-production repository is documented privately; its current activity and relationship to AI World 360 are unconfirmed, so keep it under task-70 until the owner confirms scope. Continue the remaining project-history triage without exposing private repo details or enabling OAuth, uploads or automation."
+      "nextAction": "Continue history reconciliation: check remaining ambiguous project identities against existing tasks; record active, paused or completed only with evidence, prevent duplicates, and keep confidential or exploratory ideas private until commitments are confirmed."
     },
     {
       "id": "task-71",
