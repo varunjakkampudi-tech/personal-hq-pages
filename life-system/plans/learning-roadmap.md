@@ -1,8 +1,10 @@
-# Learning roadmap
+# Full-stack, cloud and agentic AI learning path
 
 ## Purpose and rules
 
 A restart-from-basics, evidence-led path for the current full-stack engineering direction. There are no assumed weekly hours or finish dates. Choose a sustainable slot after checking the current calendar. Older plans for two hours daily, one-month sprints, and scheduled AWS/DevOps sessions are historical and are not active commitments. Keep all learning tasks until explicitly completed or changed; do not reset them in the daily review. A course request, tutorial discussion, mock interview, or published guide is not evidence of completing a course or certification.
+
+On 21 Nov 2026 the owner asked to restart the path from scratch while retaining prior learning, explicitly including agentic AI, AWS/GCP, and monitoring. Here, start from scratch means a new diagnostic and ordered practice sequence, not deleting history or repeating every completed course. Reconcile actual course status and the last checkpoint privately before resuming or enrolling. See `private/learning-history-reconciliation-2026-11-21.md` for history evidence and uncertainty.
 
 Use one small build or written checkpoint per topic. Record dates, links, labs, and artifacts privately. Never put credential IDs or account details in this public plan. Verify course availability, versions, prices, and certification requirements before enrollment.
 
@@ -27,6 +29,8 @@ Use one small build or written checkpoint per topic. Record dates, links, labs, 
 ## Working checkpoints and progress tracking
 
 Keep every track in the task registry until its evidence-based completion is recorded. A daily email summarizes the work; it never resets or replaces tasks. Do not treat every topic as a parallel course: complete the core full-stack capstone first, then add AWS/GCP, monitoring and agentic-AI labs that support it. Keep the small study log, course links, artifacts and credential evidence private.
+
+Progress protocol: after each study block, retain the last completed checkpoint, one concrete next action, and private evidence (notes, lab or repository link). Keep one persistent task per existing learning track; daily email refresh never resets these records. Schedule a sustainable review only after calendar capacity is confirmed. Mark a task Done only when its stated artifact/checkpoint exists; otherwise keep it In progress or Waiting. Preserve paused/stopped course status and the known reason until relevance is checked; do not repeat paid training before confirming outcome, availability and cost.
 
 Historical owner-reported checkpoints include JavaScript, TypeScript, React, React Router, Context API, Redux Toolkit, JWT, basic REST, React class/lifecycle/performance and mock interview rounds 5–7. Treat these as reported learning progress, not formal certificates or proof of current mastery. The task registry marks partially covered tracks In progress and records remaining evidence; use short practical refresh checks before repeating fundamentals.
 
