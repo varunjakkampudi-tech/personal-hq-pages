@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T07:19:51.174Z",
+  "generatedAt": "2026-11-21T07:22:50.832Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T07:19:51.174Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T07:22:50.832Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -707,7 +707,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "After the brief baseline, refresh React with one small component/state/API checkpoint, then build the responsive Next.js capstone interface. Preserve reported React/Router/Context/Redux/class/lifecycle/performance checkpoints; see the private learning progress monitor for evidence criteria."
+      "nextAction": "After the brief baseline, refresh React with one small component/state/API checkpoint, then build the responsive Next.js capstone interface. Include focused component/integration/end-to-end checks, keyboard/screen-reader evidence and dependency review. Preserve reported React/Router/Context/Redux/class/lifecycle/performance checkpoints; see the private learning progress monitor."
     },
     {
       "id": "learning-seo-a11y",
@@ -723,7 +723,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Build a small validated, authenticated Node/Express API with clear error handling, authorization, tests and operational notes; briefly compare one FastAPI endpoint. Preserve prior REST/Node/Express/FastAPI/JWT study as reported checkpoints. See the private learning progress monitor."
+      "nextAction": "Build a small validated, authenticated Node/Express API with clear error handling and authorization checks; include unit/integration tests, dependency review and operational notes, then briefly compare one FastAPI endpoint. Preserve prior REST/Node/Express/FastAPI/JWT study as reported checkpoints. See the private learning progress monitor."
     },
     {
       "id": "learning-data",
@@ -811,7 +811,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Keep reported mock interview rounds 5–7 and the AWS guide as historical checkpoints. Package the capstone and focused cloud/monitoring/agentic-AI labs with an architecture note; refresh current interview gaps. Resume/profile edits remain behind their private review and approval gates."
+      "nextAction": "Keep reported mock interview rounds 5–7 and the AWS guide as historical checkpoints. Package the capstone and focused cloud/monitoring/agentic-AI labs with an architecture note, integration/end-to-end evidence, authorization/security checks and dependency review; refresh current interview gaps. Resume/profile edits remain behind private review and approval gates."
     },
     {
       "id": "task-70",
@@ -819,7 +819,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "The active ChatGPT history index was paged to 1,288 titles and archived history was empty, but only selected high-signal conversation bodies were reviewed. Continue bounded source-thread review of remaining project-like commitments; map to existing tasks first, verify current evidence, and classify active/paused/completed/stopped only when supported. Keep uncertain leads private and unresolved rather than creating duplicates or reviving brainstorms."
+      "nextAction": "Continue bounded review of remaining project-like commitments. For each one record its canonical identity, last verified repository/artifact revision and date, demonstrated behavior, blockers, evidence-supported disposition, next authorized action and project-specific acceptance gate. Map to existing tasks first; classify active/paused/completed/stopped only from evidence or owner confirmation. Keep uncertain leads private; do not revive brainstorms."
     },
     {
       "id": "task-71",
@@ -867,7 +867,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-12-05",
       "status": "In progress",
-      "nextAction": "Continue the private history ledger in bounded batches. For every unique project or commitment, check the latest source thread and repository/app evidence; map it to an existing task or create one only when missing. Classify as active, paused, completed, stopped or needs owner decision, preserve its last checkpoint/reason, and record the next concrete action. Do not revive brainstorms or claim completion from chat titles. See private/chatgpt-history-project-reconciliation-2026-11-21.md."
+      "nextAction": "Continue the private history ledger in bounded batches. For each concrete project record canonical identity, last verified repository/artifact revision and date, demonstrated behavior, blockers, evidence-supported disposition, next authorized action and completion/owner-acceptance gate. Map to an existing task first; do not infer status from titles or silence. See private/chatgpt-history-project-reconciliation-2026-11-21.md."
     },
     {
       "id": "smart-building-energy-status",
