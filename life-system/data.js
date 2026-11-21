@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:08:42Z",
+  "generatedAt": "2026-11-21T11:11:58Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T11:08:42Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:11:58Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -179,7 +179,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "2026-11-30",
       "status": "Not started",
-      "nextAction": "Reconcile prior Factori/brand history with ValueMela before name/domain work: no final name, clearance, submission or store relationship is verified. Record Factori frontend limits without changing settings."
+      "nextAction": "When ValueMela manual onboarding/name selection resumes, prepare a field-by-field worksheet for owner entry using current Factori requirements; label unknown legal/business facts clearly. No permanent store/domain name was selected or verified in history. Before any name/domain registration, check current domain and trademark availability and reconcile GST/business-structure advice with a qualified practitioner. Do not submit or buy on the owner's behalf."
     },
     {
       "id": "task-20",
