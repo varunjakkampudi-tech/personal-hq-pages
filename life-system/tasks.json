@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:23:49Z",
+  "generatedAt": "2026-11-21T11:26:14Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T11:23:49Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:26:14Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -974,6 +974,14 @@
       "due": "",
       "status": "Not started",
       "nextAction": "After current product priorities are reviewed, privately reconcile the long-term multi-product business-group vision, founder visibility preference and available capacity/capital. Select one validated next venture and preserve other ideas as later leads; do not infer a current capital budget or create legal entities, domains or public profiles."
+    },
+    {
+      "id": "laundry-service-venture",
+      "title": "Reassess the laundry-service venture plan",
+      "area": "Business ventures",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "Confirm whether the laundry-service idea is still current. If resumed, rebuild the step-by-step feasibility plan from current Hyderabad demand, hub/pickup model, outsourced-washing economics, premises constraints and official local permissions. Verify costs and requirements before any lease, equipment purchase, supplier contact or payment."
     }
   ],
   "history": [
