@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T10:03:00+05:30",
+  "generatedAt": "2026-11-21T10:10:00+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T10:03:00+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T10:10:00+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -819,7 +819,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue the bounded ChatGPT-history audit: reconcile remaining project leads against source records and current tasks, preserve evidence-backed active/paused/completed/stopped dispositions, and add only concrete missing deliverables. The 1,288-title index was reviewed, but not every conversation body; keep uncertain or sensitive details private and do not reset existing tasks."
+      "nextAction": "Continue reconciling high-signal historical projects against current repository evidence and existing tasks. Preserve supported active/paused/completed/stopped states, add a focused review task only for concrete unfinished work, and keep private or employer details out of public fields. The active-history titles were indexed, but not every conversation body; uncertain work must remain open until evidence or an owner decision resolves it."
     },
     {
       "id": "task-71",
@@ -852,6 +852,14 @@ window.PERSONAL_HQ_SEED = {
       "due": "",
       "status": "Waiting",
       "nextAction": "A historical review found a deployed app and an unresolved production/automation follow-up, but current connected GitHub lookup does not expose the repository. Restore verified read access, then inspect current main, deployment and scheduler state before choosing a next step. Do not restart automation or change production."
+    },
+    {
+      "id": "task-75",
+      "title": "Review unfinished media software project and decide next step",
+      "area": "Media software",
+      "due": "",
+      "status": "In progress",
+      "nextAction": "Inspect the current repository, confirm its blocker and relationship to the channel workflow, then record an owner decision to continue, pause or stop. This is a read-only review; no code, OAuth, spending, publishing or deployment action is authorized by the task."
     }
   ],
   "history": [
