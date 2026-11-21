@@ -29,7 +29,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Private source inventory completed 21 Nov: the folder contains DOCX/PDF resume files and a LinkedIn cover graphic. DOCX includes LinkedIn/GitHub links only; no Naukri/Indeed/Cutshort links. The image is not a live profile capture. Next confirm the canonical resume version and privately verify current profile URLs, ownership, visibility and fields; do not edit profiles."
+      "nextAction": "Read-only profile-link check 21 Nov 2026: the GitHub candidate URL from the resume opens publicly and presents a full-stack engineering profile; the LinkedIn endpoint returned automated-reader rate-limit responses. This does not prove account ownership or current LinkedIn fields. Next confirm the canonical DOCX/PDF version and profile ownership/visibility privately; do not edit profiles."
     },
     {
       "id": "task-1",
