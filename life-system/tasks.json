@@ -501,7 +501,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Review local mobile/desktop task-preview refinement in open GitHub PR #1. The preview uses readable 12px two-line text while the task title opens the full editor; browser checks at 390px and 320px found no horizontal overflow and the sync warning stayed visible. PR #1 is open and not merged; GitHub reports mergeable=false despite a clean one-commit-ahead, zero-behind compare. A fresh request with the exact PR screenshot was delivered to the existing Business Empire Plan ChatGPT thread at 23:28 IST; its response is still pending. Keep this review In progress."
+      "nextAction": "Review the local mobile/desktop task-preview change in open GitHub PR #1. The preview uses readable 12px two-line text while the task title opens the full editor; prior browser checks at 390px and 320px found no horizontal overflow and the sync warning stayed visible. Current GitHub state: PR is open, mergeable=true, and one commit ahead / zero behind main. The screenshot request was delivered to the existing Business Empire Plan ChatGPT thread; readback still shows no reviewer response. Keep this review In progress until independent feedback or owner direction is recorded."
     },
     {
       "id": "task-52",
