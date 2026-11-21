@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:21:07.9074266+05:30",
+  "generatedAt": "2026-11-21T11:23:26.2015732+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T11:21:07.9074266+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:23:26.2015732+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -827,7 +827,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "",
       "status": "Not started",
-      "nextAction": "History thread “Fill banner details” reviewed: prior footer and newsletter guidance belongs to storefront setup; the separate clothing/banner image request is not yet resolved. Check the current collection/banner slot and image dimensions, prepare an on-brand clothing image, and keep it as a review asset until the correct target and upload action are clear. Do not change live storefront settings as part of task tracking."
+      "nextAction": "A private concept image for Banner 5 (broad clothing/fashion, no text or logo) is ready at private/review-artifacts/valuemela-banner5-clothing-review-v1.png. Before any upload, inspect the live Factori banner slot, accepted dimensions/crop on mobile and desktop, and confirm the image fits the live store brand. Keep this as a review asset; do not change storefront settings until the exact placement is clear."
     },
     {
       "id": "task-72",
