@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:37:31.0986141+05:30",
+  "generatedAt": "2026-11-21T14:50:43.037+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T14:37:31.0986141+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T14:50:43.037+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "The live Pages dashboard now contains 110 tasks after a sanitized evidence refresh. A fresh 110-task browser export confirms all registry IDs are present, the 30 new tasks match the feed, and the 80 prior browser statuses and notes were preserved. There are still 22 status conflicts on existing IDs; review their evidence individually before importing browser statuses. The export contains zero task-activity events, so historical activity preservation remains unverified. Full private comparison and snapshots: private/reconciliation-2026-11-21/manifest.md."
+      "nextAction": "Current audit, 21 Nov 2026: live GitHub Pages feed verified at 113 tasks (11 Done, 35 In progress, 15 Waiting, 52 Not started). The most recent verified owner-browser export is 110 tasks from 12:04 IST; it predates three subsequently added tasks: payroll-variance-review, router-backup-status and video-studio-recovery. That export recorded 22 status conflicts among 80 common task IDs and zero activity events; no browser statuses were imported. Next merge the current feed in the owner browser, verify task IDs and preservation of statuses, notes, habits, habit logs and activity, then export the current snapshot. Reconcile status conflicts individually; do not import disputed statuses wholesale."
     },
     {
       "id": "task-53",
@@ -579,7 +579,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-22",
       "status": "In progress",
-      "nextAction": "Weekly review refreshed 21 Nov 2026. Current private registry and sanitized Pages feed contain 110 persistent tasks: 10 Done, 36 In progress, 12 Waiting and 52 Not started. The verified 12:04 IST browser export contains the same 110 IDs; the safe dashboard refresh added 30 tasks and preserved the 80 existing browser statuses and notes. Twenty-two status conflicts on existing tasks remain unresolved, and the export contained zero activity events, so historical activity preservation is unverified. Review conflicts individually in task-52; do not import statuses wholesale. Preserve unfinished tasks; only the daily email summary refreshes."
+      "nextAction": "Weekly cross-project review refreshed 21 Nov 2026. Current private registry and live Pages feed contain 113 persistent tasks: 11 Done, 35 In progress, 15 Waiting and 52 Not started. The most recent verified owner-browser export (12:04 IST) contains 110 tasks and predates three later task additions. Its 22 conflicts on 80 common tasks remain unresolved; it contains zero activity events, so activity-history preservation remains unverified. No browser statuses were imported. Complete the current-feed merge and full export comparison in task-52; review conflicts one by one, then continue weekly priorities. Preserve all tasks; only the daily email summary refreshes."
     },
     {
       "id": "task-59",
