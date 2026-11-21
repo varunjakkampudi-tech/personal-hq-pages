@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T15:06:08.4214472+05:30",
+  "generatedAt": "2026-11-21T15:09:07.2112033+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T15:06:08.4214472+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T15:09:07.2112033+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
