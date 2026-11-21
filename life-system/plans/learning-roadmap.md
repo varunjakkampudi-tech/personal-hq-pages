@@ -42,3 +42,21 @@ For each topic, record one of: **not started**, **started**, **paused**, **compl
 - SEO/accessibility instruction and detailed ARIA study were in progress historically; practical project evidence remains open. Datadog, GraphQL, Python/data science/ML, Kubernetes and agentic AI were mostly interests/plans. GCP is newly added from the current request.
 
 See the private `private/learning-history-reconciliation-2026-11-21.md` for the bounded history review and uncertainty notes.
+
+## Restart and continuation rules
+
+Treat this as a restart-from-basics path in sequence, while carrying forward the historical learning already reported. “Start from scratch” means rebuild a reliable foundation and practical evidence, not erase prior learning or reset task history. Use a brief diagnostic first; where recall is strong, move to a small applied checkpoint rather than repeating an entire course. Continue in a sustainable weekly slot once calendar capacity is known. Do not assume old study schedules are still active.
+
+For every course or topic, keep its record and classify it privately as **active**, **completed with evidence**, **owner-reported completion**, **paused**, **not started**, or **decided not to pursue**. Preserve the last known checkpoint and why it paused. Reopen paused work only after current relevance and prerequisites are checked. The dashboard’s four status values are work-tracking values; use notes to retain these more precise learning dispositions. Never turn a historical title, proposed schedule, or assistant-generated plan into an active commitment or completion claim.
+
+### Current sequence of work
+
+1. Complete one short baseline across JavaScript, TypeScript, Git/GitHub, command line and practical DSA; record gaps and select only needed refreshers.
+2. Refresh React briefly, then continue Next.js and build the responsive, accessible frontend capstone.
+3. Continue secure backend/API work and a relational database checkpoint; add NoSQL and GraphQL only after the core API/data path.
+4. Apply technical SEO, accessibility and performance to the same capstone with inspectable evidence.
+5. Add system-design reasoning, AWS and GCP labs, Linux/DevOps, and monitoring/observability to that product. Confirm the old AWS/DevOps training’s outcome before enrolling or paying again.
+6. Add Python/data/GenAI support and the selected Hugging Face → DeepLearning.AI → LangChain plus OpenAI Academy agentic-AI path as focused labs. Evaluate safety, quality and cost.
+7. Package the product and labs into a portfolio; update resume/profile drafts only in private review copies and retain existing owner-approval gates.
+
+Microfrontends/AEM and optional certificates stay later/research-only until the full-stack foundation and role value justify them. This order keeps requested subjects visible without treating every one as a simultaneous course.
