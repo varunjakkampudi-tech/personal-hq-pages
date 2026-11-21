@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T12:00:34.3336132Z",
+  "generatedAt": "2026-11-21T12:18:59.2210014Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T12:00:34.3336132Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T12:18:59.2210014Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -300,8 +300,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Do a first sweep of other life-admin tasks and dates",
       "area": "Life admin",
       "due": "2026-11-30",
-      "status": "Not started",
-      "nextAction": "Do a first sweep of other life-admin tasks and dates"
+      "status": "In progress",
+      "nextAction": "Privately reconcile earlier personal and family life-admin items, recording only current commitments and evidence-supported outcomes; keep sensitive details out of the public task feed."
     },
     {
       "id": "task-35",
