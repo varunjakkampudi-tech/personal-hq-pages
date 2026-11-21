@@ -509,7 +509,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Fresh browser export and private/live feed comparison are documented in private/dashboard-export-audit-2026-11-21.md. The visible merge attempt did not change the 117-task browser summary; Computer Use then halted further inspection on its URL-confidence guard. Await an independent methodology review and recover supported browser URL confidence before another UI action. Keep all statuses and private notes unchanged. Then merge the three missing tasks in the UI, export 120 records, and reconcile each conflicting field against evidence."
+      "nextAction": "Exact snapshot audit and independent review are recorded in private/dashboard-export-audit-2026-11-21.md. Corrected set math: 117 shared IDs, 3 registry-only IDs, 0 browser-only; status/note/nextAction/title/area/due deltas are counted separately. Static review of the deployed merge code confirms it adds missing IDs, preserves existing statuses and local notes (the public feed has no notes field), and reconciles nextAction only when its baseline rules allow; it does not update existing titles, areas or due dates. Do not run a blind merge or replace the registry. Browser URL confidence guard still blocks further UI interaction. When supported browser inspection is available, merge the three missing IDs, re-export, preserve both snapshots, and resolve remaining field differences by evidence."
     },
     {
       "id": "task-53",
