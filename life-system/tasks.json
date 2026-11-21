@@ -507,7 +507,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Latest owner-browser export in Downloads remains dated 20 Nov 2026 20:21 IST and predates the merged private registry; the sync helper safely rejects it. The local watcher now logs explicit skip reasons and exceptions; manual run at 21 Nov 05:18 IST recorded that the export predates the merged registry without importing or publishing. Obtain a fresh full export from the actual dashboard browser session, then compare all fields before any sync. No isolated-browser or stale-export substitute."
+      "nextAction": "The latest downloaded owner-browser export is still 20 Nov 20:21 IST and predates the merged registry. Chrome automation stopped before interacting because it could not verify the current URL; no click/download occurred. From the actual Personal HQ Chrome tab, use Export tasks and save a fresh full export, then compare every ID/title/area/due/status/nextAction before syncing. Do not use an isolated-browser or stale export."
     },
     {
       "id": "task-53",
