@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:52:47.818Z",
+  "generatedAt": "2026-11-21T14:54:07.043Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T14:52:47.818Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T14:54:07.043Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -509,7 +509,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Fresh Chrome export at 2026-11-21T14:47:36.382Z has 117 tasks; the private/live feed already has 120. It omits task-77, task-78, learning-unresolved-followup and conflicts on 25 statuses, 94 notes and 6 title/area/due fields. Do not sync it over the private registry. Safely merge the 3 desktop tasks into the browser while preserving local statuses/notes, export the complete set, then compare conflicts row by row and keep evidence-backed values."
+      "nextAction": "Fresh browser export and private/live feed comparison are documented in private/dashboard-export-audit-2026-11-21.md. The visible merge attempt did not change the 117-task browser summary; Computer Use then halted further inspection on its URL-confidence guard. Await an independent methodology review and recover supported browser URL confidence before another UI action. Keep all statuses and private notes unchanged. Then merge the three missing tasks in the UI, export 120 records, and reconcile each conflicting field against evidence."
     },
     {
       "id": "task-53",
