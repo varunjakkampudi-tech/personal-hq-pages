@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T13:45:36.8174328Z",
+  "generatedAt": "2026-11-21T13:47:38.082392Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T13:45:36.8174328Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T13:47:38.082392Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -821,7 +821,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue bounded review of unreconciled ChatGPT conversation bodies and verify named artifacts/repositories. The 21 Nov review found no new active task in recent interview, channel-logo, family-learning or gym-plan history; relevant existing tasks already cover the logo, family course and health routine. Record dated evidence, intent, disposition, blocker, next authorized action and acceptance gate privately. Keep historical outcomes unresolved when source evidence is unavailable, and map findings to existing tasks before creating duplicates."
+      "nextAction": "Continue bounded review of unreconciled ChatGPT conversation bodies and verify named artifacts/repositories. The 21 Nov review added task-78 for an owner decision on the distinct smart-traffic concept and mapped OraOne homepage design reviews to task-27; the latest recorded design round failed its threshold. Record dated evidence, intent, disposition, blocker, next authorized action and acceptance gate privately. Keep the history audit In progress; do not infer project activation from an exploratory thread."
     },
     {
       "id": "task-71",
@@ -966,6 +966,14 @@ window.PERSONAL_HQ_SEED = {
       "due": "",
       "status": "Waiting",
       "nextAction": "The history contains two potentially related design threads: one delivered front/back sandbox drafts and another explicitly left a photo/banner edit unfinished. Their relationship and current event need are unconfirmed, and the source images are not attached here. Confirm whether either deliverable still needs work; if so, provide the original authorized image/assets and exact requirements. Do not reuse, publish, or distribute identifiable people’s images without an appropriate basis and exact owner direction."
+    },
+    {
+      "id": "task-78",
+      "title": "Decide whether to pursue the Hyderabad smart-traffic concept",
+      "area": "Product idea",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "Historical ChatGPT thread explored a real-time traffic-management system for busy Hyderabad junctions. No repository, prototype, data/API account, authority relationship, selected pilot, budget or current continuation decision is verified. Confirm whether this remains an intended project; if yes, recover a source-backed problem statement and define a simulation-only feasibility checkpoint before any provider spend, camera access, authority contact or signal-control work."
     }
   ],
   "history": [
