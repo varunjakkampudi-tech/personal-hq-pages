@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T19:52:08.8114804+05:30",
+  "generatedAt": "2026-11-21T19:54:45.8359103+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T19:52:08.8114804+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T19:54:45.8359103+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -581,7 +581,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-21",
       "status": "In progress",
-      "nextAction": "Verified 21 Nov 2026 at 19:46 IST: private registry and live Pages feed both contain 119 persistent tasks — 11 Done, 39 In progress, 19 Waiting, 50 Not started. Daily email is a point-in-time summary and tasks persist across days. Full dashboard export remains dated 20 Nov 06:48 IST; reported browser exports were incomplete or conflicting and their current payload is unavailable. Continue task-52 reconciliation from a fresh complete browser export; do not import stale statuses or overwrite tasks."
+      "nextAction": "Verified 21 Nov 2026 19:53 IST: private registry and deployed Pages feed were aligned at 119 before the new learning follow-up was added. Current registry now has 120 persistent tasks; republish sanitized feed and verify counts. No task reset. Full dashboard export remains dated 20 Nov 06:48 IST; browser-local status reconciliation remains open under task-52. The 9 AM review refreshes only the Gmail summary."
     },
     {
       "id": "task-59",
@@ -797,7 +797,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Reconcile whether any selected Hugging Face, DeepLearning.AI, LangChain or OpenAI Academy course was started; no completion is verified. Then build a small evaluated tool-using agent with scoped tools, approval for consequential actions, failure handling and cost notes. See the private learning progress monitor."
+      "nextAction": "Reconcile course status, then complete one ordered foundation module and a small tool-using agent with scoped tools, human approval for consequential actions, evaluation, failure handling and cost notes. For employer/client data, follow the organization-approved tool policy; keep demos on synthetic data until authorized. Never grant broad account access by default."
     },
     {
       "id": "learning-credentials",
@@ -974,6 +974,14 @@ window.PERSONAL_HQ_SEED = {
       "due": "",
       "status": "Waiting",
       "nextAction": "Historical ChatGPT thread explored a real-time traffic-management system for busy Hyderabad junctions. No repository, prototype, data/API account, authority relationship, selected pilot, budget or current continuation decision is verified. Confirm whether this remains an intended project; if yes, recover a source-backed problem statement and define a simulation-only feasibility checkpoint before any provider spend, camera access, authority contact or signal-control work."
+    },
+    {
+      "id": "learning-unresolved-followup",
+      "title": "Review an unresolved learning checkpoint",
+      "area": "Training & learning",
+      "due": "",
+      "status": "In progress",
+      "nextAction": "Privately confirm whether the historical course/provider follow-up was submitted and what outcome was recorded; decide whether any action remains. Check current evidence before contacting a provider or enrolling again."
     }
   ],
   "history": [
