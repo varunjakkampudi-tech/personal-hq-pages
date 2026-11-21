@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T10:45:00+05:30",
+  "generatedAt": "2026-11-21T10:50:00+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T10:45:00+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T10:50:00+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -835,7 +835,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "CreatorIQX",
       "due": "",
       "status": "Waiting",
-      "nextAction": "History includes a user request for a repository and progress review. A historical report cited main at 6b235fb with failing CI, but that snapshot is not current and the connected GitHub lookup returned 404. Confirm the canonical repository URL/access, then inspect its current branch, CI and backlog before choosing a milestone."
+      "nextAction": "A fresh connected GitHub repository search for CreatorIQX returned no matching accessible repository on 21 Nov 2026. The older report naming a main-branch commit and failing CI remains historical only. Confirm the canonical URL or account access before inspecting the current branch, CI and backlog; do not infer the repo is deleted or stopped."
     },
     {
       "id": "task-73",
@@ -843,7 +843,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Review the project history and current private repository to confirm the latest working checkpoint, open blockers, and whether to continue or pause. Keep credentials, account setup and other private details out of the public task feed."
+      "nextAction": "Read-only repository review on 21 Nov 2026: the private project repository is accessible; latest listed commit is 7b83a0b dated 21 Jun 2026 and no issues are open. README describes an AI assistant but does not establish that its listed features run or that this is the exact historical Shivaan AI project. Next reconcile the user history and current project checklist/runtime evidence, then record continue, pause or stop without exposing credentials."
     },
     {
       "id": "task-74",
@@ -851,7 +851,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Property Lens",
       "due": "",
       "status": "Waiting",
-      "nextAction": "A historical review found a deployed app and an unresolved production/automation follow-up, but current connected GitHub lookup does not expose the repository. Restore verified read access, then inspect current main, deployment and scheduler state before choosing a next step. Do not restart automation or change production."
+      "nextAction": "A fresh connected GitHub search did not identify a user-owned Property Lens repository on 21 Nov 2026; results were unrelated repositories. The historical deployed-app/automation report is not current runtime evidence. Confirm the canonical repo URL or access, then inspect current branch, deployment and scheduler state read-only before deciding whether this is active, paused or stopped. Do not restart automation or change production."
     },
     {
       "id": "task-75",
