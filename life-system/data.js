@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T15:19:03.5499539+05:30",
+  "generatedAt": "2026-11-21T15:20:20.1176109+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T15:19:03.5499539+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T15:20:20.1176109+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -595,7 +595,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Before live setup, choose the provider region, cost/retention policy and owner sign-in method; then create a synthetic-data project and verify migrations, owner-only access, recovery and browser sync. Keep all personal data out until those gates pass. Status remains In progress; see private setup plan for current provider pricing and backup tradeoffs."
+      "nextAction": "Keep task records on their existing CAS path. For routines, check-ins and life-log moments, use a separate owner-scoped versioned JSON snapshot with CAS, explicit conflicts, account-state isolation, schema/size validation and encrypted recovery. Before any live setup, choose region, cost/retention policy and sign-in method, then validate with synthetic data. See the private sync plan."
     },
     {
       "id": "task-61",
