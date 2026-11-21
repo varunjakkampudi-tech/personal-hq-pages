@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 08:09:45 +05:30",
+  "generatedAt": "2026-11-21 08:25:49 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 08:09:45 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 08:25:49 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -579,7 +579,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-22",
       "status": "In progress",
-      "nextAction": "Weekly review refreshed 21 Nov 2026: Keep task 58 In progress through the next review; current 80-task counts are 8 Done, 18 In progress, 6 Waiting, 48 Not started, while dashboard export remains unreconciled. Preserve existing internal targets: profile-link, ValueMela model and AI World 360 workflow tasks by 25 Nov; farm herd inputs and written GST determination by 28 Nov. Task-57 posting delivery is verified on both platforms; its source/rights and owner-disposition gate remains open. Prioritize owner-verified inputs and evidence; do not infer capacity/cash, commit dairy spend, publish unapproved media or start CareerScope checklist work without scope authorization."
+      "nextAction": "Weekly review refreshed 21 Nov 2026. Local registry now has 102 persistent tasks: 10 Done, 30 In progress, 8 Waiting, 54 Not started. The latest verified browser export has only 80 tasks and omits 21 newer registry IDs, so it was not imported; dashboard/export reconciliation remains open in task-52. Preserve existing deadlines and all unfinished items; email summary is the only daily-refresh artifact."
     },
     {
       "id": "task-59",
@@ -819,7 +819,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "History index review started 21 Nov 2026. Continue one project/thread group at a time: CareerScope roadmap/PR backlog and owner gates; AI World 360 content workflow, post rights review and cadence; ValueMela launch, clothing/banner, Factori, payments, ads and GST; dairy business/farm; full-stack learning courses and credential evidence; OraOne, Godavari dairy guide, FixHub24, LensMate, Property Lens and other product ideas; job search; routine/family/admin. For every actionable item record whether to continue, pause, complete with evidence, or drop by owner decision. Link to the private ledger; do not repeat or overwrite existing task statuses."
+      "nextAction": "The first 800 active ChatGPT history entries are indexed; more pages remain. This batch reviewed selected threads and identified CreatorIQX as needing repository reconciliation (task-72), plus title-level historical leads recorded privately. Continue one group at a time, separate active work from brainstorms, and keep uncertain ideas unpromoted until thread/repository evidence is checked."
     },
     {
       "id": "task-71",
@@ -828,6 +828,14 @@ window.PERSONAL_HQ_SEED = {
       "due": "",
       "status": "Not started",
       "nextAction": "History thread “Fill banner details” reviewed: prior footer and newsletter guidance belongs to storefront setup; the separate clothing/banner image request is not yet resolved. Check the current collection/banner slot and image dimensions, prepare an on-brand clothing image, and keep it as a review asset until the correct target and upload action are clear. Do not change live storefront settings as part of task tracking."
+    },
+    {
+      "id": "task-72",
+      "title": "Reconcile CreatorIQX repository status and next milestone",
+      "area": "CreatorIQX",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "History includes a user request for a repository and progress review. A historical report cited main at 6b235fb with failing CI, but that snapshot is not current and the connected GitHub lookup returned 404. Confirm the canonical repository URL/access, then inspect its current branch, CI and backlog before choosing a milestone."
     }
   ],
   "history": [
