@@ -8,7 +8,7 @@ Use one small build or written checkpoint per topic. Record dates, links, labs, 
 
 ## Sequence
 
-1. **Starting point and fundamentals:** review JavaScript, TypeScript, browser basics, Git/GitHub, command line, and practical DSA. Historical ChatGPT messages suggest a JavaScript revision checkpoint before moving to React, but this is not independently verified; start with a short diagnostic.
+1. **Starting point and fundamentals:** review JavaScript, TypeScript, browser basics, Git/GitHub, command line, and practical DSA. ChatGPT history records the owner reporting a completed JavaScript revision before moving to React; start with a short diagnostic across JavaScript, TypeScript, Git/GitHub, command line and DSA to choose only the needed refresh work.
 2. **Frontend:** React components, hooks, state, routing, forms, API integration, testing, performance, and accessible responsive UI; then Next.js fundamentals. Build a deployed, documented interface. Do not split Next.js App Router into a duplicate track.
 3. **SEO and accessibility:** semantic HTML, metadata, canonical/indexing basics, structured data, performance/Core Web Vitals, WCAG practices, keyboard and screen-reader checks. Apply to a real portfolio project.
 4. **Backend and APIs:** Node.js, Express, REST, authentication/session security, validation, error handling, testing, and Python/FastAPI as a second backend option; explore GraphQL after REST fundamentals.
@@ -26,17 +26,19 @@ Use one small build or written checkpoint per topic. Record dates, links, labs, 
 
 ## Working checkpoints and progress tracking
 
-Keep every track in the task registry until its evidence-based completion is recorded. A daily email summarizes the work; it never resets or replaces tasks. At each weekly review, choose one next build/checkpoint that fits the actual week, update its task, and carry every unfinished item forward. Do not treat every topic as a parallel course: complete the core full-stack capstone first, then add AWS/GCP, monitoring and agentic-AI labs that support it. Keep the small study log, course links, artifacts and credential evidence private.
+Keep every track in the task registry until its evidence-based completion is recorded. A daily email summarizes the work; it never resets or replaces tasks. Do not treat every topic as a parallel course: complete the core full-stack capstone first, then add AWS/GCP, monitoring and agentic-AI labs that support it. Keep the small study log, course links, artifacts and credential evidence private.
+
+Historical owner-reported checkpoints include JavaScript, TypeScript, React, React Router, Context API, Redux Toolkit, JWT, basic REST, React class/lifecycle/performance and mock interview rounds 5–7. Treat these as reported learning progress, not formal certificates or proof of current mastery. The task registry marks partially covered tracks In progress and records remaining evidence; use short practical refresh checks before repeating fundamentals.
 
 For each topic, record one of: **not started**, **started**, **paused**, **completed with artifact**, **credential reported but unverified**, or **decided not to pursue**. Preserve the historical note if a track is paused or dropped, and record the owner's decision/date before changing its active status. The 2026-11-21 review of the current ChatGPT conversation index and selected threads is a bounded first pass, not proof that every older conversation has been read. Continue reconciling project histories through the Life Admin task.
 
 ## Historical checkpoints requiring confirmation
 
 - GitHub Copilot certification/course completion was explicitly self-reported in ChatGPT history; exact title, date, issuer wording, and credential link have not been verified.
-- A JavaScript revision was described as completed before moving to React, but the scope and artifact are unverified.
-- React learning was started historically; no completion evidence was found.
+- The owner affirmed JavaScript, TypeScript and React in a historical completed-skills summary and separately described finishing JavaScript revision before React. Treat as owner-reported learning checkpoints; use a brief practical diagnostic before deciding what needs repeating.
+- Historical owner-reported completion includes React, React Router, Context API, Redux Toolkit, React class components, lifecycle methods and performance. No current portfolio artifact or independent skill assessment was verified; refresh briefly, then continue with Next.js and the full-stack capstone.
 - AWS/DevOps training and Linux practice were reported as ongoing in a 2026 plan; whether completed, stopped, or still active is unknown.
 - An AWS interview guide covering Lambda, API Gateway, SQS, and SNS is published at https://varunjakkampudi-tech.github.io/training/aws.html. It is a learning artifact, not course or certification evidence.
-- SEO/accessibility, Datadog, GraphQL, Python/data science/ML, Kubernetes, and agentic AI were mostly requests or plans in the reviewed history. GCP is newly added from the current request.
+- SEO/accessibility instruction and detailed ARIA study were in progress historically; practical project evidence remains open. Datadog, GraphQL, Python/data science/ML, Kubernetes and agentic AI were mostly interests/plans. GCP is newly added from the current request.
 
 See the private `private/learning-history-reconciliation-2026-11-21.md` for the bounded history review and uncertainty notes.
