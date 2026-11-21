@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T13:54:21.2985958+05:30",
+  "generatedAt": "2026-11-21T13:58:42.9135343+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T13:54:21.2985958+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T13:58:42.9135343+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -883,7 +883,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Reconcile exact historical course title/provider, last completed checkpoint and artifact; classify each course as active, completed, paused, stopped or not started using dated evidence. Resolve any past cloud/DevOps training and confirm whether a monitoring course was started before resuming or paying. Keep private credential details out of the public task feed."
+      "nextAction": "Reconcile each historical course title/provider, last checkpoint and artifact; record course disposition (planned, active, paused, stopped, completed or unresolved) separately from evidence strength (owner-reported, assistant summary, verified artifact or verified credential). Resolve past cloud/DevOps training and whether monitoring or agentic-AI courses were started before resuming or paying. Keep personal credential details private."
     },
     {
       "id": "aiw360-channel-metadata",
