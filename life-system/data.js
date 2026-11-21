@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 08:07:05 +05:30",
+  "generatedAt": "2026-11-21 08:09:45 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 08:07:05 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 08:09:45 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -250,8 +250,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Review OraOne current status and define next step",
       "area": "OraOne",
       "due": "2026-11-29",
-      "status": "Not started",
-      "nextAction": "Review OraOne current status and define next step"
+      "status": "In progress",
+      "nextAction": "Local OraOne snapshot checked 21 Nov: branch dev, HEAD 9eecb1a, clean working tree; latest local commit is an October documentation/evidence update. This does not establish the current remote or production state. Compare current origin/deployment evidence and the private blocker/roadmap docs before choosing the next authorized milestone; preserve current branch and avoid deployment."
     },
     {
       "id": "task-28",
@@ -274,16 +274,16 @@ window.PERSONAL_HQ_SEED = {
       "title": "Review FixHub24 backlog and next milestone",
       "area": "FixHub24",
       "due": "2026-12-03",
-      "status": "Not started",
-      "nextAction": "Review FixHub24 backlog and next milestone"
+      "status": "In progress",
+      "nextAction": "Local FixHub24 snapshot checked 21 Nov: branch main, HEAD 7ce251f, with a pre-existing uncommitted .env.example change. Preserve it. Review the current roadmap/backlog and reconcile branch with origin before deciding the next milestone. Specific PR #23/#24 dependency audit findings remain in task-41; do not duplicate them or merge without authorization."
     },
     {
       "id": "task-31",
       "title": "Review LensMate backlog and next milestone",
       "area": "LensMate",
       "due": "2026-12-04",
-      "status": "Not started",
-      "nextAction": "Review LensMate backlog and next milestone"
+      "status": "In progress",
+      "nextAction": "Local LensMate snapshot checked 21 Nov: branch dev, HEAD 16175df, with existing README/docs/product/hardware doc changes and untracked Playwright artifacts plus a new software-selection/virtual-validation design note. Preserve all of them. Compare current remote and product checklist, identify whether C10 follow-up or another authorized item is active, and review exact changes before any stage or release claim."
     },
     {
       "id": "task-32",
