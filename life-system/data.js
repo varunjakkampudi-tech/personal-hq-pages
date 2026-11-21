@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T10:21:09.7169529Z",
+  "generatedAt": "2026-11-21T15:58:02.3096585+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T10:21:09.7169529Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T15:58:02.3096585+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Current audit, 21 Nov 2026: live GitHub Pages feed verified at 113 tasks (11 Done, 35 In progress, 15 Waiting, 52 Not started). The most recent verified owner-browser export is 110 tasks from 12:04 IST; it predates three subsequently added tasks: payroll-variance-review, router-backup-status and video-studio-recovery. That export recorded 22 status conflicts among 80 common task IDs and zero activity events; no browser statuses were imported. Next merge the current feed in the owner browser, verify task IDs and preservation of statuses, notes, habits, habit logs and activity, then export the current snapshot. Reconcile status conflicts individually; do not import disputed statuses wholesale."
+      "nextAction": "Latest full owner-browser export (21 Nov 12:04 IST) contains 110 tasks; the private registry and live feed contain 114. The export omits exactly video-studio-recovery, aiw360-story-video-provenance, router-backup-status and payroll-variance-review; it has no extra IDs and 22 status differences across the 110 shared IDs. No browser status was imported. Next merge the current feed in the owner browser, verify preservation of tasks, statuses, notes, habits, habit logs and activity, export a fresh full snapshot, then resolve the 22 conflicts individually. Do not import disputed statuses wholesale."
     },
     {
       "id": "task-53",
