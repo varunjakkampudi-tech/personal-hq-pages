@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T10:35:00+05:30",
+  "generatedAt": "2026-11-21T10:40:00+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T10:35:00+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T10:40:00+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -515,7 +515,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "Done",
-      "nextAction": "21 Nov 2026 delivery verified: the pre-09:00 summary was refreshed by reply at 09:25 IST in the same date-specific thread; task counts match the 104-task registry. Seven prior-date Personal HQ summary threads were archived only after the reply was verified. Tasks remain persistent."
+      "nextAction": "21 Nov 2026 delivery verified: the pre-09:00 summary was refreshed by reply at 09:25 IST in the same date-specific thread, and the current-day thread remains in Inbox. That email accurately reflected the 104-task registry at send time; later reconciliation added task records, bringing the current registry to 106. Do not send a duplicate for 21 Nov. Prior-date matching summaries are already archived."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
@@ -579,7 +579,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-22",
       "status": "In progress",
-      "nextAction": "Weekly review refreshed 21 Nov 2026. Local registry has 105 persistent tasks: 10 Done, 32 In progress, 10 Waiting, 53 Not started. The latest verified 08:17 IST browser export has 80 tasks and omits 25 current registry IDs, so it was not imported; dashboard/export reconciliation remains open in task-52. Preserve all unfinished tasks; only the daily email summary refreshes."
+      "nextAction": "Weekly review refreshed 21 Nov 2026. Current local registry and sanitized Pages feed contain 106 persistent tasks: 10 Done, 33 In progress, 10 Waiting, 53 Not started. The latest verified Chrome export has 80 tasks and omits 26 current IDs; it was not imported. Continue dashboard/export reconciliation in task-52. Preserve unfinished tasks; only the daily email summary refreshes."
     },
     {
       "id": "task-59",
