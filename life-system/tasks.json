@@ -499,7 +499,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Independent ChatGPT screenshot review passed: no material visual regression. Live Chrome matrix at 320–640px had no horizontal overflow/errors; 390×844 hero CTA clears nav by 27px, and short-screen hero is hidden when needed. At 320×568, Tab reached a labeled 44×44 checkbox; whole row clears nav by 35px, Space toggles it, last stats card/link clear it, and the final All Tasks row/status select of 80 clear it. Current PNGs are public in review-artifacts and attached to the review Page. Still verify 200% browser zoom, real screen-reader output and task persistence in the owner browser before completion."
+      "nextAction": "Independent ChatGPT review inspected the live 320x568 and 390x844 screenshots and found no screenshot-proven P0 defect. Isolated live Pages browser at 320x568 expanded the list to all 81 tasks and scrolled the final status selector above fixed navigation: selector bottom 420px, nav top 506px, 86px clearance. Still verify 200% browser zoom, real screen-reader output and task persistence in the owner browser before completion."
     },
     {
       "id": "task-52",
