@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:03:41.9446084+05:30",
+  "generatedAt": "2026-11-21T14:06:44.0599366+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T14:03:41.9446084+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T14:06:44.0599366+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -283,7 +283,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "LensMate",
       "due": "2026-12-04",
       "status": "In progress",
-      "nextAction": "Local LensMate snapshot checked 21 Nov: branch dev, HEAD 16175df, with existing README/docs/product/hardware doc changes and untracked Playwright artifacts plus a new software-selection/virtual-validation design note. Preserve all of them. Compare current remote and product checklist, identify whether C10 follow-up or another authorized item is active, and review exact changes before any stage or release claim."
+      "nextAction": "Read-only LensMate refresh, 21 Nov 2026: local dev matches origin/dev at e83570d2, with pre-existing local documentation edits and untracked validation/design artifacts that must be preserved. Remote PR #1 from dev to main is open, non-draft and mergeable; push and PR quality, broker-integration and secret-scan checks pass, but no review is submitted. C11 has advisory software-scope fit only, not implementation authorization. Compare to the reviewed C10 head shows three later documentation-only commits. Review the preserved document changes and await the required PR/C11 owner decision; make no hardware or production-readiness claim."
     },
     {
       "id": "task-32",
