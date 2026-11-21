@@ -243,7 +243,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Personal & health",
       "due": "2026-11-29",
       "status": "Not started",
-      "nextAction": "After tasks 25 and 26 capture the schedule and relevant constraints, adapt the general routine-and-health.md starter to the owner's actual goals, ability, food pattern and medical guidance. Keep calories, weight targets and supplements unset unless specifically assessed."
+      "nextAction": "Reconcile the historical gym plan with current goals, schedule, activity, food pattern and clinician guidance through tasks 25 and 26. Private history note records an older 6–7 AM routine and supplement discussion; these are not current instructions. An assistant-transcribed medicine from an unavailable image is unverified. Confirm any current prescription from its label and clinician/pharmacist; do not carry forward old dosing or timing. Personalize only after current facts are known."
     },
     {
       "id": "task-27",
