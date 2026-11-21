@@ -13,7 +13,7 @@ Use one small build or written checkpoint per topic. Record dates, links, labs, 
 This is the full durable scope and its order; it is not a commitment to study every branch in parallel. Start with the diagnostic, then update the existing learning records rather than creating duplicates. Keep prior progress, course dispositions, and supporting evidence in the private tracker. The planned agentic AI sequence is Hugging Face → DeepLearning.AI → LangChain, with the OpenAI Academy agentic AI course included; verify each exact course and its current availability before enrolling.
 
 1. **Starting point and fundamentals:** review JavaScript, TypeScript, browser basics, Git/GitHub, command line, and practical DSA. Begin with a short diagnostic across these areas and refresh only demonstrated gaps.
-2. **Frontend:** React components, hooks, state, routing, forms, API integration, testing, performance, and accessible responsive UI; then Next.js fundamentals. Build a deployed, documented interface. Do not split Next.js App Router into a duplicate track.
+2. **Frontend:** React components, hooks, state, routing, forms, API integration, testing, performance, and accessible responsive UI; then Next.js fundamentals. Include a focused Playwright end-to-end flow for a core user journey. Build a deployed, documented interface. Do not split Next.js App Router into a duplicate track.
 3. **SEO and accessibility:** semantic HTML, metadata, canonical/indexing basics, structured data, performance/Core Web Vitals, WCAG practices, keyboard and screen-reader checks. Apply to a real portfolio project.
 4. **Backend and APIs:** Node.js, Express, REST, authentication/session security, validation, error handling, testing, and Python/FastAPI as a second backend option; explore GraphQL after REST fundamentals.
 5. **Data:** relational modeling and SQL with PostgreSQL/MySQL; MongoDB and DynamoDB/NoSQL tradeoffs; migrations, indexes, transactions, backups, and safe data access.
@@ -36,7 +36,7 @@ The persistent learning task set also retains historical accomplishments and art
 
 ## Testing, application security and project recovery
 
-Treat tests and security as evidence gates throughout the capstone: use focused unit, integration and end-to-end checks for the user flows; verify input handling and authorization; review dependency risks; and record the exact revision, results and limitations. Do not claim a check passed unless it was actually run.
+Treat tests and security as evidence gates throughout the capstone: use focused unit, integration and end-to-end checks (including a Playwright journey where useful) for the user flows; verify input handling and authorization; review dependency risks; and record the exact revision, results and limitations. Do not claim a check passed unless it was actually run.
 
 For every recovered software project, record the canonical project identity, last verified repository or artifact revision and date, demonstrated behavior, technical/external/owner blockers, evidence-supported disposition, next authorized action, and project-specific completion or owner-acceptance gate. Keep this information in the existing private project ledger and task records; do not create duplicate tasks or infer status from silence.
 
