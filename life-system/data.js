@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:23:26.2015732+05:30",
+  "generatedAt": "2026-11-21T11:25:26.5519112+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T11:23:26.2015732+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:25:26.5519112+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -619,7 +619,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "",
       "status": "In progress",
-      "nextAction": "Review the private, sanitized provider-support draft and route it through the verified support channel. After a documented provider response, verify intended public business-contact details and storefront claims using read-only checks. Do not place orders or expose personal contact details."
+      "nextAction": "After owner-approved provider follow-up, perform read-only checks of the current public footer, newsletter and About/story sections alongside contact, policy and payment/invoice claims. Verify subscriber/origin claims and newsletter consent, storage and unsubscribe behavior before treating them as safe. Do not edit public copy or storefront settings without exact approved values and current slot evidence."
     },
     {
       "id": "task-64",
