@@ -619,7 +619,7 @@
       "area": "ValueMela",
       "due": "",
       "status": "In progress",
-      "nextAction": "Current public check 21 Nov: canonical policy API is unchanged from 19 Nov; its Refund Policy preserves remedies required by law. The currently served policy-page chunk still rewrites seven-day wording to 24-hour defect-report wording. Old JS URL is obsolete; current asset and hashes are recorded privately. Read-only verify dashboard return/payment configuration, exact canonical policy version, current checkout without submission if safe, and notice/claim workflow; secure transaction evidence only if it exists. Refer exact rendered/canonical terms to qualified counsel. No policy edit, settings change or readiness conclusion."
+      "nextAction": "Private review found a potential privacy exposure in the public store-info response, while the storefront hides contact fields; details are retained only in the private incident note. Review the configuration through an authenticated owner channel and ask Factori to confirm server-side redaction without sending exposed values. Also verify intended business support/grievance details and check prepaid/GST-invoice claims against current checkout setup without placing an order. Do not expose personal contacts or change production settings until the exact business contact choice and supported fix are established."
     },
     {
       "id": "task-64",
