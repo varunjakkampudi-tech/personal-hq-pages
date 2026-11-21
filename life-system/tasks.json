@@ -397,7 +397,7 @@
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "The two 20 Nov destination posts are confirmed live. Preliminary metrics captured 21 Nov at about 10:03 IST: YouTube Short 1 view, 0 likes; Instagram Reel 9 plays, 1 like, 0 comments/shares/saves, 24.095 s average watch time on a 23 s Reel (insights may lag). Keep the 24-hour check due 21 Nov 18:30 IST and 7-day check due 27 Nov 18:30 IST; record results privately and carry forward any missing destination/analytics leg. Rights/provenance review remains open in task-57. Do not treat the cadence target as operating."
+      "nextAction": "24-hour performance snapshot recorded privately on 21 Nov. The 7-day comparison is due 27 Nov 18:30 IST. Both 20 Nov destination deliveries are confirmed, but rights/provenance remains open in task-57. Track each destination separately; do not treat the two-post daily target as an operating cadence without verified evidence."
     },
     {
       "id": "task-48",
@@ -613,7 +613,7 @@
       "area": "CareerScope",
       "due": "",
       "status": "In progress",
-      "nextAction": "Refresh the live CareerScope PR queue before further changes. Latest spot-check: Stage 08 item 8.02 PR #130 is still open/draft; its previously reviewed head is no longer current, exact-head CI is running, and a fresh independent review was requested. The last recorded item 7.04 blocker also needs live revalidation. Keep checklist evidence, exact-head review, owner acceptance and CI gates separate; do not merge or deploy without authorization."
+      "nextAction": "Latest exact-head review: CareerScope PR #130 item 8.02 remains open/draft/unmerged and partial. Independent review found two blocking findings; exact-head CI has quality and image-build jobs passed, with browser checks still running. Refresh the queue after CI, obtain item-scoped authorization for any code correction, then repeat exact-head review and owner acceptance. No merge or deployment."
     },
     {
       "id": "task-63",
