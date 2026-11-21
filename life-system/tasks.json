@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T12:39:48.9843751+05:30",
+  "generatedAt": "2026-11-21T07:19:51.174Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T12:39:48.9843751+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T07:19:51.174Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -675,7 +675,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Complete private/learning-baseline-2026-11-21.md, preserve prior owner-reported checkpoints, and continue with the ordered full-stack → SEO/accessibility → backend/data/system design → AWS/GCP/DevOps → monitoring → Python/GenAI/agentic AI → portfolio sequence. Resolve old course dispositions only with dated evidence."
+      "nextAction": "Complete the short baseline first; use private/learning-progress-monitor-2026-11-21.md for the ordered checkpoints and dated session log. Preserve prior owner-reported learning and continue course/project history reconciliation only from evidence. Daily email summarizes progress; it never resets or replaces tasks."
     },
     {
       "id": "learning-copilot-cert",
@@ -699,7 +699,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Use private/learning-baseline-2026-11-21.md to check JavaScript, TypeScript, Git/GitHub, command line and practical DSA; record current gaps and one small artifact before selecting refresh work. Historical completions remain owner-reported."
+      "nextAction": "Complete the short JavaScript/TypeScript, Git/GitHub, command-line/Linux and DSA diagnostic in private/learning-baseline-2026-11-21.md; record only current gaps and a small artifact. See private/learning-progress-monitor-2026-11-21.md. Prior JS/TS completion remains owner-reported."
     },
     {
       "id": "learning-frontend",
@@ -707,7 +707,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "React, React Router, Context API, Redux Toolkit, class components, lifecycle and performance have historical owner-reported completion checkpoints. Run a brief practical refresh, then continue with Next.js, accessible responsive product work, testing and deployment evidence."
+      "nextAction": "After the brief baseline, refresh React with one small component/state/API checkpoint, then build the responsive Next.js capstone interface. Preserve reported React/Router/Context/Redux/class/lifecycle/performance checkpoints; see the private learning progress monitor for evidence criteria."
     },
     {
       "id": "learning-seo-a11y",
@@ -715,7 +715,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "History shows a structured technical SEO and accessibility/ARIA learning sequence. Use a project checkpoint covering metadata/indexability, semantic HTML, structured data, WCAG keyboard and screen-reader behavior, and performance; no project evidence currently closes this track."
+      "nextAction": "Apply semantic HTML, metadata/indexability, structured data where appropriate, keyboard and screen-reader checks, and performance evidence to the capstone. Prior SEO/ARIA study is retained as instruction progress, not implementation completion. See the private learning progress monitor."
     },
     {
       "id": "learning-backend",
@@ -723,7 +723,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Historical study covers REST basics, Node.js/Express, FastAPI, JWT/OAuth, dependency injection and interview exercises. The user later requested backend revision and remaining topics, so reconcile what was retained, then fill gaps in secure APIs, data, tests and production operation; GraphQL remains optional."
+      "nextAction": "Build a small validated, authenticated Node/Express API with clear error handling, authorization, tests and operational notes; briefly compare one FastAPI endpoint. Preserve prior REST/Node/Express/FastAPI/JWT study as reported checkpoints. See the private learning progress monitor."
     },
     {
       "id": "learning-data",
@@ -731,7 +731,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Build relational and NoSQL schemas; learn migrations, indexes, transactions and access safety."
+      "nextAction": "After the core API path, model the capstone in PostgreSQL and demonstrate migrations, constraints, indexes, transactions and safe queries; add a short MongoDB/NoSQL tradeoff note. See private/learning-progress-monitor-2026-11-21.md."
     },
     {
       "id": "learning-system-design",
@@ -739,7 +739,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "A substantial backend system-design guide was reviewed historically. Reconcile its current private/source artifact and demonstrate one independently explained design with requirements, data/API, reliability, security and cost trade-offs; prior high assistant ratings are not completion evidence."
+      "nextAction": "Independently explain and diagram the capstone design: requirements, API/data model, failure modes, security, scaling and cost tradeoffs. Historical guide review remains context, not proof of mastery. See the private learning progress monitor."
     },
     {
       "id": "learning-microfrontend-aem",
@@ -747,7 +747,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Start after React fundamentals; cover integration patterns, HTL, client libraries and Sling Models."
+      "nextAction": "Later/optional after core full-stack evidence and target-role mapping. History shows partial microfrontend instruction and a request to skip remaining topics, not proof of permanent cancellation or an AEM artifact. Confirm role value before resuming. See the private learning progress monitor."
     },
     {
       "id": "learning-aws",
@@ -755,7 +755,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Owner reported AWS Certified Developer – Associate completion in older ChatGPT history; credential details remain unverified privately. Continue with a practical AWS application and operations lab covering IAM, networking, data, deployment, security, cost and monitoring."
+      "nextAction": "Owner-reported AWS Developer Associate completion and the published interview guide are retained separately from this open lab. Deploy or operate a small app and record IAM, networking, data, security, cost, monitoring and cleanup evidence. See the private learning progress monitor."
     },
     {
       "id": "learning-gcp",
@@ -763,7 +763,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Start from GCP foundations; this path was newly requested and has no historical progress evidence."
+      "nextAction": "Start from GCP foundations after core app/deployment basics; deploy the same or comparable workload and document IAM, network, data, monitoring, cost and cleanup. No prior GCP progress is verified. See the private learning progress monitor."
     },
     {
       "id": "learning-devops",
@@ -771,7 +771,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "First confirm current status of historical AWS/DevOps training; then cover Linux, networking, Docker, Kubernetes, CI/CD and IaC."
+      "nextAction": "Before any new enrollment/payment, establish the reported AWS/DevOps cohort provider, last checkpoint, account/access and whether active, paused, stopped or completed. Then choose Linux/networking, Docker, CI/CD and IaC practice as appropriate. See private/learning-progress-monitor-2026-11-21.md."
     },
     {
       "id": "learning-monitoring",
@@ -779,7 +779,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Practice metrics, logs, traces, dashboards, useful alerts, service objectives and incident response; verify Datadog course interest before enrollment."
+      "nextAction": "First confirm whether Datadog was ever enrolled or started; history only confirms a recommendation and work-based incident/RCA exposure. Instrument the capstone with metrics, logs, traces, one actionable alert/dashboard, a simple service objective and one failure exercise. See the private learning progress monitor."
     },
     {
       "id": "learning-data-ai",
@@ -787,7 +787,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Cover Python, NumPy, pandas and ML/GenAI concepts as supporting skills for concrete projects."
+      "nextAction": "After core product work, complete one Python/data/ML/GenAI lab tied to a concrete use case; record evaluation, privacy and cost choices. This is a supporting track, not a parallel course commitment. See the private learning progress monitor."
     },
     {
       "id": "learning-agentic-ai",
@@ -795,7 +795,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Progress through Hugging Face, DeepLearning.AI and LangChain; include OpenAI Academy and build an evaluated safe agent."
+      "nextAction": "Reconcile whether any selected Hugging Face, DeepLearning.AI, LangChain or OpenAI Academy course was started; no completion is verified. Then build a small evaluated tool-using agent with scoped tools, approval for consequential actions, failure handling and cost notes. See the private learning progress monitor."
     },
     {
       "id": "learning-credentials",
@@ -803,7 +803,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Verify current requirements, fees and role value for AWS, GCP, data science, AI, DevOps, Linux and monitoring credentials."
+      "nextAction": "Before any enrollment, compare current requirements, fee, validity, prerequisites and full-stack role value; record exact credential evidence privately. AWS Developer Associate and Copilot remain owner-reported only; recommendations are not enrollments. See private/learning-progress-monitor-2026-11-21.md."
     },
     {
       "id": "learning-portfolio",
@@ -811,7 +811,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Historical user reports include mock interview rounds 5–7 and a published AWS interview guide. Keep those as completed artifacts/checkpoints with caveats; next build/review a full-stack portfolio capstone, refresh interview gaps and preserve owner approval before resume or profile changes."
+      "nextAction": "Keep reported mock interview rounds 5–7 and the AWS guide as historical checkpoints. Package the capstone and focused cloud/monitoring/agentic-AI labs with an architecture note; refresh current interview gaps. Resume/profile edits remain behind their private review and approval gates."
     },
     {
       "id": "task-70",
