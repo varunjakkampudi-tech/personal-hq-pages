@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:03:34.7802674Z",
+  "generatedAt": "2026-11-21T14:05:47.7035573Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T14:03:34.7802674Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T14:05:47.7035573Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -437,7 +437,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2027-01-05",
       "status": "Not started",
-      "nextAction": "Prepare a private field-by-field Naukri/profile and resume change draft from verified source facts; check visibility/imported fields and obtain approval for exact changes before any profile edit."
+      "nextAction": "Before the Feb 2027 full-stack search, privately verify the current Naukri profile and resume fields against owner-verified chronology and actual technology experience. July 2026 history says a frontend-focused profile was updated then, but present fields are unverified and may be stale. Prepare a review copy only; do not edit the account until exact changes are approved."
     },
     {
       "id": "career-indeed",
