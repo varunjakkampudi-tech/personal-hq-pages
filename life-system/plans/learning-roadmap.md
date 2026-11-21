@@ -73,3 +73,14 @@ For every course or topic, keep its record and classify it privately as **active
 7. Package the product and labs into a portfolio; update resume/profile drafts only in private review copies and retain existing owner-approval gates.
 
 Microfrontends/AEM and optional certificates stay later/research-only until the full-stack foundation and role value justify them. This order keeps requested subjects visible without treating every one as a simultaneous course.
+
+
+## AI tooling literacy checkpoint · 22 November 2026
+
+Selected ChatGPT research threads compared multi-agent orchestration tools and a premium UI skill stack for existing software projects. These were recommendations, not implementation or course completion evidence. If this topic is still useful, evaluate available tools, permission boundaries, cost and project isolation in a sandbox; do not connect new services or authorize repository/account access from old recommendations. Keep software-project work under its existing project gates. Current specific course states remain unresolved unless dated evidence is added to the private monitor.
+
+## Learning-history continuation · 22 November 2026
+
+Additional bounded history reviews recorded in the private learning ledger covered the original multi-track learning-dashboard request, employer-training exposure, a reported four-month AWS/DevOps cohort, a MongoDB exam interruption, Datadog interest, agentic-AI safety, older Linux/IAM/Docker study conversations, and a prior “skip remaining” microfrontend request. These are retained as context only: the cohort outcome and last checkpoint, MongoDB case/retake outcome, Datadog enrollment, and any formal pause or stop decisions remain unresolved where the reviewed messages did not establish them. Employer discussion is not a personal credential or public learning claim. The earlier three-hours-per-day and seven-month plans are historical; no current hours or deadline are assumed.
+
+The broader ChatGPT history review is still partial. The private monitor and existing `learning-course-status`, `learning-unresolved-followup`, and `history-continuation-audit` records remain the source for dated checkpoint details and course dispositions. Continue body-level reviews in bounded batches, map findings to existing tasks first, and preserve completed, paused, stopped, active and unfinished items with evidence and next steps. The short baseline remains the restart point. Do not reset tasks; the 9 AM email refreshes the summary only.
