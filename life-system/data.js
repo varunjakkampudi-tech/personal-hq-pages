@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T10:57:44.6939486+05:30",
+  "generatedAt": "2026-11-21T11:01:24.9234206+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T10:57:44.6939486+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:01:24.9234206+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -195,7 +195,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "2026-11-28",
       "status": "Not started",
-      "nextAction": "Before the 28 Nov internal target, verify the entity, sales/platform, state, turnover and warehouse facts securely; share the updated private CA question sheet through an approved secure channel and request a dated fact-specific determination. Practitioner must resolve the REG-01 guide conflict against the live form, confirm current Rule 10A scope for the actual category, and apply the 30-day/GSTR-1-IFF timing only if applicable. No route conclusion or REG-01 before written advice and owner review."
+      "nextAction": "Complete the business facts in the private CA worksheet using secure records, then obtain a dated, written GST registration and compliance determination from a qualified practitioner. Review the conclusion before preparing or submitting any application; keep tax and identity records private."
     },
     {
       "id": "task-22",
@@ -619,7 +619,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "",
       "status": "In progress",
-      "nextAction": "An unsent privacy/security report draft is prepared for Factori; owner should review and send it through the verified support contact or another secure channel. It contains no exposed values. Separately review intended public business contact/grievance details and verify the fix through an anonymous field-presence check after Factori responds. Validate the hard-coded prepaid/GST-invoice claims against current checkout setup without placing an order. Do not expose personal contacts or alter production settings until the exact business contact choice and supported fix are established."
+      "nextAction": "Review the private, sanitized provider-support draft and route it through the verified support channel. After a documented provider response, verify intended public business-contact details and storefront claims using read-only checks. Do not place orders or expose personal contact details."
     },
     {
       "id": "task-64",
