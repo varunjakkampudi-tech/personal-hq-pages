@@ -24,6 +24,12 @@ Use one small build or written checkpoint per topic. Record dates, links, labs, 
 14. **Portfolio and job readiness:** build one full-stack product with responsive frontend, secure API, database, deployment, SEO/accessibility evidence, observability, and a concise architecture note. Add targeted smaller labs for AWS/GCP and agentic AI. Practice DSA, system design, and explaining prior work. Keep resume/profile edits in private review copies until approved.
 15. **Credential research queue:** verify current requirements and value before choosing among AWS Developer/DevOps, GCP, IBM/Simplilearn data science, NVIDIA AI, Microsoft DevOps Expert, GenAI, Linux+, and Datadog. These are historical interests only; none is recorded as completed here except the owner-reported Copilot credential noted privately.
 
+## Working checkpoints and progress tracking
+
+Keep every track in the task registry until its evidence-based completion is recorded. A daily email summarizes the work; it never resets or replaces tasks. At each weekly review, choose one next build/checkpoint that fits the actual week, update its task, and carry every unfinished item forward. Do not treat every topic as a parallel course: complete the core full-stack capstone first, then add AWS/GCP, monitoring and agentic-AI labs that support it. Keep the small study log, course links, artifacts and credential evidence private.
+
+For each topic, record one of: **not started**, **started**, **paused**, **completed with artifact**, **credential reported but unverified**, or **decided not to pursue**. Preserve the historical note if a track is paused or dropped, and record the owner's decision/date before changing its active status. The 2026-11-21 review of the current ChatGPT conversation index and selected threads is a bounded first pass, not proof that every older conversation has been read. Continue reconciling project histories through the Life Admin task.
+
 ## Historical checkpoints requiring confirmation
 
 - GitHub Copilot certification/course completion was explicitly self-reported in ChatGPT history; exact title, date, issuer wording, and credential link have not been verified.
