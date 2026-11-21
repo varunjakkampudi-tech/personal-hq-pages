@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:06:44.0599366+05:30",
+  "generatedAt": "2026-11-21T14:08:33.27126+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T14:06:44.0599366+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T14:08:33.27126+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -611,7 +611,7 @@
       "area": "CareerScope",
       "due": "",
       "status": "In progress",
-      "nextAction": "Current exact-head check, 21 Nov 2026: PR #127 remains open/draft at c748a1641c7e4d728e117b8ed4c5abe0fc5f5795, base dev fad57ea3253024983f29183acefaee59328d0d01. Run 44884850332 failed Services/integration/browser: the browser test timed out waiting for the low-confidence limited-description flag after its scored education fixture was changed to hasFullDescription=true. Quality gates and production image build passed. Independent review found no blocking source issue but is conditional on CI. Keep item 7.04 partial; the fixture needs separate full-description education and low-confidence assertions, then rerun exact-head CI and review. Do not merge/deploy/promote without authorization."
+      "nextAction": "Current exact-head check, 21 Nov 2026: PR #127 remains open/draft at c748a1641c7e4d728e117b8ed4c5abe0fc5f5795, base dev fad57ea3253024983f29183acefaee59328d0d01. Run 44884850332 failed Services/integration/browser: the scored education fixture now has full-description confidence but the test still expects its low-confidence warning. Independent review is CHANGES REQUIRED: keep the full-description education fixture, assert high confidence and no warning there, and retain a separate short-description test for the low-confidence cap/message; update Stage 01 audit hash. Quality gates and image build passed. Keep item 7.04 partial; no CareerScope files or PR state changed. After authorized correction, rerun exact-head CI and review. Do not merge/deploy/promote without authorization."
     },
     {
       "id": "task-63",
