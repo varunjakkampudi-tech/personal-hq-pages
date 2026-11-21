@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:54:07.043Z",
+  "generatedAt": "2026-11-21T15:13:02.926Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T14:54:07.043Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T15:13:02.926Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -982,6 +982,14 @@
       "due": "",
       "status": "In progress",
       "nextAction": "Privately confirm whether the historical course/provider follow-up was submitted and what outcome was recorded; decide whether any action remains. Check current evidence before contacting a provider or enrolling again."
+    },
+    {
+      "id": "task-79",
+      "title": "Assess Personal HQ public Git-history privacy",
+      "area": "Life admin",
+      "due": "",
+      "status": "In progress",
+      "nextAction": "Review historical repository exposure and document whether cleanup is warranted; preserve recovery copies and do not rewrite shared history without explicit authorization."
     }
   ],
   "history": [
