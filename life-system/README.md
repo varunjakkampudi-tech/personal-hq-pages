@@ -19,6 +19,7 @@ Open `index.html` in Chrome or use the GitHub Pages site. The dashboard supports
 - [Weekly routine, gym and food](plans/routine-and-health.md)
 - [ValueMela GST readiness](../research/valuemela-gst-registration.md)
 - [ValueMela storefront operational readiness](plans/valuemela-operations-readiness.md)
+- [Full-stack and AI learning roadmap](plans/learning-roadmap.md)
 - [Life log](../life-log.html)
 
 Resume/profile source files, real farm/site records, customer information and health details belong in a private, access-controlled location, not this public repository.
@@ -28,3 +29,4 @@ On GitHub Pages, the dashboard silently merges the latest public task feed when 
 ### Private task sync setup
 
 Private sync is **not connected** in the published dashboard: `supabase-config.js` contains no project URL or key. The dashboard therefore saves task data only in the current browser, and encrypted backup is the manual transfer option. The optional Supabase path in this repository is preparation, not a live or independently verified service. Before enabling it, the owner must create a private project, review its region and retention, apply all three migrations, disable public sign-ups, create the owner account, configure the project URL and browser publishable key, and verify owner-only access using a separate test account. Never expose a service-role or secret key. Routine check-ins and life-log data are not synced. Account task caches and Supabase Auth sessions remain in browser localStorage and are not encrypted by Personal HQ. The client SDK is vendored at a pinned version under vendor/ with its MIT license and package integrity recorded in vendor/THIRD-PARTY-NOTICES.md.
+
