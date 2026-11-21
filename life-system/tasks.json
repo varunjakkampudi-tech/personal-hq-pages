@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T13:40:36.2106769Z",
+  "generatedAt": "2026-11-21T13:43:00.0969731Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T13:40:36.2106769Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T13:43:00.0969731Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -821,7 +821,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue bounded review of unreconciled ChatGPT conversation bodies and verify any named artifacts/repositories. Recent review classified the horoscope thread as a one-time sensitive information request (no personal data retained) and the pamphlet thread as delivered sandbox drafts with downstream use unverified; no duplicate tasks were created. Record dated source, intent, evidence strength, disposition/reason, blocker, next authorized action and acceptance gate privately. Map to existing tasks first and keep this audit In progress until relevant history and current sources are reconciled."
+      "nextAction": "Continue bounded review of unreconciled ChatGPT conversation bodies and verify named artifacts/repositories. The 21 Nov review added task-77 for owner confirmation of a historical community-event design follow-up; source images are unavailable and the relationship between two design threads is unconfirmed. Record dated evidence, intent, disposition, blocker, next authorized action and acceptance gate privately. Map findings to existing tasks first; no status inference from silence. Keep the history audit In progress until relevant sources are reconciled."
     },
     {
       "id": "task-71",
@@ -958,6 +958,14 @@
       "due": "",
       "status": "Waiting",
       "nextAction": "Locate the original design/PDF and any source repository, then confirm whether this remains a current product idea before implementation."
+    },
+    {
+      "id": "task-77",
+      "title": "Confirm whether historical community-event designs still need recovery",
+      "area": "Life admin",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "The history contains two potentially related design threads: one delivered front/back sandbox drafts and another explicitly left a photo/banner edit unfinished. Their relationship and current event need are unconfirmed, and the source images are not attached here. Confirm whether either deliverable still needs work; if so, provide the original authorized image/assets and exact requirements. Do not reuse, publish, or distribute identifiable people’s images without an appropriate basis and exact owner direction."
     }
   ],
   "history": [
