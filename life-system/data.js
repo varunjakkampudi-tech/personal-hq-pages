@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 09:30:10 +05:30",
+  "generatedAt": "2026-11-21 09:33:07 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 09:30:10 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 09:33:07 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -154,8 +154,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Capture current CareerScope priorities and authorized next steps",
       "area": "CareerScope",
       "due": "2026-11-28",
-      "status": "Not started",
-      "nextAction": "Capture current CareerScope priorities and authorized next steps"
+      "status": "In progress",
+      "nextAction": "Use task-62 as the current CareerScope PR queue and acceptance tracker. Reconcile its open PRs with roadmap item/dependencies, exact-head CI, independent review, and release gates before any checklist work. Preserve the existing dirty checkout and worktrees; do not edit, merge, or deploy without an explicitly authorized checklist scope."
     },
     {
       "id": "task-17",
