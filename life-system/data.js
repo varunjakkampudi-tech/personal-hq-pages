@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:01:24.9234206+05:30",
+  "generatedAt": "2026-11-21T11:10:11.5147078+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T11:01:24.9234206+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:10:11.5147078+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -163,7 +163,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Current owner workflow: target two videos daily, at 12:00 and 19:00 IST, cross-posting to YouTube and Instagram. This is a target cadence, not evidence the cadence is operating. Prepare a fresh original asset and production plan for each video; record per-destination status and verify each leg. The exact final asset, metadata and publish time still require approval under the release checklist. Do not reuse the rights-unverified 20 Nov sports footage."
+      "nextAction": "A read-only check on 21 Nov found no post for today in vidIQ and no new approved media in the local working folder or Downloads. Continue daily production with a fresh asset and release review; verify each platform separately and record its final URL before claiming delivery."
     },
     {
       "id": "task-18",
