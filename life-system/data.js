@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T15:20:20.1176109+05:30",
+  "generatedAt": "2026-11-21T10:04:09.2386477Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T15:20:20.1176109+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T10:04:09.2386477Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -595,7 +595,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Keep task records on their existing CAS path. For routines, check-ins and life-log moments, use a separate owner-scoped versioned JSON snapshot with CAS, explicit conflicts, account-state isolation, schema/size validation and encrypted recovery. Before any live setup, choose region, cost/retention policy and sign-in method, then validate with synthetic data. See the private sync plan."
+      "nextAction": "Review and runtime-validate the new separate owner-scoped routine/check-in/life-log CAS snapshot with a chosen private provider; apply all four migrations and verify conflict, recovery, account isolation and multi-browser behavior before configuring production. Public source only: provider URL/key are blank, the migration is unapplied, and no private data was uploaded."
     },
     {
       "id": "task-61",
