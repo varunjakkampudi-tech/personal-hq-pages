@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:17:15.3794853+05:30",
+  "generatedAt": "2026-11-21T14:19:15.258335+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T14:17:15.3794853+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T14:19:15.258335+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -179,7 +179,7 @@
       "area": "ValueMela",
       "due": "2026-11-30",
       "status": "Not started",
-      "nextAction": "Record Factori's current frontend customization limitation and identify which existing theme settings are available without changing them. Keep the requested premium, mobile-friendly dark-blue design as a future requirement, not a supported current feature. Defer any storefront/platform decision until Varun reviews verified capabilities and consequences."
+      "nextAction": "Reconcile the historical permanent-brand request: confirm whether it applied to ValueMela or a separate business before any name/domain work; proposed names were not selected or cleared. Also record Factori's current frontend customization limitation and available theme settings without changing them. No rename, domain purchase or setup submission is verified. Defer store/platform decisions until current intent and verified capabilities are reviewed."
     },
     {
       "id": "task-20",
