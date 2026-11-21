@@ -1,12 +1,13 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:19:38Z",
+  "generatedAt": "2026-11-21T11:23:49Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T11:19:38Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:23:49Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
+    "Business ventures",
     "Career move",
     "CareerScope",
     "Dairy farm",
@@ -949,6 +950,30 @@ window.PERSONAL_HQ_SEED = {
       "due": "",
       "status": "In progress",
       "nextAction": "Recover the latest product specification, phase checklist and concept walkthrough from their original ChatGPT/file sources. Reconcile the recorded premium ordinary-looking spectacles, Android companion, opt-in capture/privacy, English/Telugu-first experience, virtual simulator-first approach and historical ₹25,000 prototype ceiling against current evidence. Identify what is concept-only versus engineered and obtain a current owner decision before any vendor contact, component purchase or spend."
+    },
+    {
+      "id": "fireworks-business-license",
+      "title": "Confirm whether the fireworks retail licensing plan is still active",
+      "area": "Business ventures",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "Confirm whether this historical retail idea is still being considered. If yes, establish the intended premises and jurisdiction, then verify current official licensing, safety, storage and operating requirements before any lease, payment or application. Do not rely on old assistant guidance."
+    },
+    {
+      "id": "small-shop-food-business-feasibility",
+      "title": "Reassess the Hyderabad shop and food-business proposal",
+      "area": "Business ventures",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "Confirm whether the historical physical-shop idea is still current and whether food sales remain the intended model. If resumed, identify the premises and product scope privately, then refresh demand, operating-cost, FSSAI, GHMC and lease requirements from current authoritative sources. No lease or license action."
+    },
+    {
+      "id": "founder-business-portfolio",
+      "title": "Define the long-term business portfolio and founder-privacy strategy",
+      "area": "Business ventures",
+      "due": "",
+      "status": "Not started",
+      "nextAction": "After current product priorities are reviewed, privately reconcile the long-term multi-product business-group vision, founder visibility preference and available capacity/capital. Select one validated next venture and preserve other ideas as later leads; do not infer a current capital budget or create legal entities, domains or public profiles."
     }
   ],
   "history": [
