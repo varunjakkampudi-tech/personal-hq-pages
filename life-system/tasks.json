@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:17:17Z",
+  "generatedAt": "2026-11-21T11:19:38Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T11:17:17Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:19:38Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -941,6 +941,14 @@
       "due": "",
       "status": "Not started",
       "nextAction": "Locate the intended command-center repository and reconcile CareerScope 20-stage requirements with the approved 22-stage roadmap before implementation. Define stable requirement IDs and evidence gates, then establish a read-only local dashboard milestone. Verify which Codex/Claude/agent telemetry and controls are actually supported; do not claim live Copilot percentages."
+    },
+    {
+      "id": "viswatra-smart-glasses",
+      "title": "Recover the Viswatra AI smart-glasses specification and prototype plan",
+      "area": "Viswatra",
+      "due": "",
+      "status": "In progress",
+      "nextAction": "Recover the latest product specification, phase checklist and concept walkthrough from their original ChatGPT/file sources. Reconcile the recorded premium ordinary-looking spectacles, Android companion, opt-in capture/privacy, English/Telugu-first experience, virtual simulator-first approach and historical ₹25,000 prototype ceiling against current evidence. Identify what is concept-only versus engineered and obtain a current owner decision before any vendor contact, component purchase or spend."
     }
   ],
   "history": [
