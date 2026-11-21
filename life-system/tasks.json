@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:10:00+05:30",
+  "generatedAt": "2026-11-21T11:15:00+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T11:10:00+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:15:00+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Latest verified Chrome export still has 80 tasks, but the current private registry and published Pages feed contain 106, so it omits 26 IDs; do not import it. The deployed app merges unseen desktop tasks on Pages while preserving local statuses, notes and browser-only tasks. Next reload the intended dashboard tab, confirm 106 tasks, export the full snapshot, then compare IDs and statuses before syncing. Computer Use previously could not distinguish two identical Personal HQ Chrome windows; no browser action was taken."
+      "nextAction": "Latest verified Chrome export has 80 tasks, while the current private registry and published Pages feed contain 107; it omits 27 IDs. Do not import it. The deployed Pages app merges unseen desktop tasks while preserving local statuses, notes and browser-only tasks. Next reload the intended dashboard tab, confirm 107 tasks, export the full snapshot, then compare IDs and statuses before syncing. No owner-browser action has been verified."
     },
     {
       "id": "task-53",
@@ -579,7 +579,7 @@
       "area": "Life admin",
       "due": "2026-11-22",
       "status": "In progress",
-      "nextAction": "Weekly review refreshed 21 Nov 2026. Current local registry and sanitized Pages feed contain 106 persistent tasks: 10 Done, 34 In progress, 10 Waiting, 52 Not started. The latest verified Chrome export has 80 tasks and omits 26 current IDs; it was not imported. Continue dashboard/export reconciliation in task-52. Preserve unfinished tasks; only the daily email summary refreshes."
+      "nextAction": "Weekly review refreshed 21 Nov 2026. Current local registry and sanitized Pages feed contain 107 persistent tasks: 10 Done, 34 In progress, 11 Waiting, 52 Not started. The latest verified Chrome export has 80 tasks and omits 27 current IDs; it was not imported. Continue dashboard/export reconciliation in task-52. Preserve unfinished tasks; only the daily email summary refreshes."
     },
     {
       "id": "task-59",
