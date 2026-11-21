@@ -499,7 +499,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Independent mobile review and isolated live Pages check now cover the 104-task feed at 320x568: no horizontal overflow; all 104 task rows loaded; final status selector reached at 420px, 86px above fixed navigation at 506px. The final home link is also reachable. Before completion, still verify 200% zoom, real screen-reader output and task persistence in the owner browser."
+      "nextAction": "Narrow-screen navigation labels were raised from 8px to 9px and deployed (Pages commit b07f564). Existing live checks at 320×568 and 390×844 report no horizontal overflow. A fresh screenshot review was requested, but the ChatGPT reviewer could not open its private screenshot page. Still verify true 200% zoom, real screen-reader output and task persistence in the owner browser."
     },
     {
       "id": "task-52",
