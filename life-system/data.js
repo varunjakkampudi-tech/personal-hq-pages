@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 05:33:09 +05:30",
+  "generatedAt": "2026-11-21 05:53:05 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 05:33:09 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 05:53:05 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -107,7 +107,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Dairy farm",
       "due": "2026-11-30",
       "status": "Not started",
-      "nextAction": "Confirm farm location, water, power and land constraints"
+      "nextAction": "Complete private/dairy-owner-intake-todo.md: confirm exact village/mandal, land and access, water source/seasonal capacity, power category/load/outages, constraints and budget ceiling. Preserve the existing 30 Nov target; no design or quote until inputs are verified."
     },
     {
       "id": "task-11",
@@ -115,7 +115,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Dairy farm",
       "due": "2026-11-28",
       "status": "Not started",
-      "nextAction": "Confirm exact farm village, animal species and 20-to-40 herd mix"
+      "nextAction": "Complete private/dairy-owner-intake-todo.md: confirm exact village and phase-one 20-animal species/breed mix, expansion path to 40, and only then obtain buyer/offtake evidence. Preserve the existing 28 Nov target; no herd sourcing commitment."
     },
     {
       "id": "task-12",
@@ -387,7 +387,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Dairy farm",
       "due": "2026-12-02",
       "status": "Not started",
-      "nextAction": "Complete dairy farm readiness gate checklist"
+      "nextAction": "Use private/dairy-owner-intake-todo.md to resolve owner inputs, then complete the readiness gates with evidence: land/utilities, buyer, feed, veterinary/sourcing/quarantine, labor, transport, facilities, cash flow and local review. Preserve the existing 2 Dec target; worksheet completion alone is not readiness."
     },
     {
       "id": "task-46",
@@ -499,7 +499,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Published a white check glyph for checked mobile task boxes and an inset dark-green focus ring on the 44px checkbox target (source 4a9a6a6/2020fc5, Pages 298829e/6b7b7ab); live Pages response should be checked. Still verify actual keyboard order/activation, checked/unchecked visuals and focus in a browser, target separation, 200% zoom and accessible names/states before completion."
+      "nextAction": "Current live Pages focus-color fix is published at source e4146a0 / Pages fbbc8e3. Live Chrome checks at 320×568 and 390×844 confirm 3px forest-green focus on the first Tab stop, no horizontal overflow, 11 task rows loaded and no page errors. Screenshots and measurements are attached to the private Mobile Dashboard Screenshot Review Page; requested independent review. Still verify Space activation/checked announcement, actual touch target hit regions, 200% zoom and screen-reader output before completion."
     },
     {
       "id": "task-52",
@@ -627,7 +627,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Dairy farm",
       "due": "",
       "status": "Not started",
-      "nextAction": "Before the Jan 2027 go/no-go, model phase one at 20 animals and expansion to 40 using verified species, buyer/offtake, production and lactation assumptions; phased sourcing; feed, labor and veterinary costs; facility/energy investment; working capital; downtime, contingency and downside cash flow. Get qualified local review and record the evidence-based decision."
+      "nextAction": "After private/dairy-owner-intake-todo.md has verified herd, buyer/offtake and operating assumptions, model 20-animal phase one and expansion to 40 with downside cash flow, working capital and qualified local review before Jan 2027 go/no-go. Do not invent prices or output."
     },
     {
       "id": "task-65",
@@ -651,7 +651,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Dairy farm",
       "due": "",
       "status": "Not started",
-      "nextAction": "Confirm consumer category, sanctioned load, allowed grid-solar/net-metering setup, upgrades and approvals with APEPDCL/electrician. Verify subsidy separately. If solar CCTV only, document its distinct electrical scope."
+      "nextAction": "After confirming site and consumer details in private/dairy-owner-intake-todo.md, verify category, sanctioned load, permissible grid/hybrid/net-metering configuration, upgrades, approvals and scheme eligibility with APEPDCL/qualified professionals. No site-specific facts or approvals are currently established."
     },
     {
       "id": "task-68",
