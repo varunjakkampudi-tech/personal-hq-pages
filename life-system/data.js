@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T16:57:02.5312419Z",
+  "generatedAt": "2026-11-21T17:02:46.6098289Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T16:57:02.5312419Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T17:02:46.6098289Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -501,7 +501,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Live Chrome zoom review at 200% now shows compact bottom navigation and hides the desktop rail; Chrome was restored to 100%. Live Pages at 320×720 and 390×844 had no horizontal overflow. Screen-reader behavior and task persistence remain open."
+      "nextAction": "The 320×568 and 390×844 live screenshots were re-shared in the existing ChatGPT review session at 22:29 IST; the request is pending. Current visual inspection shows the stale-export/private-sync warning remains visible, task Details cues and five-item compact navigation at both widths, and no screenshot-only blocker. Await independent actionable review; screen-reader output and persistence in the owner Chrome profile remain unverified. Do not merge browser tasks until a complete fresh export and evidence reconciliation are available."
     },
     {
       "id": "task-52",
