@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:00:12.2909474Z",
+  "generatedAt": "2026-11-21T14:03:34.7802674Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T14:00:12.2909474Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T14:03:34.7802674Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -517,7 +517,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "Done",
-      "nextAction": "The 21 Nov 2026 summary delivery is verified in Gmail. The 9 AM Asia/Kolkata automation configuration was rechecked: ACTIVE daily cadence, persistent task carry-forward, no open-task reset, and refresh/archive applies to email summaries only. Continue verifying each date-specific email and archive prior matching threads only after delivery is confirmed; no duplicate same-day summary."
+      "nextAction": "Automation personal-hq-daily-9-am-review-2 was updated and its saved definition verified on 21 Nov 2026: ACTIVE daily 09:00 Asia/Kolkata; persistent task carry-forward; send one new standalone date-stamped email (not a reply); do not send duplicates if today's post-09:00 summary is already current; archive older matching summary threads only after a new send is confirmed. Historical same-day messages remain untouched unless a fresh summary is successfully delivered. Verify the next scheduled run and archive action from Gmail."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
