@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:04:07Z",
+  "generatedAt": "2026-11-21T11:06:22Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T11:04:07Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:06:22Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -619,7 +619,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "",
       "status": "In progress",
-      "nextAction": "After owner-approved provider follow-up, perform read-only checks of the current public footer, newsletter and About/story sections alongside contact, policy and payment/invoice claims. Verify subscriber/origin claims and newsletter consent, storage and unsubscribe behavior before treating them as safe. Do not edit public copy or storefront settings without exact approved values and current slot evidence."
+      "nextAction": "Recheck current public storefront and provider evidence for purchase-flow completion, catalog count discrepancy, active payment methods, shipping-area enforcement, GA4 purchase-event/key-event verification, and customer-facing policy/claim consistency before any paid advertising. Preserve prior dated evidence in private history. Do not assume historical settings remain current; do not edit store/analytics settings or begin paid promotion without exact owner authorization."
     },
     {
       "id": "task-64",
