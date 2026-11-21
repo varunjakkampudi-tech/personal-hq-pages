@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T19:56:55.9745951+05:30",
+  "generatedAt": "2026-11-21T20:01:21.3447428+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T19:56:55.9745951+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T20:01:21.3447428+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -581,7 +581,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-21",
       "status": "In progress",
-      "nextAction": "Verified 21 Nov 2026 19:53 IST: private registry and deployed Pages feed were aligned at 119 before the new learning follow-up was added. Current registry now has 120 persistent tasks; republish sanitized feed and verify counts. No task reset. Full dashboard export remains dated 20 Nov 06:48 IST; browser-local status reconciliation remains open under task-52. The 9 AM review refreshes only the Gmail summary."
+      "nextAction": "Verified 21 Nov 2026 at 20:01 IST: private registry and cache-busted deployed Pages feed both contain 120 persistent tasks — 11 Done, 40 In progress, 19 Waiting, 50 Not started. The new learning follow-up is included and the learning records remain persistent. Full dashboard export remains dated 20 Nov 06:48 IST; browser-local status reconciliation stays open under task-52. Daily review refreshes only the Gmail summary; tasks are not reset."
     },
     {
       "id": "task-59",
