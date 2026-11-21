@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T19:54:45.8359103+05:30",
+  "generatedAt": "2026-11-21T19:56:55.9745951+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T19:54:45.8359103+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T19:56:55.9745951+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -781,7 +781,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "First confirm whether Datadog was ever enrolled or started; history only confirms a recommendation and work-based incident/RCA exposure. Instrument the capstone with metrics, logs, traces, one actionable alert/dashboard, a simple service objective and one failure exercise. See the private learning progress monitor."
+      "nextAction": "Historical preference: the owner explicitly wanted to start Datadog and asked for a certification course with labs; the conversation contains recommendations only, not enrollment or completed labs. After the core full-stack capstone, choose an affordable current monitoring lab and instrument metrics, logs, traces, one useful alert and a failure scenario. Verify current course details before any paid enrollment."
     },
     {
       "id": "learning-data-ai",
