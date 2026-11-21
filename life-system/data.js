@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T13:57:37.679716Z",
+  "generatedAt": "2026-11-21T14:00:12.2909474Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T13:57:37.679716Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T14:00:12.2909474Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -861,7 +861,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Media software",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Review the latest repository and CI read-only when canonical access is available, then confirm whether the owner still wants this separate engine continued. Historical freeze requires a rights-cleared input in the configured INBOX and explicit “File is in INBOX” signal before any controlled test. Until then do not change code, credentials, schedule or publishing state."
+      "nextAction": "Read-only review the latest repository and CI when canonical access is available; confirm whether Pulse and NovaVibe Media are the same product and whether the owner still wants this engine continued. Historical freeze requires a rights-cleared input in the configured INBOX and explicit “File is in INBOX” signal before any controlled test. Until then do not change code, credentials, schedule or publishing state."
     },
     {
       "id": "history-continuation-audit",
