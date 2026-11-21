@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 07:59:21 +05:30",
+  "generatedAt": "2026-11-21 08:01:32 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 07:59:21 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 08:01:32 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -163,7 +163,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Read-only check 21 Nov 2026 06:14 IST: vidIQ lists zero YouTube/Instagram destinations for today across draft, scheduled, submitted, in-progress, completed, failed, cancelled or reconciliation-required. Both connected accounts are active and canPublish=true. This does not establish whether direct platform posting occurred outside vidIQ. No new owner-approved asset/exact time is recorded. Prepare a fresh asset and exact publish plan; verify each destination separately after its approved window. Do not reuse the rights-unverified 20 Nov sports footage."
+      "nextAction": "Current owner workflow: target two videos daily, at 12:00 and 19:00 IST, cross-posting to YouTube and Instagram. This is a target cadence, not evidence the cadence is operating. Prepare a fresh original asset and production plan for each video; record per-destination status and verify each leg. The exact final asset, metadata and publish time still require approval under the release checklist. Do not reuse the rights-unverified 20 Nov sports footage."
     },
     {
       "id": "task-18",
@@ -315,7 +315,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Factori support reports an attempted call about disabled State/City-District selectors in saved customer addresses and requests a convenient callback time. Owner has not selected a time or replied; await owner scheduling. After support guidance or a confirmed fix, independently verify the affected address-selection workflow without modifying customer records. Separately follow up on the branded customer-facing support email setting and preserve account sign-in and order-notification routing."
+      "nextAction": "Owner reported on 21 Nov that the state and city dropdowns now work; no callback time is needed for that reported-fixed issue. Factori has been asked to confirm whether an externally hosted branded mailbox can be used on the public Contact page and which setting controls it; await response, then verify only the relevant public field without opening customer records."
     },
     {
       "id": "task-37",
@@ -395,7 +395,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Reusable per-video checklist and dated-record template are ready in life-system/plans/ai-world-360.md and life-system/templates/ai-world-360-daily-record.md. Channel format, audience/language, cadence/time and the existing live-media review are still open. Next obtain owner voice/format choices, inspect task-57 original media/evidence, then run one reviewed production end to end; exact final assets and metadata require explicit approval before scheduling or publishing."
+      "nextAction": "Set up two dated production records/run cards per day for the requested 12:00 and 19:00 IST targets. Workflow guide and template are ready. Before scheduling any specific item, clear the 20 Nov rights/provenance review, confirm exact content, and obtain approval of that final asset, copy, thumbnail, destination and time; then verify YouTube and Instagram independently. Do not imply the target cadence is currently operating."
     },
     {
       "id": "task-48",
@@ -547,7 +547,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Factori replied 20 Nov: prices may currently be higher in some categories as volumes grow and says it is optimizing catalog pricing, but gave no SKU comparison, price corrections or timeline. Compare the same SKU/variant, shipping, taxes, settlement and price basis using a specific sample; ask Factori for itemized examples/timeline only if the owner wants a follow-up. No listing price changed."
+      "nextAction": "Factori follow-up reply was sent on 21 Nov asking whether the stated 1–2 week estimate still applies and whether high-priced items can be prioritized. Await their response. No like-for-like SKU comparison or catalog price change is recorded; if a reply arrives, compare item, variant, delivery, tax and pricing basis."
     },
     {
       "id": "task-55",
