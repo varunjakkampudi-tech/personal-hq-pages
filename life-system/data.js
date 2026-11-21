@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 08:03:22 +05:30",
+  "generatedAt": "2026-11-21 08:07:05 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 08:03:22 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 08:07:05 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -675,7 +675,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Review the private history ledger and confirm whether older active courses were completed, stopped, or resumed."
+      "nextAction": "Verified historical user-reported progress on JavaScript, TypeScript, React, React Router, Context API, Redux Toolkit, JWT, REST basics, SEO/accessibility study and mock interviews; exact artifacts and current retention vary. Keep these as reported learning checkpoints, not formal credentials. Next reconcile Git/DSA, backend remaining topics, AWS/DevOps training and course status; use a short current diagnostic before deciding what to repeat."
     },
     {
       "id": "learning-copilot-cert",
@@ -698,32 +698,32 @@ window.PERSONAL_HQ_SEED = {
       "title": "Refresh JavaScript, TypeScript, Git and DSA foundations",
       "area": "Training & learning",
       "due": "",
-      "status": "Not started",
-      "nextAction": "Run a short skills diagnostic, then fill gaps with small exercises."
+      "status": "In progress",
+      "nextAction": "JavaScript and TypeScript have owner-reported completion checkpoints. Use a short diagnostic for JavaScript/TypeScript, Git/GitHub and practical DSA; record current gaps and one small artifact before selecting refresh work."
     },
     {
       "id": "learning-frontend",
       "title": "Build React and Next.js frontend skills",
       "area": "Training & learning",
       "due": "",
-      "status": "Not started",
-      "nextAction": "Work through components, hooks, state, routing, APIs, forms, testing, performance and a responsive capstone."
+      "status": "In progress",
+      "nextAction": "React, React Router, Context API, Redux Toolkit, class components, lifecycle and performance have historical owner-reported completion checkpoints. Run a brief practical refresh, then continue with Next.js, accessible responsive product work, testing and deployment evidence."
     },
     {
       "id": "learning-seo-a11y",
       "title": "Apply SEO, accessibility and web performance",
       "area": "Training & learning",
       "due": "",
-      "status": "Not started",
-      "nextAction": "Practice semantic HTML, metadata, indexing, structured data, WCAG, keyboard access and Core Web Vitals."
+      "status": "In progress",
+      "nextAction": "History shows a structured technical SEO and accessibility/ARIA learning sequence. Use a project checkpoint covering metadata/indexability, semantic HTML, structured data, WCAG keyboard and screen-reader behavior, and performance; no project evidence currently closes this track."
     },
     {
       "id": "learning-backend",
       "title": "Build backend and API skills",
       "area": "Training & learning",
       "due": "",
-      "status": "Not started",
-      "nextAction": "Study Node.js, Express, REST, secure auth, validation, testing, and Python/FastAPI; GraphQL later."
+      "status": "In progress",
+      "nextAction": "Historical study covers REST basics, Node.js/Express, FastAPI, JWT/OAuth, dependency injection and interview exercises. The user later requested backend revision and remaining topics, so reconcile what was retained, then fill gaps in secure APIs, data, tests and production operation; GraphQL remains optional."
     },
     {
       "id": "learning-data",
@@ -738,8 +738,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Practice system design fundamentals",
       "area": "Training & learning",
       "due": "",
-      "status": "Not started",
-      "nextAction": "Document requirements, APIs, data, caching, queues, resilience, security and cost tradeoffs."
+      "status": "In progress",
+      "nextAction": "A substantial backend system-design guide was reviewed historically. Reconcile its current private/source artifact and demonstrate one independently explained design with requirements, data/API, reliability, security and cost trade-offs; prior high assistant ratings are not completion evidence."
     },
     {
       "id": "learning-microfrontend-aem",
@@ -810,8 +810,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Build portfolio and interview readiness",
       "area": "Training & learning",
       "due": "",
-      "status": "Not started",
-      "nextAction": "Create a full-stack capstone with cloud deployment, accessibility/SEO and observability; practice DSA and system design."
+      "status": "In progress",
+      "nextAction": "Historical user reports include mock interview rounds 5–7 and a published AWS interview guide. Keep those as completed artifacts/checkpoints with caveats; next build/review a full-stack portfolio capstone, refresh interview gaps and preserve owner approval before resume or profile changes."
     },
     {
       "id": "task-70",
