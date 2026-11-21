@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 09:37:43 +05:30",
+  "generatedAt": "2026-11-21 09:44:30 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 09:37:43 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 09:44:30 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -499,7 +499,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Narrow-screen navigation labels were raised from 8px to 9px and deployed (Pages commit b07f564). Existing live checks at 320×568 and 390×844 report no horizontal overflow. A fresh screenshot review was requested, but the ChatGPT reviewer could not open its private screenshot page. Still verify true 200% zoom, real screen-reader output and task persistence in the owner browser."
+      "nextAction": "Fresh deployed-page screenshots at 320×568 and 390×844 are available in the public Pages repo under review-artifacts/ and were sent as raw PNG links to Business Empire Plan for visual critique. Await that review; true 200% zoom, real screen-reader behavior and persistence in the owner browser remain open."
     },
     {
       "id": "task-52",
