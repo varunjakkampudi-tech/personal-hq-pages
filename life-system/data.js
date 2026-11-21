@@ -1,6 +1,6 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T16:05:21.4975619+05:30",
+  "generatedAt": "2026-11-21T10:44:19Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
   "sourceSnapshotUpdatedAt": "2026-11-21T16:05:21.4975619+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
@@ -507,7 +507,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Latest full owner-browser export (21 Nov 12:04 IST) contains 110 tasks; the private registry and live feed contain 114. The export omits exactly video-studio-recovery, aiw360-story-video-provenance, router-backup-status and payroll-variance-review; it has no extra IDs and 22 status differences across the 110 shared IDs. No browser status was imported. Next merge the current feed in the owner browser, verify preservation of tasks, statuses, notes, habits, habit logs and activity, export a fresh full snapshot, then resolve the 22 conflicts individually. Do not import disputed statuses wholesale."
+      "nextAction": "Latest verified owner-browser export (21 Nov 12:04 IST) has 110 tasks; the registry and live feed have 114, including video-studio-recovery, aiw360-story-video-provenance, router-backup-status and payroll-variance-review absent from that older export. Browser UI later showed 114 tasks, 10 recorded Done and 16 Waiting, but no exact row confirmation or fresh export was obtained. Preserve statuses. Next use a supported browser readback to confirm the four rows, export a fresh full snapshot, compare private notes/habits/logs/activity, then review the 22 existing status conflicts individually."
     },
     {
       "id": "task-53",
