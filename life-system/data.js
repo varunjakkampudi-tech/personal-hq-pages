@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T15:13:52.294145+05:30",
+  "generatedAt": "2026-11-21T15:19:03.5499539+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T15:13:52.294145+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T15:19:03.5499539+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -595,7 +595,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Private task-cloud client and owner-scoped task RPCs are prepared but not live: Supabase URL/key are blank, project/migrations/auth/RLS not verified. Routines, habit check-ins and life-log moments remain local-only/read-only in cloud schema. Keep cross-device management incomplete until safe owner setup and separate revision-safe sync for these records are implemented and verified. No credentials or private data in the public feed."
+      "nextAction": "Before live setup, choose the provider region, cost/retention policy and owner sign-in method; then create a synthetic-data project and verify migrations, owner-only access, recovery and browser sync. Keep all personal data out until those gates pass. Status remains In progress; see private setup plan for current provider pricing and backup tradeoffs."
     },
     {
       "id": "task-61",
