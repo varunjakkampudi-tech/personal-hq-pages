@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 06:12:48 +05:30",
+  "generatedAt": "2026-11-21 06:14:58 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 06:12:48 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 06:14:58 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -163,7 +163,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "As of 04:36 IST on 21 Nov 2026, vidIQ returned no YouTube or Instagram destination rows for today across draft, scheduled, submitted, in-progress, completed or failed states. The 20 Nov 18:00 asset is now confirmed published on both platforms, but its visual breakdown conflicts with the original-animation brief; do not reuse it. Prepare a new owner-approved asset and exact publish time, then verify each destination after its window."
+      "nextAction": "Read-only check 21 Nov 2026 06:14 IST: vidIQ lists zero YouTube/Instagram destinations for today across draft, scheduled, submitted, in-progress, completed, failed, cancelled or reconciliation-required. Both connected accounts are active and canPublish=true. This does not establish whether direct platform posting occurred outside vidIQ. No new owner-approved asset/exact time is recorded. Prepare a fresh asset and exact publish plan; verify each destination separately after its approved window. Do not reuse the rights-unverified 20 Nov sports footage."
     },
     {
       "id": "task-18",
