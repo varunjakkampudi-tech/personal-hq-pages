@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T10:13:00+05:30",
+  "generatedAt": "2026-11-21T10:16:00+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T10:13:00+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T10:16:00+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -507,7 +507,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Latest verified owner-Chrome full export was downloaded 21 Nov at 08:17 IST (updatedAt 2026-11-21T02:47:30.028Z): 80 tasks, 0 IDs absent from the 104-task registry, and 24 current registry IDs missing. Do not import it. A click on Merge latest task updates was attempted, but the browser tool stopped before readback; Downloads has no newer export. Public Pages now serves 104 tasks. When the owner browser URL can be verified reliably, merge the latest task feed, export again and compare every ID/title/area/due/status/nextAction before syncing."
+      "nextAction": "Latest verified owner-Chrome full export was downloaded 21 Nov at 08:17 IST (updatedAt 2026-11-21T02:47:30.028Z): 80 tasks, 0 extra IDs, and 25 of the current 105 registry IDs absent. Do not import it. A click on Merge latest task updates was attempted earlier, but no merge was verified. Downloads has no newer export. The public Pages feed now serves 105 tasks. When the owner browser URL can be verified, merge the latest task feed, export again and compare every ID/title/area/due/status/nextAction before syncing."
     },
     {
       "id": "task-53",
@@ -579,7 +579,7 @@
       "area": "Life admin",
       "due": "2026-11-22",
       "status": "In progress",
-      "nextAction": "Weekly review refreshed 21 Nov 2026. Local registry now has 104 persistent tasks: 10 Done, 31 In progress, 9 Waiting, 54 Not started. The latest verified browser export had only 80 tasks and omitted 21 newer registry IDs, so it was not imported; dashboard/export reconciliation remains open in task-52. Preserve existing deadlines and all unfinished items; email summary is the only daily-refresh artifact."
+      "nextAction": "Weekly review refreshed 21 Nov 2026. Local registry has 105 persistent tasks: 10 Done, 32 In progress, 10 Waiting, 53 Not started. The latest verified 08:17 IST browser export has 80 tasks and omits 25 current registry IDs, so it was not imported; dashboard/export reconciliation remains open in task-52. Preserve all unfinished tasks; only the daily email summary refreshes."
     },
     {
       "id": "task-59",
