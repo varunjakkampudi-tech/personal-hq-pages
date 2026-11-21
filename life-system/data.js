@@ -493,7 +493,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "",
       "status": "In progress",
-      "nextAction": "The private A shared umbrella script now incorporates both ChatGPT reviews: first umbrella is explicitly for anyone needing it; the rescue uses natural Telugu and ends at a dry safe spot; the second umbrella is visibly added with a note; the established bench/framing returns for the loop. Timings remain provisional and unmeasured. Next: owner confirms Telugu/channel voice and reviews exact words/storyboard; then time a spoken read before any Google Flow generation. No upload/schedule/publication without exact final-asset approval."
+      "nextAction": "Continue the intended daily two-video workflow only when an exact brief and approved, rights-cleared assets are ready. Before each release, verify the final asset, caption, destination, and timing; then confirm YouTube and Instagram delivery separately. Use vidIQ for research, SEO, analytics and metadata only, not generation/editing/rendering. Current verified delivery checkpoint: 21 Nov Instagram Reel https://www.instagram.com/reel/DgAPB4bznyt/ completed 12:31:07Z (18:01:07 IST); YouTube Short JX97HcyOcAY is public/processed at 12:30:21Z (18:00:21 IST). Next: prepare and review the next exact brief and asset; do not infer an approved post or schedule from cadence."
     },
     {
       "id": "task-51",
