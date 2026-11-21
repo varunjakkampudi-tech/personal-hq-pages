@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T15:18:14.075Z",
+  "generatedAt": "2026-11-21T16:39:51.433Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T15:18:14.075Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T16:39:51.433Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -317,7 +317,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Owner reported on 21 Nov that the state and city dropdowns now work; no callback time is needed for that reported-fixed issue. Factori has been asked to confirm whether an externally hosted branded mailbox can be used on the public Contact page and which setting controls it; await response, then verify only the relevant public field without opening customer records."
+      "nextAction": "Gmail check 21 Nov 2026 22:08 IST: Factori Support replied 20 Nov 18:24 IST that custom-domain mailbox setup/configuration is not currently supported directly by the platform. Owner replied 20 Nov 18:46 IST asking whether an externally hosted mailbox can be used on the public Contact page and which dashboard field controls that address; no newer Factori response was found. Keep Waiting for provider answer. If/when received, verify only the public Contact field; keep account email and first-order alert routing unchanged. No customer records opened and no new email sent."
     },
     {
       "id": "task-37",
@@ -573,7 +573,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Official IPL source now supports the Dhoni retirement/CSK mentor fact in the title. The original media, footage/music/likeness/mark permissions, exact-asset approval and original-animation brief fit remain unverified. Keep Waiting; before reuse or any platform change, inspect source/project records and obtain qualified rights review and exact owner direction."
+      "nextAction": "Read-only destination check 21 Nov 2026 22:04 IST confirms the 20 Nov Instagram Reel and YouTube Short are live. Current Instagram caption calls this a fan edit and disclaims affiliation/original-footage creator; vidIQ visual review and both returned covers show photographic Dhoni/CSK cricket footage, not original animation (brief-fit mismatch verified). This does not establish source owner, license, likeness/music/mark permission or exact asset approval. Keep Waiting. Preserve evidence; obtain reliable source/rights evidence and owner direction before any post/account change or reuse."
     },
     {
       "id": "task-58",
@@ -581,7 +581,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-21",
       "status": "In progress",
-      "nextAction": "Verified 21 Nov 2026 at 20:01 IST: private registry and cache-busted deployed Pages feed both contain 120 persistent tasks — 11 Done, 40 In progress, 19 Waiting, 50 Not started. The new learning follow-up is included and the learning records remain persistent. Full dashboard export remains dated 20 Nov 06:48 IST; browser-local status reconciliation stays open under task-52. Daily review refreshes only the Gmail summary; tasks are not reset."
+      "nextAction": "Latest snapshot audit — 21 Nov 2026 22:03 IST: private registry and cache-busted deployed Pages feed both contain 121 persistent tasks — 11 Done, 41 In progress, 19 Waiting and 50 Not started. Exact ID comparison: 0 registry-only, 0 public-only; exact status comparison: 0 differences. Public feed generatedAt is 2026-11-21T15:18:14.075Z and contains no notes. Dashboard/browser-local state and activity remain unresolved under task-52; do not infer them from feed parity. No task statuses were reset or changed. Revisit priorities when verified project evidence or owner inputs change; daily Gmail refreshes only the summary."
     },
     {
       "id": "task-59",
@@ -869,7 +869,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-12-05",
       "status": "In progress",
-      "nextAction": "Continue bounded body-level review of the 1,289 indexed active ChatGPT conversations; the index count is a discovery boundary, not evidence that all conversation bodies were read. Use the dated private history ledger to resume rate-limited threads. For each relevant learning course, project, business or life commitment, record source/date, last evidenced checkpoint, exact artifact or repo/revision when available, classification (completed, active, paused, stopped, unfinished or uncertain), evidence strength, reason, blocker, next authorized action and acceptance gate. Map to existing tasks first and retain prior checkpoints. Do not infer disposition from titles or silence, or repeat/pay for training before reconciling it. Daily email refreshes only; every task persists."
+      "nextAction": "Continue bounded body-level review of the 1,290 indexed active ChatGPT conversations; the index count is a discovery boundary, not evidence that all conversation bodies were read. Use the dated private history ledger to resume rate-limited threads. For each relevant learning course, project, business or life commitment, record source/date, last evidenced checkpoint, exact artifact or repo/revision when available, classification (completed, active, paused, stopped, unfinished or uncertain), evidence strength, reason, blocker, next authorized action and acceptance gate. Map to existing tasks first and retain prior checkpoints. Do not infer disposition from titles or silence, or repeat/pay for training before reconciling it. Daily email refreshes only; every task persists."
     },
     {
       "id": "smart-building-energy-status",
