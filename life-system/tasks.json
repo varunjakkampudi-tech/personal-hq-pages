@@ -501,7 +501,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Review the local mobile/desktop task-preview refinement in open GitHub PR #1 (commit 0fab665) and follow up on the pending independent UI review. The preview now uses readable 12px two-line text while the task title opens the full editor; browser checks at 390px and 320px found no horizontal overflow and the sync warning stayed visible. PR #1 is not merged; the live Pages dashboard still has the previous version. The ChatGPT thread connector timed out, so screenshot delivery and its independent response are not confirmed. Keep this review In progress."
+      "nextAction": "Review local mobile/desktop task-preview refinement in open GitHub PR #1 and follow up on the pending independent UI review. The preview uses readable 12px two-line text while the task title opens the full editor; browser checks at 390px and 320px found no horizontal overflow and the sync warning stayed visible. PR #1 is not merged; the live Pages dashboard still has the previous version. The ChatGPT thread connector timed out, so screenshot delivery and its independent response are not confirmed. Keep this review In progress."
     },
     {
       "id": "task-52",
