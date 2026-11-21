@@ -571,7 +571,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Both destinations are public from 20 Nov 18:00 IST. vidIQ visual breakdowns report recognizable Dhoni match footage, CSK jerseys/logos and sponsor text, conflicting with the original-animation brief. Rights and exact source remain unverified. Keep Waiting; obtain owner disposition and qualified rights review before any post change or reuse."
+      "nextAction": "Both destinations are confirmed live: Instagram Reel https://www.instagram.com/reel/Df9qK4iB6bt/ and YouTube Short https://www.youtube.com/shorts/g-5ojhJY63g (public, processed; 24 sec). Delivery is verified; exact source asset, music/likeness/logo permissions and approval evidence remain unresolved. Obtain Varun disposition and qualified rights review before any edit, hide, deletion, contact, or reuse. Preserve both live posts until an authorized decision."
     },
     {
       "id": "task-58",
