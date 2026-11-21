@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 09:57:02 +05:30",
+  "generatedAt": "2026-11-21T10:03:00+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 09:57:02 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T10:03:00+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -395,7 +395,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Set up two dated production records/run cards per day for the requested 12:00 and 19:00 IST targets. Workflow guide and template are ready. Before scheduling any specific item, clear the 20 Nov rights/provenance review, confirm exact content, and obtain approval of that final asset, copy, thumbnail, destination and time; then verify YouTube and Instagram independently. Do not imply the target cadence is currently operating."
+      "nextAction": "The two 20 Nov destination posts are confirmed live. Preliminary metrics captured 21 Nov at about 10:03 IST: YouTube Short 1 view, 0 likes; Instagram Reel 9 plays, 1 like, 0 comments/shares/saves, 24.095 s average watch time on a 23 s Reel (insights may lag). Keep the 24-hour check due 21 Nov 18:30 IST and 7-day check due 27 Nov 18:30 IST; record results privately and carry forward any missing destination/analytics leg. Rights/provenance review remains open in task-57. Do not treat the cadence target as operating."
     },
     {
       "id": "task-48",
