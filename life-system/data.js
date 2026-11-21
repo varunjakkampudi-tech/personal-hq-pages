@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 09:33:07 +05:30",
+  "generatedAt": "2026-11-21 09:37:43 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 09:33:07 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 09:37:43 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -27,7 +27,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Source check 21 Nov: the owner folder still contains one DOCX, one one-page PDF and LinkedIn screenshot; no new profile URLs. PDF metadata is recorded privately but does not verify content. Confirm active account links and ownership for GitHub/LinkedIn/Naukri/Indeed/Cutshort privately; reconcile PDF/DOCX versions and owner evidence before editing any resume/profile. No source or profile changes."
+      "nextAction": "Private source inventory completed 21 Nov: the folder contains DOCX/PDF resume files and a LinkedIn cover graphic. DOCX includes LinkedIn/GitHub links only; no Naukri/Indeed/Cutshort links. The image is not a live profile capture. Next confirm the canonical resume version and privately verify current profile URLs, ownership, visibility and fields; do not edit profiles."
     },
     {
       "id": "task-1",
@@ -83,7 +83,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-12-04",
       "status": "In progress",
-      "nextAction": "The PDF visibly lists a March 2023 role start and a 4-years-of-experience headline. Reconcile this against any earlier experience, exact start date and the February 2027 application timing before changing wording. Validate project ownership, client disclosure, all outcome metrics and credentials against owner/employer evidence; source resume remains unchanged."
+      "nextAction": "The DOCX and rendered PDF both show a March 2023 role start plus a four-years-of-experience summary. Reconcile any earlier qualifying experience and the exact February 2027 wording. Validate each quantified impact, personal ownership, client disclosure and listed credential against owner/employer evidence; source files remain unchanged. Private inventory: private/career-source-inventory-2026-11-21.md."
     },
     {
       "id": "task-8",
