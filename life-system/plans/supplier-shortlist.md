@@ -11,12 +11,18 @@
 
 The [West Godavari Animal Husbandry page](https://westgodavari.ap.gov.in/departments/ah/) footer is dated 18 November 2024, and the [DWMA page](https://westgodavari.ap.gov.in/rural-development-dwma/) footer is dated 5 August 2019. Their dairy-shelter/MGNREGS content is not proof of a current scheme, eligibility or subsidy. The separate [District Officers page](https://westgodavari.ap.gov.in/district-officers/) is updated 19 August 2026 and provides a current public DAHO contact-directory lead for a future official enquiry; nobody has been contacted.
 
+## Live supplier-source refresh — 21 November 2026
+
+This refresh adds quote-screening leads, not rankings or endorsements. APEPDCL's `solar_net.pdf` contains distinct PM Surya Ghar portal and dated registered-vendor sections. Its PM portal table includes an NRGX entry at Bhimavaram; the same PDF's index does not establish that entry's current validity or suitability for a farm. NRGx's own contact page currently lists a Bhimavaram head office, and its company pages describe residential and commercial installation. This makes NRGx a reasonable first-round enquiry lead, pending direct verification of the legal entity, current utility status, agricultural references, design capability and service terms.
+
+Solis Solar Energy's site currently describes commercial rooftop work and lists a Bhimavaram office, while APEPDCL's PM Surya Ghar list dated 13 June 2024 placed Solis under Visakhapatnam. Treat the location and utility status as unresolved. Vision Security Solutions remains only a local CCTV/network enquiry lead: its site claims these services, but the live fetch failed during this refresh. SSS Sheds currently claims dairy/cattle shed work across Andhra Pradesh and Telangana; the site does not establish Bhimavaram deployments or local references. No CCTV installer or shed builder is verified as best. No vendor has been contacted.
 ## Solar power and solar-enabled CCTV
 
 First decide whether “solar CCTV” means a small independent solar supply for cameras, a farm-wide PV system that also powers cameras, or both. System capacity and batteries cannot be selected responsibly until the site, electrical loads, grid reliability, outage duration, water-pump duty, milking equipment and camera/network plan are known.
 
 | Candidate | Public evidence found | Why include in first quote round | What remains unverified |
 |---|---|---|---|
+| NRGx Renewables / NRGX | APEPDCL's PM Surya Ghar vendor table in `solar_net.pdf` contains an NRGX entry at Bhimavaram; the company's current contact page lists a Bhimavaram office and its site describes commercial installation. | First-round solar RFQ enquiry lead because both directory and vendor-site evidence point to Bhimavaram and commercial work. | The APEPDCL entry is not proof of current eligibility; company claims are unverified. Farm references, scale, grid/off-grid design, warranty, after-sales response and actual quote remain unverified. |
 | Vaaraahi Renewable Energies | Appears in APEPDCL's separate solar_net.pdf agency directory with a Bhimavaram address. It was not found in the PM Surya Ghar table checked for this update. | Keep only as an unverified local lead; ask APEPDCL whether it is currently listed and eligible for any relevant programme. | Do not describe it as currently empanelled for PM Surya Ghar based on the separate directory. Farm/off-grid/CCTV capability, current status, references, response, warranty and quote remain unverified. |
 | Solis Solar Energy | Its own site lists a Bhimavaram office and commercial rooftop work. The 13 June 2024 APEPDCL PM Surya Ghar list shows Solis under Visakhapatnam, not Bhimavaram; this is historical presence only. | Potential comparison lead only if it confirms West Godavari service and relevant project references. | Directory geography, current listing/eligibility, farm-scale or off-grid capability, engineering, warranty, local response and quote remain unverified. |
 | [GC Solar Projects](https://gcsolarprojects.com/) | Its company site claims solar EPC work across coastal Andhra and shows nearby project examples. These are vendor statements. | Potential comparison lead if it confirms site service and can provide comparable, contactable references. | Project ownership, farm/agricultural experience, technical capacity, service response, credentials, warranties and quote have not been independently verified. No bidder is ranked or selected. |
@@ -93,6 +99,7 @@ For every bidder, capture: legal business name and GSTIN; named technical lead; 
 
 ## Sources
 
+- [NRGx Renewables](https://www.nrgxsolar.com/contact-us) — company-published Bhimavaram head-office listing and contacts; commercial capabilities are company claims.
 - [GC Solar Projects](https://gcsolarprojects.com/) — company service coverage, project examples and contact details.
 - [Solis Solar Energy](https://solissolarenergy.com/) — company information and Bhimavaram office claims.
 - [APEPDCL Solar Details](https://www.apeasternpower.com/solarDetials) — official page labels its PM Suryaghar vendor list 13-06-2024; this is not current 2026 status confirmation.
