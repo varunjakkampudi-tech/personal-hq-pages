@@ -660,6 +660,14 @@ window.PERSONAL_HQ_SEED = {
       "due": "",
       "status": "Not started",
       "nextAction": "Privately track committed spend, estimates, recurring costs and available reserves across active projects. Review liquidity monthly with task-58; require owner approval before major commitments. Keep figures private."
+    },
+    {
+      "id": "task-69",
+      "title": "Resolve ValueMela storefront privacy and payment/invoice claims",
+      "area": "ValueMela",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "A privacy-safe Factori report draft is ready. Await owner confirmation before sending. Then request provider verification of the public contact-data handling and confirm payment/invoice claims against current settings without placing an order. Do not include personal contact values or change storefront settings."
     }
   ],
   "history": [
