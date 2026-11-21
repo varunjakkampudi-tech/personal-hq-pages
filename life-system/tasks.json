@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T13:43:17.8629874+05:30",
+  "generatedAt": "2026-11-21T13:52:52.8922503+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T13:43:17.8629874+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T13:52:52.8922503+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -679,11 +679,11 @@
     },
     {
       "id": "learning-copilot-cert",
-      "title": "Record owner-reported GitHub Copilot certification completion",
+      "title": "Preserve a prior professional-learning checkpoint",
       "area": "Training & learning",
       "due": "",
       "status": "Done",
-      "nextAction": "Owner reported completion in ChatGPT history; exact credential details remain unverified privately."
+      "nextAction": "Private history retains a reported completion checkpoint; exact identity and supporting evidence remain private and unverified."
     },
     {
       "id": "learning-aws-guide",
@@ -699,7 +699,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Complete the short JavaScript/TypeScript, Git/GitHub, command-line/Linux and DSA diagnostic in private/learning-baseline-2026-11-21.md; record only current gaps and a small artifact. See private/learning-progress-monitor-2026-11-21.md. Prior JS/TS completion remains owner-reported."
+      "nextAction": "Complete the short JavaScript/TypeScript, Git/GitHub, command-line/Linux and DSA diagnostic in private/learning-baseline-2026-11-21.md. A past DSA update described 2/30 levels and 13/94 problems (about 14%); verify the original report/current checkpoint before resuming. Record only current gaps and a small artifact. Prior JS/TS completion remains owner-reported."
     },
     {
       "id": "learning-frontend",
@@ -755,7 +755,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Owner-reported AWS Developer Associate completion and the published interview guide are retained separately from this open lab. Deploy or operate a small app and record IAM, networking, data, security, cost, monitoring and cleanup evidence. See the private learning progress monitor."
+      "nextAction": "Prior cloud learning and any credential details are tracked privately; keep this practical lab separate. Deploy or operate a small app and record IAM, networking, data, security, cost, monitoring and cleanup evidence."
     },
     {
       "id": "learning-gcp",
@@ -803,7 +803,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Before any enrollment, compare current requirements, fee, validity, prerequisites and full-stack role value; record exact credential evidence privately. AWS Developer Associate and Copilot remain owner-reported only; recommendations are not enrollments. See private/learning-progress-monitor-2026-11-21.md."
+      "nextAction": "Compare current requirements, fee, validity, prerequisites and full-stack role value before any enrollment; record exact credential evidence privately. Do not infer enrollment, pass, purchase or validity from recommendations or conversation summaries."
     },
     {
       "id": "learning-portfolio",
@@ -883,7 +883,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Reconcile exact course title/provider, last completed checkpoint and artifact; classify each course as active, completed, paused, stopped or not started using dated evidence. The AWS Certified Developer – Associate was owner-reported complete; exact evidence is unverified. Resolve the historically enrolled four-month AWS/DevOps training and confirm whether the Datadog course was ever started before resuming or paying."
+      "nextAction": "Reconcile exact historical course title/provider, last completed checkpoint and artifact; classify each course as active, completed, paused, stopped or not started using dated evidence. Resolve any past cloud/DevOps training and confirm whether a monitoring course was started before resuming or paying. Keep private credential details out of the public task feed."
     },
     {
       "id": "aiw360-channel-metadata",
