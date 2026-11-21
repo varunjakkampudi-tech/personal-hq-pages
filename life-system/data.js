@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:10:37.4802467Z",
+  "generatedAt": "2026-11-21T14:13:01.3510557Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T14:10:37.4802467Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T14:13:01.3510557Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -517,7 +517,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "Done",
-      "nextAction": "Automation personal-hq-daily-9-am-review-2 was updated and its saved definition verified on 21 Nov 2026: ACTIVE daily 09:00 Asia/Kolkata; persistent task carry-forward; send one new standalone date-stamped email (not a reply); do not send duplicates if today's post-09:00 summary is already current; archive older matching summary threads only after a new send is confirmed. Historical same-day messages remain untouched unless a fresh summary is successfully delivered. Verify the next scheduled run and archive action from Gmail."
+      "nextAction": "Verified on 21 Nov 2026 at 19:42 IST: sent one fresh standalone [Personal HQ Daily Tasks] 2026-11-21 email with the current 119-task registry snapshot; confirmed the new message remains in Inbox and archived the older matching summary thread only after delivery verification. The saved daily automation remains ACTIVE at 09:00 IST with persistent-task carry-forward and fresh-email semantics. Verify the next scheduled delivery; disclose browser-export freshness until task-52 is reconciled."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
