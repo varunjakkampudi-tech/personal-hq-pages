@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:45:51.4212099Z",
+  "generatedAt": "2026-11-21T11:54:42.74128Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T11:45:51.4212099Z",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:54:42.74128Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -756,8 +756,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Build and monitor an AWS application",
       "area": "Training & learning",
       "due": "",
-      "status": "Not started",
-      "nextAction": "Prior cloud learning and credential evidence stay private; keep this practical lab separate. Deploy or operate a small app and record IAM, networking, data, security, cost, monitoring and cleanup evidence."
+      "status": "In progress",
+      "nextAction": "Continue the practical cloud lab with a small app; document IAM, networking, storage, deployment, security, cost, monitoring and safe resource cleanup. Keep credential details and account-specific history private."
     },
     {
       "id": "learning-gcp",
