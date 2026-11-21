@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T20:30:00+05:30",
+  "generatedAt": "2026-11-21T14:52:47.818Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T20:30:00+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T14:52:47.818Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -509,7 +509,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "A read-only Chrome check at 21 Nov 19:06 IST showed 110 browser-local tasks (7 Done, 20 Waiting); the page references 117 feed tasks. The export control failed with “coordinate input geometry is unavailable,” and no new Downloads file appeared. The latest inspectable export remains the 80-task 21 Nov 08:17 file: 37 current registry IDs absent, 23 status conflicts, 56 note differences. Obtain a fresh complete export payload and compare task IDs, statuses, notes, habits, activity and moments before any import. Preserve all current statuses until row-level evidence resolves conflicts."
+      "nextAction": "Fresh Chrome export at 2026-11-21T14:47:36.382Z has 117 tasks; the private/live feed already has 120. It omits task-77, task-78, learning-unresolved-followup and conflicts on 25 statuses, 94 notes and 6 title/area/due fields. Do not sync it over the private registry. Safely merge the 3 desktop tasks into the browser while preserving local statuses/notes, export the complete set, then compare conflicts row by row and keep evidence-backed values."
     },
     {
       "id": "task-53",
