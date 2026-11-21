@@ -187,7 +187,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Compare the signed Factori agreement with the current dashboard return-policy settings and raw canonical policy/version; the public policy page rewrites displayed 7-day wording to 24 hours and the policy text states no gateway was enabled as of 18 Nov. Treat those as public copy observations, not account configuration or transaction evidence. Verify current settings read-only, reconcile the policy/App Policy versions, then inspect seller/order acceptance, invoice, payment/settlement, dispatch/warehouse and return/refund evidence if transactions exist. Complete entity/state, turnover and historical facts privately and obtain a written CA determination; no GST-route conclusion from policy wording alone."
+      "nextAction": "Current public policy check 21 Nov: agreement and current public policy state that seller identity/business and support details should be confirmed before order acceptance; the public policy API is still dated 19 Nov and the currently served policy-page script continues rewriting seven-day text to 24-hour defect-report wording. This does not prove actual checkout, account configuration or transactions. Compare the signed Factori agreement with authenticated dashboard return/payment settings and transaction/fulfilment evidence if any; complete entity/state/turnover facts securely and obtain written CA advice. No GST conclusion from public copy alone."
     },
     {
       "id": "task-21",
@@ -619,7 +619,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "ValueMela",
       "due": "",
       "status": "In progress",
-      "nextAction": "Resolve storefront policy consistency before treating operational readiness as met: compare current dashboard return/payment settings, raw canonical policy documents and versions, App Policy/agreement hierarchy, and rendered page/JavaScript behavior; verify seller identity/order confirmation, support and remedies, delivery/cancellation/refund flow, customer disclosures and payment availability by read-only checks. Inspect checkout without submitting only if safe; review transaction evidence securely only if any exists. Route potentially restrictive 24-hour/defect-only wording for qualified legal review. Do not edit policies or change settings until source and legal review support the exact correction. Keep promotion/readiness gate open."
+      "nextAction": "Current public check 21 Nov: canonical policy API is unchanged from 19 Nov; its Refund Policy preserves remedies required by law. The currently served policy-page chunk still rewrites seven-day wording to 24-hour defect-report wording. Old JS URL is obsolete; current asset and hashes are recorded privately. Read-only verify dashboard return/payment configuration, exact canonical policy version, current checkout without submission if safe, and notice/claim workflow; secure transaction evidence only if it exists. Refer exact rendered/canonical terms to qualified counsel. No policy edit, settings change or readiness conclusion."
     },
     {
       "id": "task-64",
