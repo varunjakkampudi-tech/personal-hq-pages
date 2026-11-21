@@ -619,7 +619,7 @@
       "area": "ValueMela",
       "due": "",
       "status": "In progress",
-      "nextAction": "Private review found a potential privacy exposure in the public store-info response, while the storefront hides contact fields; details are retained only in the private incident note. Review the configuration through an authenticated owner channel and ask Factori to confirm server-side redaction without sending exposed values. Also verify intended business support/grievance details and check prepaid/GST-invoice claims against current checkout setup without placing an order. Do not expose personal contacts or change production settings until the exact business contact choice and supported fix are established."
+      "nextAction": "An unsent privacy/security report draft is prepared for Factori; owner should review and send it through the verified support contact or another secure channel. It contains no exposed values. Separately review intended public business contact/grievance details and verify the fix through an anonymous field-presence check after Factori responds. Validate the hard-coded prepaid/GST-invoice claims against current checkout setup without placing an order. Do not expose personal contacts or alter production settings until the exact business contact choice and supported fix are established."
     },
     {
       "id": "task-64",
