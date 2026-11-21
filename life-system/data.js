@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:22:46.9679054+05:30",
+  "generatedAt": "2026-11-21T14:26:45.6026295+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T14:22:46.9679054+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T14:26:45.6026295+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -900,6 +900,14 @@ window.PERSONAL_HQ_SEED = {
       "due": "",
       "status": "Waiting",
       "nextAction": "Review the private history note and confirm whether the earlier home-purchase goal remains active, along with property type and planning horizon. If it is current, refresh location-specific market research before relying on any estimate; no purchase, loan or commitment is recorded."
+    },
+    {
+      "id": "payroll-variance-review",
+      "title": "Check whether a past payroll question is resolved",
+      "area": "Life admin",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "Check privately whether the earlier payroll question is resolved. If it is still open, compare the relevant payslips and employer payroll breakdown before attributing the variance; keep pay figures and employer details private."
     }
   ],
   "history": [
