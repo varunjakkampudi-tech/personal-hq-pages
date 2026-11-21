@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T10:50:00+05:30",
+  "generatedAt": "2026-11-21T11:10:00+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21T10:50:00+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21T11:10:00+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -843,7 +843,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Read-only repository review on 21 Nov 2026: the private project repository is accessible; latest listed commit is 7b83a0b dated 21 Jun 2026 and no issues are open. README describes an AI assistant but does not establish that its listed features run or that this is the exact historical Shivaan AI project. Next reconcile the user history and current project checklist/runtime evidence, then record continue, pause or stop without exposing credentials."
+      "nextAction": "Reconcile the personal-assistant project identity and current codebase. Connected GitHub confirms one private assistant repository with latest listed commit dated 21 Jun 2026; separately, history says the owner downloaded OpenClaw main for a custom Jarvis-style assistant, but no matching checkout was found in Desktop/Downloads and no owner OpenClaw repository was found in GitHub search. Confirm whether these are the same project or alternate foundations, locate the intended source, and record continue/pause/stop. Do not modify code or expose credentials."
     },
     {
       "id": "task-74",
@@ -868,6 +868,14 @@ window.PERSONAL_HQ_SEED = {
       "due": "2026-12-05",
       "status": "In progress",
       "nextAction": "Continue the private history ledger in bounded batches. For every unique project or commitment, check the latest source thread and repository/app evidence; map it to an existing task or create one only when missing. Classify as active, paused, completed, stopped or needs owner decision, preserve its last checkpoint/reason, and record the next concrete action. Do not revive brainstorms or claim completion from chat titles. See private/chatgpt-history-project-reconciliation-2026-11-21.md."
+    },
+    {
+      "id": "smart-building-energy-status",
+      "title": "Preserve Smart Building Energy System checkpoint and confirm continuation decision",
+      "area": "Smart building energy",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "Preserve the documented V2 baseline, Stage 1/2 acceptance, V2→V3 comparison and historical Stage 3 record. Reconcile historical Stage 3 work with the explicit V2 frozen, V3 not started and Step 3 on hold states without assuming they are the same milestone. Wait for an owner decision before any new review or implementation. No code, deployment, physical IoT/control, AI integration, production-readiness claim or spend is authorized."
     }
   ],
   "history": [
