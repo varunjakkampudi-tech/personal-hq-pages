@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21 05:55:06 +05:30",
+  "generatedAt": "2026-11-21 05:56:16 +05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-21 05:55:06 +05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-21 05:56:16 +05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -499,7 +499,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Current live Pages focus-color fix is published at source e4146a0 / Pages fbbc8e3. Live Chrome checks at 320×568 and 390×844 confirm 3px forest-green focus on the first Tab stop, no horizontal overflow, 11 priority task rows loaded and no page errors. Latest screenshots are on the private Mobile Dashboard Screenshot Review Page. Independent reviewer could not access its images, so no screenshot-specific independent findings are claimed. Still verify Space activation/checked announcement, actual touch target hit regions, 200% zoom and screen-reader output before completion."
+      "nextAction": "Current live Pages focus-color fix is published at source e4146a0 / Pages fbbc8e3. Live Chrome checks at 320×568 and 390×844 confirm no horizontal overflow and a 3px forest ring. Keyboard Tab reaches a labeled 44×44 checkbox at 320×568; the whole hit target is above the fixed nav and Space toggles it in the isolated browser. Latest screenshots are on the private Mobile Dashboard Screenshot Review Page, but the independent reviewer cannot access its images. Still verify 200% zoom, real screen-reader output and task persistence before completion."
     },
     {
       "id": "task-52",
