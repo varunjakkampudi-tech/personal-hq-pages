@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T13:22:16.747Z",
+  "generatedAt": "2026-11-22T13:29:28.356Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-22T13:22:16.747Z",
+  "sourceSnapshotUpdatedAt": "2026-11-22T13:29:28.356Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -501,7 +501,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Live Pages release verified 22 Nov 2026: task-preview PR #4 and cache-key PR #5 are merged; the Pages build succeeded. Public dashboard HTML and cache-busted app.js both return HTTP 200 and include the separate responsive next-action preview. Fresh 390×844 and 320×568 screenshots are live, and an independent premium UI review was requested in the existing Business Empire Plan ChatGPT conversation. Keep In progress until reviewer feedback is received and assessed."
+      "nextAction": "Screenshot review completed 22 Nov 2026 using the exact live 320×568 and 390×844 captures: warning/merge stays visible and content has no obvious horizontal overflow. At 320×568 the fixed bottom navigation crosses the first task card at initial scroll; verify full task clearance. Clarify desktop-feed versus private-sync/stale-browser wording and measure checkbox/details hit regions. A second opinion was requested in the existing Business Empire Plan chat; keep In progress until received and any agreed UI/accessibility follow-up is reviewed. No code or account changes."
     },
     {
       "id": "task-52",
