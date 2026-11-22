@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T18:01:00+05:30",
+  "generatedAt": "2026-11-22T13:13:19.121Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-22T18:01:00+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-22T13:13:19.121Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -893,7 +893,7 @@
       "area": "AI World 360",
       "due": "",
       "status": "In progress",
-      "nextAction": "Current owner inventory returned 10 public videos; the 13 Nov audit recorded 17. Reconcile the seven-record difference from exact historical IDs before claiming a complete archive; do not infer deletion. Current metadata search found no “Hridaya Swaram” in the 10 titles, descriptions or tags. Prepare exact field-by-field proposals and preserve video IDs/history; playlist inventory remains unchecked. Apply no change until exact changes and credit cost are approved. Historical channel-logo reconciliation (11 Nov 2026): compare the conflicting recommendations and owner statement about a manual change with current channel-profile evidence; record whether a change occurred and whether any decision remains. Do not infer completion or approval from historical discussion."
+      "nextAction": "Reconcile the seven-record inventory difference and playlist inventory. Also compare the two privately archived thumbnail candidates with the live thumbnail for the 17 Nov Kedarnath upload (likely video Yqr_YpvOxi8); confirm whether either image is the exact owner-approved choice before any change."
     },
     {
       "id": "property-purchase-status",
@@ -965,7 +965,7 @@
       "area": "Life admin",
       "due": "",
       "status": "Waiting",
-      "nextAction": "The history contains two potentially related design threads: one delivered front/back sandbox drafts and another explicitly left a photo/banner edit unfinished. Their relationship and current event need are unconfirmed, and the source images are not attached here. Confirm whether either deliverable still needs work; if so, provide the original authorized image/assets and exact requirements. Do not reuse, publish, or distribute identifiable people’s images without an appropriate basis and exact owner direction."
+      "nextAction": "The owner approved the historical front/back design in its source thread, but downstream use is unverified. A separate photo/banner edit explicitly remained unfinished; whether it is the same deliverable is unconfirmed. Confirm only if that separate edit is still wanted, then recover the authorized original asset and exact requirements before editing or distribution."
     },
     {
       "id": "task-78",
