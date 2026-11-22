@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T13:29:28.356Z",
+  "generatedAt": "2026-11-22T13:34:19.453Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-22T13:29:28.356Z",
+  "sourceSnapshotUpdatedAt": "2026-11-22T13:34:19.453Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -517,7 +517,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "Done",
-      "nextAction": "Verified on 21 Nov 2026 at 23:35 IST: sent a fresh standalone [Personal HQ Daily Tasks] 2026-11-21 email with the current 121-task snapshot (11 Done, 41 In progress, 19 Waiting, 50 Not started). The email includes the learning baseline and course-history carry-forward. Confirmed message in Gmail Sent; archived three older matching same-date summary threads only after verifying the new send. The active 09:00 IST automation preserves tasks and refreshes the summary only. Verify the next scheduled delivery; task-52 browser-export reconciliation remains open."
+      "nextAction": "Gmail verification — 22 Nov 2026: exact-subject standalone [Personal HQ Daily Tasks] 2026-11-22 was sent to the owner at 12:55 IST and matches the current 121-task snapshot (11 Done, 41 In progress, 19 Waiting, 50 Not started). Gmail search found the prior matching summaries already outside Inbox; no duplicate email sent and no archive action was needed. The 9 AM IST automation remains active and refreshes the summary only; verify the next scheduled delivery."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
@@ -581,7 +581,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-21",
       "status": "In progress",
-      "nextAction": "Latest snapshot audit — 21 Nov 2026 22:03 IST: private registry and cache-busted deployed Pages feed both contain 121 persistent tasks — 11 Done, 41 In progress, 19 Waiting and 50 Not started. Exact ID comparison: 0 registry-only, 0 public-only; exact status comparison: 0 differences. Public feed generatedAt is 2026-11-21T15:18:14.075Z and contains no notes. Dashboard/browser-local state and activity remain unresolved under task-52; do not infer them from feed parity. No task statuses were reset or changed. Revisit priorities when verified project evidence or owner inputs change; daily Gmail refreshes only the summary."
+      "nextAction": "Weekly priority review — 22 Nov 2026: registry and live public feed both contain 121 tasks (11 Done, 41 In progress, 19 Waiting, 50 Not started). Open overdue reviews: task-57 (due 20 Nov; rights/source/approval evidence unresolved) and this task-58 (due 21 Nov). Next dated cluster is 25 Nov (resume/profile links, publishing setup, ValueMela model, AI World workflow); 28 Nov includes dairy mix, CareerScope priorities, GST determination, routine and health-preference intake. Current calendar capacity is unknown; keep this In progress until a realistic review/study capacity window is established. Daily email does not reset tasks."
     },
     {
       "id": "task-59",
