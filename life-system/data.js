@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T20:36:29.196972+05:30",
+  "generatedAt": "2026-11-22T20:39:27.1396148+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-22T20:36:29.196972+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-22T20:39:27.1396148+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -821,7 +821,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue bounded review of unreconciled ChatGPT conversation bodies and verify named artifacts/repositories. The 21 Nov review added task-78 for an owner decision on the distinct smart-traffic concept and mapped OraOne homepage design reviews to task-27; the latest recorded design round failed its threshold. Record dated evidence, intent, disposition, blocker, next authorized action and acceptance gate privately. Keep the history audit In progress; do not infer project activation from an exploratory thread."
+      "nextAction": "Continue bounded review of the 1,291-title ChatGPT index; body coverage is still partial. 22 Nov findings map to existing CareerScope task-62, LensMate task-31, AI World 360 task-57 and dairy-farm tasks. Preserve evidence strength, uncertainty and approval gates; do not infer status from silence."
     },
     {
       "id": "task-71",
