@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T00:29:06+05:30",
+  "generatedAt": "2026-11-23T00:41:06+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T00:29:06+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T00:41:06+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -821,7 +821,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue bounded review of the 1,293-title ChatGPT index; body coverage is still partial. 22 Nov findings map to existing CareerScope task-62, LensMate task-31, AI World 360 task-57 and dairy-farm tasks. Preserve evidence strength, uncertainty and approval gates; do not infer status from silence."
+      "nextAction": "Continue body-level review of the 1,293-title ChatGPT index; body coverage remains partial. Recent findings map to existing CareerScope task-62, LensMate task-31, AI World 360 task-57, task-78 smart-traffic owner decision and OraOne homepage task-27 (latest design round below threshold). 23 Nov: Murrah Buffalo Feed Needs contained conflicting approximate ration suggestions; existing dairy intake requires a qualified nutritionist, so no feeding recommendation or duplicate task. Actual feeding and purchase remain unverified. Preserve evidence, uncertainty and approval gates; do not infer completion or activation from silence."
     },
     {
       "id": "task-71",
