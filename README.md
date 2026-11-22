@@ -1,6 +1,6 @@
 # Personal HQ
 
-The Pages site redirects to [`life-system/`](life-system/), a responsive life dashboard with task tracking, dated history, project plans, routine check-ins, and backup/restore.
+The [live Personal HQ dashboard](https://varunjakkampudi-tech.github.io/personal-hq-pages/) redirects to [`life-system/`](life-system/), a responsive life dashboard with task tracking, dated history, project plans, routine check-ins, and backup/restore.
 
 ## Public data and sync
 
