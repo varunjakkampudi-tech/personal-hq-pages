@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T00:20:04+05:30",
+  "generatedAt": "2026-11-23T00:29:06+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T00:20:04+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T00:29:06+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -797,7 +797,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "OpenAI Academy currently lists Design and Build Agentic Systems; the API Builder Bootcamp covers API Foundations, Agents, Realtime, RAG and Production/Optimization. Its Aug–Sep 2026 live dates have passed; certificate eligibility was tied to full attendance, so recordings do not prove it. Check course access/progress, then record a dated first module/artifact; keep Hugging Face → DeepLearning.AI → LangChain as a complementary branch. No enrollment/completion inferred."
+      "nextAction": "After baseline and agentic AI foundations, study MCP host/client/server roles, tools/resources/prompts, transports and authorization/security; build a small local client/server sandbox and record the artifact. Check current OpenAI Academy access/progress before choosing a dated first module; keep Hugging Face → DeepLearning.AI → LangChain as a complementary branch. No enrollment/completion inferred."
     },
     {
       "id": "learning-credentials",
