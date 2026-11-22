@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T12:32:03.7631164+05:30",
+  "generatedAt": "2026-11-22T17:33:21.8087695+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-22T12:32:03.7631164+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-22T17:33:21.8087695+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -357,7 +357,7 @@
       "area": "FixHub24",
       "due": "",
       "status": "In progress",
-      "nextAction": "Owner review remains needed for PR #23 (body-parser security upgrade); it is open and exact-head CI plus dependency audit passed. PR #24 is also open; recorded runs show the dependency audit failing for the unresolved body-parser advisory and seroval advisories. After PR #23 is resolved, recheck PR #24 base and exact-head CI/audit, using current evidence rather than older browser notes. Resolve through PRs; do not merge without owner authorization."
+      "nextAction": "Latest live check — 22 Nov 2026: scheduled main CI run #154 at 7ce251f failed only at npm audit. The log reports high body-parser 2.0.0–2.3.0 (GHSA-27r3-jxmh-p828) and moderate seroval 1.5.5–1.6.10 (GHSA-f86p-h4j2-7qgj; GHSA-9wx9-5pv9-3349); lint, typecheck, functional/Playwright suites and production build passed; later documentation checks were skipped after the audit gate failed. PR #23 (body-parser 2.4.0, head d9a1780) is open with CI success; PR #24 (seroval 1.7.7, head c4f0bdd) is open with CI failure while the body-parser advisory remains on base. Both target main 7ce251f. Owner review remains required; do not merge without explicit owner authorization. Preserve existing local .env.example change."
     },
     {
       "id": "task-42",
