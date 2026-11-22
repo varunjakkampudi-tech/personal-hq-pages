@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T21:34:52.6690116+05:30",
+  "generatedAt": "2026-11-22T23:51:07+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-22T21:34:52.6690116+05:30",
-  "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
+  "sourceSnapshotUpdatedAt": "2026-11-22T23:51:07+05:30",
+  "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -501,7 +501,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Live mobile QA 22 Nov 2026 at Pages commit 4b12899: verified 320×568 and 390×844. Task Details/Next, metric info and Export tasks controls measure 44px high; other visible priority actions and plan links also meet 44px. No horizontal overflow; root scrolling is disabled so the dashboard uses one internal scroll area. Enter opens task details; Escape closes and restores focus. Latest Pages workflow 45039387141 succeeded. Keep In progress until the independent visual review is received and assessed; real-device screen-reader and 200% zoom/reflow remain unverified."
+      "nextAction": "Independent ChatGPT second-pass review accepted the local 320×568/390×844 task hierarchy. Playwright confirmed 44×44 visible checkbox/Details targets, Details opens the selected task, hidden rows stay out of layout, and no horizontal overflow. Local only; keyboard-only, 200% zoom, screen-reader and release checks remain open."
     },
     {
       "id": "task-52",
@@ -517,7 +517,7 @@
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "In progress",
-      "nextAction": "Verify whether the next scheduled 9:00 AM IST run delivers the fresh standalone summary at the configured time. On 22 Nov 2026, the accurate 121-task summary was sent at 12:55 IST, so on-time delivery is not verified even though the daily automation remains active and configured for 9:00 AM. Keep this task In progress until exact delivery time is evidenced."
+      "nextAction": "Verify whether the next scheduled 9:00 AM IST run delivers the fresh standalone summary at the configured time. On 22 Nov 2026, the initial summary was sent at 12:55 IST (11 Done, 41 In progress); a later corrected same-day summary was sent at 21:32 IST (10 Done, 42 In progress), with both showing 121 tasks. Delivery occurred, but not at the configured 9:00 AM time; keep In progress until exact-time delivery is evidenced."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
@@ -613,7 +613,7 @@
       "area": "CareerScope",
       "due": "",
       "status": "In progress",
-      "nextAction": "Read-only GitHub refresh 22 Nov 2026 21:25 IST: PR #132 remains open/draft/unmerged at current head 59d86b0cf5a6d171a3ab9fd4963e8f4666c63893 on codex/stage08-item803-match-trust-sort, base dev. Exact-head CI run 45039336375 succeeded: Quality gates, Services/integration/browser (including axe, keyboard and responsive checks), and Production image build (not pushed). Optional performance, soak and recovery jobs were skipped. GitHub formal review list is empty; prior approvals remain SHA-scoped. Keep owner acceptance and release gates open; no merge/deployment."
+      "nextAction": "PR #132 item 10.09 is engineering-approved only at SHA 2e1f9f2; all three exact-head CI jobs passed. Official item stays PARTIAL pending owner verification; PR remains draft/unmerged, and merge/deploy are not authorized. Other checklist items are outside that approval. PR #134 still lacks hosted CI."
     },
     {
       "id": "task-63",
@@ -797,7 +797,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "The “OpenAI Agentic AI Course” history records a course recommendation request, not enrollment or completion. Reconcile any direct course account/checkpoint evidence before starting; then complete one ordered foundation module and a small tool-using agent with scoped tools, human approval for consequential actions, evaluation, failure handling and cost notes. For employer/client data, follow the organization-approved tool policy; keep demos on synthetic data until authorized. Never grant broad account access by default."
+      "nextAction": "OpenAI Academy currently lists Design and Build Agentic Systems; the API Builder Bootcamp covers API Foundations, Agents, Realtime, RAG and Production/Optimization. Its Aug–Sep 2026 live dates have passed; certificate eligibility was tied to full attendance, so recordings do not prove it. Check course access/progress, then record a dated first module/artifact; keep Hugging Face → DeepLearning.AI → LangChain as a complementary branch. No enrollment/completion inferred."
     },
     {
       "id": "learning-credentials",
@@ -805,7 +805,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Compare current requirements, fee, validity, prerequisites and full-stack role value before any enrollment; record exact credential evidence privately. Do not infer enrollment, pass, purchase or validity from recommendations or conversation summaries."
+      "nextAction": "Before any course or exam purchase, verify the current official exam version, eligibility, fee and prerequisites. AWS says DVA-C02 last exam day is 30 Nov 2026 and DVA-C03 delivery begins 1 Dec 2026; do not buy an older DVA-C02 course without rechecking current guide value. A separate AWS Developer Associate credential remains owner-reported only; verify privately before any profile claim."
     },
     {
       "id": "learning-portfolio",
@@ -821,7 +821,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue bounded review of the 1,291-title ChatGPT index; body coverage is still partial. 22 Nov findings map to existing CareerScope task-62, LensMate task-31, AI World 360 task-57 and dairy-farm tasks. Preserve evidence strength, uncertainty and approval gates; do not infer status from silence."
+      "nextAction": "Continue bounded review of the 1,292-title ChatGPT index; body coverage is still partial. 22 Nov findings map to existing CareerScope task-62, LensMate task-31, AI World 360 task-57 and dairy-farm tasks. Preserve evidence strength, uncertainty and approval gates; do not infer status from silence."
     },
     {
       "id": "task-71",
@@ -869,7 +869,7 @@
       "area": "Life admin",
       "due": "2026-12-05",
       "status": "In progress",
-      "nextAction": "Continue bounded body-level review of the 1,291-title active ChatGPT index (26 pages; archived index empty); body coverage is partial. Track completed, active, paused, stopped, unfinished and uncertain work across learning, projects and life commitments using dated sources, last checkpoint/artifact, evidence strength, reason/blocker, next authorized action and acceptance gate. Map discoveries to existing tasks first; preserve statuses and prior checkpoints; do not infer disposition from titles or silence. Only the 9 AM IST Gmail summary refreshes; every task persists."
+      "nextAction": "Continue bounded body-level review of the 1,292-title active ChatGPT index (26 pages; archived index empty); body coverage is partial. Track completed, active, paused, stopped, unfinished and uncertain work across learning, projects and life commitments using dated sources, last checkpoint/artifact, evidence strength, reason/blocker, next authorized action and acceptance gate. Map discoveries to existing tasks first; preserve statuses and prior checkpoints; do not infer disposition from titles or silence. Only the 9 AM IST Gmail summary refreshes; every task persists."
     },
     {
       "id": "smart-building-energy-status",
