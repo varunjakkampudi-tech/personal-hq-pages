@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T20:29:35.945486+05:30",
+  "generatedAt": "2026-11-22T20:36:29.196972+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-22T20:29:35.945486+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-22T20:36:29.196972+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -613,7 +613,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "CareerScope",
       "due": "",
       "status": "In progress",
-      "nextAction": "PR #132 current head 7e2b6a4798578bd2ab8f64193df7c9270d513595 remains open/draft/unmerged. Exact-head run 45028950118 succeeded across Quality, Services/integration/browser (including accessibility/keyboard/responsive), and production-image-build (not pushed). This head is one commit after SHA-specific Stage 10.01 approval 82ca961; the added commit focuses on Stage 10.02 browser coverage and related docs/audit. Preserve prior approval only on its SHA; current-head item-scoped independent review and owner verification remain pending. No merge or deployment."
+      "nextAction": "Read-only GitHub refresh 22 Nov: PR #132 is open/draft/unmerged at a3644bcab70006e0f4b5d3fca3c99043d7ced9e4; exact-head CI run 45034557036 passed Quality gates, Services/integration/browser, and Production image build (not pushed). Prior item-scoped approvals apply only to earlier SHAs. Review the current diff and keep owner verification, merge and deployment gated."
     },
     {
       "id": "task-63",
