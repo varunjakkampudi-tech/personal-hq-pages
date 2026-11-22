@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T23:51:07+05:30",
+  "generatedAt": "2026-11-23T00:04:47+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-22T23:51:07+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T00:04:47+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -821,7 +821,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue bounded review of the 1,292-title ChatGPT index; body coverage is still partial. 22 Nov findings map to existing CareerScope task-62, LensMate task-31, AI World 360 task-57 and dairy-farm tasks. Preserve evidence strength, uncertainty and approval gates; do not infer status from silence."
+      "nextAction": "Continue bounded review of the 1,293-title ChatGPT index; body coverage is still partial. 22 Nov findings map to existing CareerScope task-62, LensMate task-31, AI World 360 task-57 and dairy-farm tasks. Preserve evidence strength, uncertainty and approval gates; do not infer status from silence."
     },
     {
       "id": "task-71",
@@ -845,7 +845,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "The historical local Expo project folder is absent from this desktop, and the accessible candidate repository does not establish that it is the same project. Confirm the source archive or repository mapping and the desired project before runtime, account or code work; keep the projects separate meanwhile."
+      "nextAction": "History body check 23 Nov 2026: “AI email organizer app” records failed Expo Web bundle/config attempts and an inaccessible starter ZIP, but no successful build. Desktop check found no ShivaanOS folder; identity of the separate candidate repository remains unconfirmed. Next locate source files/archive and confirm desired scope before code or runtime work."
     },
     {
       "id": "task-74",
@@ -869,7 +869,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-12-05",
       "status": "In progress",
-      "nextAction": "Continue bounded body-level review of the 1,292-title active ChatGPT index (26 pages; archived index empty); body coverage is partial. Track completed, active, paused, stopped, unfinished and uncertain work across learning, projects and life commitments using dated sources, last checkpoint/artifact, evidence strength, reason/blocker, next authorized action and acceptance gate. Map discoveries to existing tasks first; preserve statuses and prior checkpoints; do not infer disposition from titles or silence. Only the 9 AM IST Gmail summary refreshes; every task persists."
+      "nextAction": "Continue bounded body-level review of the 1,293-title active ChatGPT index (26 pages; archived index empty); body coverage is partial. Track completed, active, paused, stopped, unfinished and uncertain work across learning, projects and life commitments using dated sources, last checkpoint/artifact, evidence strength, reason/blocker, next authorized action and acceptance gate. Map discoveries to existing tasks first; preserve statuses and prior checkpoints; do not infer disposition from titles or silence. Only the 9 AM IST Gmail summary refreshes; every task persists."
     },
     {
       "id": "smart-building-energy-status",
