@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T20:56:25.744535+05:30",
+  "generatedAt": "2026-11-22T21:11:25.2736716+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-22T20:56:25.744535+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-22T21:11:25.2736716+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -501,7 +501,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Live responsive refinement published. At 320×568: first card ends y=492.8, nav begins y=504.7; 44×44 Next button; no horizontal overflow. Breakpoint audit found and fixed overlap at 602px by keeping the preview hidden through 640px: 602px card/nav gap 46.3px, preview hidden; 642px preview visible with 26.5px clearance. At 390×844 previews remain visible and no overflow. ChatGPT reviewer accepted measurements but has not visually inspected screenshots; visual/accessibility approval remains pending. Finish keyboard/focus, zoom, persistence and scroll-to-end checks. Canonical source draft PR #2 is open."
+      "nextAction": "Live mobile QA 22 Nov 2026 at Pages commit 4b12899: verified 320×568 and 390×844. Task Details/Next, metric info and Export tasks controls measure 44px high; other visible priority actions and plan links also meet 44px. No horizontal overflow; root scrolling is disabled so the dashboard uses one internal scroll area. Enter opens task details; Escape closes and restores focus. Latest Pages workflow 45039387141 succeeded. Keep In progress until the independent visual review is received and assessed; real-device screen-reader and 200% zoom/reflow remain unverified."
     },
     {
       "id": "task-52",
