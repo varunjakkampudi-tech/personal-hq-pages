@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T21:11:25.2736716+05:30",
+  "generatedAt": "2026-11-22T21:18:46.1086465+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-22T21:11:25.2736716+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-22T21:18:46.1086465+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -613,7 +613,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "CareerScope",
       "due": "",
       "status": "In progress",
-      "nextAction": "Read-only GitHub refresh 22 Nov: PR #132 is open/draft/unmerged at a3644bcab70006e0f4b5d3fca3c99043d7ced9e4; exact-head CI run 45034557036 passed Quality gates, Services/integration/browser, and Production image build (not pushed). Prior item-scoped approvals apply only to earlier SHAs. Review the current diff and keep owner verification, merge and deployment gated."
+      "nextAction": "Read-only GitHub refresh 22 Nov 2026 21:25 IST: PR #132 remains open/draft/unmerged at current head 59d86b0cf5a6d171a3ab9fd4963e8f4666c63893 on codex/stage08-item803-match-trust-sort, base dev. Exact-head CI run 45039336375 succeeded: Quality gates, Services/integration/browser (including axe, keyboard and responsive checks), and Production image build (not pushed). Optional performance, soak and recovery jobs were skipped. GitHub formal review list is empty; prior approvals remain SHA-scoped. Keep owner acceptance and release gates open; no merge/deployment."
     },
     {
       "id": "task-63",
