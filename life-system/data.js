@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T13:13:19.121Z",
+  "generatedAt": "2026-11-22T13:22:16.747Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-22T13:13:19.121Z",
+  "sourceSnapshotUpdatedAt": "2026-11-22T13:22:16.747Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -613,7 +613,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "CareerScope",
       "due": "",
       "status": "In progress",
-      "nextAction": "Current check 21 Nov 2026: PR #130 remains open/draft/unmerged at 3d3ad06. Exact-head run 44906147142 completed successfully: quality, production image build (not pushed), integration, browser, axe, keyboard and responsive jobs all passed. Independent exact-head review still has two blocking findings recorded privately. Item 8.02 remains partial; obtain item-scoped authorization before corrections, then rerun exact-head review and owner acceptance. No merge or deployment."
+      "nextAction": "Current GitHub review — 22 Nov 2026: open PR #131 (Stage 6.01, head 8854bc3) exact-head CI run 44911967653 succeeded; independent review and owner acceptance remain open. Draft PR #132 (Stages 8.03/10, current API head 498731a) has exact-head CI run 45026221054 in progress; its body also references an earlier 0edfab head whose run 45025194512 was cancelled. Draft PR #133 (Stage 9.09–9.10, head d3bd915) exact-head run 44925487357 failed; draft fix PR #134 (head 04246dd) has no hosted run. All four are open/unmerged. Keep affected roadmap items partial; check exact-head CI/reviews and the owner-authorized roadmap queue before code changes. No merge or deployment."
     },
     {
       "id": "task-63",
