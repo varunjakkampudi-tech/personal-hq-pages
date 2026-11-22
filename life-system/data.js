@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T00:04:47+05:30",
+  "generatedAt": "2026-11-23T00:15:23+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T00:04:47+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T00:15:23+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -990,6 +990,14 @@ window.PERSONAL_HQ_SEED = {
       "due": "",
       "status": "In progress",
       "nextAction": "Review historical repository exposure and document whether cleanup is warranted; preserve recovery copies and do not rewrite shared history without explicit authorization."
+    },
+    {
+      "id": "financial-analysis-review",
+      "title": "Review historical financial analysis status",
+      "area": "Life admin",
+      "due": "",
+      "status": "Waiting",
+      "nextAction": "Confirm whether the older financial report still needs follow-up. If relevant, compare current records privately; keep account numbers, statements and amounts out of Personal HQ. No external contact or payment action is authorized."
     }
   ],
   "history": [
