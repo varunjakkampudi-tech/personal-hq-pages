@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T20:39:27.1396148+05:30",
+  "generatedAt": "2026-11-22T20:43:25.4704246+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-22T20:39:27.1396148+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-22T20:43:25.4704246+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -165,7 +165,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Last read-only check on 21 Nov 11:07 IST found no new post rows that day. Continue the requested two-video/day target at 12:00 and 19:00 IST without treating it as an operating cadence until each delivery is verified. Owner rule: use vidIQ for research, SEO, analytics and metadata only; do not generate, remix, edit or render videos in vidIQ. Before using Google Flow or another owner-approved generator, review the exact asset plan and costs. Verify each destination separately and record live URLs, approval and provenance."
+      "nextAction": "Read-only delivery check 22 Nov 2026: official YouTube channel RSS lists Short OAd58PufJ3E, “A Moment of Peace,” published 12:30:08Z (18:00:08 IST). vidIQ lists Instagram as a dated draft for 12:30Z, not scheduled; saved draft also has a YouTube draft destination with no time. The live Short and saved draft asset are not conclusively matched. Do not publish/schedule from cadence; verify exact media and owner approval first. Continue the requested two-video/day target only when exact, approved, rights-cleared assets are ready; confirm each destination separately. vidIQ remains research/SEO/analytics/metadata only, not generation or editing."
     },
     {
       "id": "task-18",
@@ -493,7 +493,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue the intended daily two-video workflow only when an exact brief and approved, rights-cleared assets are ready. Before each release, verify the final asset, caption, destination, and timing; then confirm YouTube and Instagram delivery separately. Use vidIQ for research, SEO, analytics and metadata only, not generation/editing/rendering. Current verified delivery checkpoint: 21 Nov Instagram Reel https://www.instagram.com/reel/DgAPB4bznyt/ completed 12:31:07Z (18:01:07 IST); YouTube Short JX97HcyOcAY is public/processed at 12:30:21Z (18:00:21 IST). Next: prepare and review the next exact brief and asset; do not infer an approved post or schedule from cadence."
+      "nextAction": "Read-only delivery check 22 Nov 2026: official YouTube channel RSS lists Short OAd58PufJ3E, “A Moment of Peace,” published 12:30:08Z (18:00:08 IST). vidIQ lists Instagram as a dated draft for 12:30Z, not scheduled; saved draft also has a YouTube draft destination with no time. The live Short and saved draft asset are not conclusively matched. Do not publish/schedule from cadence; verify exact media and owner approval first. Existing workflow: use vidIQ for research, SEO, analytics and metadata only, not generation/editing/rendering. Next: reconcile the YouTube upload to the saved draft if possible and obtain exact asset approval before any Instagram release; never infer schedule or approval from the draft time."
     },
     {
       "id": "task-51",
