@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T21:20:53.2377662+05:30",
+  "generatedAt": "2026-11-22T21:25:46.6425287+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-22T21:20:53.2377662+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-22T21:25:46.6425287+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -869,7 +869,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-12-05",
       "status": "In progress",
-      "nextAction": "Continue bounded body-level review of the 1,291-title active ChatGPT index (26 pages; archived index empty); title coverage is complete, but conversation-body coverage remains partial. For every relevant learning course, project, business or life commitment, preserve dated source, last checkpoint, artifact/revision where available, evidence strength, disposition (completed, active, paused, stopped, unfinished or uncertain), reason/blocker, next authorized action and acceptance gate. Map findings to existing tasks first; preserve statuses and prior checkpoints. Do not infer completion or stopping from titles or silence, or repeat/pay for training before reconciling it. Only the 9 AM IST Gmail summary refreshes; every task persists."
+      "nextAction": "Continue bounded body-level review of the 1,291-title active ChatGPT index (26 pages; archived index empty); body coverage is partial. Track completed, active, paused, stopped, unfinished and uncertain work across learning, projects and life commitments using dated sources, last checkpoint/artifact, evidence strength, reason/blocker, next authorized action and acceptance gate. Map discoveries to existing tasks first; preserve statuses and prior checkpoints; do not infer disposition from titles or silence. Only the 9 AM IST Gmail summary refreshes; every task persists."
     },
     {
       "id": "smart-building-energy-status",
