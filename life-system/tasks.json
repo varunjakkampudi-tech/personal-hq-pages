@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T13:34:19.453Z",
+  "generatedAt": "2026-11-22T19:18:42.9901833+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-22T13:34:19.453Z",
+  "sourceSnapshotUpdatedAt": "2026-11-22T19:18:42.9901833+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -613,7 +613,7 @@
       "area": "CareerScope",
       "due": "",
       "status": "In progress",
-      "nextAction": "Current GitHub review — 22 Nov 2026: open PR #131 (Stage 6.01, head 8854bc3) exact-head CI run 44911967653 succeeded; independent review and owner acceptance remain open. Draft PR #132 (Stages 8.03/10, current API head 498731a) has exact-head CI run 45026221054 in progress; its body also references an earlier 0edfab head whose run 45025194512 was cancelled. Draft PR #133 (Stage 9.09–9.10, head d3bd915) exact-head run 44925487357 failed; draft fix PR #134 (head 04246dd) has no hosted run. All four are open/unmerged. Keep affected roadmap items partial; check exact-head CI/reviews and the owner-authorized roadmap queue before code changes. No merge or deployment."
+      "nextAction": "PR #132 current head is 7e2b6a4798578bd2ab8f64193df7c9270d513595, open/draft/unmerged. It is exactly one commit ahead of the Stage 10.01-reviewed 82ca96101290ca609f9a8a9412c16a565bbc0553; that commit changes Stage 10.02 browser coverage plus related docs/audit files. Run 45028950118 is in progress on current head. Preserve 10.01 approval as SHA-specific to 82ca; keep current acceptance unreconciled and Stage 10.01 partial. Recheck exact-head CI and item-scoped review before owner verification; no merge/deployment."
     },
     {
       "id": "task-63",
