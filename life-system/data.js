@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T14:35:30+05:30",
+  "generatedAt": "2026-11-23T14:49:36+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T14:35:30+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T14:49:36+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -124,8 +124,8 @@ window.PERSONAL_HQ_SEED = {
       "title": "Write requirements brief for 20 animals, expandable to 40",
       "area": "Dairy farm",
       "due": "2026-12-07",
-      "status": "Not started",
-      "nextAction": "Write an owner requirements brief for 20 animals with a path to 40. Include open dependencies for site, water/power, species and herd mix, housing, feed, labor, milking, waste, offtake and budget. Treat historical feed figures as assumptions; any animal-specific ration must be set by a qualified local nutritionist using actual weight, lactation stage, milk yield, health and feed analysis. No animal or supplier commitment."
+      "status": "In progress",
+      "nextAction": "Private requirements-brief draft prepared for the 20-to-40 plan. Owner confirmation is still needed for site, herd sequence, utilities, feed/offtake, labor and budget; obtain local professional review before RFQs or commitments."
     },
     {
       "id": "task-13",
