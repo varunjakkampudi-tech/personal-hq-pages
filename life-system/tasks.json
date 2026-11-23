@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T12:30:04+05:30",
+  "generatedAt": "2026-11-23T12:34:07+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T12:30:04+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T12:34:07+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -581,7 +581,7 @@
       "area": "Life admin",
       "due": "2026-11-21",
       "status": "In progress",
-      "nextAction": "Weekly priority review — 22 Nov 2026, updated after delivery audit: private registry and live Pages feed contain 121 tasks (10 Done, 42 In progress, 19 Waiting, 50 Not started). Overdue reviews: task-57 (due 20 Nov; source/rights/approval evidence unresolved) and task-58 (due 21 Nov; review completed, capacity confirmation still open). Next dated cluster is 25 Nov (resume/profile links, publishing setup, ValueMela model, AI World workflow); 28 Nov includes dairy mix, CareerScope priorities, GST determination, routine and health-preference intake. Actual calendar capacity remains unknown; keep In progress until a realistic review/study capacity window is established. Daily email does not reset tasks."
+      "nextAction": "23 Nov review: private registry and live feed match at 124 tasks (10 Done, 42 In progress, 21 Waiting, 51 Not started). Four planning targets fall on 25 Nov and five on 28 Nov; later clusters are 3 on 29 Nov, 6 on 30 Nov, 2 on 1 Dec and 3 on 2 Dec. Dates are internal targets, not statutory deadlines. Weekly capacity is unknown; confirm realistic availability before reprioritizing. Tasks persist."
     },
     {
       "id": "task-59",
