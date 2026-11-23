@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T10:26:26.715Z",
+  "generatedAt": "2026-11-23T13:12:00Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T10:26:26.715Z",
+  "sourceSnapshotUpdatedAt": "2026-11-23T13:12:00Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -29,7 +29,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Read-only profile-link check 21 Nov 2026: the GitHub candidate URL from the resume opens publicly and presents a full-stack engineering profile; the LinkedIn endpoint returned automated-reader rate-limit responses. This does not prove account ownership or current LinkedIn fields. Next confirm the canonical DOCX/PDF version and profile ownership/visibility privately; do not edit profiles."
+      "nextAction": "Source DOCX/PDF layout match confirmed; private review separates verified credentials from unverified claims and includes a cautious UPS candidate. Verify chronology, metrics, ownership and disclosure; no profile edits."
     },
     {
       "id": "task-1",
@@ -93,7 +93,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-12-06",
       "status": "Not started",
-      "nextAction": "Map representative full-stack job requirements to verified evidence; record skill gaps and practice steps, then choose adjacent role families only if useful."
+      "nextAction": "Use the short JS/TS, React, API/data, Git/CLI and DSA baseline; map verified evidence to full-stack postings, record gaps, then choose adjacent roles after location and seniority are set."
     },
     {
       "id": "task-9",
@@ -380,7 +380,7 @@ window.PERSONAL_HQ_SEED = {
       "title": "Complete career profile and target-role intake workbook",
       "area": "Career move",
       "due": "2026-11-30",
-      "status": "Not started",
+      "status": "In progress",
       "nextAction": "Complete private role constraints, chronology, seniority, location/work mode, compensation, notice period, interview availability and constraints. Use task-0 for the separate inventory of current resume file and profile URLs; never record passwords or OTPs."
     },
     {
@@ -517,7 +517,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "In progress",
-      "nextAction": "The 23 Nov daily summary was delivered after the configured 09:00 IST time; earlier matching summaries were archived and no duplicate was sent. The delivery trigger (scheduled vs manual) remains unproven. Keep In progress until an exact-time scheduled run is evidenced."
+      "nextAction": "23 Nov: fresh 124-task summary sent and 15 older matching summaries archived. Keep recurring task open; verify the next 09:00 IST delivery and counts. Tasks persist."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
