@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T10:26:26.715Z",
+  "generatedAt": "2026-11-23T11:41:06.5858774Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T10:26:26.715Z",
+  "sourceSnapshotUpdatedAt": "2026-11-23T11:41:06.5858774Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -293,7 +293,7 @@
       "area": "Training & learning",
       "due": "2026-12-01",
       "status": "In progress",
-      "nextAction": "Complete private/learning-baseline-2026-11-21.md as a short practical diagnostic; record only refresh gaps and a small artifact. Keep the weekly slot self-paced until calendar capacity is known, then follow the ordered roadmap."
+      "nextAction": "Complete the short diagnostic and skills matrix, then start the TypeScript full-stack slice. Integrate SQL, testing, security, accessibility/SEO and interview practice. Keep the schedule self-paced."
     },
     {
       "id": "task-33",
@@ -509,7 +509,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Exact snapshot audit and independent review are recorded in private/dashboard-export-audit-2026-11-21.md. Corrected set math: 117 shared IDs, 3 registry-only IDs, 0 browser-only; status/note/nextAction/title/area/due deltas are counted separately. Static review of the deployed merge code confirms it adds missing IDs, preserves existing statuses and local notes (the public feed has no notes field), and reconciles nextAction only when its baseline rules allow; it does not update existing titles, areas or due dates. Do not run a blind merge or replace the registry. Browser URL confidence guard still blocks further UI interaction. When supported browser inspection is available, merge the three missing IDs, re-export, preserve both snapshots, and resolve remaining field differences by evidence."
+      "nextAction": "23 Nov: registry and PR #35 feed match on 124 task IDs/statuses; 17 next actions updated, no notes. PR is open, not merged. Browser-local edits and history remain unreconciled; keep statuses."
     },
     {
       "id": "task-53",
@@ -701,7 +701,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Complete the short JavaScript/TypeScript, Git/GitHub, command-line/Linux and DSA diagnostic in private/learning-baseline-2026-11-21.md. The DSA history contains array-rotation and frequency-map exercise submissions with feedback, which is evidence of practice only, not course completion or current mastery. Record current gaps and a small artifact; prior JS/TS completion remains owner-reported."
+      "nextAction": "Complete the short JS/TS, Git, CLI and DSA diagnostic; include React, Node, SQL and project evidence. Record gaps and a small artifact; prior course reports are not current mastery."
     },
     {
       "id": "learning-frontend",
@@ -709,7 +709,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "After the brief baseline, refresh React with one small component/state/API checkpoint, then build the responsive Next.js capstone interface. Include focused component/integration/end-to-end checks, keyboard/screen-reader evidence and dependency review. Preserve reported React/Router/Context/Redux/class/lifecycle/performance checkpoints; see the private learning progress monitor."
+      "nextAction": "Build the React/Next.js TypeScript frontend for a browser-to-PostgreSQL app. Include responsive UI, forms, loading/error states, accessibility, SEO/performance and focused checks."
     },
     {
       "id": "learning-seo-a11y",
@@ -717,7 +717,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Apply semantic HTML, metadata/indexability, structured data where appropriate, keyboard and screen-reader checks, and performance evidence to the capstone. Prior SEO/ARIA study is retained as instruction progress, not implementation completion. See the private learning progress monitor."
+      "nextAction": "Apply semantic HTML, metadata/indexability, keyboard and screen-reader accessibility, and performance checks within the capstone. Prior instruction is not implementation evidence."
     },
     {
       "id": "learning-backend",
@@ -725,7 +725,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Build a small validated, authenticated Node/Express API with clear error handling and authorization checks; include unit/integration tests, dependency review and operational notes, then briefly compare one FastAPI endpoint. Preserve prior REST/Node/Express/FastAPI/JWT study as reported checkpoints. See the private learning progress monitor."
+      "nextAction": "Build the capstone API in Node/Express with typed contracts, validation, structured errors, authorization and tests. Compare one FastAPI endpoint later; prior study is not implementation evidence."
     },
     {
       "id": "learning-data",
@@ -733,7 +733,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "After the core API path, model the capstone in PostgreSQL and demonstrate migrations, constraints, indexes, transactions and safe queries; add a short MongoDB/NoSQL tradeoff note. See private/learning-progress-monitor-2026-11-21.md."
+      "nextAction": "Design PostgreSQL schema and data flow alongside the first capstone feature; evidence migrations, constraints, transactions, indexes and safe queries. Add a short NoSQL tradeoff later."
     },
     {
       "id": "learning-system-design",
@@ -741,7 +741,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Independently explain and diagram the capstone design: requirements, API/data model, failure modes, security, scaling and cost tradeoffs. Historical guide review remains context, not proof of mastery. See the private learning progress monitor."
+      "nextAction": "Document requirements, API/data flow, failure cases, security and cost tradeoffs while designing the capstone; keep a concise diagram and explain decisions."
     },
     {
       "id": "learning-microfrontend-aem",
@@ -757,7 +757,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue the practical cloud lab with a small app; document IAM, networking, storage, deployment, security, cost, monitoring and safe resource cleanup. Keep credential details and account-specific history private."
+      "nextAction": "Deploy one capstone workload on AWS; document IAM, network, data, security, monitoring, cost and cleanup. Separate hands-on evidence from reported courses or credentials."
     },
     {
       "id": "learning-gcp",
@@ -765,7 +765,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Start from GCP foundations after core app/deployment basics; deploy the same or comparable workload and document IAM, network, data, monitoring, cost and cleanup. No prior GCP progress is verified. See the private learning progress monitor."
+      "nextAction": "Keep GCP in the path after one end-to-end AWS deployment or when a target role justifies it. Then document IAM, network, data, monitoring, cost and cleanup."
     },
     {
       "id": "learning-devops",
@@ -773,7 +773,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Reconcile prior Linux/DevOps learning and artifacts; then continue Linux/networking, Docker, CI/CD and IaC practice as appropriate. Do not repeat paid training until the earlier course disposition is known."
+      "nextAction": "Add Linux, Docker, GitHub Actions CI, safe configuration and rollback notes to the capstone. Reconcile prior course outcome before any paid repeat."
     },
     {
       "id": "learning-monitoring",
@@ -781,7 +781,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Historical preference: the owner explicitly wanted to start Datadog and asked for a certification course with labs; the conversation contains recommendations only, not enrollment or completed labs. After the core full-stack capstone, choose an affordable current monitoring lab and instrument metrics, logs, traces, one useful alert and a failure scenario. Verify current course details before any paid enrollment."
+      "nextAction": "Instrument the deployed capstone with useful metrics, logs, traces, one actionable alert, a simple service objective and a failure exercise. Check prior course status before paid labs."
     },
     {
       "id": "learning-data-ai",
@@ -789,7 +789,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "After core product work, complete one Python/data/ML/GenAI lab tied to a concrete use case; record evaluation, privacy and cost choices. This is a supporting track, not a parallel course commitment. See the private learning progress monitor."
+      "nextAction": "Keep Python/data/ML/GenAI supporting work after core full-stack evidence or for a specific project need. Record evaluation, privacy and cost; avoid parallel courses."
     },
     {
       "id": "learning-agentic-ai",
@@ -797,7 +797,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "After baseline and agentic AI foundations, study MCP host/client/server roles, tools/resources/prompts, transports and authorization/security; build a small local client/server sandbox and record the artifact. Check current OpenAI Academy access/progress before choosing a dated first module; keep Hugging Face → DeepLearning.AI → LangChain as a complementary branch. No enrollment/completion inferred. Owner selected Hugging Face → DeepLearning.AI → LangChain as the planned sequence; no first checkpoint is evidenced."
+      "nextAction": "Stage agentic AI/MCP after secure API and deployment basics or a concrete project need. Verify course access, then build a scoped sandbox agent with evaluation and safety notes."
     },
     {
       "id": "learning-credentials",
@@ -805,7 +805,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Before any course or exam purchase, verify the current official exam version, eligibility, fee and prerequisites. AWS says DVA-C02 last exam day is 30 Nov 2026 and DVA-C03 delivery begins 1 Dec 2026; do not buy an older DVA-C02 course without rechecking current guide value. A separate AWS Developer Associate credential remains owner-reported only; verify privately before any profile claim."
+      "nextAction": "Defer certification purchases until the baseline shows a role need. Verify the official exam version, fees, prerequisites, validity and value; separate reported credentials from verified records."
     },
     {
       "id": "learning-portfolio",
@@ -813,7 +813,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Keep reported mock interview rounds 5–7 and the AWS guide as historical checkpoints. Package the capstone and focused cloud/monitoring/agentic-AI labs with an architecture note, integration/end-to-end evidence, authorization/security checks and dependency review; refresh current interview gaps. Resume/profile edits remain behind private review and approval gates."
+      "nextAction": "Document verified contribution from the start; practice DSA, debugging, system design and project walkthroughs alongside the build. Package app, CI/tests and architecture evidence before Feb 2027."
     },
     {
       "id": "task-70",

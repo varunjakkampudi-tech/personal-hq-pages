@@ -8,24 +8,36 @@ This path restarts with a practical diagnostic while preserving all prior learni
 
 Use one small build or written checkpoint per topic. Record dates, links, labs, and artifacts privately. Never put credential IDs or account details in this public plan. Verify course availability, versions, prices, and certification requirements before enrollment.
 
-## Sequence
+## Execution order for the February 2027 job-search target
 
-This is the full durable scope and its order; it is not a commitment to study every branch in parallel. Start with the diagnostic, then update the existing learning records rather than creating duplicates. Keep prior progress, course dispositions, and supporting evidence in the private tracker. The planned agentic AI sequence is Hugging Face → DeepLearning.AI → LangChain, with the OpenAI Academy agentic AI course included; verify each exact course and its current availability before enrolling.
+An independent planning review recommends one evidence-backed full-stack application as the center of this path. This is planning advice, not evidence of current skill or available study hours. Preserve every existing learning record and history disposition; use this execution order to avoid running every course in parallel.
+
+1. **Diagnostic and role targeting:** complete the short JS/TS, Git, command-line, DSA, React, Node, SQL and project-evidence baseline. Refresh demonstrated gaps only; keep prior exposure separate from current evidence.
+2. **Full-stack vertical slice:** build one browser-to-database feature using React/Next.js, TypeScript, Node/Express and PostgreSQL. Start database schema and API contracts alongside the frontend; use runtime validation and typed contracts.
+3. **Production-quality engineering:** add authentication and authorization, secure input handling, structured errors, unit/integration/API/browser checks, keyboard and screen-reader accessibility, semantic SEO, performance evidence, and dependency review as part of the same application. Cover session-versus-token tradeoffs, password handling, CSRF, XSS, CORS, rate limiting and secrets where relevant; verify behavior rather than only listing security topics.
+4. **Deployment and operations:** add Linux and Docker foundations, GitHub Actions CI, one AWS deployment, health checks, logs/metrics/traces, an actionable alert, rollback notes and a concise architecture/cost explanation. Practice DSA, debugging and project walkthroughs alongside the build.
+5. **Broader requested tracks:** retain GCP, FastAPI comparison, Python/data/ML/GenAI, Hugging Face → DeepLearning.AI → LangChain, OpenAI Academy candidates, MCP, credentials, and optional AEM/microfrontends in the registry. Start these after the core app evidence or when a specific target role justifies them; verify current course availability and cost before enrollment.
+
+These are dependency stages, not fixed-duration blocks. The full topic catalogue below remains in scope and existing task statuses are unchanged. Keep interview practice, project notes and verified contribution evidence moving in parallel from the start. Build accessibility, responsive behavior, basic SEO and performance checks into the first frontend slice rather than postponing them to a later phase. Do not choose a paid course or assume a weekly schedule before the diagnostic and calendar capacity are known.
+
+## Full learning scope
+
+The catalogue below retains the durable scope; it is not a commitment to study every branch in parallel. Start with the diagnostic, then update existing learning records rather than creating duplicates. Keep prior progress, course dispositions, and supporting evidence in the private tracker. The planned agentic AI sequence is Hugging Face → DeepLearning.AI → LangChain, with the OpenAI Academy agentic AI course included; verify each exact course and its current availability before enrolling.
 
 1. **Starting point and fundamentals:** review JavaScript, TypeScript, browser basics, Git/GitHub, command line, and practical DSA. Begin with a short diagnostic across these areas and refresh only demonstrated gaps.
-2. **Frontend:** React components, hooks, state, routing, forms, API integration, testing, performance, and accessible responsive UI; then Next.js fundamentals. Include a focused Playwright end-to-end flow for a core user journey. Build a deployed, documented interface. Do not split Next.js App Router into a duplicate track.
-3. **SEO and accessibility:** semantic HTML, metadata, canonical/indexing basics, structured data, performance/Core Web Vitals, WCAG practices, keyboard and screen-reader checks. Apply to a real portfolio project.
+2. **Frontend:** React components, hooks, state, routing, forms, API integration, testing, performance, and accessible responsive UI; then Next.js fundamentals. From the first capstone screen, include semantic markup, labeled controls, keyboard/focus behavior, loading/empty/error states and a focused Playwright end-to-end flow for a core user journey. Build a deployed, documented interface. Do not split Next.js App Router into a duplicate track.
+3. **SEO and accessibility:** semantic HTML, metadata, canonical/indexing basics, structured data, performance/Core Web Vitals, WCAG practices, keyboard and screen-reader checks. Apply these incrementally to the capstone and record inspectable evidence; do not treat a checklist alone as completion.
 4. **Backend and APIs:** Node.js, Express, REST, authentication/session security, validation, error handling, testing, and Python/FastAPI as a second backend option; explore GraphQL after REST fundamentals.
 5. **Data:** relational modeling and SQL with PostgreSQL/MySQL; MongoDB and DynamoDB/NoSQL tradeoffs; migrations, indexes, transactions, backups, and safe data access.
 6. **System design:** requirements, API and data design, caching, queues, availability, security, and cost. Use small diagrams and explain tradeoffs.
-7. **Microfrontends and AEM:** learn integration patterns after solid React fundamentals; then AEM components, HTL, client libraries, and Sling Models where useful to target roles.
+7. **Microfrontends and AEM:** keep this optional and role-dependent after solid React fundamentals. Preserve AEM components, HTL, client libraries, Sling Models, Core Components and Cloud Manager as a focused interview branch for relevant roles, without displacing the full-stack capstone.
 8. **Cloud foundations, AWS:** IAM concepts, networking, compute, storage, databases, serverless, queues/events, deployment, monitoring, cost, and security. Build and operate an end-to-end application; keep practical evidence separate from course or credential records.
 9. **Cloud foundations, GCP:** projects/IAM, networking, compute, storage, managed data, deployment, monitoring, security, and cost. This track was newly requested and has no historical progress evidence. Build the same small app or a comparable workload and compare services.
 10. **DevOps foundations:** Linux, networking, shell, Docker, Kubernetes basics, CI/CD with GitHub Actions, infrastructure-as-code concepts, secrets handling, rollback, and release discipline. Reconcile prior course status and the last checkpoint before repeating paid training.
 11. **Monitoring and operations:** metrics, logs, traces, service objectives, alert quality, dashboards, incident response, and cost. Datadog was previously selected for exploration; confirm whether still relevant before paying. Instrument the capstone and exercise one alert and one failure scenario.
 12. **Python, data and AI:** Python, NumPy, pandas, ML concepts, and GenAI fundamentals as supporting skills. Keep this behind core full-stack foundations unless a specific project needs it.
 13. **Agentic AI:** start with Hugging Face and DeepLearning.AI foundations, then LangChain. Add OpenAI Academy in a practical sequence: Design and Build Agentic Systems; Builder Bootcamp: Agents; then API Builder Bootcamp topics (API Foundations, Agents, Realtime, RAG, Production & Optimization). Include Model Context Protocol (MCP): understand host/client/server roles, tools/resources/prompts, transports, capability negotiation, and authorization/security; build a small local server and connect a client only in a sandbox. Historical ChatGPT recommendations are not enrollment or completion evidence; verify current course/recording availability before starting. Compare tool use, retrieval, state, evaluation, safety, and cost.
-14. **Portfolio and job readiness:** build one full-stack product with responsive frontend, secure API, database, deployment, SEO/accessibility evidence, observability, and a concise architecture note. Add targeted smaller labs for AWS/GCP and agentic AI. Practice DSA, system design, and explaining prior work. Keep resume/profile edits in private review copies until approved.
+14. **Portfolio and job readiness:** build one full-stack product with responsive frontend, secure API, database, deployment, SEO/accessibility evidence, observability, and a concise architecture note. Document verified contributions and practice DSA, debugging, system design, behavioral questions and project walkthroughs throughout the build, not only after it. Add targeted smaller labs for AWS/GCP and agentic AI when the core app evidence is in place. Keep resume/profile edits in private review copies until approved.
 15. **Credential research queue:** compare current requirements, prerequisites, cost, renewal rules and full-stack role value before selecting any certification. Store enrollment and credential evidence privately. The Sep 2026 DVA-C02 course recommendation is stale: AWS lists 30 Nov 2026 as its final exam day and DVA-C03 delivery from 1 Dec 2026; recheck the official guide before any exam-specific study or purchase.
 
 ## Reconciliation of what was done, paused, stopped or left unfinished
@@ -38,7 +50,7 @@ The persistent learning task set also retains historical accomplishments and art
 
 The current ChatGPT history index contains 1,292 active conversation titles as of 22 November 2026. This is an index, not a body-by-body audit; retain a private list of reviewed, pending and rate-limited source threads. For each relevant course or durable project, preserve the dated last checkpoint and supporting artifact/revision when available. Classify it as completed, active, paused, stopped, unfinished or uncertain only when the evidence supports that classification; record why it paused or stopped, current blockers, next authorized action and an observable acceptance gate. Map new findings to existing learning/project tasks before adding a record. Completed deliverables remain as history, unfinished work remains open, and uncertain historical ideas do not become commitments.
 
-Learning remains ordered and persistent. Begin with the existing short practical diagnostic, then continue the frontend/backend/SEO and data foundations into applied cloud, DevOps, monitoring and agentic-AI checkpoints. Keep prior owner-reported learning distinct from current demonstrations and verified credentials. Check the current status and value of old paid courses before resuming or paying again. The daily 9 AM Gmail summary is refreshed; tasks, study history and project records are not reset.
+Learning remains ordered and persistent. Begin with the existing short practical diagnostic, then make the TypeScript full-stack vertical slice the central project. Add PostgreSQL/schema, API contracts, tests, security, SEO/accessibility, performance, CI, Docker and operations as the application develops. Deploy one workload on AWS first; keep GCP, FastAPI, broader AI and agentic-AI topics in the retained later queue. Keep prior owner-reported learning distinct from current demonstrations and verified credentials. Check the current status and value of old paid courses before resuming or paying again. The daily 9 AM Gmail summary is refreshed; tasks, study history and project records are not reset.
 
 ## Testing, application security and project recovery
 
@@ -48,7 +60,7 @@ For every recovered software project, record the canonical project identity, las
 
 ## Working checkpoints and progress tracking
 
-Keep every track in the task registry until its evidence-based completion is recorded. A daily email summarizes the work; it never resets or replaces tasks. Do not treat every topic as a parallel course: complete the core full-stack capstone first, then add AWS/GCP, monitoring and agentic-AI labs that support it. Keep the small study log, course links, artifacts and credential evidence private.
+Keep every track in the task registry until its evidence-based completion is recorded. A daily email summarizes the work; it never resets or replaces tasks. Do not treat every topic as a parallel course: build the core full-stack capstone, deploy and operate one AWS workload, then advance the retained GCP and agentic-AI labs as time and role relevance allow. Keep the small study log, course links, artifacts and credential evidence private.
 
 Progress protocol: after each study block, retain the last completed checkpoint, one concrete next action, and private evidence (notes, lab or repository link). Keep one persistent task per existing learning track; daily email refresh never resets these records. Schedule a sustainable review only after calendar capacity is confirmed. Mark a task Done only when its stated artifact/checkpoint exists; otherwise keep it In progress or Waiting. Preserve paused/stopped course status and the known reason until relevance is checked; do not repeat paid training before confirming outcome, availability and cost.
 
@@ -70,16 +82,9 @@ For every course or topic, keep its record and classify it privately as **active
 
 ### Current sequence of work
 
-1. Complete one short baseline across JavaScript, TypeScript, Git/GitHub, command line and practical DSA; record gaps and select only needed refreshers.
-2. Refresh React briefly, then continue Next.js and build the responsive, accessible frontend capstone.
-3. Continue secure backend/API work and a relational database checkpoint; add NoSQL and GraphQL only after the core API/data path.
-4. Apply technical SEO, accessibility and performance to the same capstone with inspectable evidence.
-5. Add system-design reasoning, AWS and GCP labs, Linux/DevOps, and monitoring/observability to that product. Confirm the old AWS/DevOps training’s outcome before enrolling or paying again.
-6. Add Python/data/GenAI support and the selected Hugging Face → DeepLearning.AI → LangChain plus OpenAI Academy agentic-AI path as focused labs. Evaluate safety, quality and cost.
-7. Package the product and labs into a portfolio; update resume/profile drafts only in private review copies and retain existing owner-approval gates.
+Use the five dependency stages under **Execution order for the February 2027 job-search target** above as the single current sequence. Do not treat this section as a second curriculum or schedule. The immediate checkpoint remains the short, evidence-backed baseline; the working product is one browser-to-database TypeScript full-stack application, with testing, security, accessible responsive UI, SEO, performance, interview practice and portfolio notes integrated throughout. Keep GCP, FastAPI, Python/AI, agentic AI/MCP, AEM/microfrontends and credentials in the durable topic catalogue, staged until core evidence or a target role justifies them.
 
-Microfrontends/AEM and optional certificates stay later/research-only until the full-stack foundation and role value justify them. This order keeps requested subjects visible without treating every one as a simultaneous course.
-
+Starting from scratch means rebuilding current practical evidence while preserving earlier course history, outcomes and uncertainty. Keep existing tasks and statuses persistent. Do not infer completion, pause, stop, enrollment or a weekly schedule from old plans or silence.
 
 ## AI tooling literacy checkpoint · 21 November 2026
 
@@ -106,3 +111,4 @@ Official OpenAI Academy course catalog currently lists **Design and Build Agenti
 AWS’s official September 2026 announcement says DVA-C02’s last exam day is 30 November 2026 and DVA-C03 general delivery begins 1 December 2026. Do not purchase an older DVA-C02 prep course now without verifying its remaining value against the new guide. Recheck the official exam guide and fee before any enrollment. This is a volatile planning note, not proof of the owner’s credential or exam intent.
 
 Sources checked 22 November 2026: [OpenAI Academy Courses](https://academy.openai.com/public/courses), [API Builder Bootcamp](https://academy.openai.com/public/clubs/builders-etkn1/resources/api-builder-bootcamp-2026-08-19), and [AWS September 2026 certification update](https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/).
+
