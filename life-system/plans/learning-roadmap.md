@@ -82,16 +82,9 @@ For every course or topic, keep its record and classify it privately as **active
 
 ### Current sequence of work
 
-1. Complete one short baseline across JavaScript, TypeScript, Git/GitHub, command line and practical DSA; record gaps and select only needed refreshers.
-2. Refresh React briefly, then continue Next.js and build the responsive, accessible frontend capstone.
-3. Continue secure backend/API work and a relational database checkpoint; add NoSQL and GraphQL only after the core API/data path.
-4. Apply technical SEO, accessibility and performance to the same capstone with inspectable evidence.
-5. Add system-design reasoning, AWS and GCP labs, Linux/DevOps, and monitoring/observability to that product. Confirm the old AWS/DevOps training’s outcome before enrolling or paying again.
-6. Add Python/data/GenAI support and the selected Hugging Face → DeepLearning.AI → LangChain plus OpenAI Academy agentic-AI path as focused labs. Evaluate safety, quality and cost.
-7. Package the product and labs into a portfolio; update resume/profile drafts only in private review copies and retain existing owner-approval gates.
+Use the five dependency stages under **Execution order for the February 2027 job-search target** above as the single current sequence. Do not treat this section as a second curriculum or schedule. The immediate checkpoint remains the short, evidence-backed baseline; the working product is one browser-to-database TypeScript full-stack application, with testing, security, accessible responsive UI, SEO, performance, interview practice and portfolio notes integrated throughout. Keep GCP, FastAPI, Python/AI, agentic AI/MCP, AEM/microfrontends and credentials in the durable topic catalogue, staged until core evidence or a target role justifies them.
 
-Microfrontends/AEM and optional certificates stay later/research-only until the full-stack foundation and role value justify them. This order keeps requested subjects visible without treating every one as a simultaneous course.
-
+Starting from scratch means rebuilding current practical evidence while preserving earlier course history, outcomes and uncertainty. Keep existing tasks and statuses persistent. Do not infer completion, pause, stop, enrollment or a weekly schedule from old plans or silence.
 
 ## AI tooling literacy checkpoint · 21 November 2026
 
