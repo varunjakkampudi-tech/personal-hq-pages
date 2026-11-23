@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T15:09:29+05:30",
+  "generatedAt": "2026-11-23T10:26:26.715Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T15:09:29+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T10:26:26.715Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -1013,7 +1013,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Personal & health",
       "due": "",
       "status": "Not started",
-      "nextAction": "Read Shiva Puranam daily using the Routine check-in. Keep this recurring habit open; daily email refreshes do not reset tasks."
+      "nextAction": "Use the Daily reading check-in each day. Keep this recurring habit open until the habit is established; daily email summaries do not reset tasks."
     }
   ],
   "history": [
