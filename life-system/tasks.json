@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T12:17:55+05:30",
+  "generatedAt": "2026-11-23T12:23:18+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T12:17:55+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T12:23:18+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -613,7 +613,7 @@
       "area": "CareerScope",
       "due": "",
       "status": "In progress",
-      "nextAction": "23 Nov GitHub recheck: PR #132 at 505f2870 is open; quality/image passed, services/browser remains in progress; no GitHub review. PR #134 at 29ffbd5f is open on stacked PR #133, not dev. Separate exact-head runs passed quality and services/browser, but production-image was skipped in both; no run proves all required checks. ChatGPT engineering approval is not a GitHub review or checklist acceptance. Keep partial; no merge/deploy authorization."
+      "nextAction": "23 Nov exact-head recheck: PR #132 remains open/draft at 505f2870 against dev fad57ea3; GitHub run 45125280732 passed all 3 required jobs and independent ChatGPT review approved engineering scope. Item 10.11 remains PARTIAL pending broader Unicode/native print-save support and owner verification; Stage 10 owner verification is pending. PR #134 remains open on stacked PR #133 base; separate exact-head runs passed quality and services/browser but skipped production-image, so full required CI is unproven. No owner acceptance, merge, or deployment authorization."
     },
     {
       "id": "task-63",
