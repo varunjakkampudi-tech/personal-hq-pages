@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T12:55:24+05:30",
+  "generatedAt": "2026-11-23T13:49:35+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T12:55:24+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T13:49:35+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -501,7 +501,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Independent ChatGPT second-pass review accepted the local 320×568/390×844 task hierarchy. Playwright confirmed 44×44 visible checkbox/Details targets, Details opens the selected task, hidden rows stay out of layout, and no horizontal overflow. Local only; keyboard-only, 200% zoom, screen-reader and release checks remain open."
+      "nextAction": "Live Pages review, 23 Nov 2026: 320×568 and 390×844 checks returned HTTP 200 with no horizontal overflow or page errors. Sampled keyboard focus is visible; mobile navigation targets measured at least 48 px high. At 320×568, the sync notice leaves one priority card visible before scrolling. Independent design critique is pending; 200% zoom and screen-reader checks remain open."
     },
     {
       "id": "task-52",
@@ -517,7 +517,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "In progress",
-      "nextAction": "Verify whether the next scheduled 9:00 AM IST run delivers the fresh standalone summary at the configured time. On 22 Nov 2026, the initial summary was sent at 12:55 IST (11 Done, 41 In progress); a later corrected same-day summary was sent at 21:32 IST (10 Done, 42 In progress), with both showing 121 tasks. Delivery occurred, but not at the configured 9:00 AM time; keep In progress until exact-time delivery is evidenced."
+      "nextAction": "The 23 Nov daily summary was delivered after the configured 09:00 IST time; earlier matching summaries were archived and no duplicate was sent. The delivery trigger (scheduled vs manual) remains unproven. Keep In progress until an exact-time scheduled run is evidenced."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
@@ -581,7 +581,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-21",
       "status": "In progress",
-      "nextAction": "Weekly priority review — 22 Nov 2026, updated after delivery audit: private registry and live Pages feed contain 121 tasks (10 Done, 42 In progress, 19 Waiting, 50 Not started). Overdue reviews: task-57 (due 20 Nov; source/rights/approval evidence unresolved) and task-58 (due 21 Nov; review completed, capacity confirmation still open). Next dated cluster is 25 Nov (resume/profile links, publishing setup, ValueMela model, AI World workflow); 28 Nov includes dairy mix, CareerScope priorities, GST determination, routine and health-preference intake. Actual calendar capacity remains unknown; keep In progress until a realistic review/study capacity window is established. Daily email does not reset tasks."
+      "nextAction": "At next planning exchange, ask for weekly focused hours and top 2–3 outcomes; calculate a range from task effort and external blockers. Preserve all 124 tasks and existing dates/statuses until reviewed; overdue dates are internal planning targets."
     },
     {
       "id": "task-59",
