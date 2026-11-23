@@ -150,3 +150,20 @@ Sources: [APEPDCL Registered Vendors Non-CFA](https://www.apeasternpower.com/foo
 ### Current disposition
 
 No provider is selected as “best.” Current actionable next step remains owner confirmation of site, herd and utility requirements in the private intake worksheet. Once the inputs are complete and vendor contact is authorized, request same-scope bids and independently verify identity, local references, engineering, current registrations, warranty, insurance, service and price. The brief must distinguish a vendor's marketing statement from third-party proof.
+
+## Supplemental vendor leads and design reference — 23 November 2026
+
+These additions are public-source leads only. No vendor was contacted, no quote was requested, and no project scope or supplier is approved.
+
+### Additional CCTV options
+
+| Lead | Public evidence | Limitations and screening questions |
+|---|---|---|
+| [Kosam Security Services, Tanuku](https://www.tradeindia.com/kosam-security-services-12866265/) | A TradeIndia listing describes a Tanuku-based CCTV camera maintenance service provider. | The directory listing is not current identity or service verification and does not establish farm installs, solar backup, coverage, storage, remote-access security, support SLA or references. Treat as a low-confidence local enquiry lead only; verify business identity and recent customer references before any RFQ. |
+| [NIKSOL Energy Solutions solar CCTV](https://niksolenergysolutions.com/solar-cctv) | The company advertises a standalone 4G camera kit with a 10 W panel, 8000 mAh battery, 5 MP camera and claimed five-day backup. The page displays a starting price of ₹6,000 per piece and minimum order of two; installation and SIM activation are advertised for Vijayawada, Guntur, Krishna and “surrounding districts.” | Product, backup and price statements are vendor claims, not a farm design or verified quote. West Godavari service, warranty, recurring SIM/cloud charges, recording retention, storage ownership, weather rating, repair time, security updates and privacy controls remain unverified. Ask for a demo and written itemized terms; compare only after the site coverage map and power/network needs are known. A single camera is not a substitute for an engineered whole-farm coverage plan. |
+
+### Cattle-housing reference
+
+The Bureau of Indian Standards lists **IS 11799:2005, Recommendations for cattle housing in rural areas**, as reaffirmed in February 2023. The standard’s scope includes a rural milk producer with a 20-animal example. Use the applicable full standard as a design-review reference alongside site survey, local coastal conditions, confirmed species/herd mix, veterinary welfare input and signed structural engineering; it is not a ready-made layout or local approval. [BIS committee program of work](https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/pow_new/Pow/download_pow_pdf_dept_commtt/61/440/) lists the title and reaffirmation date; [BIS standard preview](https://www.services.bis.gov.in/tmp/SR11799.pdf) shows its scope.
+
+No supplier ranking changes. The exact site, species, herd mix and electrical load are still needed before comparable bids can be designed.
