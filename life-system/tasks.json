@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T10:26:26.715Z",
+  "generatedAt": "2026-11-23T14:48:04.291Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T10:26:26.715Z",
-  "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
+  "sourceSnapshotUpdatedAt": "2026-11-23T14:48:04.291Z",
+  "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
     "AI World 360",
@@ -165,7 +165,7 @@
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "23 Nov 12:54 IST read-only check: connected YouTube and Instagram accounts both report publish capability. The Instagram devotional item remains a dated 22 Nov draft, with no published URL/failure or scheduled destination. The current listing has no YouTube destination row for this item; a previously verified public Short is separate evidence, and exact media match remains unconfirmed. Keep destination and approval checks open; no post or schedule changes without exact approval."
+      "nextAction": "Confirm an approved, matching Instagram asset for the latest YouTube Short before any cross-post or schedule change."
     },
     {
       "id": "task-18",
@@ -317,7 +317,7 @@
       "area": "ValueMela",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Gmail check 21 Nov 2026 22:08 IST: Factori Support replied 20 Nov 18:24 IST that custom-domain mailbox setup/configuration is not currently supported directly by the platform. Owner replied 20 Nov 18:46 IST asking whether an externally hosted mailbox can be used on the public Contact page and which dashboard field controls that address; no newer Factori response was found. Keep Waiting for provider answer. If/when received, verify only the public Contact field; keep account email and first-order alert routing unchanged. No customer records opened and no new email sent. Read-only Gmail search on 22 Nov 2026 (after 21 Nov, from:factori.com) returned no new provider message. Keep Waiting; do not change public Contact or account email settings."
+      "nextAction": "Gmail check 21 Nov 2026 22:08 IST: Factori Support replied 20 Nov 18:24 IST that custom-domain mailbox setup/configuration is not currently supported directly by the platform. Owner replied 20 Nov 18:46 IST asking whether an externally hosted mailbox can be used on the public Contact page and which dashboard field controls that address; no newer Factori response was found. Keep Waiting for provider answer. If/when received, verify only the public Contact field; keep account email and first-order alert routing unchanged. No customer records opened and no new email sent."
     },
     {
       "id": "task-37",
@@ -357,7 +357,7 @@
       "area": "FixHub24",
       "due": "",
       "status": "In progress",
-      "nextAction": "Latest live check — 22 Nov 2026: scheduled main CI run #154 at 7ce251f failed only at npm audit. The log reports high body-parser 2.0.0–2.3.0 (GHSA-27r3-jxmh-p828) and moderate seroval 1.5.5–1.6.10 (GHSA-f86p-h4j2-7qgj; GHSA-9wx9-5pv9-3349); lint, typecheck, functional/Playwright suites and production build passed; later documentation checks were skipped after the audit gate failed. PR #23 (body-parser 2.4.0, head d9a1780) is open with CI success; PR #24 (seroval 1.7.7, head c4f0bdd) is open with CI failure while the body-parser advisory remains on base. Both target main 7ce251f. Owner review remains required; do not merge without explicit owner authorization. Preserve existing local .env.example change."
+      "nextAction": "Owner review remains needed for PR #23 (body-parser security upgrade); it is open and exact-head CI plus dependency audit passed. PR #24 is also open; recorded runs show the dependency audit failing for the unresolved body-parser advisory and seroval advisories. After PR #23 is resolved, recheck PR #24 base and exact-head CI/audit, using current evidence rather than older browser notes. Resolve through PRs; do not merge without owner authorization."
     },
     {
       "id": "task-42",
@@ -380,7 +380,7 @@
       "title": "Complete career profile and target-role intake workbook",
       "area": "Career move",
       "due": "2026-11-30",
-      "status": "Not started",
+      "status": "In progress",
       "nextAction": "Complete private role constraints, chronology, seniority, location/work mode, compensation, notice period, interview availability and constraints. Use task-0 for the separate inventory of current resume file and profile URLs; never record passwords or OTPs."
     },
     {
@@ -493,7 +493,7 @@
       "area": "AI World 360",
       "due": "",
       "status": "In progress",
-      "nextAction": "23 Nov 12:54 IST read-only check: connected YouTube and Instagram accounts both report publish capability. The Instagram devotional item remains a dated 22 Nov draft, with no published URL/failure or scheduled destination. The current listing has no YouTube destination row for this item; a previously verified public Short is separate evidence, and exact media match remains unconfirmed. Keep destination and approval checks open; no post or schedule changes without exact approval."
+      "nextAction": "Continue the intended daily two-video workflow only when an exact brief and approved, rights-cleared assets are ready. Before each release, verify the final asset, caption, destination, and timing; then confirm YouTube and Instagram delivery separately. Use vidIQ for research, SEO, analytics and metadata only, not generation/editing/rendering. Current verified delivery checkpoint: 21 Nov Instagram Reel https://www.instagram.com/reel/DgAPB4bznyt/ completed 12:31:07Z (18:01:07 IST); YouTube Short JX97HcyOcAY is public/processed at 12:30:21Z (18:00:21 IST). Next: prepare and review the next exact brief and asset; do not infer an approved post or schedule from cadence."
     },
     {
       "id": "task-51",
@@ -501,7 +501,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Live UI review 23 Nov 2026: cache-busted Pages verified HTTP 200 at 320x568, 390x844, 640x900 and 720x450 CSS viewport; no horizontal overflow. Playwright console had 0 errors/warnings. A 14-step keyboard sample showed visible focus; all nav landmarks and restore input now have accessible names (PR #29). 720x450 is a reflow proxy, not native browser 200% zoom. Actual screen-reader review and independent ChatGPT UI feedback remain open."
+      "nextAction": "Finish native 200% zoom and screen-reader checks; full-scroll clearance passed at 320×568 and 390×844."
     },
     {
       "id": "task-52",
@@ -509,7 +509,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Exact snapshot audit and independent review are recorded in private/dashboard-export-audit-2026-11-21.md. Corrected set math: 117 shared IDs, 3 registry-only IDs, 0 browser-only; status/note/nextAction/title/area/due deltas are counted separately. Static review of the deployed merge code confirms it adds missing IDs, preserves existing statuses and local notes (the public feed has no notes field), and reconciles nextAction only when its baseline rules allow; it does not update existing titles, areas or due dates. Do not run a blind merge or replace the registry. Browser URL confidence guard still blocks further UI interaction. When supported browser inspection is available, merge the three missing IDs, re-export, preserve both snapshots, and resolve remaining field differences by evidence."
+      "nextAction": "Reconcile browser-local status and next-action conflicts against the private registry before syncing; preserve existing local statuses."
     },
     {
       "id": "task-53",
@@ -517,7 +517,7 @@
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "In progress",
-      "nextAction": "The 23 Nov summary was corrected to match the persistent task registry. The 09:00 IST automation is active, but exact-time delivery remains unverified; keep open until a scheduled run is evidenced. Tasks persist; only the email summary refreshes."
+      "nextAction": "23 Nov: fresh 124-task summary sent and 15 older matching summaries archived. Keep recurring task open; verify the next 09:00 IST delivery and counts. Tasks persist."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
@@ -549,7 +549,7 @@
       "area": "ValueMela",
       "due": "",
       "status": "Waiting",
-      "nextAction": "Factori follow-up reply was sent on 21 Nov asking whether the stated 1–2 week estimate still applies and whether high-priced items can be prioritized. Await their response. No like-for-like SKU comparison or catalog price change is recorded; if a reply arrives, compare item, variant, delivery, tax and pricing basis. Read-only Gmail search on 22 Nov 2026 (after 21 Nov, from:factori.com) returned no new provider message. Keep Waiting; no catalog comparison or pricing change is evidenced."
+      "nextAction": "Factori follow-up reply was sent on 21 Nov asking whether the stated 1–2 week estimate still applies and whether high-priced items can be prioritized. Await their response. No like-for-like SKU comparison or catalog price change is recorded; if a reply arrives, compare item, variant, delivery, tax and pricing basis."
     },
     {
       "id": "task-55",
@@ -573,7 +573,7 @@
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Read-only destination check 21 Nov 2026 22:04 IST confirms the 20 Nov Instagram Reel and YouTube Short are live. Current Instagram caption calls this a fan edit and disclaims affiliation/original-footage creator; vidIQ visual review and both returned covers show photographic Dhoni/CSK cricket footage, not original animation (brief-fit mismatch verified). This does not establish source owner, license, likeness/music/mark permission or exact asset approval. Keep Waiting. Preserve evidence; obtain reliable source/rights evidence and owner direction before any post/account change or reuse."
+      "nextAction": "Verify the published clip source and permission; decide whether it fits the intended AI animation brief."
     },
     {
       "id": "task-58",
@@ -581,7 +581,7 @@
       "area": "Life admin",
       "due": "2026-11-21",
       "status": "In progress",
-      "nextAction": "At next planning exchange, ask for weekly focused hours and top 2–3 outcomes; calculate a range from task effort and external blockers. Preserve all 124 tasks and existing dates/statuses until reviewed; overdue dates are internal planning targets."
+      "nextAction": "Latest snapshot audit — 21 Nov 2026 22:03 IST: private registry and cache-busted deployed Pages feed both contain 121 persistent tasks — 11 Done, 41 In progress, 19 Waiting and 50 Not started. Exact ID comparison: 0 registry-only, 0 public-only; exact status comparison: 0 differences. Public feed generatedAt is 2026-11-21T15:18:14.075Z and contains no notes. Dashboard/browser-local state and activity remain unresolved under task-52; do not infer them from feed parity. No task statuses were reset or changed. Revisit priorities when verified project evidence or owner inputs change; daily Gmail refreshes only the summary."
     },
     {
       "id": "task-59",
@@ -613,7 +613,7 @@
       "area": "CareerScope",
       "due": "",
       "status": "In progress",
-      "nextAction": "23 Nov current-head check: CareerScope PR #132 is open/draft/unmerged at 05700141e15596f59b7aa781d063245f38f96928 against dev fad57ea3253024983f29183acefaee59328d0d01. All 3 required GitHub checks pass on this exact SHA; no GitHub review is submitted. Prior ChatGPT review at 505f28703fe694f07ed2b4fe8197ed02f3a28671 does not transfer; a fresh exact-SHA review is pending. Item 10.11 remains PARTIAL pending broader Unicode/native print-save acceptance and owner verification. PR #134 remains open/draft on stacked base d3bd91544a20762314353d40c1a9e5e885927175; its separate runs skip required jobs, so no complete exact-head CI run is established. No merge or deployment authorization."
+      "nextAction": "PR #132 item 10.09 is engineering-approved only at SHA 2e1f9f2; all three exact-head CI jobs passed. Official item stays PARTIAL pending owner verification; PR remains draft/unmerged, and merge/deploy are not authorized. Other checklist items are outside that approval. PR #134 still lacks hosted CI."
     },
     {
       "id": "task-63",
@@ -677,7 +677,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Start with the short JS/TypeScript, Git and DSA baseline; preserve prior evidence and statuses. Then follow the ordered full-stack, SEO, AWS/GCP, DevOps/monitoring and agentic-AI path. Continue bounded history review."
+      "nextAction": "Continue bounded body-level reviews of ChatGPT history and reconcile explicit completed, active, paused, stopped, unfinished or uncertain checkpoints in the private ledger. Preserve the 20 existing learning records and statuses. The OpenAI Academy course sequence and AWS DVA-C02/DVA-C03 timing were added as research notes only; neither implies enrollment or completion. Continue unresolved history bodies and complete the short baseline diagnostic. Daily Gmail summary alone refreshes."
     },
     {
       "id": "learning-copilot-cert",
@@ -685,7 +685,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Done",
-      "nextAction": "A private course-completion artifact supports this learning checkpoint. Check the private history record before making any separate credential claim."
+      "nextAction": "Private history retains a reported completion checkpoint; exact identity and supporting evidence remain private and unverified."
     },
     {
       "id": "learning-aws-guide",
@@ -845,7 +845,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "History body check 23 Nov 2026: “AI email organizer app” records failed Expo Web bundle/config attempts and an inaccessible starter ZIP, but no successful build. Desktop check found no ShivaanOS folder; identity of the separate candidate repository remains unconfirmed. Next locate source files/archive and confirm desired scope before code or runtime work."
+      "nextAction": "The historical local Expo project folder is absent from this desktop, and the accessible candidate repository does not establish that it is the same project. Confirm the source archive or repository mapping and the desired project before runtime, account or code work; keep the projects separate meanwhile."
     },
     {
       "id": "task-74",
@@ -869,7 +869,7 @@
       "area": "Life admin",
       "due": "2026-12-05",
       "status": "In progress",
-      "nextAction": "Continue bounded body-level review of the 1,294-title active ChatGPT index (26 pages; archived index last checked empty on 22 Nov); body coverage is partial. Track completed, active, paused, stopped, unfinished and uncertain work across learning, projects and life commitments using dated sources, last checkpoint/artifact, evidence strength, reason/blocker, next authorized action and acceptance gate. Map discoveries to existing tasks first; preserve statuses and prior checkpoints; do not infer disposition from titles or silence. Only the 9 AM IST Gmail summary refreshes; every task persists. 23 Nov batch added dated learning-course findings; archived history was not rechecked."
+      "nextAction": "Continue bounded body-level review of the 1,290 indexed active ChatGPT conversations; this is discovery coverage, not proof every body was read. Use the dated private ledger to resume rate-limited threads. For every relevant learning course, project, business or life commitment, record source/date, last checkpoint, artifact/revision where available, disposition (completed, active, paused, stopped, unfinished or uncertain), evidence strength, reason/blocker, next authorized action and acceptance gate. Map to existing tasks first and preserve prior checkpoints. Do not infer disposition from titles or silence, or repeat/pay for training before reconciling it. Only the 9 AM IST Gmail summary refreshes; every task persists. 23 Nov batch added dated learning-course findings; archived history was not rechecked."
     },
     {
       "id": "smart-building-energy-status",
@@ -893,7 +893,7 @@
       "area": "AI World 360",
       "due": "",
       "status": "In progress",
-      "nextAction": "Reconcile the seven-record inventory difference and playlist inventory. Also compare the two privately archived thumbnail candidates with the live thumbnail for the 17 Nov Kedarnath upload (likely video Yqr_YpvOxi8); confirm whether either image is the exact owner-approved choice before any change."
+      "nextAction": "Current owner inventory returned 10 public videos; the 13 Nov audit recorded 17. Reconcile the seven-record difference from exact historical IDs before claiming a complete archive; do not infer deletion. Current metadata search found no “Hridaya Swaram” in the 10 titles, descriptions or tags. Prepare exact field-by-field proposals and preserve video IDs/history; playlist inventory remains unchecked. Apply no change until exact changes and credit cost are approved. Historical channel-logo reconciliation (11 Nov 2026): compare the conflicting recommendations and owner statement about a manual change with current channel-profile evidence; record whether a change occurred and whether any decision remains. Do not infer completion or approval from historical discussion."
     },
     {
       "id": "property-purchase-status",
@@ -965,7 +965,7 @@
       "area": "Life admin",
       "due": "",
       "status": "Waiting",
-      "nextAction": "The owner approved the historical front/back design in its source thread, but downstream use is unverified. A separate photo/banner edit explicitly remained unfinished; whether it is the same deliverable is unconfirmed. Confirm only if that separate edit is still wanted, then recover the authorized original asset and exact requirements before editing or distribution."
+      "nextAction": "The history contains two potentially related design threads: one delivered front/back sandbox drafts and another explicitly left a photo/banner edit unfinished. Their relationship and current event need are unconfirmed, and the source images are not attached here. Confirm whether either deliverable still needs work; if so, provide the original authorized image/assets and exact requirements. Do not reuse, publish, or distribute identifiable people’s images without an appropriate basis and exact owner direction."
     },
     {
       "id": "task-78",
@@ -1091,3 +1091,4 @@
     }
   ]
 }
+
