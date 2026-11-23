@@ -1013,7 +1013,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Personal & health",
       "due": "",
       "status": "Not started",
-      "nextAction": "Use the Routine page’s “Daily reading” check-in each day; keep this reminder open and carry it forward."
+      "nextAction": "Begin Shiva Puranam when ready; use the Routine page Daily reading check-in each day and carry this reminder forward until the habit is established. Do not reset other tasks daily."
     }
   ],
   "history": [
