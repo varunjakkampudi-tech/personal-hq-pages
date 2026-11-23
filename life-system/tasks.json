@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T14:33:35.106Z",
+  "generatedAt": "2026-11-23T14:36:33.766Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T14:33:35.106Z",
+  "sourceSnapshotUpdatedAt": "2026-11-23T14:36:33.766Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -165,7 +165,7 @@
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Last read-only check on 21 Nov 11:07 IST found no new post rows that day. Continue the requested two-video/day target at 12:00 and 19:00 IST without treating it as an operating cadence until each delivery is verified. Owner rule: use vidIQ for research, SEO, analytics and metadata only; do not generate, remix, edit or render videos in vidIQ. Before using Google Flow or another owner-approved generator, review the exact asset plan and costs. Verify each destination separately and record live URLs, approval and provenance."
+      "nextAction": "Confirm an approved, matching Instagram asset for the latest YouTube Short before any cross-post or schedule change."
     },
     {
       "id": "task-18",
@@ -501,7 +501,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Live UI review 23 Nov 2026: cache-busted Pages verified HTTP 200 at 320x568, 390x844, 640x900 and 720x450 CSS viewport; no horizontal overflow. Playwright console had 0 errors/warnings. A 14-step keyboard sample showed visible focus; all nav landmarks and restore input now have accessible names (PR #29). 720x450 is a reflow proxy, not native browser 200% zoom. Actual screen-reader review and independent ChatGPT UI feedback remain open."
+      "nextAction": "Apply the concise task-action updates, then finish native 200% zoom, screen-reader, and full-scroll checks."
     },
     {
       "id": "task-52",
