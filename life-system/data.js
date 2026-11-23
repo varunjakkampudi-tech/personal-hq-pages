@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T10:26:26.715Z",
+  "generatedAt": "2026-11-23T13:03:14Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T10:26:26.715Z",
+  "sourceSnapshotUpdatedAt": "2026-11-23T13:03:14Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -133,7 +133,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Dairy farm",
       "due": "2026-12-15",
       "status": "In progress",
-      "nextAction": "23 Nov source refresh: SSS Sheds advertises dairy/cattle structures and site design/erection across AP/Telangana, but excludes civil foundations and several owner-side items. Local dairy references, signed calculations and warranty evidence remain unverified. Keep as a lead; compare after site/herd confirmation and authorized contact."
+      "nextAction": "BIS IS 11799:2005 (reaffirmed 2023), SSS and local fabricator are leads only. Compare signed drawings, foundations, drainage/ventilation and dairy references after site/herd inputs; no selection."
     },
     {
       "id": "task-14",
@@ -141,7 +141,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Dairy farm",
       "due": "2026-12-20",
       "status": "In progress",
-      "nextAction": "23 Nov source refresh: Karthikeya Technologies advertises solar/CCTV from Attili, while a third-party listing gives a Bhimavaram address; identity mismatch unresolved. APEPDCL non-CFA page rendered one East Godavari entry; its PM Surya Ghar list is dated 13 Jun 2024. Farm-fit, current approval and CCTV references remain unverified; no contact."
+      "nextAction": "New leads: Kosam (directory-only CCTV maintenance) and NIKSOL (vendor-claimed 4G camera). Verify West Godavari service, retention, SIM charges, warranty, security and references after site/power inputs; no contact."
     },
     {
       "id": "task-15",
