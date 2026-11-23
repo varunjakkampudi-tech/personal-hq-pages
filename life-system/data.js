@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T14:49:36+05:30",
+  "generatedAt": "2026-11-23T14:55:23+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T14:49:36+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T14:55:23+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -133,7 +133,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Dairy farm",
       "due": "2026-12-15",
       "status": "In progress",
-      "nextAction": "Website evidence refresh, 21 Nov 2026: SSS Sheds advertises dairy/cattle construction across Andhra Pradesh and Telangana, but its page leaves civil foundations and some building items to the owner; West Godavari references, named engineer, signed calculations, local service and warranty remain unverified. After the site/species/herd brief is complete, request 20-animal and expansion-to-40 layouts, itemized civil/steel scope, structural designer and calculations, comparable dairy references, verified contracting entity, warranty, service response and milestones. No vendor contact or selection."
+      "nextAction": "23 Nov source refresh: SSS Sheds advertises dairy/cattle structures and site design/erection across AP/Telangana, but excludes civil foundations and several owner-side items. Local dairy references, signed calculations and warranty evidence remain unverified. Keep as a lead; compare after site/herd confirmation and authorized contact."
     },
     {
       "id": "task-14",
@@ -141,7 +141,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Dairy farm",
       "due": "2026-12-20",
       "status": "In progress",
-      "nextAction": "Official/vendor source refresh, 21 Nov 2026: APEPDCL's public Non-CFA directory lists Indian Green Energy Solutions (East Godavari); its site advertises on-grid/off-grid/hybrid and agricultural solar. GC Solar's site claims commercial/industrial coverage in West Godavari and local projects. These are directory/vendor claims; project eligibility, current scope, service, engineering, CCTV integration, farm references and warranties remain unverified. After site/load/camera/network facts are known, compare separate farm-PV, dedicated solar-CCTV and integrated-backup designs. No contact or selection."
+      "nextAction": "23 Nov source refresh: Karthikeya Technologies advertises solar/CCTV from Attili, while a third-party listing gives a Bhimavaram address; identity mismatch unresolved. APEPDCL non-CFA page rendered one East Godavari entry; its PM Surya Ghar list is dated 13 Jun 2024. Farm-fit, current approval and CCTV references remain unverified; no contact."
     },
     {
       "id": "task-15",
