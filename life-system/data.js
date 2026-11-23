@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T14:36:33.766Z",
+  "generatedAt": "2026-11-23T14:48:04.291Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T14:36:33.766Z",
+  "sourceSnapshotUpdatedAt": "2026-11-23T14:48:04.291Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -501,7 +501,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Apply the concise task-action updates, then finish native 200% zoom, screen-reader, and full-scroll checks."
+      "nextAction": "Finish native 200% zoom and screen-reader checks; full-scroll clearance passed at 320×568 and 390×844."
     },
     {
       "id": "task-52",
@@ -509,7 +509,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Exact snapshot audit and independent review are recorded in private/dashboard-export-audit-2026-11-21.md. Corrected set math: 117 shared IDs, 3 registry-only IDs, 0 browser-only; status/note/nextAction/title/area/due deltas are counted separately. Static review of the deployed merge code confirms it adds missing IDs, preserves existing statuses and local notes (the public feed has no notes field), and reconciles nextAction only when its baseline rules allow; it does not update existing titles, areas or due dates. Do not run a blind merge or replace the registry. Browser URL confidence guard still blocks further UI interaction. When supported browser inspection is available, merge the three missing IDs, re-export, preserve both snapshots, and resolve remaining field differences by evidence."
+      "nextAction": "Reconcile browser-local status and next-action conflicts against the private registry before syncing; preserve existing local statuses."
     },
     {
       "id": "task-53",
