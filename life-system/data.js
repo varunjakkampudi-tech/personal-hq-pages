@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T11:15:18+05:30",
+  "generatedAt": "2026-11-23T14:22:15+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T11:15:18+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T14:22:15+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -165,7 +165,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Read-only delivery check 22 Nov 2026: official YouTube channel RSS lists Short OAd58PufJ3E, “A Moment of Peace,” published 12:30:08Z (18:00:08 IST). vidIQ lists Instagram as a dated draft for 12:30Z, not scheduled; saved draft also has a YouTube draft destination with no time. The live Short and saved draft asset are not conclusively matched. Do not publish/schedule from cadence; verify exact media and owner approval first. Continue the requested two-video/day target only when exact, approved, rights-cleared assets are ready; confirm each destination separately. vidIQ remains research/SEO/analytics/metadata only, not generation or editing."
+      "nextAction": "23 Nov 12:54 IST read-only check: connected YouTube and Instagram accounts both report publish capability. The Instagram devotional item remains a dated 22 Nov draft, with no published URL/failure or scheduled destination. The current listing has no YouTube destination row for this item; a previously verified public Short is separate evidence, and exact media match remains unconfirmed. Keep destination and approval checks open; no post or schedule changes without exact approval."
     },
     {
       "id": "task-18",
@@ -493,7 +493,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "",
       "status": "In progress",
-      "nextAction": "Read-only delivery check 22 Nov 2026: official YouTube channel RSS lists Short OAd58PufJ3E, “A Moment of Peace,” published 12:30:08Z (18:00:08 IST). vidIQ lists Instagram as a dated draft for 12:30Z, not scheduled; saved draft also has a YouTube draft destination with no time. The live Short and saved draft asset are not conclusively matched. Do not publish/schedule from cadence; verify exact media and owner approval first. Existing workflow: use vidIQ for research, SEO, analytics and metadata only, not generation/editing/rendering. Next: reconcile the YouTube upload to the saved draft if possible and obtain exact asset approval before any Instagram release; never infer schedule or approval from the draft time."
+      "nextAction": "23 Nov 12:54 IST read-only check: connected YouTube and Instagram accounts both report publish capability. The Instagram devotional item remains a dated 22 Nov draft, with no published URL/failure or scheduled destination. The current listing has no YouTube destination row for this item; a previously verified public Short is separate evidence, and exact media match remains unconfirmed. Keep destination and approval checks open; no post or schedule changes without exact approval."
     },
     {
       "id": "task-51",
@@ -501,7 +501,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Independent ChatGPT second-pass review accepted the local 320×568/390×844 task hierarchy. Playwright confirmed 44×44 visible checkbox/Details targets, Details opens the selected task, hidden rows stay out of layout, and no horizontal overflow. Local only; keyboard-only, 200% zoom, screen-reader and release checks remain open."
+      "nextAction": "Live Pages review, 23 Nov 2026: 320×568 and 390×844 checks returned HTTP 200 with no horizontal overflow or page errors. Sampled keyboard focus is visible; mobile navigation targets measured at least 48 px high. At 320×568, the sync notice leaves one priority card visible before scrolling. Independent design critique is pending; 200% zoom and screen-reader checks remain open."
     },
     {
       "id": "task-52",
@@ -517,7 +517,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "In progress",
-      "nextAction": "Verify whether the next scheduled 9:00 AM IST run delivers the fresh standalone summary at the configured time. On 22 Nov 2026, the initial summary was sent at 12:55 IST (11 Done, 41 In progress); a later corrected same-day summary was sent at 21:32 IST (10 Done, 42 In progress), with both showing 121 tasks. Delivery occurred, but not at the configured 9:00 AM time; keep In progress until exact-time delivery is evidenced."
+      "nextAction": "The 23 Nov daily summary was delivered after the configured 09:00 IST time; earlier matching summaries were archived and no duplicate was sent. The delivery trigger (scheduled vs manual) remains unproven. Keep In progress until an exact-time scheduled run is evidenced."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
@@ -581,7 +581,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-21",
       "status": "In progress",
-      "nextAction": "Weekly priority review — 22 Nov 2026, updated after delivery audit: private registry and live Pages feed contain 121 tasks (10 Done, 42 In progress, 19 Waiting, 50 Not started). Overdue reviews: task-57 (due 20 Nov; source/rights/approval evidence unresolved) and task-58 (due 21 Nov; review completed, capacity confirmation still open). Next dated cluster is 25 Nov (resume/profile links, publishing setup, ValueMela model, AI World workflow); 28 Nov includes dairy mix, CareerScope priorities, GST determination, routine and health-preference intake. Actual calendar capacity remains unknown; keep In progress until a realistic review/study capacity window is established. Daily email does not reset tasks."
+      "nextAction": "At next planning exchange, ask for weekly focused hours and top 2–3 outcomes; calculate a range from task effort and external blockers. Preserve all 124 tasks and existing dates/statuses until reviewed; overdue dates are internal planning targets."
     },
     {
       "id": "task-59",
@@ -613,7 +613,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "CareerScope",
       "due": "",
       "status": "In progress",
-      "nextAction": "PR #132 item 10.09 is engineering-approved only at SHA 2e1f9f2; all three exact-head CI jobs passed. Official item stays PARTIAL pending owner verification; PR remains draft/unmerged, and merge/deploy are not authorized. Other checklist items are outside that approval. PR #134 still lacks hosted CI."
+      "nextAction": "23 Nov current-head check: CareerScope PR #132 is open/draft/unmerged at 05700141e15596f59b7aa781d063245f38f96928 against dev fad57ea3253024983f29183acefaee59328d0d01. All 3 required GitHub checks pass on this exact SHA; no GitHub review is submitted. Prior ChatGPT review at 505f28703fe694f07ed2b4fe8197ed02f3a28671 does not transfer; a fresh exact-SHA review is pending. Item 10.11 remains PARTIAL pending broader Unicode/native print-save acceptance and owner verification. PR #134 remains open/draft on stacked base d3bd91544a20762314353d40c1a9e5e885927175; its separate runs skip required jobs, so no complete exact-head CI run is established. No merge or deployment authorization."
     },
     {
       "id": "task-63",
