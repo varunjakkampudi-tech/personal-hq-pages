@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T12:14:50.3474033Z",
+  "generatedAt": "2026-11-23T12:51:19Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T12:14:50.3474033Z",
+  "sourceSnapshotUpdatedAt": "2026-11-23T12:51:19Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -93,7 +93,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-12-06",
       "status": "Not started",
-      "nextAction": "Map representative full-stack job requirements to verified evidence; record skill gaps and practice steps, then choose adjacent role families only if useful."
+      "nextAction": "Use the short JS/TS, React, API/data, Git/CLI and DSA baseline; map verified evidence to full-stack postings, record gaps, then choose adjacent roles after location and seniority are set."
     },
     {
       "id": "task-9",
