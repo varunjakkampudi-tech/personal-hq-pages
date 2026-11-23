@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T12:51:19Z",
+  "generatedAt": "2026-11-23T13:12:00Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T12:51:19Z",
+  "sourceSnapshotUpdatedAt": "2026-11-23T13:12:00Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -517,7 +517,7 @@
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "In progress",
-      "nextAction": "The 23 Nov summary was corrected to match the persistent task registry. The 09:00 IST automation is active, but exact-time delivery remains unverified; keep open until a scheduled run is evidenced. Tasks persist; only the email summary refreshes."
+      "nextAction": "23 Nov: fresh 124-task summary sent and 15 older matching summaries archived. Keep recurring task open; verify the next 09:00 IST delivery and counts. Tasks persist."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
