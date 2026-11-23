@@ -509,7 +509,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "23 Nov: registry and PR #35 feed match on 124 task IDs/statuses; 15 next actions updated, no notes. PR is open, not merged. Browser-local edits and history remain unreconciled; keep statuses."
+      "nextAction": "23 Nov: registry and PR #35 feed match on 124 task IDs/statuses; 17 next actions updated, no notes. PR is open, not merged. Browser-local edits and history remain unreconciled; keep statuses."
     },
     {
       "id": "task-53",
