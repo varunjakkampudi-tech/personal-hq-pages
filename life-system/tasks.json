@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T14:35:30+05:30",
+  "generatedAt": "2026-11-23T14:42:58+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T14:35:30+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T14:42:58+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -1013,7 +1013,7 @@
       "area": "Personal & health",
       "due": "",
       "status": "Not started",
-      "nextAction": "Use the Routine page’s “Daily reading” check-in each day; keep this reminder open and carry it forward."
+      "nextAction": "Read Shiva Puranam daily using the Routine check-in. Keep this recurring habit open; daily email refreshes do not reset tasks."
     }
   ],
   "history": [
