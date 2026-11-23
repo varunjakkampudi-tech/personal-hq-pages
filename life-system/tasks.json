@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T09:58:32.738Z",
+  "generatedAt": "2026-11-23T10:11:35.043Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T09:58:32.738Z",
+  "sourceSnapshotUpdatedAt": "2026-11-23T10:11:35.043Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -797,7 +797,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "After baseline and agentic AI foundations, study MCP host/client/server roles, tools/resources/prompts, transports and authorization/security; build a small local client/server sandbox and record the artifact. Check current OpenAI Academy access/progress before choosing a dated first module; keep Hugging Face → DeepLearning.AI → LangChain as a complementary branch. No enrollment/completion inferred."
+      "nextAction": "After baseline and agentic AI foundations, study MCP host/client/server roles, tools/resources/prompts, transports and authorization/security; build a small local client/server sandbox and record the artifact. Check current OpenAI Academy access/progress before choosing a dated first module; keep Hugging Face → DeepLearning.AI → LangChain as a complementary branch. No enrollment/completion inferred. Owner selected Hugging Face → DeepLearning.AI → LangChain as the planned sequence; no first checkpoint is evidenced."
     },
     {
       "id": "learning-credentials",
@@ -821,7 +821,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue body-level review of the 1,293-title ChatGPT index; body coverage remains partial. Recent findings map to existing CareerScope task-62, LensMate task-31, AI World 360 task-57, task-78 smart-traffic owner decision and OraOne homepage task-27 (latest design round below threshold). 23 Nov: Murrah Buffalo Feed Needs contained conflicting approximate ration suggestions; existing dairy intake requires a qualified nutritionist, so no feeding recommendation or duplicate task. Actual feeding and purchase remain unverified. Preserve evidence, uncertainty and approval gates; do not infer completion or activation from silence."
+      "nextAction": "Continue body-level review of the 1,294-title ChatGPT index; body coverage remains partial. Recent findings map to existing CareerScope task-62, LensMate task-31, AI World 360 task-57, task-78 smart-traffic owner decision and OraOne homepage task-27 (latest design round below threshold). 23 Nov: Murrah Buffalo Feed Needs contained conflicting approximate ration suggestions; existing dairy intake requires a qualified nutritionist, so no feeding recommendation or duplicate task. Actual feeding and purchase remain unverified. Preserve evidence, uncertainty and approval gates; do not infer completion or activation from silence. 23 Nov title rescan enumerated 1,294 active titles across 26 pages; seven learning/course bodies were reviewed and added to the private ledger. Body coverage remains partial."
     },
     {
       "id": "task-71",
@@ -869,7 +869,7 @@
       "area": "Life admin",
       "due": "2026-12-05",
       "status": "In progress",
-      "nextAction": "Continue bounded body-level review of the 1,293-title active ChatGPT index (26 pages; archived index empty); body coverage is partial. Track completed, active, paused, stopped, unfinished and uncertain work across learning, projects and life commitments using dated sources, last checkpoint/artifact, evidence strength, reason/blocker, next authorized action and acceptance gate. Map discoveries to existing tasks first; preserve statuses and prior checkpoints; do not infer disposition from titles or silence. Only the 9 AM IST Gmail summary refreshes; every task persists."
+      "nextAction": "Continue bounded body-level review of the 1,294-title active ChatGPT index (26 pages; archived index last checked empty on 22 Nov); body coverage is partial. Track completed, active, paused, stopped, unfinished and uncertain work across learning, projects and life commitments using dated sources, last checkpoint/artifact, evidence strength, reason/blocker, next authorized action and acceptance gate. Map discoveries to existing tasks first; preserve statuses and prior checkpoints; do not infer disposition from titles or silence. Only the 9 AM IST Gmail summary refreshes; every task persists. 23 Nov batch added dated learning-course findings; archived history was not rechecked."
     },
     {
       "id": "smart-building-energy-status",
@@ -885,7 +885,7 @@
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Start with private/learning-baseline-2026-11-21.md. After each actual checkpoint, update private/learning-progress-monitor-2026-11-21.md with date, evidence, current course disposition, blocker and next action. Continue bounded ChatGPT history review for completed, paused, stopped and unfinished work; never infer disposition from silence. Existing task statuses persist; daily Gmail summary alone refreshes."
+      "nextAction": "Start with private/learning-baseline-2026-11-21.md. After each actual checkpoint, update private/learning-progress-monitor-2026-11-21.md with date, evidence, current course disposition, blocker and next action. Continue bounded ChatGPT history review for completed, paused, stopped and unfinished work; never infer disposition from silence. Existing task statuses persist; daily Gmail summary alone refreshes. A private 23 Nov history review found historical course intent and recommendations but no evidence of course start/completion; retain unknown dispositions and continue from the baseline."
     },
     {
       "id": "aiw360-channel-metadata",
