@@ -116,3 +116,37 @@ For every bidder, capture: legal business name and GSTIN; named technical lead; 
 - [West Godavari District Administration](https://westgodavari.ap.gov.in/industries/) — official district context; it is not a vendor endorsement.
 - [West Godavari Rural Development (DWMA)](https://westgodavari.ap.gov.in/rural-development-dwma/) — district-published MGNREGS description and work categories; not confirmation of current dairy-shelter support or eligibility.
 - [West Godavari Animal Husbandry Department](https://westgodavari.ap.gov.in/departments/ah/) — district office and veterinary-institution details; not a current scheme notice.
+
+## Bounded source refresh — 23 November 2026
+
+This is a public-source refresh only. It does not establish current availability, project fit, pricing, references, or endorsement; no vendor has been contacted.
+
+### Shed candidate: SSS Sheds and Roofing Fabricators
+
+The company page currently describes dairy/cattle shed work across Andhra Pradesh and Telangana, and claims site measurement, design for size/height/load, steel/sheet supply, fabrication and erection. Its stated client scope excludes civil work and foundations, shutters/doors/windows, and power at site; these must be separately designed, priced, coordinated and inspected. The page mentions ventilation, drainage, cleaning and expansion as planning goals, but does not provide a West Godavari dairy reference, engineered calculations, named responsible engineer, warranty text, or an animal-welfare design standard. Keep it as an enquiry lead only after the owner's site and herd brief is confirmed. Request drawings, calculations, verified comparable references, and an itemized scope split with civil work.
+
+Source: [SSS Sheds dairy/cattle page](https://sssshedsandroofingfabricators.com/poultry-dairy-farm-shed) (company claims; accessed 23 Nov 2026).
+
+### Solar and CCTV lead: Karthikeya Technologies
+
+Its current company website advertises both CCTV and solar services and lists an Attili, West Godavari address. A separate TradeIndia profile lists a Bhimavaram address and CCTV products; that third-party listing may refer to a distinct or older business record. The address/business identity discrepancy is unresolved. The company site's project-count, government-approval, GST and service claims have not been independently verified; do not treat them as proof of grid-solar authorization, agricultural experience, structural/electrical competence, warranty performance or service coverage at the eventual site. If the owner later authorizes an RFQ, first ask the business to confirm its exact legal entity and GST invoice name against official records, then request separate solar and CCTV site scopes, references and service terms. No contact was made.
+
+Sources: [Karthikeya Technologies company website](https://karthikeyatechnologies.com/) (company claims; accessed 23 Nov 2026; page returned no readable text in the web reader, while its indexed content showed Attili details); [TradeIndia Karthikeya listing](https://www.tradeindia.com/karthikeya-technologies-28779321/) (third-party supplier profile with Bhimavaram address; accessed 23 Nov 2026).
+
+### CCTV lead: Vision Security Solutions
+
+Search-indexed company content describes CCTV, networking and security installation and gives a Bhimavaram address. Direct page retrieval returned HTTP 502 in this review, and the available content is several months old. Treat as a low-confidence lead until the current site, legal identity, local service response, comparable farm installations, recording/retention/security scope and warranty can be checked. No contact was made.
+
+Source: [Vision Security Solutions](https://visionsecuritysolution.com/) (company-published page indexed by search; direct read failed 23 Nov 2026).
+
+### Official solar-directory and local-office check
+
+APEPDCL's current website exposes a **Registered Vendors Non-CFA** page; its rendered table in this check displayed one East Godavari entry, not a West Godavari farm installer. A separate APEPDCL solar information page still labels the PM Surya Ghar vendor list as dated 13 June 2024 and shows an October 2025 rooftop MIS. Those residential/directory records do not establish current registration, availability, commercial/agricultural eligibility, net-metering approval or subsidy for this dairy project. Do not rank an installer using the old dated list alone.
+
+The official West Godavari NREDCAP district page describes historical achievements through 2018–19 and is explicitly last updated 30 July 2019. NREDCAP's current search-indexed notices include a 2026–27 five-year O&M tender for the existing Gollavanitippa canal-top plant; this is not an installer recommendation for the owner's site. The district's current officers page (updated 19 Aug 2026) lists Animal Husbandry and Electrical Department contacts as official enquiry routes if/when the exact mandal and project scope are confirmed. No authority was contacted, and no scheme eligibility is inferred.
+
+Sources: [APEPDCL Registered Vendors Non-CFA](https://www.apeasternpower.com/footerVendorNonCFA) (live page; accessed 23 Nov 2026); [APEPDCL solar details](https://www.apeasternpower.com/solarDetials) (dated documents shown on page; accessed 23 Nov 2026); [West Godavari NREDCAP page](https://westgodavari.ap.gov.in/new-renewable-energy-development-corporation-of-a-p/) (last updated 30 Jul 2019); [NREDCAP official site](https://nredcap.in/) (2026–27 Gollavanitippa O&M notice surfaced in current indexed results); [West Godavari district officers](https://westgodavari.ap.gov.in/district-officers/) (updated 19 Aug 2026).
+
+### Current disposition
+
+No provider is selected as “best.” Current actionable next step remains owner confirmation of site, herd and utility requirements in the private intake worksheet. Once the inputs are complete and vendor contact is authorized, request same-scope bids and independently verify identity, local references, engineering, current registrations, warranty, insurance, service and price. The brief must distinguish a vendor's marketing statement from third-party proof.
