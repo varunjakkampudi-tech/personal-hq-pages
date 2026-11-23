@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T11:15:18+05:30",
+  "generatedAt": "2026-11-23T12:55:24+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T11:15:18+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T12:55:24+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -165,7 +165,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Read-only delivery check 22 Nov 2026: official YouTube channel RSS lists Short OAd58PufJ3E, “A Moment of Peace,” published 12:30:08Z (18:00:08 IST). vidIQ lists Instagram as a dated draft for 12:30Z, not scheduled; saved draft also has a YouTube draft destination with no time. The live Short and saved draft asset are not conclusively matched. Do not publish/schedule from cadence; verify exact media and owner approval first. Continue the requested two-video/day target only when exact, approved, rights-cleared assets are ready; confirm each destination separately. vidIQ remains research/SEO/analytics/metadata only, not generation or editing."
+      "nextAction": "23 Nov 12:54 IST read-only check: connected YouTube and Instagram accounts both report publish capability. The Instagram devotional item remains a dated 22 Nov draft, with no published URL/failure or scheduled destination. The current listing has no YouTube destination row for this item; a previously verified public Short is separate evidence, and exact media match remains unconfirmed. Keep destination and approval checks open; no post or schedule changes without exact approval."
     },
     {
       "id": "task-18",
@@ -493,7 +493,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "",
       "status": "In progress",
-      "nextAction": "Read-only delivery check 22 Nov 2026: official YouTube channel RSS lists Short OAd58PufJ3E, “A Moment of Peace,” published 12:30:08Z (18:00:08 IST). vidIQ lists Instagram as a dated draft for 12:30Z, not scheduled; saved draft also has a YouTube draft destination with no time. The live Short and saved draft asset are not conclusively matched. Do not publish/schedule from cadence; verify exact media and owner approval first. Existing workflow: use vidIQ for research, SEO, analytics and metadata only, not generation/editing/rendering. Next: reconcile the YouTube upload to the saved draft if possible and obtain exact asset approval before any Instagram release; never infer schedule or approval from the draft time."
+      "nextAction": "23 Nov 12:54 IST read-only check: connected YouTube and Instagram accounts both report publish capability. The Instagram devotional item remains a dated 22 Nov draft, with no published URL/failure or scheduled destination. The current listing has no YouTube destination row for this item; a previously verified public Short is separate evidence, and exact media match remains unconfirmed. Keep destination and approval checks open; no post or schedule changes without exact approval."
     },
     {
       "id": "task-51",
@@ -613,7 +613,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "CareerScope",
       "due": "",
       "status": "In progress",
-      "nextAction": "PR #132 item 10.09 is engineering-approved only at SHA 2e1f9f2; all three exact-head CI jobs passed. Official item stays PARTIAL pending owner verification; PR remains draft/unmerged, and merge/deploy are not authorized. Other checklist items are outside that approval. PR #134 still lacks hosted CI."
+      "nextAction": "23 Nov current-head check: CareerScope PR #132 is open/draft/unmerged at 05700141e15596f59b7aa781d063245f38f96928 against dev fad57ea3253024983f29183acefaee59328d0d01. All 3 required GitHub checks pass on this exact SHA; no GitHub review is submitted. Prior ChatGPT review at 505f28703fe694f07ed2b4fe8197ed02f3a28671 does not transfer; a fresh exact-SHA review is pending. Item 10.11 remains PARTIAL pending broader Unicode/native print-save acceptance and owner verification. PR #134 remains open/draft on stacked base d3bd91544a20762314353d40c1a9e5e885927175; its separate runs skip required jobs, so no complete exact-head CI run is established. No merge or deployment authorization."
     },
     {
       "id": "task-63",
@@ -1013,7 +1013,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Personal & health",
       "due": "",
       "status": "Not started",
-      "nextAction": "Use the Routine page’s “Daily reading” check-in each day; keep this reminder open and carry it forward."
+      "nextAction": "Begin Shiva Puranam when ready; use the Routine page Daily reading check-in each day and carry this reminder forward until the habit is established. Do not reset other tasks daily."
     }
   ],
   "history": [
