@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T12:50:59+05:30",
+  "generatedAt": "2026-11-23T12:55:24+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T12:50:59+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T12:55:24+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -165,7 +165,7 @@
       "area": "AI World 360",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "23 Nov read-only check: YouTube owner listing confirms public “A Moment of Peace” Short OAd58PufJ3E published 22 Nov 12:30:08Z. The Instagram entry remains a dated draft planned for 22 Nov 12:30Z, not scheduled or published. Similar captions do not prove an exact media match. Continue the daily cross-platform target only with exact, approved, rights-cleared assets; verify each destination separately and never infer posting from a draft time."
+      "nextAction": "23 Nov 12:54 IST read-only check: connected YouTube and Instagram accounts both report publish capability. The Instagram devotional item remains a dated 22 Nov draft, with no published URL/failure or scheduled destination. The current listing has no YouTube destination row for this item; a previously verified public Short is separate evidence, and exact media match remains unconfirmed. Keep destination and approval checks open; no post or schedule changes without exact approval."
     },
     {
       "id": "task-18",
@@ -493,7 +493,7 @@
       "area": "AI World 360",
       "due": "",
       "status": "In progress",
-      "nextAction": "23 Nov read-only check: YouTube owner listing confirms public “A Moment of Peace” Short OAd58PufJ3E published 22 Nov 12:30:08Z. The Instagram entry remains a dated draft planned for 22 Nov 12:30Z, not scheduled or published. Similar captions do not prove an exact media match. Continue the daily cross-platform target only with exact, approved, rights-cleared assets; verify each destination separately and never infer posting from a draft time."
+      "nextAction": "23 Nov 12:54 IST read-only check: connected YouTube and Instagram accounts both report publish capability. The Instagram devotional item remains a dated 22 Nov draft, with no published URL/failure or scheduled destination. The current listing has no YouTube destination row for this item; a previously verified public Short is separate evidence, and exact media match remains unconfirmed. Keep destination and approval checks open; no post or schedule changes without exact approval."
     },
     {
       "id": "task-51",
