@@ -29,7 +29,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Private resume source review found a layout difference. Reconcile the intended baseline and verify claims before preparing a private review copy; no profile edits."
+      "nextAction": "Read-only profile-link check 21 Nov 2026: the GitHub candidate URL from the resume opens publicly and presents a full-stack engineering profile; the LinkedIn endpoint returned automated-reader rate-limit responses. This does not prove account ownership or current LinkedIn fields. Next confirm the canonical DOCX/PDF version and profile ownership/visibility privately; do not edit profiles."
     },
     {
       "id": "task-1",
@@ -517,7 +517,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "In progress",
-      "nextAction": "The 23 Nov summary was corrected to match the persistent task registry. The 09:00 IST automation is active, but exact-time delivery remains unverified; keep open until a scheduled run is evidenced. Tasks persist; only the email summary refreshes."
+      "nextAction": "The 23 Nov daily summary was delivered after the configured 09:00 IST time; earlier matching summaries were archived and no duplicate was sent. The delivery trigger (scheduled vs manual) remains unproven. Keep In progress until an exact-time scheduled run is evidenced."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
@@ -821,7 +821,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue body-level review of the 1,294-title ChatGPT index; body coverage remains partial. Recent findings map to existing CareerScope task-62, LensMate task-31, AI World 360 task-57, task-78 smart-traffic owner decision and OraOne homepage task-27 (latest design round below threshold). 23 Nov: Murrah Buffalo Feed Needs contained conflicting approximate ration suggestions; existing dairy intake requires a qualified nutritionist, so no feeding recommendation or duplicate task. Actual feeding and purchase remain unverified. Preserve evidence, uncertainty and approval gates; do not infer completion or activation from silence. 23 Nov title rescan enumerated 1,294 active titles across 26 pages; seven learning/course bodies were reviewed and added to the private ledger. Body coverage remains partial."
+      "nextAction": "Continue body-level review of the 1,293-title ChatGPT index; body coverage remains partial. Recent findings map to existing CareerScope task-62, LensMate task-31, AI World 360 task-57, task-78 smart-traffic owner decision and OraOne homepage task-27 (latest design round below threshold). 23 Nov: Murrah Buffalo Feed Needs contained conflicting approximate ration suggestions; existing dairy intake requires a qualified nutritionist, so no feeding recommendation or duplicate task. Actual feeding and purchase remain unverified. Preserve evidence, uncertainty and approval gates; do not infer completion or activation from silence."
     },
     {
       "id": "task-71",
@@ -869,7 +869,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-12-05",
       "status": "In progress",
-      "nextAction": "Continue bounded body-level review of the 1,294-title active ChatGPT index (26 pages; archived index last checked empty on 22 Nov); body coverage is partial. Track completed, active, paused, stopped, unfinished and uncertain work across learning, projects and life commitments using dated sources, last checkpoint/artifact, evidence strength, reason/blocker, next authorized action and acceptance gate. Map discoveries to existing tasks first; preserve statuses and prior checkpoints; do not infer disposition from titles or silence. Only the 9 AM IST Gmail summary refreshes; every task persists. 23 Nov batch added dated learning-course findings; archived history was not rechecked."
+      "nextAction": "Continue bounded body-level review of the 1,293-title active ChatGPT index (26 pages; archived index empty); body coverage is partial. Track completed, active, paused, stopped, unfinished and uncertain work across learning, projects and life commitments using dated sources, last checkpoint/artifact, evidence strength, reason/blocker, next authorized action and acceptance gate. Map discoveries to existing tasks first; preserve statuses and prior checkpoints; do not infer disposition from titles or silence. Only the 9 AM IST Gmail summary refreshes; every task persists."
     },
     {
       "id": "smart-building-energy-status",
@@ -885,7 +885,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Start with private/learning-baseline-2026-11-21.md. After each actual checkpoint, update private/learning-progress-monitor-2026-11-21.md with date, evidence, current course disposition, blocker and next action. Continue bounded ChatGPT history review for completed, paused, stopped and unfinished work; never infer disposition from silence. Existing task statuses persist; daily Gmail summary alone refreshes. A private 23 Nov history review found historical course intent and recommendations but no evidence of course start/completion; retain unknown dispositions and continue from the baseline."
+      "nextAction": "Start with private/learning-baseline-2026-11-21.md. After each actual checkpoint, update private/learning-progress-monitor-2026-11-21.md with date, evidence, current course disposition, blocker and next action. Continue bounded ChatGPT history review for completed, paused, stopped and unfinished work; never infer disposition from silence. Existing task statuses persist; daily Gmail summary alone refreshes."
     },
     {
       "id": "aiw360-channel-metadata",
