@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T15:09:29+05:30",
+  "generatedAt": "2026-11-23T09:58:32.738Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T15:09:29+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T09:58:32.738Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -29,7 +29,7 @@
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Read-only profile-link check 21 Nov 2026: the GitHub candidate URL from the resume opens publicly and presents a full-stack engineering profile; the LinkedIn endpoint returned automated-reader rate-limit responses. This does not prove account ownership or current LinkedIn fields. Next confirm the canonical DOCX/PDF version and profile ownership/visibility privately; do not edit profiles."
+      "nextAction": "Private resume source review found a layout difference. Reconcile the intended baseline and verify claims before preparing a private review copy; no profile edits."
     },
     {
       "id": "task-1",
@@ -517,7 +517,7 @@
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "In progress",
-      "nextAction": "The 23 Nov daily summary was delivered after the configured 09:00 IST time; earlier matching summaries were archived and no duplicate was sent. The delivery trigger (scheduled vs manual) remains unproven. Keep In progress until an exact-time scheduled run is evidenced."
+      "nextAction": "The 23 Nov summary was corrected to match the persistent task registry. The 09:00 IST automation is active, but exact-time delivery remains unverified; keep open until a scheduled run is evidenced. Tasks persist; only the email summary refreshes."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
