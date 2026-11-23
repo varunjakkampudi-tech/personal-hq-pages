@@ -69,8 +69,8 @@ function renderSourceStatus(){
     return;
   }
   if(status==='merged-desktop-task-update'&&recent){
-    heading.textContent='Desktop task updates are available';
-    hint.textContent='Browser edits stay on this device until exported; private sync is not set up.';
+    heading.textContent='Desktop updates available';
+    hint.textContent='Review browser statuses before using this list.';
     message.textContent='Task feed updated '+ageLabel(feedAt)+'. Last full dashboard export: '+(formatSnapshotTime(snapshot.dashboardExportUpdatedAt)||'not recorded')+'. Browser statuses may need reconciliation. Merge task updates to preserve local statuses, or export tasks for a fresh status reconciliation.';
     return;
   }
