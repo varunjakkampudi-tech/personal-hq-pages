@@ -237,7 +237,10 @@ nav[aria-label="Primary navigation"] button{font-size:12px;line-height:1.3}
 /* Personal HQ compact mobile status layout: preserve the full sync warning while reducing its height. */
 @supports selector(#sourceBanner:has(.source-merge-action[hidden])) {
   @media (max-width: 650px) {
-    #sourceBanner:has(.source-merge-action[hidden]) { display: grid; grid-template-columns: 8px minmax(0, 1fr); align-items: center; }
+    #sourceBanner { display: grid; grid-template-columns: 8px minmax(0, 1fr); align-items: center; }
+    #sourceBanner > .dot { grid-column: 1; grid-row: 1; position: static; left: auto; top: auto; margin-top: 0; }
+    #sourceBanner > div { grid-column: 2; min-width: 0; padding-left: 0; }
+    #sourceBanner:has(.source-merge-action[hidden]) { align-items: center; }
     #sourceBanner:has(.source-merge-action[hidden]) > .dot { margin-top: 0; }
     #sourceBanner:has(.source-merge-action[hidden]) > .dot { grid-column: 1; grid-row: 1; }
     #sourceBanner:has(.source-merge-action[hidden]) > .dot { position: static; left: auto; top: auto; }
