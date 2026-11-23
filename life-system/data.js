@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T10:26:26.715Z",
+  "generatedAt": "2026-11-23T11:34:39.7967683Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T10:26:26.715Z",
+  "sourceSnapshotUpdatedAt": "2026-11-23T11:34:39.7967683Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -29,7 +29,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Career move",
       "due": "2026-11-25",
       "status": "In progress",
-      "nextAction": "Read-only profile-link check 21 Nov 2026: the GitHub candidate URL from the resume opens publicly and presents a full-stack engineering profile; the LinkedIn endpoint returned automated-reader rate-limit responses. This does not prove account ownership or current LinkedIn fields. Next confirm the canonical DOCX/PDF version and profile ownership/visibility privately; do not edit profiles."
+      "nextAction": "Private resume source review found a layout difference. Reconcile the intended baseline and verify claims before preparing a private review copy; no profile edits."
     },
     {
       "id": "task-1",
@@ -293,7 +293,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "2026-12-01",
       "status": "In progress",
-      "nextAction": "Complete private/learning-baseline-2026-11-21.md as a short practical diagnostic; record only refresh gaps and a small artifact. Keep the weekly slot self-paced until calendar capacity is known, then follow the ordered roadmap."
+      "nextAction": "Complete the short diagnostic and skills matrix, then start the TypeScript full-stack slice. Integrate SQL, testing, security, accessibility/SEO and interview practice. Keep the schedule self-paced."
     },
     {
       "id": "task-33",
@@ -517,7 +517,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-11-20",
       "status": "In progress",
-      "nextAction": "The 23 Nov daily summary was delivered after the configured 09:00 IST time; earlier matching summaries were archived and no duplicate was sent. The delivery trigger (scheduled vs manual) remains unproven. Keep In progress until an exact-time scheduled run is evidenced."
+      "nextAction": "The 23 Nov summary was corrected to match the persistent task registry. The 09:00 IST automation is active, but exact-time delivery remains unverified; keep open until a scheduled run is evidenced. Tasks persist; only the email summary refreshes."
     },
     {
       "id": "7af070e5-cb39-4e9a-96e6-ec4046160286",
@@ -701,7 +701,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Complete the short JavaScript/TypeScript, Git/GitHub, command-line/Linux and DSA diagnostic in private/learning-baseline-2026-11-21.md. The DSA history contains array-rotation and frequency-map exercise submissions with feedback, which is evidence of practice only, not course completion or current mastery. Record current gaps and a small artifact; prior JS/TS completion remains owner-reported."
+      "nextAction": "Complete the short JS/TS, Git, CLI and DSA diagnostic; include React, Node, SQL and project evidence. Record gaps and a small artifact; prior course reports are not current mastery."
     },
     {
       "id": "learning-frontend",
@@ -709,7 +709,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "After the brief baseline, refresh React with one small component/state/API checkpoint, then build the responsive Next.js capstone interface. Include focused component/integration/end-to-end checks, keyboard/screen-reader evidence and dependency review. Preserve reported React/Router/Context/Redux/class/lifecycle/performance checkpoints; see the private learning progress monitor."
+      "nextAction": "Build the React/Next.js TypeScript frontend for a browser-to-PostgreSQL app. Include responsive UI, forms, loading/error states, accessibility, SEO/performance and focused checks."
     },
     {
       "id": "learning-seo-a11y",
@@ -717,7 +717,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Apply semantic HTML, metadata/indexability, structured data where appropriate, keyboard and screen-reader checks, and performance evidence to the capstone. Prior SEO/ARIA study is retained as instruction progress, not implementation completion. See the private learning progress monitor."
+      "nextAction": "Apply semantic HTML, metadata/indexability, keyboard and screen-reader accessibility, and performance checks within the capstone. Prior instruction is not implementation evidence."
     },
     {
       "id": "learning-backend",
@@ -725,7 +725,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Build a small validated, authenticated Node/Express API with clear error handling and authorization checks; include unit/integration tests, dependency review and operational notes, then briefly compare one FastAPI endpoint. Preserve prior REST/Node/Express/FastAPI/JWT study as reported checkpoints. See the private learning progress monitor."
+      "nextAction": "Build the capstone API in Node/Express with typed contracts, validation, structured errors, authorization and tests. Compare one FastAPI endpoint later; prior study is not implementation evidence."
     },
     {
       "id": "learning-data",
@@ -733,7 +733,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "After the core API path, model the capstone in PostgreSQL and demonstrate migrations, constraints, indexes, transactions and safe queries; add a short MongoDB/NoSQL tradeoff note. See private/learning-progress-monitor-2026-11-21.md."
+      "nextAction": "Design PostgreSQL schema and data flow alongside the first capstone feature; evidence migrations, constraints, transactions, indexes and safe queries. Add a short NoSQL tradeoff later."
     },
     {
       "id": "learning-system-design",
@@ -741,7 +741,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Independently explain and diagram the capstone design: requirements, API/data model, failure modes, security, scaling and cost tradeoffs. Historical guide review remains context, not proof of mastery. See the private learning progress monitor."
+      "nextAction": "Document requirements, API/data flow, failure cases, security and cost tradeoffs while designing the capstone; keep a concise diagram and explain decisions."
     },
     {
       "id": "learning-microfrontend-aem",
@@ -757,7 +757,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue the practical cloud lab with a small app; document IAM, networking, storage, deployment, security, cost, monitoring and safe resource cleanup. Keep credential details and account-specific history private."
+      "nextAction": "Deploy one capstone workload on AWS; document IAM, network, data, security, monitoring, cost and cleanup. Separate hands-on evidence from reported courses or credentials."
     },
     {
       "id": "learning-gcp",
@@ -765,7 +765,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Start from GCP foundations after core app/deployment basics; deploy the same or comparable workload and document IAM, network, data, monitoring, cost and cleanup. No prior GCP progress is verified. See the private learning progress monitor."
+      "nextAction": "Keep GCP in the path after one end-to-end AWS deployment or when a target role justifies it. Then document IAM, network, data, monitoring, cost and cleanup."
     },
     {
       "id": "learning-devops",
@@ -773,7 +773,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Reconcile prior Linux/DevOps learning and artifacts; then continue Linux/networking, Docker, CI/CD and IaC practice as appropriate. Do not repeat paid training until the earlier course disposition is known."
+      "nextAction": "Add Linux, Docker, GitHub Actions CI, safe configuration and rollback notes to the capstone. Reconcile prior course outcome before any paid repeat."
     },
     {
       "id": "learning-monitoring",
@@ -781,7 +781,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Historical preference: the owner explicitly wanted to start Datadog and asked for a certification course with labs; the conversation contains recommendations only, not enrollment or completed labs. After the core full-stack capstone, choose an affordable current monitoring lab and instrument metrics, logs, traces, one useful alert and a failure scenario. Verify current course details before any paid enrollment."
+      "nextAction": "Instrument the deployed capstone with useful metrics, logs, traces, one actionable alert, a simple service objective and a failure exercise. Check prior course status before paid labs."
     },
     {
       "id": "learning-data-ai",
@@ -789,7 +789,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "After core product work, complete one Python/data/ML/GenAI lab tied to a concrete use case; record evaluation, privacy and cost choices. This is a supporting track, not a parallel course commitment. See the private learning progress monitor."
+      "nextAction": "Keep Python/data/ML/GenAI supporting work after core full-stack evidence or for a specific project need. Record evaluation, privacy and cost; avoid parallel courses."
     },
     {
       "id": "learning-agentic-ai",
@@ -797,7 +797,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "After baseline and agentic AI foundations, study MCP host/client/server roles, tools/resources/prompts, transports and authorization/security; build a small local client/server sandbox and record the artifact. Check current OpenAI Academy access/progress before choosing a dated first module; keep Hugging Face → DeepLearning.AI → LangChain as a complementary branch. No enrollment/completion inferred."
+      "nextAction": "Stage agentic AI/MCP after secure API and deployment basics or a concrete project need. Verify course access, then build a scoped sandbox agent with evaluation and safety notes."
     },
     {
       "id": "learning-credentials",
@@ -805,7 +805,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "Not started",
-      "nextAction": "Before any course or exam purchase, verify the current official exam version, eligibility, fee and prerequisites. AWS says DVA-C02 last exam day is 30 Nov 2026 and DVA-C03 delivery begins 1 Dec 2026; do not buy an older DVA-C02 course without rechecking current guide value. A separate AWS Developer Associate credential remains owner-reported only; verify privately before any profile claim."
+      "nextAction": "Defer certification purchases until the baseline shows a role need. Verify the official exam version, fees, prerequisites, validity and value; separate reported credentials from verified records."
     },
     {
       "id": "learning-portfolio",
@@ -813,7 +813,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Keep reported mock interview rounds 5–7 and the AWS guide as historical checkpoints. Package the capstone and focused cloud/monitoring/agentic-AI labs with an architecture note, integration/end-to-end evidence, authorization/security checks and dependency review; refresh current interview gaps. Resume/profile edits remain behind private review and approval gates."
+      "nextAction": "Document verified contribution from the start; practice DSA, debugging, system design and project walkthroughs alongside the build. Package app, CI/tests and architecture evidence before Feb 2027."
     },
     {
       "id": "task-70",
@@ -821,7 +821,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Continue body-level review of the 1,293-title ChatGPT index; body coverage remains partial. Recent findings map to existing CareerScope task-62, LensMate task-31, AI World 360 task-57, task-78 smart-traffic owner decision and OraOne homepage task-27 (latest design round below threshold). 23 Nov: Murrah Buffalo Feed Needs contained conflicting approximate ration suggestions; existing dairy intake requires a qualified nutritionist, so no feeding recommendation or duplicate task. Actual feeding and purchase remain unverified. Preserve evidence, uncertainty and approval gates; do not infer completion or activation from silence."
+      "nextAction": "Continue body-level review of the 1,294-title ChatGPT index; body coverage remains partial. Recent findings map to existing CareerScope task-62, LensMate task-31, AI World 360 task-57, task-78 smart-traffic owner decision and OraOne homepage task-27 (latest design round below threshold). 23 Nov: Murrah Buffalo Feed Needs contained conflicting approximate ration suggestions; existing dairy intake requires a qualified nutritionist, so no feeding recommendation or duplicate task. Actual feeding and purchase remain unverified. Preserve evidence, uncertainty and approval gates; do not infer completion or activation from silence. 23 Nov title rescan enumerated 1,294 active titles across 26 pages; seven learning/course bodies were reviewed and added to the private ledger. Body coverage remains partial."
     },
     {
       "id": "task-71",
@@ -869,7 +869,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Life admin",
       "due": "2026-12-05",
       "status": "In progress",
-      "nextAction": "Continue bounded body-level review of the 1,293-title active ChatGPT index (26 pages; archived index empty); body coverage is partial. Track completed, active, paused, stopped, unfinished and uncertain work across learning, projects and life commitments using dated sources, last checkpoint/artifact, evidence strength, reason/blocker, next authorized action and acceptance gate. Map discoveries to existing tasks first; preserve statuses and prior checkpoints; do not infer disposition from titles or silence. Only the 9 AM IST Gmail summary refreshes; every task persists."
+      "nextAction": "Continue bounded body-level review of the 1,294-title active ChatGPT index (26 pages; archived index last checked empty on 22 Nov); body coverage is partial. Track completed, active, paused, stopped, unfinished and uncertain work across learning, projects and life commitments using dated sources, last checkpoint/artifact, evidence strength, reason/blocker, next authorized action and acceptance gate. Map discoveries to existing tasks first; preserve statuses and prior checkpoints; do not infer disposition from titles or silence. Only the 9 AM IST Gmail summary refreshes; every task persists. 23 Nov batch added dated learning-course findings; archived history was not rechecked."
     },
     {
       "id": "smart-building-energy-status",
@@ -885,7 +885,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "Training & learning",
       "due": "",
       "status": "In progress",
-      "nextAction": "Start with private/learning-baseline-2026-11-21.md. After each actual checkpoint, update private/learning-progress-monitor-2026-11-21.md with date, evidence, current course disposition, blocker and next action. Continue bounded ChatGPT history review for completed, paused, stopped and unfinished work; never infer disposition from silence. Existing task statuses persist; daily Gmail summary alone refreshes."
+      "nextAction": "Start with private/learning-baseline-2026-11-21.md. After each actual checkpoint, update private/learning-progress-monitor-2026-11-21.md with date, evidence, current course disposition, blocker and next action. Continue bounded ChatGPT history review for completed, paused, stopped and unfinished work; never infer disposition from silence. Existing task statuses persist; daily Gmail summary alone refreshes. A private 23 Nov history review found historical course intent and recommendations but no evidence of course start/completion; retain unknown dispositions and continue from the baseline."
     },
     {
       "id": "aiw360-channel-metadata",
