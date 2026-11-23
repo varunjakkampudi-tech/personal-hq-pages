@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T13:14:29.432583Z",
+  "generatedAt": "2026-11-23T14:33:35.106Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T13:14:29.432583Z",
+  "sourceSnapshotUpdatedAt": "2026-11-23T14:33:35.106Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27.066Z",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -573,7 +573,7 @@ window.PERSONAL_HQ_SEED = {
       "area": "AI World 360",
       "due": "2026-11-20",
       "status": "Waiting",
-      "nextAction": "Read-only destination check 21 Nov 2026 22:04 IST confirms the 20 Nov Instagram Reel and YouTube Short are live. Current Instagram caption calls this a fan edit and disclaims affiliation/original-footage creator; vidIQ visual review and both returned covers show photographic Dhoni/CSK cricket footage, not original animation (brief-fit mismatch verified). This does not establish source owner, license, likeness/music/mark permission or exact asset approval. Keep Waiting. Preserve evidence; obtain reliable source/rights evidence and owner direction before any post/account change or reuse."
+      "nextAction": "Verify the published clip source and permission; decide whether it fits the intended AI animation brief."
     },
     {
       "id": "task-58",
