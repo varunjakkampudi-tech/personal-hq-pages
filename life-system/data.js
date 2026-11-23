@@ -1,8 +1,8 @@
 window.PERSONAL_HQ_SEED = {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T12:11:59.8591716Z",
+  "generatedAt": "2026-11-23T12:14:50.3474033Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T12:11:59.8591716Z",
+  "sourceSnapshotUpdatedAt": "2026-11-23T12:14:50.3474033Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -380,7 +380,7 @@ window.PERSONAL_HQ_SEED = {
       "title": "Complete career profile and target-role intake workbook",
       "area": "Career move",
       "due": "2026-11-30",
-      "status": "Not started",
+      "status": "In progress",
       "nextAction": "Complete private role constraints, chronology, seniority, location/work mode, compensation, notice period, interview availability and constraints. Use task-0 for the separate inventory of current resume file and profile URLs; never record passwords or OTPs."
     },
     {
