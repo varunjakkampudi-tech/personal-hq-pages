@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T11:34:39.7967683Z",
+  "generatedAt": "2026-11-23T11:41:06.5858774Z",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T11:34:39.7967683Z",
+  "sourceSnapshotUpdatedAt": "2026-11-23T11:41:06.5858774Z",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -509,7 +509,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Exact snapshot audit and independent review are recorded in private/dashboard-export-audit-2026-11-21.md. Corrected set math: 117 shared IDs, 3 registry-only IDs, 0 browser-only; status/note/nextAction/title/area/due deltas are counted separately. Static review of the deployed merge code confirms it adds missing IDs, preserves existing statuses and local notes (the public feed has no notes field), and reconciles nextAction only when its baseline rules allow; it does not update existing titles, areas or due dates. Do not run a blind merge or replace the registry. Browser URL confidence guard still blocks further UI interaction. When supported browser inspection is available, merge the three missing IDs, re-export, preserve both snapshots, and resolve remaining field differences by evidence."
+      "nextAction": "23 Nov: registry and PR #35 feed match on 124 task IDs/statuses; 15 next actions updated, no notes. PR is open, not merged. Browser-local edits and history remain unreconciled; keep statuses."
     },
     {
       "id": "task-53",
