@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T14:22:15+05:30",
+  "generatedAt": "2026-11-23T14:35:30+05:30",
   "sourceSnapshotStatus": "merged-desktop-task-update",
-  "sourceSnapshotUpdatedAt": "2026-11-23T14:22:15+05:30",
+  "sourceSnapshotUpdatedAt": "2026-11-23T14:35:30+05:30",
   "dashboardExportUpdatedAt": "2026-11-20T01:18:27+00:00",
   "description": "Public task snapshot. Personal notes and dashboard habit logs are not included.",
   "areas": [
@@ -501,7 +501,7 @@
       "area": "Life admin",
       "due": "",
       "status": "In progress",
-      "nextAction": "Live Pages review, 23 Nov 2026: 320×568 and 390×844 checks returned HTTP 200 with no horizontal overflow or page errors. Sampled keyboard focus is visible; mobile navigation targets measured at least 48 px high. At 320×568, the sync notice leaves one priority card visible before scrolling. Independent design critique is pending; 200% zoom and screen-reader checks remain open."
+      "nextAction": "Live release verified 23 Nov 2026: Pages returned HTTP 200 at 320×568 and 390×844, with no page errors or horizontal overflow. The indicator no longer overlaps the notice; the merge action remains visible and Feed details is 78×44 px. The generic Daily reading check-in appears; the public snapshot has 124 tasks and omits the reading source. Notice height is 103 px while the merge action is visible. Independent final-state review, keyboard-only, 200% zoom and screen-reader checks remain open."
     },
     {
       "id": "task-52",
